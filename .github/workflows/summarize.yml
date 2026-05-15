@@ -44,10 +44,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          ARGS=""
-          if [ "${{ github.event.inputs.test }}" = "true" ]; then ARGS="$ARGS --test"; fi
-          if [ -n "${{ github.event.inputs.feed }}" ]; then ARGS="$ARGS --feed '${{ github.event.inputs.feed }}'"; fi
-          python main.py $ARGS
+          args=()
+          [ "${{ github.event.inputs.test }}" = "true" ] && args+=(--test)
+          [ -n "${{ github.event.inputs.feed }}" ] && args+=(--feed "${{ github.event.inputs.feed }}")
+          python main.py "${args[@]}"
 
       - name: Commit results
         run: |
