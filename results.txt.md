@@ -23,7 +23,7 @@
 
 ---
 *Pipeline:*
-  • Transcript: cached_whisper (7491 words, lang=he)
-  • Summary: extractive (15 sentences, BART unavailable: AuthenticationError)
+  • Transcript: cached_cached_whisper (7491 words, lang=he)
+  • Summary: extractive (15 sentences, BART unavailable: APIStatusError)
   • תרגום: — (לא בוצע)
 
