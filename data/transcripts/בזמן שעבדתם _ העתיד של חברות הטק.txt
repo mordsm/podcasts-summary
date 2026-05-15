@@ -1,6 +1,6 @@
 Feed: בזמן שעבדתם
 Episode: העתיד של חברות הטק
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 7491
 URL: https://omny.fm/shows/program-51/2e71604b-1702-4628-aeee-b449009122ad
