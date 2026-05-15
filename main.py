@@ -164,8 +164,8 @@ def main():
     # ── Collect episodes ──
     if args.test:
         logger.info("Test mode: selecting 3 smallest episodes across feed types")
-        # Clear previous test output so results.txt reflects this run only
-        if RESULTS_PATH.exists():
+        # Only wipe results in pure test mode (no feed filter); with --feed, always append
+        if not args.feed and RESULTS_PATH.exists():
             RESULTS_PATH.unlink()
         episodes = select_test_episodes(feed_configs)
         logger.info(f"Test episodes selected: {len(episodes)}")
