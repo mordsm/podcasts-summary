@@ -230,10 +230,48 @@ def try_whisper(episode, model_size: str = "small") -> Optional[TranscriptResult
             return None
 
 
+# ── Method 0: Cached transcript from previous run ─────────────────────────────
+
+def try_cached_transcript(episode, transcripts_dir) -> Optional[TranscriptResult]:
+    """Load a previously saved transcript file to avoid re-running Whisper."""
+    from pathlib import Path
+    transcripts_dir = Path(transcripts_dir)
+    safe_name = re.sub(r'[^\w\- ]', '_', f"{episode.feed_name} — {episode.title}")[:80]
+    cache_path = transcripts_dir / f"{safe_name}.txt"
+    if not cache_path.exists():
+        return None
+    try:
+        content = cache_path.read_text(encoding="utf-8")
+        if "--- TRANSCRIPT ---" not in content:
+            return None
+        header, _, text = content.partition("--- TRANSCRIPT ---")
+        text = text.strip()
+        if not text:
+            return None
+        lang = "auto"
+        method = "cached"
+        for line in header.splitlines():
+            if line.startswith("Language:"):
+                lang = line.split(":", 1)[1].strip()
+            elif line.startswith("Method:"):
+                method = "cached_" + line.split(":", 1)[1].strip()
+        return TranscriptResult(text, method, lang, len(text.split()))
+    except Exception as e:
+        logger.debug(f"Cache read failed for {episode.title}: {e}")
+        return None
+
+
 # ── Orchestrator ──────────────────────────────────────────────────────────────
 
 def get_transcript(episode, settings: dict, whisper_count: int = 0,
-                   skip_whisper: bool = False) -> Optional[TranscriptResult]:
+                   skip_whisper: bool = False,
+                   transcripts_dir=None) -> Optional[TranscriptResult]:
+    if transcripts_dir:
+        result = try_cached_transcript(episode, transcripts_dir)
+        if result:
+            logger.info(f"  Transcript via cache ({result.word_count} words)")
+            return result
+
     result = try_rss_transcript(episode)
     if result:
         logger.info(f"  Transcript via rss_tag ({result.word_count} words)")

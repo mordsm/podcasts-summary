@@ -195,7 +195,8 @@ def main():
 
         # In test mode, don't apply the whisper budget to get_transcript so all 3 run
         transcript = get_transcript(episode, settings,
-                                    whisper_count=0 if args.test else whisper_count)
+                                    whisper_count=0 if args.test else whisper_count,
+                                    transcripts_dir=DEBUG_DIR)
 
         if transcript is None:
             logger.warning("  No transcript found — skipping episode")

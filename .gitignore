@@ -9,6 +9,5 @@ build/
 venv/
 .claude/
 claude.md
-data/transcripts/
 summarize_local.py
 results.txt.md

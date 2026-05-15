@@ -15,6 +15,9 @@ on:
         type: boolean
         default: false
 
+permissions:
+  contents: write
+
 concurrency:
   group: summarize
   cancel-in-progress: false
@@ -53,7 +56,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
-          git add data/seen.json results.txt.md
+          git pull --rebase origin master
+          git add data/seen.json
+          git add -f results.txt.md || true
+          git add data/transcripts/ || true
           git diff --cached --quiet || git commit -m "chore: update summaries [skip ci]"
-          git push
+          git push origin master
