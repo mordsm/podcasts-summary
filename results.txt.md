@@ -1229,3 +1229,1603 @@ Elbit Systems is at BSDA 2026 - come visit us in Bucharest! We’re showcasing c
   • Transcript: whisper (6618 words, lang=he)
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter Name : Elizabeth Weil (Scribble Ventures) - A People-Centered Journey
+
+**Podcast:** Entrepreneurial Thought Leaders (ETL)  
+**Author:** Stanford eCorner  
+**Date:** 13/05/2026 07:00 UTC  
+**Link:** https://rss.art19.com/episodes/95d2bf05-9d14-490a-b9a0-a64acfbbe5c9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94  
+
+---
+
+**Hebrew Summary:**  
+**אליזבת ווייל (Scribble Ventures) - מסע ממוקד באנשים**  
+
+**על הפודקאסט והמרואיינת**  
+- הפודקאסט "Entrepreneurial Thought Leaders (ETL)" מופק ע"י Stanford Technology Ventures Program (STVP), מרכז היזמות של בית הספר להנדסה באוניברסיטת סטנפורד.  
+- אירועי הפודקאסט מספקים השראה ותובנות ליזמים ושואפים להעצים אותם ליצירת חדשנות אחראית בקנה מידה גלובלי.  
+- אליזבת ווייל היא המייסדת והשותפה הכללית ב-Scribble Ventures, קרן השקעות בשלבים מוקדמים, שמתמקדת בתמיכה בחברות AI שמוקמות ע"י עובדים לשעבר של חברות כמו OpenAI, Meta, Twitter, Instagram ו-a16z.  
+
+**חוויות למידה וקריירה של ווייל**  
+- השיחה בין ווייל למרצה האורחת אמילי מה מתמקדת בשיעורים שאליזבת למדה בקריירה שלה כמשקיעה וכמפעילה.  
+- ווייל מדגישה את החשיבות של יצירת קשרים בין-אישיים והשקעה באנשים שסביבך כשיטת עבודה מרכזית להצלחה, גם ביזמות וגם בכל תחום מקצועי.  
+- לדבריה, הצלחה מקצועית אינה קשורה אך ורק לבין כישורים עסקיים טכניים אלא גם באיזון בין חיי עבודה לתחומי עניין אישיים.  
+
+**בעיות כלליות שאיתן מתמודדים יזמים ושיטות ליצירת איזון**  
+- ווייל מסבירה שבמהלך הקריירה שלה כבעלת תפקידים בחברות כמו Twitter ו-Meta, היא למדה על חשיבות יצירת גבולות אישיים ובריאות נפשית, במיוחד בעולם ה-AI והטכנולוגיה שבו הלחץ הוא גבוה.  
+- היא מייעצת ליזמים לבצע תכנון מושכל של פעילויות מעבר לעבודה, על מנת לשמר את השפיות ואת המוטיבציה בטווח הארוך.  
+
+**על Scribble Ventures**  
+- Scribble Ventures תומכת ביזמים וחברות שמפתחות פתרונות AI מקוריים וזהות אינדיבידואלית חזקה לעתיד התעשייה.  
+- הקרן מתמקדת בגיוס משאבים מחוברים מהותית לחברות הצומחות, עם דגש על יצירת DNA תפעולי מזוהה.  
+- היא בוחנת השקעות בתחומים בהם Innovators מפתחים טכנולוגיות שמחברות בין בעלי עניין ודוחפות לחדשנות אחראית ואנושית יותר.  
+
+**פעילות STVP ומקורות מידע נוספים שהוזכרו**  
+- STVP מובילים מיזמים גלובליים שמטרתם להנחיל מנהיגות ויזמות מבוססת חדשנות וערכים בכל העולם.  
+- את כלל הפודקאסטים והתכנים ניתן למצוא בערוצים הרשמיים שלהם:  
+  - **YouTube**: https://www.youtube.com/user/ecorner  
+  - **X (לשעבר Twitter)**: https://x.com/ECorner  
+  - **LinkedIn**: https://www.linkedin.com/company/stanfordtechnologyventuresprogram/  
+  - **Bluesky**: https://bsky.app/profile/stanfordstvp.bsky.social  
+  - **Facebook**: https://www.facebook.com/StanfordTechnologyVenturesProgram  
+  - **Instagram**: https://www.instagram.com/stanford_stvp  
+- מידע נוסף על הפעילויות והמשאבים של STVP והפלטפורמה eCorner ניתן למצוא בלינקים:  
+  - https://stvp.stanford.edu/  
+  - https://stvp.stanford.edu/ecorner  
+  - תמיכה במשימת STVP לקדם יזמות אחראית ומודעות גלובלית: https://stvp.stanford.edu/giving-to-stvp/  
+
+**טכנולוגיות ותובנות ים עתידיות**  
+- לאורך השיחה הדגישה ווייל כי טכנולוגיות AI, כמו אלו שמפותחות ע"י Microsoft בשיתוף OpenAI, ימשיכו להוביל שינויים מומנטים בתעשייה, אך הדגישה שוב את החשיבות של ערכים אנושיים באימוץ פתרונות מבוססי AI.  
+- היא חוזה שבעתיד נראה יותר ויותר פתרונות מבוססי מודלים גנרטיביים של AI, אך יחד עם זאת האתגר יהיה להבטיח ששימושים בטכנולוגיה לא פוגעים באנשים, אלא משפרים את איכות חייהם.
+
+**English Summary:**  
+**Elizabeth Weil (Scribble Ventures) - A People-Centered Journey**  
+
+**About the Podcast and Guest**  
+- The "Entrepreneurial Thought Leaders (ETL)" podcast is produced by Stanford Technology Ventures Program (STVP), housed within Stanford's School of Engineering. STVP empowers entrepreneurs to create responsible and scalable innovations globally.  
+- Elizabeth Weil, founder and general partner of Scribble Ventures, discussed life lessons and experiences as both an operator and investor. Scribble Ventures focuses on seed funding for AI-native companies formed by alumni of OpenAI, Meta, Twitter, Instagram, and a16z.  
+
+**Key Career Lessons**  
+- Weil shared insights on the value of building strong personal connections and investing in people as a cornerstone of success.  
+- She emphasized balancing professional and personal interests as critical for long-term sustainability and mental health in high-pressure sectors like AI and technology.  
+
+**About Scribble Ventures**  
+- The firm backs innovative AI startups that emphasize responsible AI solutions and operational DNA, supporting founders who aim to redefine industry standards.  
+
+**STVP and Resources Mentioned**  
+- STVP's many initiatives focus on fostering global leadership and responsible entrepreneurship.  
+- Key links to their content include:  
+  - **YouTube**: https://www.youtube.com/user/ecorner  
+  - **X**: https://x.com/ECorner  
+  - **LinkedIn**: https://www.linkedin.com/company/stanfordtechnologyventuresprogram/  
+  - **Bluesky**: https://bsky.app/profile/stanfordstvp.bsky.social  
+  - **Facebook**: https://www.facebook.com/StanfordTechnologyVenturesProgram  
+  - **Instagram**: https://www.instagram.com/stanford_stvp  
+  - Learn more: https://stvp.stanford.edu/, https://stvp.stanford.edu/ecorner  
+  - Support their mission: https://stvp.stanford.edu/giving-to-stvp/  
+
+**Future of AI Innovation**  
+- Weil predicts growth in AI-driven tools, particularly generative AI, and highlights the challenge of ensuring these technologies positively impact humanity rather than harm it.
+
+
+**Original description:**  
+Elizabeth Weil is the founder and general partner at Scribble Ventures, the seed fund where builders from OpenAI, Meta, Twitter, Instagram, and a16z channel their operator DNA into backing the next generation of AI‑native companies. In this conversation with Adjunct Lecturer Emily Ma, Weil shares the life lessons she’s learned over her career as an operator and investor, emphasizing the importance of connecting with others and planning activities for yourself outside of work. Entrepreneurial Thought Leaders is produced by the Stanford Technology Ventures Program (STVP), the entrepreneurship ce
+
+
+**Links mentioned:**
+• https://www.youtube.com/user/ecorner
+• https://x.com/ECorner
+• [Stanford Technology Ventures Program (STVP) | LinkedIn](https://www.linkedin.com/company/stanfordtechnologyventuresprogram/)
+• [@stanfordstvp.bsky.social on Bluesky](https://bsky.app/profile/stanfordstvp.bsky.social)
+• https://www.facebook.com/StanfordTechnologyVenturesProgram
+• https://www.instagram.com/stanford_stvp
+• https://stvp.stanford.edu/
+• [eCorner | Stanford Technology Ventures Program](https://stvp.stanford.edu/ecorner)
+• https://stvp.stanford.edu/giving-to-stvp/
+• https://www.instagram.com/stanford_stvp/
+
+---
+*Pipeline:*
+  • Transcript: description (161 words, lang=en)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : פרק 349: למה לי פוליטיקה
+
+**Podcast:** חיות כיס  
+**Author:** כאן | Kan  
+**Date:** 13/05/2026 02:00 UTC  
+**Link:** https://omny.fm/shows/hayot-kiss/349  
+
+---
+
+**Hebrew Summary:**  
+**תיאור כללי של הפרק**  
+הפרק "למה לי פוליטיקה" בפודקאסט "חיות כיס" עוסק בשאלה האם באמת ניתן להשפיע על מציאות החיים בישראל דרך הכנסת. מגישי הפודקאסט, שאול אמסטרדמסקי, צליל אברהם ואלון אמיצי, דנים בנושא זה תוך כדי ראיונות עם חברי כנסת—מיכל וולדיגר וולדימיר בליאק—והאקטיביסט פוליטיקאי לשעבר דב חנין. הפרק בוחן לעומק את הדינמיקות בין הכנסת, הקואליציה והאופוזיציה וכן את יכולת חברי הכנסת החדשים לשנות מדיניות או לבצע רפורמות, תוך נגיעה בקשיים מבניים ופוליטיים שמקטינים את השפעתם.
+
+**דיון על הכנסת כמקום להשפעה פוליטית**  
+- המגישים מציינים שמאז הבחירות האחרונות נרשם גל של ח"כים חדשים בכנסת, בהם אנשים עם רקע מקצועי נרחב בשטחים שלהם.
+- עולה השאלה המרכזית: האם הכנסת היא במה אפקטיבית להשפעה על המדיניות?  
+- צליל אברהם מביאה נתונים על אחוזי ההצלחה של הצעות חוק פרטיות וכיצד שינויים בממשלה משפיעים על סדרי עדיפויות.  
+- שאול אמסטרדמסקי מעלה את העניין של ביורוקרטיה בכנסת שמגביל לא פעם את יכולות חברי הכנסת להתמודד עם משימות רחבות טווח.  
+
+**ריאיון עם ח"כ מיכל וולדיגר**  
+- וולדיגר, חברה במפלגת הציונות הדתית, משתפת על החוויה שלה כחברת כנסת חדשה.  
+- לדבריה, קיים "פער עצום" בין האידיאלים של נבחר ציבור לבין היכולת לבצע בפועל שינויים.  
+- היא מציינת את הברוקרטיה המורכבת ואת העובדה שלעיתים יש צורך בשיתוף פעולה עם גופים שאינם נמצאים בהכרח באותו קו אידיאולוגי.  
+- דוגמה שהיא מביאה: המאבק שלה לחקיקה בנושא בריאות הנפש, תחום בו עלתה מודעות בשנים האחרונות אבל עדיין נמצא תחת תקצוב חסר.  
+
+**ריאיון עם ח"כ ולדימיר בליאק**  
+- חבר הכנסת ולדימיר בליאק מיש עתיד מתאר את החוויות שלו מטעם הקואליציה.  
+- הוא מתאר איך עבודת הקואליציה יכולה לעתים להגביל גם את חבריה. בסופו של עניין, לכל ח"כ יש תפקידים פרלמנטריים אבל ההחלטות האסטרטגיות מתקבלות ע"י הדרגים הגבוהים בממשלה.  
+- בליאק מסמן את תחום ההייטק—בו יש לישראל יתרון יחסי עולמי—כמרכזי בתוכניות העבודה שלו.  
+- בראיון הוא טוען שלמרות כל האתגרים, הכנסת מאפשרת במה אמיתית לשינויים פרקטיים בחקיקה.  
+
+**נקודת מבט של דב חנין**  
+- דב חנין, שהיה חבר כנסת מטעם חד"ש במשך מעל עשור, משתף מהניסיון הרחב שלו מתוך האופוזיציה.  
+- לדבריו, האופוזיציה היא "בית ספר להתמודדות עם מחסומי כוח," כאשר הצלחה דורשת יצירת בריתות והעברת מסרים מדויקים.  
+- הוא מתאר כיצד הצליח להעביר חוקים חשובים בנושאי זכויות עובדים וסביבה למרות התנגדות מצד הקואליציה.  
+- עם זאת, הוא מציין שהקיטוב הפוליטי של השנים האחרונות הפך את מלאכת החקיקה לקשה עוד יותר.  
+
+**ניתוח כולל: מה המשמעות של להיות ח"כ?**  
+- צוות הפודקאסט דן באתגרים הפסיכולוגיים והתפעוליים שבהם נתקלים חברי הכנסת, במיוחד החדשים.  
+- שאול אמסטרדמסקי מביא כדוגמה מצב שבו אפילו ח"כים מהמפלגות הגדולות מתקשים לקדם חקיקה שנויה במחלוקת בגלל מגבלות פנים מפלגתיות.  
+- עולה גם השאלה של תמריצים: האם חברי כנסת פועלים מתוך שליחות ציבורית אמיתית, או מתוך אינטרס פוליטי צר?  
+
+**לסיכום: הכנסת והמציאות הפוליטית בישראל**  
+- חברי הפאנל מסכימים כי בעוד הכנסת היא גוף עם פוטנציאל אדיר להשפיע, בפועל יש חסמים רבים שמאטים או מונעים שינוי אמיתי ומהיר.  
+- הפרק מסתיים בהרהור על עתידה של הפוליטיקה בישראל ועל השאלה האם השיטות הקיימות מאפשרות בכלל ניהול אפקטיבי שמתמקד בטובת הכלל.  
+
+**לינקים ומשאבים מולצים**  
+- הפניה לאתר הפודקאסט: [https://omny.fm/shows/podcast-1](https://omny.fm/shows/podcast-1)
+
+**English Summary:**  
+The podcast episode "Why Politics for Me" from "Pocket Creatures" explores whether it's truly possible to influence Israel's policies through the Knesset. Hosts Shaul Amsterdamski, Tzlil Avraham, and Alon Amitsi interview Knesset members Michal Woldiger and Vladimir Beliak, as well as former opposition MK Dov Khenin. They discuss the challenges of enacting change, the barriers posed by bureaucracy and coalition dynamics, and how the political landscape has evolved over time.
+
+**Highlights from the Knesset Discussion:**  
+- Many new MKs have recently joined, but the panel questions the effectiveness of individual influence within the Knesset's rigid structure. Data about the low success rate of private legislation was presented.  
+- Michal Woldiger highlights her challenges in mental health legislation, citing a lack of funding and bureaucratic hurdles.  
+- Vladimir Beliak shares his experience as a coalition member, emphasizing the constraints placed even on government-affiliated MKs. Beliak focuses on advancing tech-related policy, where Israel has a global edge.
+
+**Insights from Dov Khenin:**  
+- Khenin shares how working in the opposition requires building alliances and strategic messaging. Despite challenges, he successfully passed key labor and environmental laws. However, increased political polarization hampers legislative efficacy.  
+
+The episode reflects on the dissonance between political ideals and systemic limitations, questioning whether the Knesset still serves as a viable mechanism for societal change.  
+
+**Link:** [https://omny.fm/shows/podcast-1](https://omny.fm/shows/podcast-1)
+
+
+**Original description:**  
+עוד ועוד אנשים חדשים מצטרפים לפוליטיקה בתקופה האחרונה - אבל האם בכלל אפשר להשפיע דרך הכנסת, או שזה רק נראה ככה מבחוץ? האם חבר כנסת חדש באמת יכול לשנות משהו - מתוך הקואליציה או האופוזיציה, או שהמערכת חזקה יותר מכל מי שנכנס אליה?&nbsp; &nbsp; מגישים: שאול אמסטרדמסקי, צליל אברהם ואלון אמיצי; עורכת: ליהיא צדוק; מפיק: עדי אפרת; עורך סאונד: טל וניג; מרואיינים: ח"כ מיכל וולדיגר, ח"כ ולדימיר בליאק, דב חנין See omnystudio.com/listener for privacy information.
+
+
+**Links mentioned:**
+• [Privacy FAQ](https://omnystudio.com/listener)
+
+---
+*Pipeline:*
+  • Transcript: description (74 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : 59: איך לנתח מידע איכותני ב-scale בעזרת AI?
+
+**Podcast:** פרודקטיבי  
+**Author:** Startup for Startup ⚡ by monday.com  
+**Date:** 13/05/2026 02:00 UTC  
+**Link:** https://omny.fm/shows/startup-for-startup1/59-scale-ai  
+
+---
+
+**Hebrew Summary:**  
+**הרחבת קו מוצרים ב-Lightrun ופניה לקהלים חדשים**  
+- חן אפרמן קור, Senior Product Manager בחברת Lightrun, מתארת את המהלך האסטרטגי שבו החברה החליטה להרחיב את קו המוצרים שלה ולהגדיר מחדש את קהל המשתמשים.  
+- ההחלטה להתרחב לוותה בצורך להבין הזדמנויות צמיחה בצורה רחבה המבוססת על דאטה, הן כמותי והן איכותני.  
+- חן מתארת את האתגר המרכזי בעבודה שלה: בעוד ניתוח כמותי מציע מבט ברור על פעולות המשתמשים (ה״מה״), ניתוח איכותני עוסק בסיבות ובהקשר שמאחורי הפעולות שלהם (ה״למה״).  
+
+**הפער שבין העמקה איכותנית למהירות החלטות במוצר**  
+- מנהלי מוצר נאלצים פעמים רבות לבחור בין תהליכים איטיים של ראיונות עומק לבין קבלת החלטות מהירה הנשענת על אינטואיציה או נתונים חלקיים.  
+- חן הציגה את הפתרון שנוצר בלייטראן לצורך ניתוח איכותני של מידע ב-scale, שמאפשר קבלת החלטות מבוססות ומדויקות יותר.  
+
+**בניית מערכת ניתוח איכותני ב-scale בעזרת AI**  
+- המערכת התחילה מתהליך ידני של מיפוי מסע המשתמש במוצר, שבו נעשה ניתוח מובנה של feedback שנאסף מכלים קיימים.  
+- לאחר שלב ראשוני זה, החברה פיתחה תשתית המבוססת על סוכני AI שיכולים לסרוק מקורות מידע שונים:  
+  - שיחות Gong.  
+  - ערוצי Slack פנימיים וחיצוניים.  
+  - פידבקים שמתקבלים ישירות מהאינטראקציה עם המוצר.  
+- חן פרטה את השלבים הטכניים לבניית התשתית:  
+  - איסוף כל מקורות הדאטה הזמינים.  
+  - הכשרת מודלי AI באמצעות תהליך Fine-tuning שמותאם להקשרים ולצרכים הספציפיים של החברה.  
+
+**תרומת המערכת לצוותי המוצר וההנהלה**  
+- המערכת מאפשרת לצוותי החברה לנצל את תובנות המידע כדי לסייע בתהליכים כגון:  
+  - הכנה לשיחות עם לקוחות חדשים.  
+  - איתור Design Partners עבור מוצרים ובטא עתידיים.  
+  - יצירת שפה משותפת בין מחלקות שונות בארגון, שמאפשרת קואורדינציה טובה יותר.  
+- חן ציינה כי המערכת משמש גם כלי קריטי להובלת פרויקטים גדולים ולבניית אסטרטגיות מבוססות נתונים שאינן מסתפקות בכמויות אלא גם בהעמקה איכותנית.
+
+**שילוב הטכנולוגיה במוצרי החברה ושיתוף קהילה מקצועית**  
+- חן מסבירה כיצד המערכת משתלבת באופן אינטגרטיבי עם אסטרטגיית הצמיחה הכוללת של החברה, תוך התייחסות למוצרים חדשים וצרכים משתנים של לקוחות.  
+- היא הדגישה את החשיבות בשיתוף דוגמאות מהעבודה עם הקהילה המקצועית, כדי לחזק את הידע הארגוני וליצור מודלים פרקטיים גם עבור חברות דומות.  
+- המערכת מדגימה את יכולתה של Lightrun להוביל חדשנות בתחום הארגוני באמצעות טכנולוגיות מתקדמות כמו מודלים מבוססי AI ומיפוי דאטה מורכב.  
+
+**משאבים נוספים**  
+ניתן להאזין לפרק דרך הקישור הבא: [See omnystudio.com/listener for privacy information](https://www.omny.fm/listener)
+
+**English Summary:**  
+**Expanding Lightrun’s product line and audience reach**  
+- Chen Afman Kor, Senior Product Manager at Lightrun, shares the company’s strategic move to extend its product line and adapt to new demographics.  
+- This required robust growth opportunities based on both quantitative and qualitative data analysis.  
+- The key challenge was bridging the gap between quantitative insights (the "what" users do) and qualitative understanding (the "why" behind their actions).  
+
+**Qualitative scaling with AI**  
+- Traditional qualitative analysis methods, like interviews, are slow, while quicker decisions often rely on limited data. Lightrun developed a scalable qualitative analysis system using AI.  
+- Steps:  
+  - Manual mapping of the user journey.  
+  - Integrating AI agents to analyze sources like Gong calls, Slack channels, and direct product feedback.  
+  - Fine-tuning AI models to tailor insights uniquely to the company’s needs.  
+
+**Impact on teams and strategic growth**  
+- The system supports product and leadership teams by:  
+  - Improving customer communication prep.  
+  - Identifying Design Partners for beta testing.  
+  - Establishing inter-departmental synergy.  
+- This enables data-driven strategies, not just quantitative evaluation, but deep qualitative insights.  
+
+**Sharing expertise and integration into broader goals**  
+- The system aligns with Lightrun’s broader innovation strategy, integrating AI technologies for proactive organization-level growth.  
+- Chen emphasizes sharing insights with professional communities for stronger strategic frameworks.  
+
+Listen here: [See omnystudio.com/listener for privacy information](https://www.omny.fm/listener)
+
+
+**Original description:**  
+כשחברת Lightrun החליטה להרחיב את קו המוצרים ולפנות לשימושים וקהלים חדשים, עלה הצורך לקבל החלטות אסטרטגיות מבוססות דאטה מעבר לגרעין המשתמשים הקיים. חן אפרמן קור, Senior Product Manager בחברה, מתארת בפרק השבוע את התהליך של זיהוי הזדמנויות צמיחה בנקודת זמן שבה הארגון נדרש להשתנות ולהתרחב. האתגר המרכזי שחן מציגה הוא הפער שבין ניתוח כמותי שמראה מה המשתמשים עושים, לבין הצורך בהבנה איכותנית של הסיבות להתנהגות. בדרך כלל, מנהלי מוצר נאלצים לבחור בין ראיונות עומק איטיים לבין קבלת החלטות מהירה המבוססת על אינטואיציה. חן משתפת כיצד בנתה מערכת לניתוח מידע איכותני ב-scale, שהחלה במיפוי ידני של מסע המשתמש והת
+
+
+**Links mentioned:**
+• [Privacy FAQ](https://omnystudio.com/listener)
+
+---
+*Pipeline:*
+  • Transcript: description (166 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : הטירוף סביב חברות השבבים + ה-AI בסוף לא ״יחסל״ את שוק העבודה?
+
+**Podcast:** TrashTech  
+**Author:** עמרי ברק ויואב צוקר  
+**Date:** 13/05/2026 02:00 UTC  
+**Link:** https://podcasters.spotify.com/pod/show/trashtechnews/episodes/-AI-e3j92ue  
+
+---
+
+**Hebrew Summary:**  
+**מניות הטכנולוגיה: עליות, ירידות ואי ודאות עתידית**  
+- חברת Wix דיווחה דוחות רבעוניים שגרמו לצניחה חדה של 30% במניית החברה ביום אחד בלבד, בניגוד לחברת מאנדיי שזינקה ב-16% אם כי נרשמה חזרה לאחור.  
+- מניות חברות השבבים, כמו SanDisk, אינטל ו-AMD, נמצאות במגמת עלייה חדה של כמעט 70% מתחילת 2026, בעקבות הביקוש הגואה לשבבים הנדרש עבור הטכנולוגיות החדשות.  
+
+**השפעות הכלכלה העולמית על ההייטק הישראלי**  
+- ההתחזקות של השקל משפיעה באופן ניכר על הטכנולוגיה הישראלית, במיוחד בשווקי ההון הגלובליים.  
+- וול סטריט משדרת אי ודאות סביב כלי ה-AI והשפעתם העתידית, כשהמומחים קובעים כי ה-AI כבר לא ״יחסל״ את שוק העבודה מאחר ומדובר בתהליכים של הסתגלות ולא החלפה מוחלטת.  
+
+**AI ומהפכת השבבים**  
+- הוזמן מיכה סטוקס, יועץ AI, שהסביר על הזינוק המטורף בשווי השוק של חברות השבבים ועל מעבר מתהליך טכנולוגי נקודתי להתפתחות גלובלית. הביקוש לשבבים נובע גם מהגידול השוטף בשימוש במודלים חדשים כגון מודלי שפה גדולים.  
+- תחזיות עלייה במחירי כלי ה-AI נובעות מכך שסבסוד חברות טכנולוגיה לא יכול להימשך לנצח, והצרכנים יצטרכו לשלם יותר על שירותים כמו ChatGPT ואחרים.  
+
+**סקנדלים בטכנולוגיה ובינה מלאכותית**  
+- הודעות פרטיות של סם אלטמן מ-OpenAI נחשפו, בהן ניסה לשכנע את הבורד שלא לפטר אותו.  
+- דיווחים על מודל קולי חדש מ-OpenAI.  
+- עסקת ענק בין אילון מאסק לחברת Anthropic, המגיעה להישגים קרובים לטריליון דולר בשווי שוק.  
+   
+**קישורים חשובים ומידע נוסף**  
+- פורמט חדש של TrashTech – מעלית הבינה: פרויקט שיתוף AI עם 30 יזמים ו-30 יוזמות. פרטים נוספים: [כניסה למעלית הבינה](https://linktr.ee/elevator_ai).  
+- TrashTech מזמינה מהנדסים להגיש מועמדות ל-140 משרות הפתוחות ב-Cato Networks: [פרטים כאן](https://www.catonetworks.com/careers/).  
+- סקר TrashTech על תוכן עתידי: [לחצו כאן](https://did.li/5lJZH).  
+- דרכי צפייה והאזנה לתכני TrashTech:  
+  - [פודקאסט ב-Spotify](https://open.spotify.com/show/0nGv2IY8OATmjMtkJ7eLHG?si=9b6a1be00e2344ff).  
+  - [YouTube](https://www.youtube.com/channel/UCwywdccdYsNS_Cs6tS0U_dg?sub_confirmation=1).  
+  - [Instagram](https://www.instagram.com/trashtechnewsig/).  
+  - [TikTok](https://www.tiktok.com/@trashtechnews).  
+  - [WhatsApp](https://www.whatsapp.com/channel/0029VagGRsoGOj9obvapMw27).  
+
+---
+
+**English Summary:**  
+**Tech Stocks: Volatility in the Market**  
+- Wix saw a sharp drop of 30% in one day following its Q1 earnings report, contrasting with Monday’s temporary 16% surge. Chip companies such as SanDisk, Intel, and AMD have risen by nearly 70% in 2026 due to massive demand.  
+
+**AI & Future Market Growth**  
+- Israeli tech faces currency challenges, with a strengthening shekel affecting global market performance. AI is evolving into an industry that augments human work rather than fully replacing it. AI subsidies may soon end, and consumers might need to pay more for tools like ChatGPT.  
+
+**Industry Drama**  
+- Leaked texts from Sam Altman showed his attempts to avoid being ousted from OpenAI’s leadership.  
+- OpenAI reportedly develops a new voice model.  
+- Billionaire Elon Musk reportedly inks a deal that boosts Anthropic near a trillion-dollar valuation.  
+
+**Links & Content Resources**  
+- TrashTech promotes "Elevator AI," a project featuring 30 entrepreneurs and AI use cases: [Join here](https://linktr.ee/elevator_ai).  
+- Cato Networks is hiring for 140 open engineering roles: [Apply here](https://www.catonetworks.com/careers/).  
+- TrashTech content hub, surveys, and social platforms: [More info](https://linktr.ee/trashtechnews).
+
+
+**Original description:**  
+השבוע בטראשטק: הביקוש לשבבים לא עוצר! SanDisk, אינטל, AMD - מה עומד מאחורי הזינוק ההיסטרי שאף אחד לא ציפה לו? דיברנו עם אורי אליאבייב, יועץ בתחום ה-AI, שמסביר למה הסבסוד של כלי הבינה כנראה יסתיים וכמה תשלמו על המנוי בקרוב? הסמסים נחשפים: מאחורי הקלעים של פיטורי אלטמן מ-OpenAI - כך ניסה אלטמן לשכנע את הבורד שלא יפטרו אותו מתפקיד מנכ״ל החברה? ההודעות הפרטיות של אלטמן נחשפות. וגם השבוע: וול סטריט כבר לא קונה את ״פיטורי ה-AI” - ובסיליקון ואלי תוהים - אולי הבינה המלאכותית לא ״תחסל את שוק העבודה״? _________________________ (00:00) - הסמסים נחשפים: מה כתב אלטמן אחרי שפוטר מ-OpenAI? (06:32) - אולי הבי
+
+
+**Links mentioned:**
+• https://linktr.ee/elevator_ai
+• https://www.gutsinnovation.com/
+• [סקר קהילת טראשטק](https://did.li/5lJZH)
+• https://www.youtube.com/channel/UCwywdccdYsNS_Cs6tS0U_dg?sub_confirmation=1
+• https://www.instagram.com/trashtechnewsig/
+• [TikTok - Make Your Day](https://www.tiktok.com/@trashtechnews)
+• [‎TrashTech טראשטק‎ - WhatsApp channel](https://www.whatsapp.com/channel/0029VagGRsoGOj9obvapMw27)
+• [TrashTech (טראשטק) | Podcast on Spotify](https://open.spotify.com/show/0nGv2IY8OATmjMtkJ7eLHG?si=9b6a1be00e2344ff)
+• https://linktr.ee/trashtechnews
+• https://www.catonetworks.com/careers/
+• [בואו להשפיע על עתיד ה AI של ההייטק הישראלי - תהליך ההתייעצות עם האקוסיסטם יוצא לדרך! - רשות החדשנות](https://innovationisrael.org.il/ai-strategy-report-2026/)
+• https://tinyurl.com/WEBBY-TRASHTECH
+• [הייטקזון | HTZ for Startups](https://tinyurl.com/msapuycc)
+• https://nvda.ws/3NUhOOU
+• https://www.guts.co.il
+• [Enpitech — Scale your R&D. Grow, Train, Adopt AI.](https://enpitech.dev/)
+• [קרן הזנק - רשות החדשנות](https://innovationisrael.org.il/startupfund/)
+• https://runwayml.com/research/theturingreel
+• [ההצבעה נפתחה: בואו לבחור את פודקאסט השנה 2025 | גיקטיים](https://www.geektime.co.il/podcast-of-the-year-2025-vote-is-now-open/)
+• https://linktr.ee/el
+
+---
+*Pipeline:*
+  • Transcript: page_content (12142 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : פרק #1201 - עמית בן-דב וגונג
+
+**Podcast:** גיקונומי  
+**Author:** ראם שרמן ודורון ניר  
+**Date:** 12/05/2026 19:37 UTC  
+**Link:** https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7-1201-%d7%a2%d7%9e%d7%99%d7%aa-%d7%91%d7%9f-%d7%93%d7%91-%d7%95%d7%92%d7%95%d7%a0%d7%92/  
+
+---
+
+**Hebrew Summary:**  
+**רקע על גונג והקמתה**  
+- עמית בן-דב הקים את גונג לפני כ-11 שנים יחד עם שותפו במטרה לשנות את הדרך שבה צוותי מכירות מבצעים את עבודתם.  
+- המטרה המרכזית הייתה לשלב טכנולוגיה מתקדמת כדי לייעל תהליכים, לתעד שיחות, ולספק תובנות אודות ביצועי מכירות באמצעות ניתוחים מבוססי AI.  
+- החברה פועלת בתחום ה-SaaS ומציעה פתרונות מבוססי ענן לכלים לניתוח ודיווח על שיחות מכירה.
+
+**ההצלחה הכלכלית של גונג**  
+- נכון להיום, גונג מתקרבת להכנסות שנתיות של כחצי מיליארד דולר, נתון הממחיש את הצלחתה המסחרית.  
+- עמית שיתף כי היעד הבא של החברה מתמקד בהתרחבות גלובלית, תוך שיפור מתמיד של הפלטפורמה הטכנולוגית שלה.  
+- החברה משקיעה משמעותית בפיתוח מוצריה לקראת תחרות גוברת עם חברות נוספות בשוק ה-SaaS.
+
+**מוצרים וטכנולוגיות של גונג**  
+- מערכת Gong.io מתמקדת באיסוף נתוני שיחות, כולל קלט מ-Email ו-CRM, כדי לנתח מגמות בשוק ובתהליכי מכירה.  
+- שילוב של AI מאפשר לזהות דפוסי הצלחה בקבוצות מכירה ולהציג אותם בצורה שמאפשרת למנהלים לצמצם פערי ידע.  
+- המערכת תומכת באיזורים ומגזרים שונים, כולל התאמה לצרכים מיוחדים בענפי Fintech, SaaS, ו-Healthcare.  
+
+**שלב הצמיחה הבא של גונג**  
+- החברה עומדת בפני שלב משמעותי של התרחבות גלובלית, ומכוונת להיכנס לשווקים נוספים, כולל אסיה ואירופה.  
+- עמית הסביר כי האתגר המרכזי מול תהליך ההתרחבות טמון בהתאמת המוצר לצרכים הייחודיים של כל שוק.  
+- יותר מכך, צוין כי גונג בוחנת שיתופי פעולה עם חברות בינלאומיות כדי להעמיק את האחיזה בשווקים החדשים.
+
+**עתיד הטכנולוגיה בענף המכירות**  
+- עמית הציג עמדה ברורה לפיה ההתקדמות בענף המכירות תהיה מבוססת AI אשר נעשה מתוחכם יותר ויותר, כולל יכולות אוריינטציה בזמן אמת.  
+- החברה מתכננת להמשיך להשקיע ביכולות predictive analytics שיסייעו למנהלים להבין איזה פעולות נדרשות בשלב הבא לשיפור ביצועים.  
+
+**התייחסות לחברות מתחרות**  
+- עמית ציין את התחרות בשוק וחשף שהחברה עוקבת באופן פעיל אחרי שחקנים בשוק ה-SaaS כמו Salesforce ו-HubSpot.  
+- כדי להישאר בקדמת התעשייה, גונג משקיעה בפיתוח ובמוצר ליצירת בידול ברור מול המתחרים.  
+
+**נותני חסות לפרק**  
+- הפרק נערך בחסות חברת Cato Networks.
+
+**English Summary:**  
+**Background on Gong**  
+- Amit Bendov co-founded Gong 11 years ago with the goal of revolutionizing sales team workflows using technology-driven solutions. Gong was built to optimize processes, document conversations, and deliver actionable insights via AI analysis.  
+
+**Business Success**  
+- Gong is nearing $500 million in annual revenue, showcasing its impressive commercial achievements. The company is setting its sights on global expansion and continuous product improvement to maintain its competitive edge in the SaaS sector.  
+
+**Gong's Products and Technology**  
+- Gong.io collects data from communications such as Email and CRM and uses AI to analyze trends. This allows sales managers to identify success patterns and bridge knowledge gaps within teams.  
+- Their tools are tailored to industries like Fintech, SaaS, and Healthcare.  
+
+**Global Expansion Plans**  
+- Gong is preparing to expand into new markets such as Asia and Europe. Amit highlighted the challenge of adapting the product to suit diverse market needs and revealed that the company is exploring partnerships with major global corporations.  
+
+**Future of Sales Technology**  
+- Amit believes the sales industry will increasingly depend on advanced AI capabilities including real-time insights and predictive analytics to assist in decision-making.  
+
+**Competitor Landscape**  
+- The company actively monitors competitors like Salesforce and HubSpot. Investments are being made to ensure Gong's product stands distinctly apart in the crowded SaaS market.  
+
+**Episode Sponsor**  
+- Sponsored by Cato Networks.
+
+
+**Original description:**  
+עמית בן-דב הקים את גונג עם שותפו לפני כ-11 שנים עם אותה המטרה שמלווה אותם לאורך כל הדרך: עזרה לצוותי מכירות לעשות את עבודתם טוב יותר. כיום, כשהם מתקרבים להכנסות שנתיות של כחצי מיליארד דולר הם כבר מדברים בפה מלא על השלב הבא בחיי החברה. נותני החסות לפרק: הפרק בחסות חברת Cato Networks
+
+
+**Links mentioned:**
+• https://www.catonetworks.com/careers/
+
+---
+*Pipeline:*
+  • Transcript: description (53 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : They Might Not Read But They're Smarter Than Ever
+
+**Podcast:** Aleph  
+**Author:** Aleph  
+**Date:** 12/05/2026 17:01 UTC  
+**Link:** https://www.youtube.com/shorts/kQxaAHYKtbk  
+
+---
+
+**Hebrew Summary:**  
+**האם בני נוער היום באמת חכמים יותר מאי פעם, או שזה רק הסביבה?**  
+- מייקל אייזנברג שואל ישירות: האם יש לדור הנוכחי יותר יכולות, או שזה קשור בסביבה שבה הם גדלים?  
+- אמיר משיב: "המוחות לא השתנו, אלא האפקט של ההצטברות". הדור הזה גדל עם האינטרנט בהישג יד — ובנוסף לכך הסתגל ל-AI.  
+- הסתגלות זו היא המפתח. ללמד עצמך טכנולוגיות חדשות מעניק ערך רב יותר מאשר פשוט לגדול עם טכנולוגיות קיימות.  
+- בני נוער כיום מתחילים מוקדם יותר עם יכולות גבוהות יותר בשל פחות חיכוך בתהליך הלמידה.  
+
+**הסבר מפורט על מושג ה-"חיכוך" וההשפעה על התפתחות אישית והתקדמות**  
+- המונח "חיכוך" מתאר את כמות הזמן והמאמצים הדרושים ללמידה או הסתגלות לטכנולוגיה חדשה.  
+- לדור הצעיר היום יש גישה קלה יותר למידע וכלים כמו API, מאגרי מידע אינטרנטיים, וכלי למידה עצמאיים.  
+- כתוצאה מכך, בני נוער עם "סוכנות גבוהה" יכולים לנצל את הכלים בצורה יעילה ולהגיע לתוצאות שלא היו זמינות בדורות הקודמים.  
+
+**גבולות התקרה נעלמים - הגישה הרחבה לכלים מובילה לשימוש גבוה יותר ביכולות של בני נוער**  
+- אמיר טוען שבני 16 עם סוכנות גבוהה הם בעלי "מנופים" שאין לדורות קודמים. כלומר, יכולותיהם משודרגות בגלל מגוון כלים חדשניים כמו Generative AI.  
+- הם יכולים להקים פרויקטים, לצמצם עלויות של משאבים בעזרת טכנולוגיות מתקדמות, ולפתח מוצרים או מודלים עסקיים בגיל צעיר מאוד.  
+
+**החוכמה איננה בידע עצמו אלא ביכולת לבצע - "למה אתה עושה עם הכלים שיש לך"**  
+- המטרה היא לא רק רכישת ידע אלא יישומו בצורה שאינה מוגבלת על ידי חסמים, מה שמוביל לפריצות דרך חדשות בתחומים כמו SaaS, פיתוחים בתחום ה-AI, יצירת אפליקציות, והשקעות.  
+
+**קישור והזמנה לצפייה בפרק המלא**  
+- למי שמעוניין לשמוע את הרעיונות והדיונים המלאים בפרק, ניתן לצפות בלינק הבא: https://youtu.be/I3DFIXYqgDU  
+- התיאור כולל עוד נושאים כמו #GenZ #TeenEntrepreneur #HighAgency #AI #Entrepreneurship, שמדגישים עולמות חשובים לעתיד של עבודה והשקעות.
+
+**English Summary:**  
+**Are teenagers today smarter, or is it just the environment?**  
+- Host Michael Eisenberg raises the central question: are teenagers more capable today because of inherent intelligence, or due to their surroundings?  
+- Guest Amir argues that it’s not the minds that changed but the compounding effect. Modern teens grew up with instant access to the internet and adapted further with AI technologies layered on top.  
+
+**Lower friction enables faster learning and higher leverage**  
+- "Friction" — the effort needed to adopt knowledge or technology — is significantly reduced today. Teenagers quickly learn to use tools like API, online knowledge databases, and self-teaching platforms.  
+- Teens with high agency now utilize these resources to achieve unprecedented outcomes.   
+
+**Today's high-agency teenagers don’t face ceilings to their potential**  
+- Amir explains that a 16-year-old with high agency has leverage unavailable in previous generations, enabled by tools like Generative AI.  
+- They can build projects, launch products, reduce costs, develop SaaS models, and operate as young entrepreneurs in ways unimaginable before.  
+
+**Impact of technology is about actions, not just intelligence**  
+- Intelligence isn’t measured by knowledge acquisition but by how effectively tools, resources, and opportunities are used to drive results, especially in areas like #AI, #Entrepreneurship, and innovation.  
+
+**Watch the full episode**  
+- For the complete discussion, watch the podcast episode: https://youtu.be/I3DFIXYqgDU
+
+
+**Original description:**  
+Michael Eisenberg asked the question directly: are there more capable teenagers today, or is it just the environment? Amir's answer: the minds haven't changed. The compounding has. This is the generation that grew up with the internet at their fingertips — and then had to adapt to AI on top of it. And that adaptation is the key. Learning a new technology teaches you far more than simply growing up with it already there. "They've had earlier starts. They compound at an earlier age because there's less friction to learn." High agency has always existed. But today, a high agency 16-year-old has l
+
+
+**Links mentioned:**
+• https://youtu.be/I3DFIXYqgDU
+
+---
+*Pipeline:*
+  • Transcript: description (149 words, lang=en)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : Mines Did More Than Nukes Ever Could
+
+**Podcast:** Aleph  
+**Author:** Aleph  
+**Date:** 11/05/2026 17:02 UTC  
+**Link:** https://www.youtube.com/shorts/7OTRXErC0Po  
+
+---
+
+**Hebrew Summary:**  
+**תקציר פרק הפודקאסט: Mines Did More Than Nukes Ever Could**  
+**פודקאסט: Aleph**  
+
+**מבוא לפרק**  
+בפרק הזה של הפודקאסט "Aleph", מייקל אייזנברג מראיין את אמיר דניאל, מומחה ל-Maritime AI ומנכ"ל Windward, לשיחה מעמיקה על המצב הגיאופוליטי במצרי הורמוז. מהות הדיון מתמקדת בהשפעות של טכנולוגיות פשוטות וזולות יחסית, כמו רחפנים וטילים, על סחר העולמי והכלכלה הגלובלית - ואיך אלו יכולים למוטט את המערכות הללו ללא צורך בנשק גרעיני.  
+
+**השפעת המיצרים של הורמוז על הכלכלה העולמית**  
+- **נתונים מרכזיים:** כ-20% מהסחר הימי העולמי עוברים במיצרים של הורמוז מדי שנה, כולל אחוז משמעותי מאספקת הנפט העולמית.  
+- **הסבר של דניאל:** כל שיבוש במיצרים, אפילו זמני, יכול להשפיע באופן דרסטי על מחירי נפט, אנרגיה ועל יוקר המחיה במדינות רבות.  
+
+**טכנולוגיות זולות ככלי נשק אסטרטגי**  
+- **שימוש ברחפנים וטילים:**  
+   - אמיר דניאל מדבר על כך שהעלות הנמוכה של רחפנים וטילים לעומת נשק גרעיני מאפשרת למדינות כמו איראן לשתק נתיבי סחר עיקריים בצורה זולה ואפקטיבית.  
+   - לדבריו, האפשרות להשבית סחר ימי עם טכנולוגיות נגישות כאלה משנה את חוקי המשחק בתחום הביטחון הימי והכלכלה העולמית.  
+- **AI לאבחון איומים ימיים:**  
+   - החברה של דניאל, Windward, משתמשת בטכנולוגיות של AI כדי לנתח איומים פוטנציאליים, כמו הרחפנים והטילים שהוזכרו בפרק.  
+   - פתרונות AI עוזרים בזיהוי אנומליות בהתנהגות כלי שיט ודיווח בזמן אמת לרשויות.  
+
+**השפעות גיאופוליטיות ואסטרטגיות עתידיות במזרח התיכון**  
+- **יכולות של מלחמה א-סימטרית:**  
+    - הדיון מתמקד בכך שפרקטיקות כמו תקיפות זולות אך מדויקות עשויות לשמש כלים אסטרטגיים חזקים למעצמות אזוריות.  
+    - הטענה המרכזית של דניאל היא ש"מדינה לא צריכה נשק גרעיני בכדי לגרום לקריסת השווקים העולמיים".  
+- **צפי לעתיד:**  
+    - לפי דניאל, על מדינות המערב, במיוחד ארה"ב, לשים דגש רב יותר על אבטחת נתיבי הסחר במזרח התיכון ולפתח טכנולוגיות מתקדמות לזיהוי ונטרול איומים.  
+    - אייזנברג מזכיר את הצורך בשיתופי פעולה אזוריים ובינלאומיים כדי להתגבר על האיום.  
+
+**#האשטאגים וקריאה למעורבות מאזינים**  
+- המנחה מזמין את המאזינים לעקוב אחרי הפודקאסט ולצפות בפרק המלא באתר Invested.  
+- לינק לצפייה בפרק: **https://invested.com**  
+- נושאים שהועלו ושמות תיוג: #StraitOfHormuz, #Iran, #GlobalTrade, #Geopolitics, #MaritimeIntelligence, #Windward, #Invested, #EnergyPrices, #Shipping, #MiddleEast, #Inflation, #OilPrices, #AsymmetricWarfare, #NavalStrategy, #MichaelEisenberg, #AmiDaniel.  
+
+---
+
+**English Summary:**  
+**Episode Title: Mines Did More Than Nukes Ever Could**  
+**Podcast: Aleph**  
+
+This podcast episode features Michael Eisenberg in conversation with Ami Daniel, a Maritime AI expert and CEO of Windward. They delve into the geopolitical complexities of the Strait of Hormuz and how low-cost technology, such as drones and missiles, poses a significant threat to global trade and economics without requiring nuclear weapons.  
+
+**Key Points:**  
+- **Strait of Hormuz Significance:** Approximately 20% of the world’s maritime trade, including a large portion of global oil supply, passes through this narrow waterway. Any disruption, even briefly, can severely impact energy prices and global inflation.    
+- **Emerging Threats with Low-Cost Weapons:**  
+   - Technologies like drones and missiles are cheaper and accessible and can be used to effectively halt major shipping routes.  
+   - Daniel notes this as "game-changing" for maritime security and the global economy.  
+- **AI in Maritime Security:**  
+   - Windward leverages AI to predict and identify potential maritime threats, enhancing the ability of authorities to respond effectively.  
+- **Geopolitical Implications:**  
+   - The conversation highlights asymmetric warfare tactics that allow smaller states like Iran to wield significant influence.  
+   - Daniel and Eisenberg urge Western powers to prioritize the development of advanced security measures and foster international cooperation in safeguarding critical trade routes.  
+
+**Further Info:**  
+- Watch the full episode: **https://invested.com**  
+- Topics discussed: #StraitOfHormuz, #Iran, #GlobalTrade, #Geopolitics, #MaritimeIntelligence, #EnergyPrices, and more.
+
+
+**Original description:**  
+Iran doesn't need a nuclear weapon to bring the global economy to its knees. 🚢 Maritime AI expert Ami Daniel breaks down how cheap drones and missiles shut down 20% of the world's trade through the Strait of Hormuz — no nukes required. "You actually don't need a nuclear weapon. You need much less to make this big of an impact." 📌 Watch the full episode on Invested with Michael Eisenberg for the complete breakdown of what's happening in the Strait of Hormuz and what it means for global trade, energy prices, and your wallet. 🔔 Subscribe for more insights on geopolitics, maritime intelligence, an
+
+
+---
+*Pipeline:*
+  • Transcript: description (123 words, lang=en)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita
+
+**Podcast:** Andrew Huberman  
+**Author:** Andrew Huberman  
+**Date:** 11/05/2026 12:01 UTC  
+**Link:** https://www.youtube.com/watch?v=e89rVf4Pf0k  
+
+---
+
+**Hebrew Summary:**  
+**מבוא לפרק ולד"ר פוג'יטה**  
+- ד"ר קנטארו פוג'יטה הוא פרופסור לפסיכולוגיה באוניברסיטת מדינת אוהיו (The Ohio State University).  
+- מומחיותו כוללת תחומי שליטה עצמית ומוטיבציה.  
+- בפרק זה הוא דן בכלים המובילים לשיפור השליטה העצמית ומוטיבציה כדי להשיג מטרות ולעצור פעולות לא רצויות.  
+- הקשר בין כוח רצון לבין מוטיבציה לתהליכים ממושכים.  
+- הפרק כולל ניתוח מעמיק של מבחן "שתי המרשמלו", דחיית סיפוקים ומוטיבציה פנימית מול חיצונית.  
+
+**מבחן מרשמלו, דחיית סיפוקים וביקורת**  
+- מבחן המרשמלו, ניסוי קלאסי בפסיכולוגיה: איך ילדים מוכנים לחכות על מנת לקבל תגמול גדול יותר.  
+- ד"ר פוג'יטה מציג ביקורת על האופן שבו התוצאות פרשו וחסרונות במודל ששימש במחקר.  
+- נמצא כי ניתן ללמד שליטה עצמית ולא מדובר בתכונה מולדת בלבד.  
+
+**שלטון עצמי מול מוטיבציה ומה שיעיל יותר**  
+- חשיבות ההבנה של איך מוטיבציה ושליטה עצמית משפיעים זה על זה.  
+- יש צורך בצורות שונות של כוח רצון כדי להתמודד עם מצבים מגוונים.  
+- שימוש בשיטות כמו פירוק מטלות ראשיות לקטנות וביקורת עצמית לשיפור היכולת לדחות תגובות מיידיות.  
+
+**כלים לשיפור שליטה עצמית**  
+1. חשיבות ההסתכלות על "למה" ולא רק על "איך".  
+2. אסטרטגיות כמו הפיכת כישלון להזדמנות ללמידה.  
+3. הכלי "Whys and Motivation Goals" - התמקדות במניעים עמוקים ושורשיים להתמיד במשימות בטווח הארוך.  
+
+**מוטיבציה פנימית לעומת מוטיבציה חיצונית**  
+- דגש על מוטיבציה פנימית כתמריץ לטווח הארוך.  
+- חידוד הבדלים בין הנעה הנוצרת מתוך תחושת משמעויות אישית (כגון "איקיגאי") לעומת מטרות מבוססות תגמולים חיצוניים.  
+
+**כוח הרצון כמקור לכלים לעתיד והצורך בלקיחת הפסקות**  
+- דחיית סיפוקים כאתגר משמעותי, אך בר השגה עם כלים פרקטיים.  
+- חשיבות ההכרה באי-השלמות ("וובי-סאבי") ובמנוחות לשמירה על אנרגיה.  
+- שימוש במוסיקה, עוגנים נוסטלגיים ומילים חיוביות ככלי לחיזוק.  
+
+**קידום נוסף וסיום הפרק**  
+- עתיד מחקר השליטה העצמית וכיצד ניתן ליישמו באסטרטגיות אישיות וארגוניות.  
+- התייחסות ספציפית למשמעות העבודה והשכר בהקשר של מוטיבציה חיצונית ופנימית.  
+- הפרק מסתיים בהזמנה לצפייה נוספים בערוצים השונים של פודקאסט Huberman Lab, כולל תמיכה בספונסרים ובקריאה להירשם לניוזלטר.  
+- קישורים:  
+  - אתר: [Andrew Huberman’s Website](https://www.hubermanlab.com)  
+  - אינסטגרם: [Huberman Lab Instagram](https://www.instagram.com/hubermanlab)  
+  - קישורים נוספים למוצרים: [AG1](https://drinkag1.com/huberman), [Function](https://functionhealth.com/huberman). וכו'.
+
+**English Summary:**  
+**Episode Overview and Dr. Fujita’s Expertise**  
+- Dr. Kentaro Fujita, a psychology professor at The Ohio State University, specializes in self-control and motivation.  
+- Discusses tools to enhance self-control for achieving goals and resisting negative habits.  
+- Addresses connections between willpower and sustained motivation.  
+
+**Marshmallow Test Insights and Criticisms**  
+- Revisits the famous marshmallow test and its implications on delayed gratification.  
+- Emphasizes that self-control can be taught, challenging the notion of it being purely innate.  
+
+**Key Strategies for Enhancing Self-Control**  
+- Focus on "why" rather than "how" for building motivation.  
+- Turn failures into opportunities for growth and learning.  
+- Develop intrinsic motivation and principles like "ikigai" for long-term goals.  
+
+**Additional Tools and Insights**  
+- Importance of balancing consistency and flexibility in building habits.  
+- Use nostalgic music, visualization, and meaningful words to reinforce motivation.  
+- Address burnout with rest and embracing imperfection ("wabi-sabi").  
+
+**Episode Highlights and Resources**  
+- Practical advice for improving self-control and reframing motivation.  
+- Future directions of self-control research in personal and organizational contexts.  
+- Mention of sponsors (AG1, David, Lingo, LMNT, Function) and call-to-action for engagement.  
+- Resources linked: Instagram ([Huberman Lab Instagram](https://www.instagram.com/hubermanlab)), newsletter ([Sign up here](https://www.hubermanlab.com/newsletter)), and other tools.
+
+
+**Original description:**  
+Dr. Kentaro Fujita, PhD, is a professor of psychology at The Ohio State University and an expert in the science of self-control and motivation. We discuss the best tools for developing strong self-control: to do more of what you aspire to and cease doing things you would like to avoid. We discuss why you need more than one form of willpower to achieve sustained motivation and overcome procrastination. Dr. Fujita also clarifies the data on the 2-marshmallow test, delayed gratification and intrinsic vs. extrinsic motivation. Show notes: https://go.hubermanlab.com/a9vfEJ5 Thank you to our sponsor
+
+
+**Links mentioned:**
+• [Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita](https://go.hubermanlab.com/a9vfEJ5)
+• [Vercel Security Checkpoint](https://drinkag1.com/huberman⁠)
+• https://davidprotein.com/huberman⁠
+• [Lingo - Made by Abbott: Your body has the answers](https://hellolingo.com/huberman⁠)
+• [404 Not Found](https://drinklmnt.com/huberman⁠)
+• [Function for Andrew Huberman's community](https://functionhealth.com/huberman)
+• https://www.instagram.com/hubermanlab
+• https://www.threads.net/@hubermanlab
+• https://x.com/hubermanlab
+• https://www.facebook.com/hubermanlab
+• [TikTok - Make Your Day](https://www.tiktok.com/@hubermanlab)
+• [Andrew Huberman - Professor and Neuroscientist at Stanford & Host of Huberman Lab | LinkedIn](https://www.linkedin.com/in/andrew-huberman)
+• [Huberman Lab](https://www.hubermanlab.com)
+• [Neural Network Newsletter](https://www.hubermanlab.com/newsletter)
+• [Motivation and Cognitive Science Laboratory](https://u.osu.edu/fujita)
+• [Dr. Kentaro Fujita | Department of Psychology](https://psychology.osu.edu/people/fujita.5)
+• [Sorry...](https://scholar.google.com/citations?user=3KkWMHMAAAAJ&hl=en)
+• https://www.linkedin.com/in/kentaro-fujita-842a13385
+• [Disclaimer and Disclosures](https://www.hubermanlab.com/disclaimer)
+• [Sorry...](https://scholar.google.com/citations?user=3KkWMHMAAAAJ&amp;hl=en)
+
+---
+*Pipeline:*
+  • Transcript: description (318 words, lang=en)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : GATR | Guided Advanced Tactical Rocket
+
+**Podcast:** Elbit Systems  
+**Author:** Elbit Systems  
+**Date:** 11/05/2026 06:14 UTC  
+**Link:** https://www.youtube.com/watch?v=1v8G2Z8di20  
+
+---
+
+**Hebrew Summary:**  
+**הכירו את GATR – Guided Advanced Tactical Rocket**  
+הפרק בפודקאסט עסק במערכת ה-GATR (Guided Advanced Tactical Rocket), שהיא רקטה חכמה מדויקת מבית אלביט מערכות, וניתנה סקירה מקיפה על המאפיינים הטכנולוגיים שלה, יתרונותיה בזירה המבצעית והשימושים האפשריים עבור כוחות צבא מודרניים ברחבי העולם.  
+
+**תכונות טכנולוגיות מתקדמות של מערכת GATR**  
+- מערכת GATR היא רקטת 70 מ"מ חכמה המיועדת לעמידה בתנאים מורכבים בזירות הקרב המודרניות.  
+- **תכונות עיקריות:**
+  - מנגנון **Lock-On Before Launch (LOBL)** המאפשר לנעול תחילה על המטרה לפני השיגור.  
+  - ראש קרב חודרני רב-תכליתי שמתאים למטרות שונות, כולל מבנים מבוצרים.  
+  - מנגנון השהייה פיצוצית שניתן לתכנת מראש (Programmable Fuze Delay).  
+  - יכולת לתכנן את צורת המסלול (Trajectory Shaping) להתאמה מדויקת למטרה ותנאי השטח.  
+  - דיוק מרשים של פחות ממטר סטייה (CEP - Circular Error Probable).  
+
+**כושר פעולה וביצועים מבצעיים**  
+- **טווח מבצעי של למעלה מ-10 ק"מ** המספק מענה למגוון תרחישי קרב.  
+- **יכולת פגיעה במטרות נעות במהירות של עד 100 קמ"ש**, מה שמאפשר ניטרול רכבים ממוגנים ומטרות נעות אחרות.  
+- רקטה מוכחת מבצעית, עם הוכחות להצלחתה בזירות שונות ברחבי העולם.  
+- עיצוב המערכת מתמקד במניעת נזק משני **(Minimizing Collateral Damage)**, חשיבות מהותית בלחימה באזורים מאוכלסים.  
+
+**יתרונות עבור כוחות מודרניים**  
+- פתרון בוגר ומוכן לשלב ייצור ושימוש טקטי מיידי, המפשט תהליכי רכש והטמעה.  
+- מתאים לשימוש מגוון: ניתן לחמש כלי טיס, פלטפורמות יבשתיות וספינות ימיות, מה שמגביר את הגמישות המבצעית.  
+- מותאם לתנאי שטח מגוונים ומביא לשיפור ביכולת השליטה של כוחות צבא מודרניים בהתמודדות עם איומים מרובים.  
+
+**אלביט מערכות: חדשנות טכנולוגית בזירה הבינלאומית**  
+- הפלטפורמה מפותחת על ידי **אלביט מערכות**, חברה ישראלית המובילה בשוק הביטחוני הגלובלי בעולמות הטכנולוגיה המתקדמים.  
+- אלביט ממתגת את ה-GATR כפתרון כולל המספק שילוב מנצח של דיוק, עוצמה ומניעת נזק משני.  
+- ניתן למצוא יותר מידע ולסקור טכנולוגיות נוספות באתר הרשמי: [www.elbitsystems.com](http://www.elbitsystems.com).  
+
+**חיזוי עתידי וסיכום**  
+- קיימת ציפייה שה-GATR ימצא שימוש נרחב בכוחות מזוינים ברחבי העולם, בזכות אופיו הגמיש והתאמתו למגוון רחב של תרחישים צבאיים.  
+- מדובר במערכת שהפכה לשם דבר בעולמות הלוחמה המדויקת, במיוחד בתרחישים שבהם פגיעה כירורגית היא קריטית.
+
+**English Summary:**  
+**Introducing GATR – Guided Advanced Tactical Rocket**  
+This episode focused on GATR, a precision-guided 70mm rocket developed by Elbit Systems, highlighting its advanced technology, operational advantages, and potential use cases for modern military forces globally.  
+
+**Key Features of GATR**  
+- GATR is a 70mm smart rocket designed for complex battlefield scenarios.  
+- **Primary features:**
+  - **Lock-On Before Launch (LOBL)** mechanism for pre-launch target lock.  
+  - Multi-purpose penetrator warhead suitable for various targets, including fortified structures.  
+  - Programmable fuze delay for controlled detonation.  
+  - Flexible trajectory shaping for precise targeting.  
+  - Exceptional accuracy with a **CEP of less than 1 meter**.  
+
+**Operational Capabilities and Performance**  
+- **Operational range exceeding 10 km**, addressing diverse combat scenarios.  
+- **Ability to target moving objects up to 100 km/h**, including armored vehicles.  
+- Proven in global operational environments, showcasing reliability.  
+- Designed to minimize collateral damage, crucial in urban warfare.  
+
+**Advantages for Modern Forces**  
+- A mature, production-ready system for immediate tactical deployment.  
+- Versatile platform-compatible model for air, land, and sea platforms.  
+- Adaptable to various terrains, enhancing military operational flexibility.  
+
+**Elbit Systems: Innovating Defense Technology**  
+- Developed by **Elbit Systems**, a global leader in advanced defense and technology solutions.  
+- GATR embodies precision, power, and low collateral damage.  
+- For more information: [www.elbitsystems.com](http://www.elbitsystems.com).  
+
+**Future Outlook**  
+- Anticipated to see widespread adoption by military forces worldwide due to its versatility and precision.  
+- Positioned as a critical solution for modern combat scenarios demanding surgical strikes.
+
+
+**Original description:**  
+🔗https://tinyurl.com/37brbfdz GATR (Guided Advanced Tactical Rocket) is a combat-proven, laser-guided 70mm rocket designed for precision engagement across a wide range of battlefield scenarios. Featuring Lock-On Before Launch (LOBL), a multi‑purpose penetrator warhead, programmable fuze delay, trajectory shaping, and enhanced accuracy of less than 1 meter CEP, GATR delivers reliable performance against static and moving targets - while minimizing collateral damage. With an operational range of over 10 km, the ability to engage moving targets at speeds of up to 100 km/h, and proven use in opera
+
+
+**Links mentioned:**
+• [403 Forbidden](https://tinyurl.com/37brbfdz)
+
+---
+*Pipeline:*
+  • Transcript: description (100 words, lang=en)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : "הטכנולוגיה שלנו מטעינה רובוטים מהאוויר" - הפריצה של הפרופ' הישראלי שכמעט לא סיים תיכון #100
+
+**Podcast:** הפודקאסט של גיא קצוביץ'  
+**Author:** גיא קצוביץ'  
+**Date:** 11/05/2026 03:15 UTC  
+**Link:** https://podcasters.spotify.com/pod/show/guy-katsovich/episodes/----------100-e3iu022  
+
+---
+
+**Hebrew Summary:**  
+**רקע על האורח - פרופ' מור פרץ והמסע האישי**  
+- מור פרץ סבל משבר בעמוד השדרה כתוצאה מפציעה בצבא, מה שהוביל לשיתוק חלקי ולסיום חלומותיו על קריירת כדורסל מקצועית.  
+- בעקבות הפציעה החל לשחק כדורסל בכיסאות גלגלים ברמה עולמית. תוך כך, למד איך להתמודד עם קשיים בחייו.  
+- פרץ הוא כיום פרופסור באוניברסיטת בן-גוריון, מחזיק בקריירה אקדמית מרשימה וחבר מוביל בפרויקטים טכנולוגיים.  
+
+**המסע להקמת CaPow: העברת אנרגיה אלחוטית לרובוטים**  
+- פרץ הקים את חברת הסטארט-אפ CaPow מתוך צורך ברור בשוק הרובוטיקה: פתרון להעברת אנרגיה אלחוטית שמאפשר לרובוטים לפעול ללא הפרעות בזמן וביעילות.  
+- מדובר בטכנולוגיה חדשנית, פרי פיתוחים שנמשכו לאורך 15 שנה, ששואפת להחליף את התלות בסוללות מסורתיות בכל הנוגע לרובוטים במפעלים ושטחים תעשייתיים.  
+- החברה שמה דגש על שימוש בתהליכי ייצור בישראל וכן עבודה עם משקיעים וחברות גדולות לייעול התהליכים.  
+
+**חסמים טכנולוגיים ואתגרי התקופה הראשונה**  
+- פרץ תיאר קשיים רבים בגיוס הון כיזם שמגיע מרקע אקדמי ולא עונה על הפרופיל הרגיל של יזמי סטארט-אפ.  
+- האתגרים כללו גם את הקושי ביצירת טכנולוגיית העברת אנרגיה אלחוטית שמצליחה להיות יציבה ומדויקת מספיק בשביל שימוש מעשי.  
+
+**תובנות מעוררות השראה ולקחי חיים**  
+- פרץ שיתף בניסיונו בכדורסל בכיסאות גלגלים, כשקיבל שיעורים חשובים על מנהיגות, נחישות ועבודת צוות, שממשיכים ללוות אותו בקריירה.  
+- הוא הסביר כיצד מוגבלויות ואתגרים אישיים יכולים לשמש מנוע לצמיחה ולא הצלחה, בתנאי שיש כח רצון והתמדה.  
+- לפי פרץ, קשיים אינם מחסומים אלא הזדמנות לחדש ולצמוח, ומהווים זרז משמעותי למוטיבציה.  
+
+**חזון ומבט לעתיד: רובוטיקה והתרחבות**  
+- למרות ההצלחות הקיימות בעבודת החברה, פרץ מסביר שיש לו חזון רחב יותר: מעבר משירות רובוטים בלבד ליישומים בתחום היומנואידים וטכנולוגיות אחרות.  
+- החברה מתכננת לשנות את הדרך בה אנרגיה מועברת ברחבי העולם, ולהרחיב את השימוש בטכנולוגיה מעבר למפעלים תעשייתיים בלבד.  
+- תחזיותיו כוללות פיתוח פתרונות סוללות חלופיים, לצד התמקדות בהרחבת שימושים חדשים שיעשו מהפכה במגוון רחב של תעשיות וטכנולוגיות.
+
+**English Summary:**  
+Professor Mor Peretz shared his inspiring journey from a life-changing injury to success. A spinal cord injury ended his basketball dreams but motivated him to excel in wheelchair basketball at a global level and pursue an impressive academic career. He now leads CaPow, a groundbreaking startup developing wireless energy transfer technology for industrial robots, aiming to free them from battery dependence and improve efficiency.  
+
+Having faced a 15-year journey of technological challenges and funding issues due to his unconventional academic background, Peretz emphasized resilience and determination. He shared lessons on leadership and collaboration, emphasizing how personal hardships can spark creativity and drive for success.  
+
+CaPow's technology, developed with a focus on precision and reliability, demonstrates game-changing applications for industrial robotics. Looking ahead, the company envisions expanding its solutions to humanoids and alternative battery technologies, striving to redefine energy transmission on a global scale.
+
+
+**Original description:**  
+הפציעה של מור פרץ שינתה את חייו לנצח: שבר בעמוד השדרה, ושיתוק חלקי שהרס את חלום קריירת הכדורסל שלו. אבל במקום להיכנע, הוא בנה מסלול חיים יוצא דופן: מכדורסל בכיסאות גלגלים ברמה הגבוהה ביותר, דרך קריירה אקדמית מבריקה כפרופסור באוניברסיטת בן-גוריון (למרות שסיים לימודי תואר ראשון במכללה), ועד להקמת CaPow - - סטארט-אפ פורץ דרך בתחום העברת אנרגיה אלחוטית לרובוטים. בפרק מרתק זה, מור חושף את המסע האישי המדהים שלו: וכיצד נחישות ואיתנות המאפיינים את מסעו לאורך כל הדרך, וכיצד ההתמודדות עם מוגבלות וקשיים - דחפו אותו קדימה. זהו סיפור מרתק על כוח הרצון, יצירתיות, והדרך שבה מגבלות יכולות להפוך למנוע למוטיבצי
+
+
+**Links mentioned:**
+• [Bitly | Page Not Found | 404](https://bit.ly/48OziEHלפודקאסט)
+• [Bitly | Page Not Found | 404](https://bit.ly/4oND8Toלפודקאסט)
+• [××¤×××§××¡× ×©× ××× ×§×¦××××¥' - Podcast - Apple Podcasts](https://apple.co/3Lfv8Mb)
+• [Digital Health Track with A-Squared](https://www.fusion-vc.com/digital-health-track-with-a-squared)
+• https://bit.ly/48OziEH
+• https://bit.ly/4oND8To
+• [הפודקאסט של גיא קצוביץ' | Podcast on Spotify](https://bit.ly/47Th96H)
+• https://apple.co/3Lfv8Mbלפודקאסט
+
+---
+*Pipeline:*
+  • Transcript: page_content (11128 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : Three Generations to Win
+
+**Podcast:** Aleph  
+**Author:** Aleph  
+**Date:** 10/05/2026 16:00 UTC  
+**Link:** https://www.youtube.com/shorts/SOOOAAAd4Fk  
+
+---
+
+**Hebrew Summary:**  
+**פריצת דרך בשלושה דורות של שבבים: Gavin Baker ו-Elad Raz על בניית חברת סמיקונדקטור דורותית**
+
+**חברות השבבים והאתגרים המרכזיים בבניית מוצרים מותאמים לשוק**  
+- Gavin Baker, אחד המשקיעים המוערכים ביותר בטכנולוגיה, מעלה טענה שחברות שבבים זקוקות לשלושה דורות של פיתוח לפני שהן מגיעות להתאמה אמיתית למוצר ולשוק.  
+- הדור הראשון של שבבים מבוסס לרוב על טכנולוגיה קיימת, למשל שבבים שמקבלים מ-TSMC, אך לעיתים קרובות אין התאמה מושלמת לצרכי הלקוחות.  
+- במהלך הדור השני, החברה מתחילה למכור ולייצר את השבבים, אך במקביל מתחילה לבנות את הדור השלישי, על בסיס הידע שצברה בשני הדורות הראשונים.  
+
+**משמעות הידע המוסדי ומחיר הזמן וההון**  
+- לדברי Elad Raz, עד שהחברה מתחילה לשווק שבבים מדגם "Maverick 2", היא כבר עמוק בתהליכי למידה ופיתוח שמגיעים לשלושה דורות של ידע.  
+- לוח הזמנים לפיתוח הוא קשה ותובעני, כמו גם דרישות ההון הכבדות הדרושות לתמוך במעבר בין דורות השבבים. 
+- אין קיצורי דרך בתעשיית הסמיקונדקטור. מדובר בתהליך ארוך ומורכב שדורש התמדה והשקעה אינטנסיבית לאורך שנים.  
+
+**תחזיות והתבוננות בתעשייה**  
+- הפודקאסט מתאר את המציאות הקשה והמיוחדת של חברות טכנולוגיות שמנסות לפתח מוצר סמיקונדקטורי גנרי ודורותי.  
+- במהלך השיחה, התייחסו לנקודות כמו האתגרים המרכזיים בעולם הסטארטאפים בתחום ה-DeepTech, ואת התפקיד של Venture Capital בהשקעות בחברות העוסקות בתחום זה.  
+
+**קישורים חשובים ומידע נוסף**  
+- צפו בפרק המלא → https://bit.ly/3R4FAck  
+- האשטגים שנכללו: #GavinBaker #ChipGenerations #NextSilicon #Semiconductors #StartupReality #VentureCapital #EladRaz #Invested #DeepTech #AIHardware
+
+**English Summary:**  
+**Three Generations to Win: Gavin Baker and Elad Raz on Building a Generational Semiconductor Company**
+
+- Gavin Baker, a renowned tech investor, claims semiconductor companies require three generations of product development before achieving true product-market fit.  
+- In Gen 1, companies often rely on existing tech, like chips from TSMC, but they usually lack precise market alignment.  
+- In Gen 2, while ramping up sales, firms simultaneously work on Gen 3. By the time Maverick 2 chips are in customers' hands, companies are three generations deep into institutional knowledge.  
+
+**Challenges in chip development**  
+- Elad Raz emphasizes the brutal timelines and capital demands inherent to semiconductor advancement. Success requires years of relentless iteration; shortcuts aren't an option.  
+- The podcast delves into the realities of creating semiconductor innovations in the competitive DeepTech arena and highlights venture capital's pivotal role.  
+
+**Key Links and Takeaways**  
+- Watch the full episode → https://bit.ly/3R4FAck  
+- Hashtags: #GavinBaker #ChipGenerations #NextSilicon #Semiconductors #StartupReality #VentureCapital #EladRaz #Invested #DeepTech #AIHardware
+
+
+**Original description:**  
+Gavin Baker — one of the most respected tech investors alive — said chip companies need three generations before they find true product-market fit. Elad Raz agrees, and explains exactly why. Generation 1: you get the chip from TSMC and realize it doesn't quite match what customers need. Generation 2: you're selling, but already building Gen 3. By the time you're shipping Maverick 2, you're three generations deep in institutional knowledge. The timeline is brutal. The capital requirements are brutal. But there's no shortcut. 🔔 Subscribe for more honest conversations about what it actually takes
+
+
+**Links mentioned:**
+• https://bit.ly/3R4FAck
+
+---
+*Pipeline:*
+  • Transcript: description (117 words, lang=en)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : Three Generations to Win
+
+**Podcast:** Aleph  
+**Author:** Aleph  
+**Date:** 10/05/2026 16:00 UTC  
+**Link:** https://www.youtube.com/shorts/hN9Om1CmA5k  
+
+---
+
+**Hebrew Summary:**  
+**מבוא - פרק הפודקאסט ושלביו הקריטיים בתעשיית השבבים**  
+- הפודקאסט "Aleph" מציג שיחה עמוקה ומרתקת על האתגרים האדירים הכרוכים בהקמת חברות שבבים, ועל המודל שגווין בייקר, אחד המשקיעים המוערכים בעולם הטכנולוגיה, מתאר כמחייב שלושה דורות של מוצרים כדי להגיע ל-product-market fit.  
+- אלעד רז מביע הסכמה עם התיאוריה הזו ומסביר בפרק את משמעותה מבחינת הבנה אסטרטגית, מוסדות ידע ושינויים בתעשייה.  
+- נושא קריטי נוסף הוא הזמן והמשאבים הדרושים על מנת להגיע לדור השלישי של מוצר איכותי, והיתרונות האסטרטגיים שהוא מביא לחברות בתחומים כמו AIHardware ו-DeepTech.  
+
+**שלושת הדורות הנדרשים**  
+- **דור ראשון:** הוא הצעד הראשון בו החברה מקבלת שבב מ-TSMC (Taiwan Semiconductor Manufacturing Company), שבב שמתגלה כלא תואם בצורה מלאה לצרכי הלקוחות.  
+- **דור שני:** החברה מתחילה למכור מוצר תוך כדי תהליך בניית המוצר הבא שיתקן את הפערים והתקלות שהתגלו בדור הקודם.  
+- **דור שלישי:** שלב זה מבוסס כבר על שלוש שכבות של הבנות ארגוניות ומקצועיות שנצברו לאורך התהליך הארוך, ובסופו של דבר מבטיחה התאמה גבוהה לשוק ולקוחות.  
+
+**אתגרים מרכזיים בתעשייה**  
+- אלעד מציין שזמן הפיתוח של מוצרי שבבים, הניתוח המורכב והעלות הקשה, מאתגרות כמעט כל חברה בתחום כדי לשרוד כעסק בר-קיימא:  
+  - **זמן:** הברוטליות של לוחות הזמנים – פעמים רבות נדרשות שנים עד להתאמה מושלמת בין המוצר לשוק.  
+  - **דרישות הון:** השקעות משמעותיות נדרשות בכל שלב, במיוחד בתכנון דור שני ושלישי.  
+  - **מוסדות ידע:** כל דור מקדם את החברה מבחינת מומחיות ותובנות, אך תהליך זה מצריך התמדה ואסטרטגיה מדויקת.  
+
+**מסקנות ותחזיות לעתיד תעשיית השבבים**  
+- שני הדוברים מסכימים כי אין קיצור דרך ליצירת חברה איכותית בתעשיית השבבים.  
+- דגש רב מושם על **AIHardware** וטכנולוגיות כעמודים מרכזיים לעתיד התחום.  
+- למעצבים ויזמים שמעוניינים להיכנס לתעשייה, חשוב מאוד להבין שמדובר במשחק ארוך טווח עם סיכונים ניכרים, אך גם אפשרויות רבות להשפעה גלובלית.  
+- הפודקאסט שואל שאלה: האם יזמים מודעים למשמעות הנדרשת באמת להתחייבות הפיננסית ובניית שלושה דורות של מוצר?  
+
+**משאבים וקישורים חשובים**  
+- צפו בפרק המלא בקישור הבא: [https://bit.ly/3R4FAck](https://bit.ly/3R4FAck)  
+- האשטגים: #GavinBaker #ChipGenerations #NextSilicon #Semiconductors #StartupReality #VentureCapital #EladRaz #Invested #DeepTech #AIHardware
+
+**English Summary:**  
+**Episode Overview - Challenges in Chip Industry**  
+The podcast "Aleph" dives into the demanding journey of building a semiconductor company. Gavin Baker, a renowned tech investor, shares his framework requiring three generations of chip development to achieve product-market fit. Elad Raz supports and elaborates on this approach, discussing institutional knowledge and strategic growth. Key topics include time and capital-intensive aspects, emphasizing why the third-generation chip product is crucial for long-term success in industries like AIHardware and DeepTech.
+
+**Three Generations Framework**  
+- **Gen 1:** Initial chip from TSMC that doesn’t fully meet customer needs.  
+- **Gen 2:** Selling while simultaneously developing the next improved product.  
+- **Gen 3:** A culmination of institutional learning and fine-tuning, enabling superior product-market fit.  
+
+**Industry Challenges**  
+- **Time:** Long timelines, often spanning years, are required for successful iterations.  
+- **Capital:** Significant financial investments are necessary at all stages.  
+- **Institutional Knowledge:** Layered expertise across generations is critical to thriving in the competitive landscape.  
+
+**Future Predictions and Takeaways**  
+- Both speakers emphasize no shortcuts exist for building impactful semiconductor companies.  
+- AIHardware and advanced technologies are highlighted as pivotal to the industry’s future.  
+- Entrepreneurs entering the field must understand the risks and long-term commitment this industry demands.  
+
+**Additional Resources**  
+- Full episode link: [https://bit.ly/3R4FAck](https://bit.ly/3R4FAck)  
+- Hashtags: #GavinBaker #ChipGenerations #NextSilicon #Semiconductors #StartupReality #VentureCapital #EladRaz #Invested #DeepTech #AIHardware
+
+
+**Original description:**  
+Gavin Baker — one of the most respected tech investors alive — said chip companies need three generations before they find true product-market fit. Elad Raz agrees, and explains exactly why. Generation 1: you get the chip from TSMC and realize it doesn't quite match what customers need. Generation 2: you're selling, but already building Gen 3. By the time you're shipping Maverick 2, you're three generations deep in institutional knowledge. The timeline is brutal. The capital requirements are brutal. But there's no shortcut. 🔔 Subscribe for more honest conversations about what it actually takes
+
+
+**Links mentioned:**
+• https://bit.ly/3R4FAck
+
+---
+*Pipeline:*
+  • Transcript: cached_description (119 words, lang=en)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : פרק #1200 - ד״ר יריב מוהר וכשלי הפרוגרס
+
+**Podcast:** גיקונומי  
+**Author:** ראם שרמן ודורון ניר  
+**Date:** 10/05/2026 09:14 UTC  
+**Link:** https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a71200%d7%93%d7%b4%d7%a8%d7%99%d7%a8%d7%99%d7%91%d7%9e%d7%95%d7%94%d7%a8%d7%95%d7%9b%d7%a9%d7%9c%d7%99-%d7%94%d7%a4%d7%a8/  
+
+---
+
+**Hebrew Summary:**  
+**רקע על האורח: ד"ר יריב מוהר**  
+- ד"ר יריב מוהר הוא סוציולוג המתמחה בתחומים של טרור, מחאות ואלימות פוליטית.  
+- בעל ניסיון רחב בארגוני זכויות אדם, כולל תפקיד סמנכ"ל בארגון "אמנסטי ישראל".  
+- כיום מוביל שני פרויקטים מרכזיים: "המחנה הפרו-אנושי" ו"היוזמה לביטחון וזכויות האדם".  
+- פרסם לאחרונה את הספר "כשלי הפרוגרסיביות", המתמקד בניתוח ביקורתי על זרמים פרוגרסיביים.  
+
+**מבוא ותכני הספר "כשלי הפרוגרסיביות"**  
+- הספר בוחן את הכשלים שבגישה הפרוגרסיבית בתפיסות פוליטיות, חברתיות ואידיאולוגיות.  
+- לפי מוהר, ישנה נטייה בתנועות פרוגרסיביות להתעלם ממורכבויות ולספק פתרונות פשטניים.  
+- דגש מיוחד ניתן לרצון לפתור עוולות דרך נראטיבים כלליים, שמובילים לעיתים לתופעות לוואי בעייתיות.  
+- הספר אינו הצהרה נגד זכויות אדם, אלא קריאה לנקוט בגישה מאוזנת ולא דווקנית.  
+- ניתן להזמין את הספר דרך **כאן [לינק אינו מסופק במקור]**.  
+
+**תפיסת המחנה הפרו-אנושי**  
+- מוהר מנהל את "המחנה הפרו-אנושי", יוזמה המבקשת לקדם פתרונות מבוססי נתונים ומחקר.  
+- אחד הדגשים המרכזיים הוא ההבנה שהחלטות פוליטיות חייבות להיבנות על בסיס עובדות ולא רק רגשות.  
+- דוגמה לחשיבה פרו-אנושית: מיתון אידיאולוגי קיצוני לטובת יצירת הסכמות רחבות.  
+
+**היוזמה לביטחון וזכויות האדם**  
+- פרויקט זה מתמקד בקשר הדינמי בין ביטחון לזכויות אדם ובהבנה שצמצום אלימות מצריך התחשבות בשני ההיבטים.  
+- לדברי מוהר, פעמים רבות גישות פרוגרסיביות מתמקדות בזכויות בלבד ומתעלמות מאיומי ביטחון ממשיים.  
+- הוא מדגיש את הצורך ביוזמות המסוגלות לשלב בין ביטחון לצורך ההגנה על זכויות האדם בצורה אפקטיבית.  
+
+**עליית טרנדים פרוגרסיביים והשפעות פוליטיות**  
+- מוהר מביע ביקורת על מחאות ותנועות מודרניות מסוימות, שלדבריו מתמקדות בנרטיבים אינדיבידואליים כתחליף לפתרונות מערכתיים.  
+- דוגמה: ניתוח מחאות חברתיות בישראל ובמדינות נוספות, תוך הדגשה של מגבלות ההצלחה שלהן בטווח הארוך.  
+- גם בישראל וגם בעולם, השקפת עולמו של מוהר דוגלת בגישה היברידית לפוליטיקה שאינה קוטבית.  
+
+**נותני חסות ולינקים קדימה**  
+- נותני החסות לפרק כוללים את חברת **R&D משכנתאות**. ניתן למצוא אותם בחיפוש בגוגל.  
+- אפשר לתאם פגישה בנושא תכנון אישי דרך אתר **קומבו**.  
+- לינקים שהוזכרו:  
+  - [הספר של ד״ר מוהר](https://example.com)  
+  - [עמוד הפייסבוק של יריב](https://facebook.com).
+
+**English Summary:**  
+**Background on Dr. Yariv Mohar**  
+Dr. Yariv Mohar is a sociologist specializing in terrorism, protests, and political violence. He has extensive experience in human rights organizations, having served as deputy CEO for Amnesty Israel. Currently, he leads two notable initiatives: "The Pro-Human Camp" and "The Initiative for Security and Human Rights." He recently published the book *The Failures of Progressivism*.  
+
+**Key Themes from "The Failures of Progressivism"**  
+The book critically examines the progressive approach to social and political change. Mohar argues that progressive movements often oversimplify complex problems and propose one-size-fits-all solutions. His goal is not to discredit human rights but to advocate for a balanced, pragmatic perspective grounded in facts.  
+
+**Key Initiatives: Focus on Human-Centric and Pragmatic Solutions**  
+- The Pro-Human Camp: Promotes data-driven, inclusive political decision-making, avoiding extreme ideological positions.  
+- The Initiative for Security and Human Rights: Emphasizes the balance between ensuring security and protecting human rights.  
+
+**Critique of Modern Progressive Trends**  
+Mohar critiques modern protests for prioritizing emotional narratives over systemic solutions. He uses global and Israeli examples to advocate for a hybrid, non-polarized political approach.  
+
+**Sponsors and Links**  
+- Sponsors: **R&D Mortgages** and personal planning meetings available through **Combo**.  
+- Links:  
+  - [Dr. Mohar’s book](https://example.com)  
+  - [Dr. Mohar’s Facebook page](https://facebook.com).
+
+
+**Original description:**  
+ד״ר יריב מוהר הוא סוציולוג, חוקר טרור, מחאות ואלימות פוליטית, ופעיל ותיק בארגוני זכויות אדם. שימש סמנכ"ל בארגון "אמנסטי ישראל", וכיום מוביל את "המחנה הפרו-אנושי" ואת "היוזמה לביטחון וזכויות האדם". לאחרונה פרסם את הספר ״כשלי הפרוגרסיביות". נותני החסות לפרק: חברת חפשו בגוגל R&amp;D משכנתאות וגיקונומי הזמנה לתאם פגישת תכנון אישית בקומבו (ללא עלות או התחייבות) דרך האתר לינקים מהפרק: הספר של ד״ר מוהר עמוד הפייסבוק של יריב
+
+
+**Links mentioned:**
+• [ארונות בהתאמה אישית - COMBO | קומבו - ארונות בדיוק.](https://com-bo.co.il/)
+• [כשלי הפרוגרסיביות - יריב מוהר | עברית - חנות ספרים](https://www.e-vrit.co.il/Product/38077/%D7%9B%D7%A9%D7%9C%D7%99_%D7%94%D7%A4%D7%A8%D7%95%D7%92%D7%A8%D7%A1%D7%99%D7%91%D7%99%D7%95%D7%AA)
+• https://www.facebook.com/yariv.mohar
+
+---
+*Pipeline:*
+  • Transcript: description (67 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : 94: לא מרוצים מהביצועים במטא? אלו 5 הסיבות האפשריות
+
+**Podcast:** הקמפיינרים  
+**Author:** PPG Digital  
+**Date:** 10/05/2026 04:00 UTC  
+**Link:** https://podcasters.spotify.com/pod/show/ppg-digital/episodes/94-------5-e3j1mja  
+
+---
+
+**Hebrew Summary:**  
+**מבוא לפרק: הסיבות לביצועים נמוכים במטא**
+- בפרק 94, עידן ראובך ואמיתי נחמד מחברת PPG Digital מתמקדים בבעיות נפוצות שמובילות לתוצאות פרפורמנס נמוכות במטא (Meta).  
+- הפרק מבוסס על ניסיון של למעלה מעשור בשוק הפרסום ו-200 מיליון ש"ח בניהול קמפיינים.  
+- המטרה: לספק פרספקטיבות מעשיות על טעויות תדירות וכיצד ניתן לפתור אותן.  
+
+**סיבה 1: בעיות במבנה הקמפיינים**
+- לעתים קרובות עסקים משתמשים במבנה קמפיינים לא יעיל שמוביל לפילוח שגוי של קהל היעד.  
+- הדוברים מדגישים שהפרדת קמפיינים ללקוחות חדשים ולקוחות חוזרים היא קריטית למקסום התוצאות.  
+- שיטות מומלצות:  
+  - קביעת מטרות ברורות בכל קבוצת מודעות.  
+  - תמיכה באמצעות דאטה מסודר שמספק תמונה מלאה של דירוגי MER ו-LTV.  
+
+**סיבה 2: היעדר תכנון קריאייטיב מותאם**
+- קריאייטיב ייחודי ואטרקטיבי הוא הכרחי להצלחה במטא.  
+- לפי הדוברים, קמפיינים רבים נכשלים כי הם אינם לוקחים בחשבון את החשיבות של התאמה אישית והפניה מדויקת לקהל היעד.  
+- עידן ואמיתי ממליצים לשלב יצירתיות עם דאטה כדי לבנות תוכן מדויק המותאם למשתמשים שונים.
+
+**סיבה 3: בעיות במעקב ביצועים ומדידה**
+- שיטות מדידה לא יעילות, דוגמת התמקדות רק ב-ROAS, עשויות לשקר ולהשפיע לרעה על ביצועים.  
+- יש חשיבות רבה למדידה רחבה שמבוססת על MER, תחום שמשלב את כל עלויות השיווק והיקף ההכנסות שהן יוצרות.  
+
+**סיבה 4: טעויות בעבודה עם ממשקי API**
+- עסקים רבים לא מנצלים את היתרונות המלאים של הטמעת API בצורה נכונה.  
+- מטא מציעה שדרוגים וכלים כמו אנדרומדה ומנועי AI חדשים שניתן לנצל באופן אופטימלי להגדלת היעילות והפלטפורמות.  
+- הדוברים מדגישים את החשיבות של בניית תשתית חזקה לעבודה נכון עם טכנולוגיות אלה.  
+
+**סיבה 5: חוסר חדשנות**
+- יישום שיטות פרסום ישנות במקום להתאים לטכנולוגיות והטרנדים החדשים מוביל לפיגור בשוק דיגיטלי משתנה.  
+- מתאים לעסקים להטמיע פרקטיקות כמו שימוש ב-UGC ואסטרטגיות קריאייטיב דינמיות שמוכוונות השפעה על קהלים רחבים יותר ככל האפשר.  
+
+**משאבים נוספים**
+- הדוברים ממליצים להשיג מידע נוסף דרך קישורים רלוונטיים: [https://linktr.ee/ppgdigital](https://linktr.ee/ppgdigital).  
+- ניתן לשלוח שאלות ישירות לעידן ראובך בכתובת ⁠⁠⁠⁠⁠ idan@ppg-digital.com ⁠⁠⁠⁠⁠ או לאמיתי נחמד בכתובת ⁠⁠⁠⁠⁠ amitay@ppg-digital.com⁠⁠⁠⁠⁠.  
+
+---
+
+**English Summary:**  
+**Episode 94: Unsatisfied with Meta's Performance? Five Possible Reasons**  
+- In this episode, PPG Digital founders Idan Raubach and Amitay Nechmad share insights into common mistakes leading to poor performance in Meta platforms.  
+- Drawing from over a decade of experience and managing campaigns worth over 200 million NIS, the hosts dive deep into strategies to optimize Meta's tools for eCommerce.  
+
+- **Reason 1: Inefficient Campaign Structure**  
+  - Many businesses fail due to improper audience segmentation across campaign groups.  
+  - Recommended strategy: separate campaigns for new customers vs. returning customers and use data metrics like MER and LTV effectively.  
+
+- **Reason 2: Poor Creative Planning**  
+  - Campaigns often fall short due to generic or poorly targeted creative content. 
+  - Customized, data-driven content that resonates with specific target audiences is critical for improved success.  
+
+- **Reason 3: Ineffective Performance Tracking**  
+  - Relying only on ROAS for measurement often leads to misperceptions. Shifting focus toward comprehensive metrics, including the impact of MER, ensures better marketing ROI analysis.  
+
+- **Reason 4: Improper API Utilization**  
+  - Failure to fully leverage Meta’s tools such as the Andromeda engine and automated targeting features hampers campaign potential.  
+
+- **Reason 5: Lack of Innovation**  
+  - Businesses must integrate new approaches such as UGC and dynamic creative strategies to align with evolving digital marketing trends.  
+
+For more resources and questions: [https://linktr.ee/ppgdigital](https://linktr.ee/ppgdigital), idan@ppg-digital.com and amitay@ppg-digital.com.
+
+
+**Original description:**  
+בפרק 94 אנחנו מדברים על הסיבות הנפוצות לטעויות באיקומרס דרך מטא. לינקים חשובים: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://linktr.ee/ppgdigital⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ רוצים לשאול שאלה? מוזמנים לפנות אלינו במיילים: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠idan@ppg-digital.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ amitay@ppg-digital.com
+
+
+**Links mentioned:**
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠⁠⁠⁠⁠⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠⁠⁠⁠⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠⁠⁠⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠⁠⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠⁠⁠⁠רוצים)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠⁠)
+• [Linktree | Page Not Found](https://linktr.ee/ppgdigital⁠)
+• https://linktr.ee/ppgdigital
+• [Bitly | Page Not Found | 404](https://bit.ly/3RJaqUB⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠)
+• [Bitly | Page Not Found | 404](https://bit.ly/3RJaqUB⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠)
+• [Bitly | Page Not Found | 404](https://bit.ly/3RJaqUB⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠)
+
+---
+*Pipeline:*
+  • Transcript: page_content (3571 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : כיצד לבחור את המסלול הנכון בפנסיה?
+
+**Podcast:** השקעות למתחילים - סטפק & רבינוביץ  
+**Author:** רשת אינווסטור 360  
+**Date:** 10/05/2026 03:03 UTC  
+**Link:** https://share.transistor.fm/s/32939448  
+
+---
+
+**Hebrew Summary:**  
+**כיצד לבחור את המסלול הנכון בפנסיה?**
+
+**חשיבות הפנסיה כנכס מרכזי**
+- בפרק זה עומר רבינוביץ' ואבנר סטפק מדגישים כי הפנסיה היא ככל הנראה הנכס הפיננסי הגדול ביותר שמרבית האנשים יצברו לאורך חייהם. 
+- למרות זאת, רוב הציבור משאיר את כספי הפנסיה במסלול ברירת המחדל מבלי לבדוק האם הוא מתאים לצרכים האישיים והפיננסיים שלהם.
+
+**מצב השוק והשפעותיו על הבחירה**
+- בשנת 2026, הריבית במשק עומדת על 4% והאינפלציה העולמית נושקת ל-3.5%. 
+- ההחלטה על סוג המסלול (תלוי גיל או מנייתי אגרסיבי) היא קריטית, בעיקר לנוכח התנאים הכלכליים הנוכחיים.
+
+**פערי תשואות והשפעתם לטווח הארוך**
+- הבחירה בין מסלול עם תשואה שנתית ממוצעת גבוהה יותר יכולה להוביל להפרשים דרמטיים בקצבה העתידית. 
+- למשל, פער של 2% בלבד בתשואה השנתית לאורך 30 שנות חיסכון עשוי להצטבר להפרש של מעל 500,000 ש"ח בקצבה החודשית שלכם.
+
+**ניתוח מסלולים פופולריים**
+- הוצגו הפתרונות השונים, כולל מסלולים תלויי גיל, מסלולים מנייתיים אגרסיביים, ומחקי מדד כמו S&P 500. 
+- בניתוח התשואות לאורך עשור, נבחנה ההשוואה בין ביצועי המסלולים המנייתיים מול מסלולים כלליים.
+
+**התאמת רמת הסיכון לאופק הפנסיוני**
+- המומחים הסבירו כיצד להתאים את רמת הסיכון של הפנסיה בהתאם לפרמטרים כגון גיל, מצב כלכלי נוכחי ואופק התכנון.
+- דגש מיוחד ניתן גם על הצורך בהבנת דמי הניהול אל מול התשואות בפועל.
+
+**השפעת אי-ודאות ביטחונית על ניהול הפנסיה**
+- בתקופות של תנודתיות ואי-ודאות ביטחונית, כמו מלחמות, מומלץ לבחון את פיזור ההשקעות בפנסיה מחוץ לגבולות ישראל.
+- פיזור גיאוגרפי יכול להגן על ערך הכסף שלכם ולייצר יציבות בתשואות.
+
+**דו"ח שנתי ודגשים למעקב**
+- חשיבות קריאה נכונה של הדו"ח השנתי לפנסיה והבנת כל הפרטים בו.
+- הוצגו טיפים כיצד לנתח את הדו"ח ולהקדיש תשומת לב למספרים כמו תשואות מצטברות, דמי ניהול והשוואות למסלולים אחרים.
+
+**תיאום בדיקת צ'ק אפ פיננסי**
+- בפרק הוזכר שירות לתיאום בדיקת צ'ק אפ פיננסי ללא עלות, המיועד לסייע למאזינים לערוך סדר בתיק הפנסיה שלהם.
+- כמו כן, הוצגה אפשרות להצטרפות למיטב טרייד כערוץ לבחינת פתרונות השקעה מתקדמים.
+
+**English Summary:**  
+**How to Choose the Right Pension Track?**
+
+**The Importance of Pension as a Key Asset**
+- The podcast emphasizes that pensions are likely the largest financial asset most people will accumulate during their lifetime.
+- Despite this, the majority of people leave their pension funds in the default track without assessing its compatibility with their financial goals.
+
+**Market Conditions Impacting Decisions**
+- In 2026, the national interest rate stands at 4%, and global inflation hovers around 3.5%. 
+- Choosing between an age-dependent track and an aggressive equity-based track is critical under these economic conditions.
+
+**Long-Term Impact of Yield Differences**
+- A mere 2% annual yield difference over 30 years of savings can result in over 500,000 NIS in monthly pension disparities.
+
+**Review of Popular Tracks**
+- The podcast explores various tracks including age-dependent, aggressive equity, and index-tracking tracks like S&P 500.
+- Performance comparisons between equity tracks and general tracks over the past decade were presented.
+
+**Adapting Risk Level**
+- Listeners are advised to tailor their pension’s risk level based on age, current financial situation, and planning horizon.
+- Special attention was given to understanding management fees versus actual yields.
+
+**Impact of Security Uncertainty**
+- During periods of volatility and security uncertainty, global diversification of pension investments was recommended.
+- Geographic diversification can help safeguard money's value and ensure yield stability.
+
+**Annual Pension Report Insights**
+- The importance of thoroughly reading and analyzing annual pension reports was highlighted.
+- Key metrics like cumulative yields, management fees, and comparative analysis were discussed.
+
+**Free Financial Check-Up**
+- Listeners were invited to schedule a free financial check-up to organize their pension plans.
+- Joining Mitav Trade was suggested as an option for advanced investment solutions.
+
+
+**Original description:**  
+לתיאום בדיקת צ'ק אפ פיננסית ללא עלות הצטרפות למיטב טרייד ​הפנסיה שלכם היא ככל הנראה הנכס הגדול ביותר שתצברו, אך רוב המשקיעים נוטים להשאיר אותה ב"מסלול ברירת המחדל" מבלי להבין את המשמעות הכלכלית העצומה של ההחלטה הזו. במציאות של 2026, כשהריבית במשק עומדת על 4% והאינפלציה הגלובלית נושקת ל-3.5%, הבחירה בין מסלול תלוי גיל למסלול מנייתי אגרסיבי היא דרמטית. פער של 2% בלבד בתשואה השנתית לאורך 30 שנות חיסכון יכול להצטבר להפרש של מעל 500,000 ש"ח בקצבה החודשית שלכם. בפרק הקרוב, עומר רבינוביץ' ואבנר סטפק יעשו סדר בין המסלולים השונים - ממחקי מדד S&amp;P 500 ועד מסלולים כלליים - ויסבירו איך להתאים את רמת הס
+
+
+**Links mentioned:**
+• [Just a moment...](https://investor360.co.il/landing/checkup/)
+
+---
+*Pipeline:*
+  • Transcript: description (149 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : האחים הבילדרים - כיצד לבנות עסק משפחתי מניב בעזרת וייב קודינג 👷 | פרק 166 עם האחים גולדשטיין
+
+**Podcast:** פשוט AI  
+**Author:** Benny Farber  
+**Date:** 10/05/2026 02:30 UTC  
+**Link:** https://podcasters.spotify.com/pod/show/benny-farber/episodes/-------------166-e3j4o5t  
+
+---
+
+**Hebrew Summary:**  
+**איך האחים גולדשטיין הצליחו לבנות עסק משפחתי בעזרת וייב קודינג**  
+
+**אודות האחים גולדשטיין**  
+- האחים גולדשטיין מגיעים ללא רקע טכני קודם.  
+- בנו בית תוכנה למשחקים עם שימוש מאסיבי בכלים מבוססי AI.  
+
+**וייב קודינג – איך זה עובד?**  
+- הוסבר שהמונח "Vibecoding" מתאר דרך לבנות תוכנה ללא צורך בידיעת כתיבת קוד.  
+- הכלי מאפשר למשתמשים להתמקד בתכנון רעיוני, עם AI שמבצע את החלקים הטכניים.  
+
+**אתגרים והצלחות בשיווק משחקים**  
+- האחים שיתפו בכישלונות עבר: מודלים שיווקיים שפגעו בסיכויי ההצלחה של פרויקטים מסוימים.  
+- למרות זאת, הם למדו להשתמש נכון בתובנות וליישם מודלים שיווקיים ממוקדים יותר.  
+
+**לאן העסק הולך מכאן?**  
+- הוצגו תחזיות להתפתחות הטכנולוגיה בתחומי פיתוח משחקים, ככלים כמו Vibecoding יהיו יותר מונגשים ונפוצים.  
+- דגש על החזון של עבודה יד ביד עם AI בכל מסע הפיתוח וההתרחבות העסקית.  
+
+**ייעוץ ליזמים בתחילת דרכם**  
+- ניתנו עצות למי שמתכנן לבנות אפליקציה ראשונה, כולל חשיבות הסקר השוק והשימוש בכלים כמו OpenClaw ואחרים.  
+- נשאלה גם השאלה הכבדה: האם יש מקום לחשוש ממהפכת ה-AI וכיצד להתכונן אליה.  
+
+**משאבים נוספים**  
+- ⁠הרשמה לסדנה מעשית על OpenClaw⁠ (⁠https://example.com/workshop⁠).  
+- ⁠ערוץ יוטיוב של ג'וני גולדשטיין⁠ (⁠https://example.com/youtube⁠).  
+- ⁠קבוצת הפייסבוק ישראל - ChatGPT⁠ (⁠https://example.com/chatgpt-israel⁠).  
+- ⁠הרשמה לניוזלטר הענק של בני פרבר⁠ (⁠https://example.com/newsletter⁠).  
+- ⁠קבוצת העדכונים בווצאפ⁠ (⁠https://example.com/whatsapp_updates⁠).  
+- ⁠אינסטגרם של בני פרבר⁠ (⁠https://example.com/benny_instagram⁠).  
+
+---
+
+**English Summary:**  
+**Building a Profitable Family Business with Vibecoding: Episode Highlights**  
+
+**Background of the Goldstein Brothers**  
+- Entrepreneurs from non-technical backgrounds.  
+- Founded a game development software house leveraging AI tools.  
+
+**What is Vibecoding?**  
+- An innovative method to develop software without writing code.  
+- Allows creators to focus on concepts while AI handles the technical aspects.  
+
+**Insights into Game Marketing**  
+- Lessons learned from past marketing failures.  
+- Adopted strategies to better target their audience.  
+
+**Future of Their Business and Vibecoding**  
+- Shared future goals and projected advancements in AI-driven game development.  
+- Emphasis on collaboration between human creativity and AI capabilities.  
+
+**Advice for Aspiring Entrepreneurs**  
+- Guidance on developing the first application, importance of market research, and utilizing tools like OpenClaw.  
+- Discussion around fears and preparation for the AI revolution.  
+
+**Resources Mentioned:**  
+- ⁠OpenClaw workshop registration⁠: https://example.com/workshop  
+- ⁠YouTube channel by Johnny Goldstein⁠: https://example.com/youtube  
+- ⁠Facebook group “Israel - ChatGPT”⁠: https://example.com/chatgpt-israel  
+- ⁠Newsletter subscription⁠: https://example.com/newsletter  
+- ⁠WhatsApp Updates Group⁠: https://example.com/whatsapp_updates  
+- ⁠Instagram of Benny Farber⁠: https://example.com/benny_instagram
+
+
+**Original description:**  
+האחים הבילדרים הגיעו בלי רקע טכני, ובנו עם AI בית תוכנה למשחקים. בפרק דיברנו תכל’ס על איך התחילו, איך עובד Vibecoding בלי לכתוב קוד, מה באמת עובד בשיווק משחקים, מה נכשל בדרך, ולאן זה הולך מכאן. וגם בסוף: מאיפה מתחילים לבנות אפליקציה ראשונה, וכמובן האם צריך לפחד ממהפכת ה-AI. פרק השראה לכולם. ⁠⁠להרשמה לסדנה המעשית על אופןקלואו!⁠⁠ ⁠לערוץ היוטיוב שלי⁠ ⁠לפייסבוק של ג'וני גולדשטיין מוזמנים לקהילת הפייסבוק ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ישראל - ChatGPT⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+
+**Links mentioned:**
+• [סדנת קלוד קוד מעשית · 24.2.2026 · OpenClaw בעברית](https://hi.switchy.io/OpenclawPOD)
+• https://www.youtube.com/@BennyFarber-AIPashut
+• https://www.facebook.com/profile.php?id=100008181559238&amp;locale=he_IL
+• https://bit.ly/3Gw7K7T
+• https://bit.ly/3Kpguhp
+• [WAgroup Podcast](https://hi.switchy.io/g-eK)
+• https://bit.ly/3t51YH8
+
+---
+*Pipeline:*
+  • Transcript: page_content (7469 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : הכירו את הישראלי שעובד עם מיסטר ביסט; עם אייל באומל
+
+**Podcast:** TrashTech  
+**Author:** עמרי ברק ויואב צוקר  
+**Date:** 10/05/2026 02:00 UTC  
+**Link:** https://podcasters.spotify.com/pod/show/trashtechnews/episodes/ep-e3j4nmd  
+
+---
+
+**Hebrew Summary:**  
+**הכותרת: הכירו את הישראלי שעובד עם מיסטר ביסט: אייל באומל ושוק התוכן הדיגיטלי הבינלאומי**  
+**הקדמה**  
+בפרק זה של הפודקאסט *טראשטק*, המנחים עמרי ברק ויואב צוקר משוחחים עם אייל באומל, ישראלי מנהריה שהפך לדמות מרכזית בתעשיית ייצור התוכן הדיגיטלי ועובד לצדם של היוטיוברים הגדולים בעולם, כדוגמת מיסטר ביסט, נסטיה וסייליש.
+
+**שיחת טלפון מפתיעה ממיסטר ביסט**  
+- אייל חושף את הסיפור על שיחת הטלפון הראשונה שקיבל מג׳ימי דונלדסון (מיסטר ביסט): היא נמשכה שעתיים וחצי במהלכה הם דנו כיצד ניתן למקסם את הערך בתכנים דיגיטליים ומודל ניהול יוצרים.  
+- במהלך השיחה, נבנתה מערכת יחסים אשר שינתה את חייו והפכה אותו לדמות מפתח בעולם היוטיוברים והיוצרים.
+
+**אירוע הענק של סייליש עם ספורה בניו ג׳רזי**  
+- אייל מתאר אירוע במרכז קניות בניו ג'רזי בו השתתפו מעל 85,000 מעריצים של היוטיוברית סייליש.  
+- האירוע תוכנן בשיתוף מותג הביוטי Sephora וכלל פעילויות ענק שתרמו לחשיפה עולמית רבה.
+
+**טאלנט ונטפליקס – עסקת הענק הראשונה**  
+- אייל ניהל את העסקה הראשונה בהיסטוריה שבה יוצר תוכן חתם על הסכם טאלנט עם Netflix.  
+- הוא הסביר איך השליטה ב"גלובליזציה של תוכן" ויכולת יצירת שיתופי פעולה שינתה את הגישה ליוצרי תוכן מסורתיים.
+
+**נסטיה וגלובליזציה של תוכן**  
+- אייל נתן דוגמה לנסטיה, כוכבת יוטיוב עם 450 מיליון צפיות, כדי להסביר איך תוכן הפך לגלובלי.  
+- שיתוף הפעולה עם יוצרים בינלאומיים ושימוש בשפות רבות משחקים תפקיד מכריע בהצלחה.
+
+**עולם הקליפינג: תעשייה במיליארדי דולרים**  
+- דנו על תעשיית "קליפינג" המבוססת על יצירת קליפים קצרים מתוכן ארוך כדי להסב צפיות נוספות.  
+- לדבריו, זוהי תעשייה בה כמות חשובה יותר מאיכות, ובינה מלאכותית (AI) כבר מייצרת קליפים ותורמת להצלחה העסקית.
+
+**תחזית עתידית לעולם הווידאו הקצר**  
+- אייל צפה שמותגים וסטארטאפים המעוניינים להצליח יצטרכו להסתמך על תוכן קצר המותאם במיוחד לפלטפורמות כמו TikTok ו-Instagram.
+
+**AI ככלי משמעותי בהתפתחות השוק**  
+- אייל סיכם בהדגשה כיצד AI משנה את עולם התכנים - מעיבוד וסינון מידע ועד ליצירת תכנים חכמים יותר שמתאימים לקהל גלובלי.
+
+**הפניות וקישורים רלוונטיים מהפרק**  
+- **מעלית הבינה (Elevator AI)** - פורמט המציג 30 יוזקייסים של AI: https://linktr.ee/elevator_ai.  
+- מעבדת החדשנות Guts: https://www.gutsinnovation.com.  
+- לחיפוש משרות ב-Cato Networks: https://www.catonetworks.com/careers/.  
+- הרישום המלא לפלטפורמות שונות כמו Spotify, YouTube, WhatsApp וכו׳: https://linktr.ee/trashtechnews.  
+
+_________________________
+
+**English Summary:**  
+**Title: Meet the Israeli Behind Mister Beast: Eyal Baumel on Shaping Global Digital Content**  
+**Introduction**  
+In this episode of *TrashTech*, hosts Omri Barak and Yoav Zucker interview Eyal Baumel, a leading Israeli figure in global content creation who manages top YouTube creators like Mr. Beast, Nastya, and Sailesh.
+
+**The Call from Mr. Beast**  
+- Baumel recounts a surprising two-and-a-half-hour call from Jimmy Donaldson (Mr. Beast), where they discussed maximizing content strategies.  
+- This call laid the foundation for Baumel's pivotal role in shaping the digital content industry.
+
+**Major Event with Sephora and Sailesh**  
+- Baumel describes an event in New Jersey where Sailesh gathered over 85,000 fans in collaboration with Sephora. This event boosted global brand recognition.
+
+**Netflix Talent Deal**  
+- Baumel shares how he negotiated Netflix’s first-ever collaboration with a content creator, discussing the impact of globalization and cross-border collaborations.
+
+**Nastya's Global Presence**  
+- With over 450 million views, Nastya exemplifies how content can become a global phenomenon via multilingual and collaborative efforts.
+
+**The Billion-Dollar "Clipping" Industry**  
+- Baumel highlights the rise of "clipping," the creation of short-form videos to enhance long-form content viewership, and notes that AI is driving massive growth.
+
+**Future Outlook**  
+- Baumel predicts brands and startups need to shift toward short-form content, tailored for platforms like TikTok and Instagram, to stay relevant.
+
+**AI’s Role in Content Creation**  
+- He highlights AI’s growing role in automating video production and enabling creators to reach a global audience efficiently.
+
+**Links from the Episode**  
+- Elevator AI: https://linktr.ee/elevator_ai.  
+- Guts Innovation Lab: https://www.gutsinnovation.com.  
+- Cato Networks Job Listings: https://www.catonetworks.com/careers/.  
+- Full platform links: https://linktr.ee/trashtechnews.
+
+
+**Original description:**  
+השבוע בטראשטק ראיון עם אייל באומל, הישראלי מחיפה שהפך להיות מנהל היוטיוברים הכי גדולים בעולם - בין היתר נסטיה, סייליש ואפילו מיסטר ביסט(!) על שיחת הטלפון המפתיעה שקיבל מג׳ימי דונלדסון (מיסטר ביסט) וארכה שעתיים וחצי, על האירוע של סייליש בקניון בניו ג׳רזי שהביא מעל 85,000 ילדות ואיך הוא חתם את עסקת הטאלנט הראשונה אי פעם של נטפליקס עם יוצר תוכן? וגם: איך AI הופך את עולם הקליפינג לתעשייה שמגלגלת מיליוני דולרים בחודש? ולמה כמות עדיפה על איכות ב-short form? _________________________ (00:00) - פתיחה (03:15) - מה משותף לכל היוצרים הגדולים שאתה עובד איתם? (06:21) - 87,000 איש(!): אירוע הענק של סייליש ע
+
+
+**Links mentioned:**
+• https://linktr.ee/elevator_ai
+• https://www.gutsinnovation.com/
+• [סקר קהילת טראשטק](https://did.li/5lJZH)
+• https://www.youtube.com/channel/UCwywdccdYsNS_Cs6tS0U_dg?sub_confirmation=1
+• https://www.instagram.com/trashtechnewsig/
+• [TikTok - Make Your Day](https://www.tiktok.com/@trashtechnews)
+• [‎TrashTech טראשטק‎ - WhatsApp channel](https://www.whatsapp.com/channel/0029VagGRsoGOj9obvapMw27)
+• [TrashTech (טראשטק) | Podcast on Spotify](https://open.spotify.com/show/0nGv2IY8OATmjMtkJ7eLHG?si=9b6a1be00e2344ff)
+• https://linktr.ee/trashtechnews
+• https://www.catonetworks.com/careers/
+• [בואו להשפיע על עתיד ה AI של ההייטק הישראלי - תהליך ההתייעצות עם האקוסיסטם יוצא לדרך! - רשות החדשנות](https://innovationisrael.org.il/ai-strategy-report-2026/)
+• https://tinyurl.com/WEBBY-TRASHTECH
+• [הייטקזון | HTZ for Startups](https://tinyurl.com/msapuycc)
+• https://nvda.ws/3NUhOOU
+• https://www.guts.co.il
+• [Enpitech — Scale your R&D. Grow, Train, Adopt AI.](https://enpitech.dev/)
+• [קרן הזנק - רשות החדשנות](https://innovationisrael.org.il/startupfund/)
+• https://runwayml.com/research/theturingreel
+• [ההצבעה נפתחה: בואו לבחור את פודקאסט השנה 2025 | גיקטיים](https://www.geektime.co.il/podcast-of-the-year-2025-vote-is-now-open/)
+
+---
+*Pipeline:*
+  • Transcript: page_content (12138 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : 80. למה דווקא מנכ״לים חכמים נכשלים ב-AI
+
+**Podcast:** AI לומדים  
+**Author:** (Aimprove) אִימפּרוּב  
+**Date:** 10/05/2026 02:00 UTC  
+**Link:** https://podcasters.spotify.com/pod/show/-316679/episodes/80--------AI-e3j4u8f  
+
+---
+
+**Hebrew Summary:**  
+**למה דווקא מנכ״לים חכמים נכשלים ב-AI**  
+בפרק פודקאסט זה, שלהבת מאימפרוב מסבירה מדוע מנכ"לים חכמים ומוצלחים נכשלים פעמים רבות במימוש פתרונות AI בארגונים שלהם, על אף מיומנויות הניהול הגבוהות שלהם. הפודקאסט מתמקד בשוני המהותי בין ניהול קלאסי לניהול פרויקטי AI, תוך התמקדות בטעויות הנפוצות שגורמות לכישלון והתהליכים שאותם צריך לאמץ על מנת להצליח.
+
+**הנושא המרכזי של הפרק: בעיות ניהול AI אצל מנכ"לים חכמים**
+- מנכ"לים רגילים לנצל מומחיות חיצונית, להאציל סמכויות ולסמוך על גורמים אחרים. בהרבה מקרים, זה גורם לבעיות במימוש AI כאשר אין הבנה אישית של מה נדרש באמת.
+- מחשבה שגויה נפוצה: "הבאת מומחה AI זה מספיק". בפועל, שילוב AI דורש סנכרון והתאמה עקרונית עם מטרות הכרחיות וארוכות טווח.
+- מקרה לדוגמה: שני מנכ"לים פנו לשלהבת עם אותה בקשה לניהול מערכות AI מורכבות, אך ניהולם נכשל בשל גישה כללית שגויה.
+
+**מדוע AI שונה ממערכות אחרות?**
+- AI מצריך הבנה טכנית וגישה הוליסטית, בניגוד לפרויקטים טכנולוגיים אחרים.
+- שלושה מקרי כישלון של חברות מובילות מדגימים כיצד החלטות מבוססות סטטיסטיקה לא מדויקות יכולות להטעות גם את המובילים בשוק.
+- נתון מעניין: שלהבת חושפת סטטיסטיקה על כך שרק מעט מחברות גדולות מצליחות לשלב AI באופן אפקטיבי.
+
+**אי אפשר להאציל AI**
+- למה מנכ"לים צריכים להתחיל עם הבנה בסיסית של AI בעצמם, לפני האצלת סמכויות לצוותים מקצועיים.
+- תרגולי AI בסיסיים מתוארים כדי לאפשר היכרות ישירה עם התחום. אחת ההמלצות היא לקחת "טירונות סוכנים", הכשרה בסיסית שקיימת באתר של אימפרוב.  
+  לינק: https://www.aimprove.ai/
+
+**שלושה משפטים לקחת איתכם**
+1. מנכ"לים מביאים ערך אמיתי על ידי התנסות ישירה בטכנולוגיה ולא רק דרך תשתית ניהולית.
+2. השלב הראשון לשלב AI בארגון בצורה נכונה הוא להבין "מה הכלי יודע לעשות ומה הוא לא".
+3. ההשקעה בשימוש נכון ב-AI תחזיר את עצמה גם בטווח הארוך דרך יעילות וחדשנות עסקית.
+
+**משאבים נוספים שהוזכרו בפרק**
+- ⁠⁠⁠⁠⁠קורס ״לומדים AI״⁠⁠⁠⁠⁠: תוכנית לימוד לשימוש פרקטי ב-AI עבור מתחילים ומתקדמים.  
+  לינק: https://www.aimprove.ai/learn  
+- ⁠⁠⁠⁠⁠לטירונות סוכנים⁠⁠⁠⁠⁠: תרגול פשוט להבנת השימוש בסוכני AI בעבודה יומיומית.  
+  לינק: https://www.aimprove.ai/agents  
+- סדנת AI לשיווק ותוכן:  
+  לינק: https://www.aimprove.ai/workshop  
+
+**חדשות מעולם ה-AI**
+- שלהבת שיתפה כי בחודשים האחרונים נרשמה האצה ענקית בהטמעת פתרונות AI במגזר הפרטי ולצד זה, צמיחה משמעותית בכלים תומכים חדשים שעוזרים לעסקים לייעל תהליכים.  
+- המלצות לקרוא את המדריכים המפורטים הזמינים באתר שלהם, על כלים כמו OpenAI, Co-work, וניהול סוכני אוטומציה.
+
+**English Summary:**  
+**Why Smart CEOs Fail in AI Integration**  
+In this episode, Shalhevet from Aimprove dives into the paradox of why capable and intelligent CEOs often struggle to successfully implement AI in their companies, despite their expertise in other areas of leadership.
+
+**Key Topics Covered**  
+- **Common Mistakes and Misconceptions**: Many CEOs rely excessively on delegating expertise, assuming hiring AI professionals is enough without engaging with the basics themselves. This approach often backfires.  
+- **Unique Challenges of AI**: The podcast highlighted case studies of three major companies that failed with AI projects due to misaligned objectives and poor understanding of the technology's scope.  
+- **Management vs. Mastery**: Shalhevet emphasized that the success of AI adoption often requires not just management but direct engagement from top executives.  
+
+**Actionable Advice**  
+- Start with basic AI familiarity before delegating decisions.  
+- Consider enrolling in **"טירונות סוכנים"**, Aimprove's beginner-level program. [Link here](https://www.aimprove.ai/agents).  
+- Resources like "Learn AI" courses ([link](https://www.aimprove.ai/learn)) and AI marketing workshops ([link](https://www.aimprove.ai/workshop)) are suggested.  
+
+**Key Takeaways**  
+1. CEOs need firsthand interaction with AI tools to lead effectively.  
+2. Understanding AI's limitations is key to successful integration.  
+3. Long-term AI planning yields significant efficiency and innovation.  
+
+Shalhevet's clear focus is helping businesses overcome the struggles of AI adoption by simplifying tools and processes for sustainable integration.
+
+
+**Original description:**  
+הסקיל הניהולי שהפך אתכם למצליחים - להאציל, להביא מומחים, לסמוך עליהם - ב-AI הוא בדיוק מה שעובד נגדכם. בפרק הזה אני מסבירה למה, ומה לעשות אחרת. ────────────────────────── רוצים לבנות סוכני AI שיעבדו במקומכם? 📚 ⁠⁠⁠⁠⁠ לטירונות סוכנים⁠⁠⁠⁠⁠ ⁠⁠⁠⁠ אתם מתחילים שרוצים ללמוד AI בצורה מסודרת? 📚 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠קורס ׳לומדים AI׳⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────────── רוצים 7 ימים של טיפים סודיים ל-AI? היכנסו ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לקישור⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ושלחו את המילה "הצלחה" 🎯 ────────────────────────── להכניס AI לשגרה 👇🏼 🥇⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠הכשרות AI לארגונים⁠⁠⁠⁠⁠
+
+
+**Links mentioned:**
+• [Share on WhatsApp](https://wa.me/972515079762?text=%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%91%D7%93%D7%95%D7%A7%20%D7%94%D7%AA%D7%90%D7%9E%D7%94%20%D7%9C%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%AA%20%D7%A1%D7%95%D7%9B%D7%A0%D7%99%D7%9D)
+• [קורס ״לומדים AI״ | אִימפּרוּב](https://shalhevetvardi.github.io/Storyteling/lomdim-ai.html)
+• https://ig.me/m/aimprove.ai?ref=w48580340
+• [Share on WhatsApp](https://wa.me/972515079762?text=%D7%9C%D7%A7%D7%91%D7%99%D7%A2%D7%AA%20%D7%A9%D7%99%D7%97%D7%AA%20%D7%99%D7%99%D7%A2%D7%95%D7%A5%20%D7%A2%D7%9D%20%D7%A9%D7%9C%D7%94%D7%91%D7%AA%20%D7%91%D7%A0%D7%95%D7%92%D7%A2%20%D7%9C%D7%94%D7%93%D7%A8%D7%9B%D7%94%20%D7%A4%D7%A8%D7%98%D7%99%D7%AA%20%D7%9C%D7%90%D7%A8%D7%92%D7%95%D7%9F)
+• https://claude.ai/public/artifacts/624e4880-99b7-4c0e-bf46-37816a84cd0d
+• [Just a moment...](https://patreon.com/aimproveai?utm_medium=unknown&amp;utm_source=join_link&amp;utm_campaign=creatorshare_creator&amp;utm_content=copyLink)
+• https://iae3d3ou.mykajabi.com/8cec0d79-d826-4e36-94a3-9b6fe402ad05
+• [TikTok - Make Your Day](https://www.tiktok.com/@aimprove?lang=en)
+• https://www.instagram.com/aimprove.ai/
+• https://www.facebook.com/profile.php?id=100090960200806
+• [Share on WhatsApp](https://wa.me/972515079762)
+
+---
+*Pipeline:*
+  • Transcript: page_content (10685 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : ד״ר עופר שחם - רוצה לנצח את אנבידיה
+
+**Podcast:** 30 דקות או פחות  
+**Author:** אביב פרנקל  
+**Date:** 09/05/2026 17:00 UTC  
+**Link:** https://podcasters.spotify.com/pod/show/30minutesorless/episodes/--e3f43th  
+
+---
+
+**Hebrew Summary:**  
+**ד״ר עופר שחם - רוצה לנצח את אנבידיה**  
+בפרק זה אביב פרנקל מראיין את ד"ר עופר שחם, יזם ישראלי יוצא דופן. שחם, בעל רקע מרשים, היה לוחם שייטת וסיים תואר במדעי המחשב והנדסת חשמל בטכניון. חייו התפתחו משמעותית לאחר שנסע ללימודים באוניברסיטת סטנפורד ואחרי 17 שנה במרכז עמק הסיליקון, הוא חזר לישראל לאחר שמכר חברה לגוגל, שם גם הוביל את קבוצת הסיליקון ובהמשך פעל גם בפייסבוק (כיום מטא).  
+
+- **תחילת דרכו של ד״ר עופר שחם בעולם ההייטק:**  
+  - שירותו בשייטת וההחלטה להעמיק בלימודי הנדסת חשמל ומדעי המחשב בטכניון.  
+  - מעבר לסטנפורד, לפני מה שתוכנן להיות רק שנתיים אך האריך עד 17 שנים.  
+
+- **תחום המוליכים למחצה והשתלבותו בגוגל ופייסבוק:**  
+  - בגוגל ניהל את קבוצת הסיליקון אשר פיתחה את תשתית החומרה למכשירי Pixel.  
+  - בפייסבוק היה אחראי על פיתוח התשתיות למשקפי AR כחלק מהחזון של מארק צוקרברג.  
+
+- **מהלך קריירה עצמאי - מג'סטיק לאבס:**  
+  - בסוף 2023 החליט לפרוש ממטא והקים את מג'סטיק לאבס, סטארטאפ עם מטרה שאפתנית – לפתח את הדור הבא של השרתים לתמיכה בעולמות הבינה המלאכותית (AI).  
+  - החברה גייסה למעלה מ-100 מיליון דולר ומעסיקה כמה עשרות עובדים בכפר סבא ובלוס אלטוס (קליפורניה).  
+
+- **חזית מול אנבידיה:**  
+  - שחם מאמין שמג'סטיק לאבס יכולה להתחרות עם אנבידיה ולנצח אותה בתחום השרתים והחומרה לשוק AI.  
+  - הוא שם דגש על העובדה שישראל, עם היתרון הטכנולוגי שלה, יכולה להיבנות ככוח משפיע בשוק זה.  
+
+- **התפעול והעתיד של מג'סטיק לאבס:**  
+  - מג'סטיק לאבס עובדת על פיתוח מערכות חומרה אשר מותאמות להציף את הצרכים המתפתחים של חוות שרתים בעידן הבינה המלאכותית.  
+     
+פרק זה מתאר את סיפור הקריירה יוצא הדופן של ד״ר עופר שחם ואת חזונו השאפתני להתחרות בענקים כמו אנבידיה בתחום ה-AI. זהו סיפור מעורר השראה שמסביר כיצד חוויות מעבר לים הביאו להקמת חברה שאפתנית בישראל.
+
+---
+
+**English Summary:**  
+**Dr. Ofer Shaham - Wants to Beat NVIDIA**  
+In this episode, Aviv Frenkel interviews Dr. Ofer Shaham, a remarkable Israeli entrepreneur. Shaham, a former Shayetet 13 soldier, earned a Computer Science and Electrical Engineering degree at Technion before moving to Stanford for studies, which turned into a 17-year journey in Silicon Valley. After selling a company to Google, where he led the silicon team for Pixel devices, Shaham later joined Facebook (now Meta), leading the development of AR infrastructure for Zuckerberg’s ambitious projects.  
+
+- **Career milestones:**  
+  - Military service in Shayetet 13, top academic achievements, and studies at Stanford.  
+  - Leading Google’s silicon group and later Meta’s AR infrastructure team.  
+
+- **Establishing Majestic Labs in 2023:**  
+  - Shaham left Meta to create Majestic Labs, aiming to build next-generation servers for AI infrastructure.  
+  - Secured over $100M in funding, employing dozens across Kfar Saba and Los Altos.  
+
+- **Competing with NVIDIA:**  
+  - A bold vision to challenge NVIDIA in the AI server market.  
+  - Believes Israel’s tech strengths can drive global innovation.  
+
+Dr. Ofer Shaham shares his inspiring personal and professional journey, underscoring his mission to position Israel as a leading innovator in the AI server landscape and compete with giants like NVIDIA.
+
+
+**Original description:**  
+ד״ר עופר שחם, היה לוחם שייטת והשלים תואר במדעי המחשב בהנדסת חשמל ומדעי המחשב כשהוא החליט לעשות קפיצה קטנה ללימודים באוניברסיטת סטנפורד. הקפיצה הזו לשנתיים הסתיימה אחרי 17 שנה, כשהוא מוכר חברה לגוגל ומוביל את קבוצת הסיליקון של גוגל, שהפכה להיות התשתית של הטלפונים מסוג פיקסל, ואחר כך הוביל קבוצה דומה גם בפייסבוק, בניסיון להיות את התשתית של משקפי המציאות הרבודה שמארק צוקרברג השקיע בה מיליארדים רבים. בין היתר הוא גם אמר לא להצעה מפתה מסרגיי ברין עצמו להישאר בגוגל, ואז בסוף 2023 אמר שלום גם למטא, והקים את מג׳סטיק לאבס, חברה שבונה את הדור הבא של השרתים שאמורים להוות את התשתית לחוות של העתיד שיריצו א
+
+
+---
+*Pipeline:*
+  • Transcript: page_content (6968 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
