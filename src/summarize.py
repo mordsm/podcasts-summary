@@ -197,33 +197,39 @@ Transcript:
 {transcript}"""
 
 
+_MODEL_WORD_LIMITS = {
+    "gpt-4o": 2000,       # ~3k tokens input, stays under 8k TPM with 4k output
+    "gpt-4o-mini": 6000,  # ~9k tokens input, stays under 16k TPM with 4k output
+}
+
+
 def _summarize_with_github_models(episode, text: str, github_token: str) -> tuple:
     """Returns (hebrew_summary, english_summary, steps) using GitHub Models free API."""
     from openai import OpenAI
-
-    words = text.split()
-    if len(words) > 10000:
-        text = " ".join(words[:10000])
 
     client = OpenAI(
         base_url="https://models.inference.ai.azure.com",
         api_key=github_token,
     )
-    prompt = _GITHUB_MODELS_PROMPT.format(
-        title=episode.title,
-        feed_name=episode.feed_name,
-        transcript=text,
-    )
 
-    # Try gpt-4o first, fall back to gpt-4o-mini
+    result = ""
+    # Try gpt-4o first, fall back to gpt-4o-mini; each model gets its own word limit
     for model in ("gpt-4o", "gpt-4o-mini"):
+        word_limit = _MODEL_WORD_LIMITS[model]
+        words = text.split()
+        truncated = " ".join(words[:word_limit]) if len(words) > word_limit else text
+        prompt = _GITHUB_MODELS_PROMPT.format(
+            title=episode.title,
+            feed_name=episode.feed_name,
+            transcript=truncated,
+        )
         try:
             response = client.chat.completions.create(
                 model=model,
                 messages=[{"role": "user", "content": prompt}],
                 max_tokens=4096,
             )
-            logger.info(f"  GitHub Models: used {model}")
+            logger.info(f"  GitHub Models: used {model} ({len(truncated.split())} words)")
             result = response.choices[0].message.content or ""
             break
         except Exception as e:
@@ -232,7 +238,6 @@ def _summarize_with_github_models(episode, text: str, github_token: str) -> tupl
                 raise
     else:
         raise RuntimeError("All GitHub Models attempts failed")
-    result = response.choices[0].message.content or ""
 
     hebrew_summary = ""
     english_summary = ""
