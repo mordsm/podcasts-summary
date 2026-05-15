@@ -214,11 +214,24 @@ def _summarize_with_github_models(episode, text: str, github_token: str) -> tupl
         feed_name=episode.feed_name,
         transcript=text,
     )
-    response = client.chat.completions.create(
-        model="gpt-4o",
-        messages=[{"role": "user", "content": prompt}],
-        max_tokens=4096,
-    )
+
+    # Try gpt-4o first, fall back to gpt-4o-mini
+    for model in ("gpt-4o", "gpt-4o-mini"):
+        try:
+            response = client.chat.completions.create(
+                model=model,
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=4096,
+            )
+            logger.info(f"  GitHub Models: used {model}")
+            result = response.choices[0].message.content or ""
+            break
+        except Exception as e:
+            logger.warning(f"  GitHub Models {model} failed: {type(e).__name__}: {e}")
+            if model == "gpt-4o-mini":
+                raise
+    else:
+        raise RuntimeError("All GitHub Models attempts failed")
     result = response.choices[0].message.content or ""
 
     hebrew_summary = ""

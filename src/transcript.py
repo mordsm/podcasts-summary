@@ -254,7 +254,9 @@ def try_cached_transcript(episode, transcripts_dir) -> Optional[TranscriptResult
             if line.startswith("Language:"):
                 lang = line.split(":", 1)[1].strip()
             elif line.startswith("Method:"):
-                method = "cached_" + line.split(":", 1)[1].strip()
+                raw = line.split(":", 1)[1].strip()
+                # Avoid double-prefixing if already cached
+                method = raw if raw.startswith("cached") else "cached_" + raw
         return TranscriptResult(text, method, lang, len(text.split()))
     except Exception as e:
         logger.debug(f"Cache read failed for {episode.title}: {e}")
