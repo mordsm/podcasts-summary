@@ -85,7 +85,7 @@ def try_youtube_captions(video_id: str, language: str) -> Optional[TranscriptRes
                 except Exception:
                     pass
     except Exception as e:
-        logger.debug(f"youtube-transcript-api failed for {video_id}: {e}")
+        logger.warning(f"youtube-transcript-api failed for {video_id}: {e}")
 
     # Strategy B: yt-dlp --write-auto-sub fallback
     try:
@@ -293,6 +293,13 @@ def get_transcript(episode, settings: dict, whisper_count: int = 0,
     result = try_description(episode, settings.get("description_min_length", 1500))
     if result:
         logger.info(f"  Transcript via description ({result.word_count} words)")
+        return result
+
+    # Last resort before Whisper: accept very short descriptions (≥50 words) rather than
+    # downloading audio — useful for YouTube videos blocked by bot detection
+    result = try_description(episode, 50)
+    if result:
+        logger.info(f"  Transcript via short description fallback ({result.word_count} words)")
         return result
 
     if skip_whisper:
