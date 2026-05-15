@@ -1,0 +1,225 @@
+settings:
+  hours_lookback: 168
+  description_min_length: 1500
+  max_audio_duration_minutes: 120
+  whisper_model: small
+  max_whisper_per_run: 1
+  bart_chunk_words: 800
+  summary_sentences: 8
+
+feeds:
+- name: רברס עם פלטפורמה
+  url: "https://www.reversim.com/podcast.xml"
+  spotify_url: "https://open.spotify.com/show/6Lr6PCSEqN8siYm9n6fE8N"
+
+- name: "CRM.BUZZ - סלע יפה"
+  url: "https://www.omnycontent.com/d/playlist/d4e7c321-a1cc-4ba6-aad1-ab3d015453e7/af61ad4c-3002-40d2-a55a-ab3d0159c2ee/d41d6af6-6743-423b-9b95-ab3d0159c306/podcast.rss"
+  spotify_url: "https://open.spotify.com/show/400tauDciBWSlrhI8ZAx4E"
+
+- name: Entrepreneurial Thought Leaders (ETL)
+  url: "https://rss.art19.com/entrepreneurial-thought-leaders"
+  spotify_url: "https://open.spotify.com/show/24QifPSob9PbOE5dPwQzXa"
+
+- name: Gartner ThinkCast
+  url: "http://thinkcast.gartner.libsynpro.com/rss"
+  spotify_url: "https://open.spotify.com/show/6ZmRVpUNEaZ6FyndSKb73y"
+
+- name: בזמן שעבדתם
+  url: "https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/a5d4b51f-5b9e-43db-84da-ace100c04108/0ab18f83-1327-4f4e-9d7a-ace100c0411f/podcast.rss"
+  spotify_url: "https://open.spotify.com/show/0R8OGY0eb6BJSepIApWB0z"
+
+- name: גיקונומי
+  url: "https://feed.podbean.com/geekonomy/feed.xml"
+  spotify_url: "https://open.spotify.com/show/3yrzEmFw9VwNDMaZ1EO7ue"
+
+- name: 30 דקות או פחות
+  url: "https://anchor.fm/s/9ed2e94/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/02FXr0K8Qx9KFnf6Z5ZBHR"
+
+- name: מפתחים חסרי תרבות
+  url: "https://anchor.fm/s/f907a770/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/2O6rkTXUyTjnkKmftNuDuz"
+
+- name: "הייטק, חרדים ומה שביניהם"
+  url: "https://feed.podbean.com/ddoshightechcharedim/feed.xml"
+
+- name: "השקעות למתחילים - סטפק & רבינוביץ"
+  url: "https://feeds.transistor.fm/78de6a96-5902-4320-ae28-409bd1858168"
+  spotify_url: "https://open.spotify.com/show/3mtVeLEN5ymtWdfzDAlQbt"
+
+- name: חיות כיס
+  url: "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/1ea69f94-8d46-4ff2-aaca-a919008d58b8/podcast.rss"
+  spotify_url: "https://open.spotify.com/show/44Mg6W7BrmDtJuuWF7H4b2"
+
+- name: מנהלי שיווק מצייצים
+  url: "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/7a62778d-d37b-405f-bed5-a823004b5077/ecc90fcf-a532-4177-9780-a823004c877f/podcast.rss"
+
+- name: מנועי הכסף
+  url: "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/e187fae7-3db8-4cde-8b39-a96f00cd338c/podcast.rss"
+  spotify_url: "https://open.spotify.com/show/3wjWZWBm6DK6Qim3uDRUmd"
+
+- name: סייבר עם חברים
+  url: "http://rss.castbox.fm/everest/425e8d6e10ec4664a6c87149525fa59b.xml"
+  spotify_url: "https://open.spotify.com/show/0cHwYi3F77vlX9EKO3AKwD"
+
+- name: הפודקאסט של גיא קצוביץ'
+  url: "https://www.omnycontent.com/d/playlist/902d1357-9cc1-4670-a7d8-aa7800c5719a/4cec51c6-1ef9-496b-8302-aa7800d45320/f059ccb3-e0c5-4d56-9900-aa7800d4532a/podcast.rss"
+  spotify_url: "https://open.spotify.com/show/0dTqS27ynvNmMnA5x4ObKQ"
+
+- name: עושים תוכנה
+  url: "https://www.spreaker.com/show/4221323/episodes/feed"
+  spotify_url: "https://open.spotify.com/show/6HD5lER0EM4sQfErIBawUJ"
+
+- name: Gen1
+  url: "https://anchor.fm/s/10b4c21f4/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/6td355NxBzbVilJjlKqwuH"
+
+- name: Hidden Layers
+  url: "https://anchor.fm/s/fe6a3020/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/4heKuNCOJf0YArR44gQEtC"
+
+- name: עושים טכנולוגיה עם ד״ר יובל דרור
+  url: "https://www.ranlevi.com/feed/osim_tech"
+  spotify_url: "https://open.spotify.com/show/4XIY2kRUdpgPdSEiZ0OYwz"
+
+- name: קוקיז
+  url: "https://omny.fm/shows/calcalist/playlists/playlist-6.rss"
+  spotify_url: "https://open.spotify.com/show/1IcTCKMb7Rff2ssdb3ij3U"
+
+- name: תאכלס סייבר
+  url: "https://media.rss.com/tachlescyber/feed.xml"
+  spotify_url: "https://open.spotify.com/show/20Vp4vQp0Tyie9n1XguApq"
+
+- name: לחשוב כמו האקר
+  url: "https://anchor.fm/s/1091a4e9c/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/57oUhsLBTKzb0kGbJ4Nf4A"
+
+- name: סייברסייבר
+  url: "http://www.podcasti.co/minisites/cyber/feed.xml"
+  spotify_url: "https://open.spotify.com/show/4WidBQrmsPO8uWr47b2BgV"
+
+- name: אלביט מדברים טכנולוגיה
+  url: "https://feed.podbean.com/elbittech/feed.xml"
+  spotify_url: "https://open.spotify.com/show/0Mbsm2Zxvpuu0ieWwxN992"
+
+- name: הייטקיסטים בדרכים
+  url: "https://anchor.fm/s/dbd7010/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/4Z2gj3RWj3iormw6PhEcK9"
+
+- name: הייטק בפקקים
+  url: "https://feeds.soundcloud.com/users/soundcloud:users:368846900/sounds.rss"
+  spotify_url: "https://open.spotify.com/show/1B2z6KpZhzWNUxjbzcxdzy"
+
+- name: מדברים סייבר
+  url: "http://rss.castbox.fm/everest/45fd1751186c42e1928fa9e6afe21362.xml"
+  spotify_url: "https://open.spotify.com/show/2atsexvax6MvKN3toWKqSz"
+
+- name: hackit.co.il — האקינג בעברית
+  url: "https://rss.com/podcasts/hackit/"
+  spotify_url: "https://open.spotify.com/show/21a3TXPe0fyPBycVGU3O1r"
+
+- name: הקמפיינרים
+  url: "https://anchor.fm/s/e3d5c79c/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/6KRNj0c42iElYjDXor2dLT"
+
+- name: מי אמר AI
+  url: "https://rss.buzzsprout.com/2439036.rss"
+  spotify_url: "https://open.spotify.com/show/7jmeoP2f2lXExgHPsct2my"
+
+- name: פרודקטיבי
+  url: "https://omny.fm/shows/startup-for-startup1/playlists/podcast.rss"
+  spotify_url: "https://open.spotify.com/show/768lLfODLrL2MIvQN7oz0S"
+
+- name: המנגל
+  url: "https://feed.podbean.com/brandil/feed.xml"
+  spotify_url: "https://open.spotify.com/show/5iLkjMan1ScGezPXcJWzG3"
+
+- name: להבין את סין
+  url: "https://feeds.transistor.fm/ef6b7f5b-795b-41b9-a96c-83a096c72d96"
+  spotify_url: "https://open.spotify.com/show/5xoGiVzHMblZ4RErtc3BCF"
+
+- name: TrashTech
+  url: "https://anchor.fm/s/f4876104/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/0nGv2IY8OATmjMtkJ7eLHG"
+
+- name: בינה מלאכותית בעסקים — AI Lectures
+  url: "https://open.spotify.com/show/2aQjTboIzrkANH6I3AjeAb"
+
+- name: CloudAI
+  url: "https://open.spotify.com/show/5Pe1lS4VVeHIDohPOSqDID"
+
+- name: פשוט AI
+  url: "https://anchor.fm/s/dd127d10/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/3nmpfA2evHKSVvzOnbmb0w"
+
+- name: בינה בקטנה
+  url: "https://anchor.fm/s/fb03c7e8/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/0NnB7UQUMBjx5n24FDE4Iz"
+
+- name: הצוללת
+  url: "https://omny.fm/shows/zsolelet/playlists/podcast.rss"
+  spotify_url: "https://open.spotify.com/show/7l4nVZAJYkk7JmtBlT5hJl"
+
+- name: AI לומדים
+  url: "https://anchor.fm/s/e94a1bc4/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/4ZniwrK1YaYRh9CLZxQ7T4"
+
+- name: בינה מלאכותית בגובה העיניים
+  url: "https://podcast.argmaxml.com/feed.xml"
+  spotify_url: "https://open.spotify.com/show/5bt0qGN6KIFkrH3kg5hw5J"
+
+- name: AI בגובה האוזניים
+  url: "https://rss.com/podcasts/yuvai/"
+  spotify_url: "https://open.spotify.com/show/2AOtGeU0aeQsMnAXqzfoTo"
+
+- name: "בר-דעת"
+  url: "https://anchor.fm/s/2e677e64/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/1SbZ51TpHMe2phE2YSszxC"
+
+- name: Aerospike
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCUv1x8XnpNnvUmXwJL29r4A"
+
+- name: AgenticAdvertising.Org
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC30LpsJ8uJK_lBJVz4NSP8Q"
+
+- name: Ai.Invest.Israel
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC2lV49Z_IYSR-7rNm8WsaYw"
+
+- name: ai_free_men
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCNU6tVEQqCWhQzImAK3Ab-Q"
+
+- name: Aleph
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCv7A2bI0SBkxKKKZTlIOxsw"
+
+- name: Andreas Spiess
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7_D0o48KbfhpEohoP7YSQ"
+
+- name: Andrew Huberman
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC2D2CMWXMOVWx7giW1n3LIg"
+
+- name: Anthropic
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA"
+
+- name: BSidesTLV
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCKcGZg3NT3iPEXuiLk15nrQ"
+
+- name: Creative Channel
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCFwdmgEXDNlEX8AzDYWXQEg"
+
+- name: DARPAtv
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCOIHBHRbvncMo7Bf0Vx1zEQ"
+
+- name: DDoS Community
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCgVv3AFwYIBYxX_Dm_hAvtA"
+
+- name: DEF CON Videos
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC9_QBPq2MmmThH9ftM_v5Fw"
+
+- name: DEFCONConference
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC6Om9kAkl32dWlDSNlDS9Iw"
+
+- name: DoiT
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCK6-Ti9ZjGsDwEwTFcL8zUA"
+
+- name: Elbit Systems
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnHahmwZkl4wddBn5jeHRJQ"

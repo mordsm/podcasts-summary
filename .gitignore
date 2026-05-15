@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.claude/
+claude.md
+data/transcripts/
+summarize_local.py
+results.txt.md
