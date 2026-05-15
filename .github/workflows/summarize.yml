@@ -46,6 +46,7 @@ jobs:
       - name: Run pipeline
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MODELS_TOKEN: ${{ secrets.MODELS_TOKEN }}
         run: |
           args=()
           [ "${{ github.event.inputs.test }}" = "true" ] && args+=(--test)

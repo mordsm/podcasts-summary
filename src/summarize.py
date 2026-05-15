@@ -169,13 +169,21 @@ _PRE_EXTRACT_HE_WORDS = 1500   # max words to translate (he→en)
 _PRE_EXTRACT_EN_WORDS = 4000   # max words to feed into BART
 
 _GITHUB_MODELS_PROMPT = """\
-You are summarizing a podcast episode transcript. Write TWO summaries:
+You are summarizing a Hebrew podcast episode. Write TWO detailed summaries.
 
-1. Hebrew executive summary — structured, with bold section headers (**Section Name**), bullet points with key facts/numbers. Keep English tech terms (company names, product names, numbers). Focus on technology and business insights. 400-600 words.
+IMPORTANT RULES:
+- Keep ALL English tech terms as-is (product names, company names, tools, frameworks, acronyms like AI, AGI, SaaS, API, etc.)
+- Preserve ALL URLs and links mentioned anywhere in the transcript or description
+- Hebrew summary must be LONG and DETAILED (800-1200 words) — cover every topic discussed
+- Use bold section headers (**כותרת**) and bullet points
+- Include all numbers, statistics, names, and specific claims made
+- Do NOT skip any technological, business, or product topics
 
-2. English executive summary — 150-200 words, structured with the same key points.
+1. Hebrew summary — structured with bold headers and bullets. Cover EVERY subject: technology topics, business models, products, companies, people mentioned, arguments made, predictions, and all links/resources. 800-1200 words.
 
-Respond EXACTLY in this format:
+2. English summary — 200-300 words, same structure, key points only.
+
+Respond EXACTLY in this format (no extra text before or after):
 HEBREW_SUMMARY:
 <Hebrew text>
 
@@ -207,9 +215,9 @@ def _summarize_with_github_models(episode, text: str, github_token: str) -> tupl
         transcript=text,
     )
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model="gpt-4o",
         messages=[{"role": "user", "content": prompt}],
-        max_tokens=2048,
+        max_tokens=4096,
     )
     result = response.choices[0].message.content or ""
 
@@ -228,7 +236,7 @@ def _summarize_with_models(episode, transcript_text: str, lang: str, settings: d
     """Returns (hebrew_summary, english_summary, pipeline_steps_list).
     Uses GitHub Models (free, GITHUB_TOKEN) if available, else BART+Helsinki fallback."""
     import os
-    github_token = os.environ.get("GITHUB_TOKEN", "")
+    github_token = os.environ.get("MODELS_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
     if github_token:
         text = _clean_text(transcript_text, strip_urls=False)
         return _summarize_with_github_models(episode, text, github_token)
