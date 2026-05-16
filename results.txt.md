@@ -2829,3 +2829,63 @@ Dr. Ofer Shaham shares his inspiring personal and professional journey, undersco
   • Transcript: page_content (6968 words, lang=he)
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter Name : דור ששון - תמחור תוכנה בעידן של בינה מלאכותית
+
+**Podcast:** 30 דקות או פחות  
+**Author:** אביב פרנקל  
+**Date:** 16/05/2026 17:00 UTC  
+**Link:** https://podcasters.spotify.com/pod/show/30minutesorless/episodes/--e3ift7e  
+
+---
+
+**Hebrew Summary:**  
+**HEBREW_SUMMARY**:
+
+**תמחור תוכנה בעידן של בינה מלאכותית - דור ששון**  
+בפרק זה אביב פרנקל מראיין את דור ששון, יזם ומייסד שותף של **Stigg**, פלטפורמה חדשנית שמספקת מפתרונות תמחור חכמים לחברות תוכנה.  
+להלן הנושאים המרכזיים שנידונו בפרק:
+
+### **נקודת ההתחלה בקריירה של דור ששון**
+- דור שירת ביחידת **8200**, משם התחילה דרכו בהייטק.
+- בתפקידו הראשון עבד כמנהל מוצר בסטארט-אפ, אך החברה נסגרה.
+- בעקבות עבודתו בחברה שנרכשה על ידי **New Relic**, הגיע למסקנה לגבי הצורך בשינוי מודל התמחור של תוכנה בעקבות עליות עלויות המחשוב.
+
+### **הקמת Stigg ב-2021**
+- החברה הוקמה מתוך זיהוי פער בשוק התוכנה, במיוחד לאור הופעתם של מודלים מבוססי **AI** כמו **ChatGPT**.
+- המטרה המרכזית: לאפשר שינויי תמחור דינמיים ומהירים בתוכנה באמצעות ממשק שמיועד, בעיקר, למפתחים.
+- החברה גייסה כ-30 מיליון דולר עד כה.
+
+### **לקוחות והיקף הפעילות של Stigg**
+- **Stigg** כבר עובדת עם חברות גדולות כמו **Webflow**, **Miro**, ו-**AI21**.  
+- הכנסות החברה קרובות ל-10 מיליון דולר בשנה.
+
+### **דגש על עולם התמחור בעידן ה-AI**
+- פרנקל ודור דנו על ההתמודדות של חברות עם עלויות טכנולוגיה גוברות ואיך פלטפורמות מקוונות ותמחורים מודולריים מצליחים לתת מענה בגמישות.
+
+---
+
+**ENGLISH_SUMMARY**:
+
+**Software Pricing in the AI Era - Dor Sasson**  
+In this episode, Aviv Frenkel interviews Dor Sasson, co-founder of **Stigg**, a platform redefining software pricing models for developers.  
+Key topics discussed include:
+
+- **Career Beginnings**: Sasson, an alum of Unit **8200**, began his career in tech as a product manager in a startup that eventually folded. Later, his work at a company acquired by **New Relic** highlighted the growing complexities in software pricing.
+
+- **Founding Stigg (2021)**: Identifying a market gap, Sasson co-founded Stigg just before the boom of **AI** solutions like **ChatGPT**. Stigg offers dynamic pricing tools focusing on agility and developer-centric interfaces, raising $30M in funding.
+
+- **Client and Revenue Growth**: With customers like **Webflow**, **Miro**, and **AI21**, Stigg's annual revenue is nearing $10M.
+
+- **AI's Impact on Pricing Models**: The discussion explored how rising computing costs and evolving AI technologies necessitate flexible and modular pricing approaches for SaaS companies.
+
+
+**Original description:**  
+דור ששון שירת ב-8200 והתחיל את דרכו בהייטק, כמנהל מוצר בסטרטאפ שבסופו של דבר נסגר. התפקיד הבא שלו בחברה שנמכרה לבסוף לניו רליק הוביל אותו למסקנה שבעולם שבו עלויות המחשוב עולות וחברות נאלצות להמציא מחדש את מודל התמחור שלהן יש פער וזו בדיוק הסיבה שהוא הקים את סטיג. השנה הייתה 2021, רגע לפני ההופעה של צ׳אטג׳יפיטי והמודלים הגדולים ששברו את האופן שבו חברות תוכנה מתמחרות את השירות שלהן תזמון מצויין להקים את סטיג, שפיתחה ומנהלת פלטפורמה המאפשרת למפתחים לבצע שינויים בתמחור של מוצר התוכנה שלהם. הם גייסו כמעט 30 מיליון דולר עם הכנסות שמדגדגות את העשרה מיליון דולר מלמטה, ולקוחות כמו וובפלואו, מירו ואי אי
+
+
+---
+*Pipeline:*
+  • Transcript: page_content (6993 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
