@@ -2889,3 +2889,96 @@ Key topics discussed include:
   • Transcript: page_content (6993 words, lang=he)
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter Name : 81. למה כל מי שעובד עם AI עושה את הטעות הזאת??
+
+**Podcast:** AI לומדים  
+**Author:** (Aimprove) אִימפּרוּב  
+**Date:** 16/05/2026 22:04 UTC  
+**Link:** https://podcasters.spotify.com/pod/show/-316679/episodes/81-------AI-e3jffpg  
+
+---
+
+**Hebrew Summary:**  
+**
+
+**מבוא לפרק: יותר קונטקסט = תוצאות טובות?**  
+בפרק 81 של הפודקאסט "AI לומדים", שלהבת מהחברה Aimprove שואלת שאלה שמטרידה רבים בעולם הבינה המלאכותית: מדוע עבודה עם כמויות עצומות של קונטקסט וטוקנים עשויה לא להביא לתוצאות הרצויות, ומהי השיטה האפקטיבית ביותר לעבודה עם AI בצורה יעילה.  
+
+**מה בפרק?**  
+- **מיתוס הקונטקסט והתוצאה:**  
+הנחה נפוצה היא שככל שנזין מודל AI ביותר קונטקסט (כמו מיליון טוקנים), כך אופן התגובה והתשובות יהיו איכותיות יותר. שלהבת סותרת עמדה זו באמצעות הצגה של שלושה מחקרים, בהם הוכח הפוך: במקום להגדיל קונטקסט באופן חסר הבחנה, יש חשיבות לריכוז מידע רלוונטי בלבד.  
+   
+- **מהם הסיכונים של עודף קונטקסט?**  
+שלהבת מסבירה שדחיסת קונטקסט רב מדי לתוך מודל AI עשויה לגרום לכשל בטיפול בנתונים, עקב תהליך המכונה *attention mechanism*. הוא מבוסס על `zero-sum`, שמשמעותו שמשאבי המודל מתפזרים על כל הנתונים, ובכך עלולה להיפגם היכולת של המודל להבין משימות מוגדרות היטב.
+
+- **שימור מיקוד והשפעותיו:**  
+שלהבת מדגישה את החשיבות של ריכוז בקונטקסט רלוונטי במקום להוסיף טקסטים "לתוך הסיר".  
+    - דוגמה חיה עם "בן" - מקרה שבוסס על ניסיון אמיתי בו מודל לא עבד במיטבו כי צומצם הריכוז על המשימה.  
+    - הצעת פתרון: עבודה עם *agents* (סוכנים ממוקדים), במקום להפעיל מודל אחד ענק לכול ארגון.
+
+- **מקרי מבחן על שימוש נכון בקונטקסט ארוך:**  
+שלהבת מסבירה מתודולוגיה מדויקת שבה שיחה ארוכה עם AI בכל זאת יכולה לעבוד, ומתי כן כדאי לצמצם.
+
+**לימודים והכשרות AI:**  
+- שלהבת מציעה סדנה בשם *"טירונות סוכנים"* לאנשים שמעוניינים לבנות סוכני AI בהתאם למתודולוגיות שהיא פיתחה.  
+- בנוסף, היא מזמינה למתעניינים לקחת חלק ב*"'לומדים AI"', קורס חדשני שמטרתו ללמד אינטגרציה קלה ופרקטית עם AI בעבודה, בעסקים ובחיי היום-יום.  
+
+**תחזיות והמלצות לעתיד:**  
+- שלהבת שמה דגש על בחירה סלקטיבית של משאבי קונטקסט לצמצום רעשים; כלים חדשים, ובעתיד, גורמים נוספים שיעניקו מענה לסוגיות המורכבות שעלו בפרק.  
+- החברה שלה, Aimprove, ממשיכה להיות מעורבת בסנגנון שיפור עם AI, ומזמינה את המשתמשים לעקוב אחריה במדיה החברתית – [טיקטוק](https://tiktok.com), [אינסטגרם](https://instagram.com), [פייסבוק](https://facebook.com) ללמידת עוד טיפים חינמיים.  
+
+**דגשים לקראת הפרקים הבאים:**  
+- שלהבת מתכננת להמשיך לעשות דיבייט על היתרונות והחסרונות של כלים וטכנולוגיות AI.  
+- פרקים מיוחדים צפויים להתמקד כיצד ניתן לעבוד צמוד עם סוכני בינה מלאכותית ככלי עזר לעבודה יומיומית.  
+
+---
+
+**
+
+**English Summary:**  
+**  
+
+**Episode Summary: More Context = Better Results?**  
+In episode 81 of the "AI לומדים" podcast, Shalhevet from Aimprove challenges a common assumption in the AI community: providing more and more context (e.g., millions of tokens) will always lead to better outcomes. She presents three studies that support the opposite viewpoint, emphasizing the significance of focusing on relevant information rather than overwhelming models with excessive data.  
+
+**Key Points Discussed:**  
+- **Debunking the "More Context" Myth:**  
+  - Many people believe feeding Large Language Models extensive context will yield better results. However, Shalhevet explains how overloading a model can reduce accuracy due to `attention mechanism` being a *zero-sum* process, where resources get spread thinly over too much data.  
+  - Instead, using focused data and assigning smaller, specific *agents* to tasks achieves superior outcomes.  
+
+- **Example of Focused Context:**  
+  A real-life example, involving a case study with a user named "Ben," demonstrated how too much irrelevant context made the AI miss its mark. Shalhevet highlights when it's appropriate to use long conversations and when to break them down.  
+
+**Learn More About AI Training:**  
+- *"טירונות סוכנים"* Bootcamp: Tailored for users looking to build AI agents.  
+- *"'לומדים AI'"*: A structured course focused on integrating AI into work and daily life effectively.  
+
+**Expert Tips & Engagement:**  
+Follow Aimprove online – [TikTok](https://tiktok.com), [Instagram](https://instagram.com), [Facebook](https://facebook.com) – for regular AI tips.  
+
+Expect upcoming episodes to explore tool reviews, practical practices with AI agents, and identifying effective automation strategies.
+
+
+**Original description:**  
+יותר קונטקסט = תוצאות יותר טובות? שלושה מחקרים מראים שזה הפוך. בפרק הזה אני חושפת למה מיליון טוקנים לא פותרים כלום, ומה כן. ────────────────────────── רוצים לבנות סוכני AI שיעבדו במקומכם? 📚 ⁠⁠⁠⁠⁠⁠ לטירונות סוכנים⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠ אתם מתחילים שרוצים ללמוד AI בצורה מסודרת? 📚 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠קורס ׳לומדים AI׳⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────────── רוצים 7 ימים של טיפים סודיים ל-AI? היכנסו ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לקישור⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ושלחו את המילה &quot;הצלחה&quot; 🎯 ────────────────────────── להכניס AI לשגרה 👇🏼 🥇⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠הכשרות AI לארגונים⁠⁠⁠⁠⁠⁠⁠
+
+
+**Links mentioned:**
+• [Share on WhatsApp](https://wa.me/972515079762?text=%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%91%D7%93%D7%95%D7%A7%20%D7%94%D7%AA%D7%90%D7%9E%D7%94%20%D7%9C%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%AA%20%D7%A1%D7%95%D7%9B%D7%A0%D7%99%D7%9D)
+• [קורס ״לומדים AI״ | אִימפּרוּב](https://shalhevetvardi.github.io/Storyteling/lomdim-ai.html)
+• https://ig.me/m/aimprove.ai?ref=w48580340
+• [Share on WhatsApp](https://wa.me/972515079762?text=%D7%9C%D7%A7%D7%91%D7%99%D7%A2%D7%AA%20%D7%A9%D7%99%D7%97%D7%AA%20%D7%99%D7%99%D7%A2%D7%95%D7%A5%20%D7%A2%D7%9D%20%D7%A9%D7%9C%D7%94%D7%91%D7%AA%20%D7%91%D7%A0%D7%95%D7%92%D7%A2%20%D7%9C%D7%94%D7%93%D7%A8%D7%9B%D7%94%20%D7%A4%D7%A8%D7%98%D7%99%D7%AA%20%D7%9C%D7%90%D7%A8%D7%92%D7%95%D7%9F)
+• https://claude.ai/public/artifacts/624e4880-99b7-4c0e-bf46-37816a84cd0d
+• [Just a moment...](https://patreon.com/aimproveai?utm_medium=unknown&amp;utm_source=join_link&amp;utm_campaign=creatorshare_creator&amp;utm_content=copyLink)
+• https://iae3d3ou.mykajabi.com/8cec0d79-d826-4e36-94a3-9b6fe402ad05
+• [TikTok - Make Your Day](https://www.tiktok.com/@aimprove?lang=en)
+• https://www.instagram.com/aimprove.ai/
+• https://www.facebook.com/profile.php?id=100090960200806
+• [Share on WhatsApp](https://wa.me/972515079762)
+
+---
+*Pipeline:*
+  • Transcript: page_content (10767 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
