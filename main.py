@@ -136,10 +136,76 @@ def append_result(text: str):
         f.write("\n")
 
 
-# ── Telegram stub ─────────────────────────────────────────────────────────────
+# ── Telegram ──────────────────────────────────────────────────────────────────
 
-def send_telegram(text: str):
-    logger.info("TODO Telegram: " + text[:100])
+RESULTS_URL = "https://github.com/ZacSadan/podcasts-summary/blob/master/results.txt.md"
+_TG_MAX = 4096
+
+
+def _tg_escape(text: str) -> str:
+    """Escape special characters for Telegram HTML mode."""
+    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def _extract_hebrew_summary(formatted: str) -> str:
+    """Pull the Hebrew summary block out of the formatted markdown output."""
+    if "**Hebrew Summary:**" not in formatted:
+        return ""
+    after = formatted.split("**Hebrew Summary:**", 1)[1]
+    # Stop at English summary or original description
+    for marker in ("**English Summary:**", "**Original description:**", "---"):
+        if marker in after:
+            after = after.split(marker, 1)[0]
+    return after.strip()
+
+
+def send_telegram(episode, formatted_summary: str):
+    import os
+    import requests as _req
+
+    bot_token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
+    if not bot_token or not chat_id:
+        logger.info("  Telegram: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set — skipping")
+        return
+
+    date_str = episode.published.strftime("%d/%m/%Y")
+    he_summary = _extract_hebrew_summary(formatted_summary)
+
+    # Build header (always included)
+    header = (
+        f"🎙 <b>{_tg_escape(episode.feed_name)}</b>\n"
+        f"📝 {_tg_escape(episode.title)}\n"
+        f"📅 {date_str}\n"
+        f"🔗 <a href=\"{episode.url}\">האזנה לפרק</a>\n\n"
+    )
+    footer = f"\n\n<a href=\"{RESULTS_URL}\">📄 סיכום מלא ב-GitHub</a>"
+
+    # Fit as much Hebrew summary as possible between header and footer
+    budget = _TG_MAX - len(header) - len(footer) - 30  # 30 chars safety margin
+    if he_summary:
+        body = "<b>סיכום:</b>\n" + _tg_escape(he_summary)
+        if len(body) > budget:
+            body = body[:budget - 3] + "..."
+    else:
+        body = ""
+
+    message = header + body + footer
+
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    try:
+        resp = _req.post(url, json={
+            "chat_id": chat_id,
+            "text": message,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": False,
+        }, timeout=15)
+        if resp.ok:
+            logger.info("  Telegram: message sent")
+        else:
+            logger.warning(f"  Telegram: send failed {resp.status_code} — {resp.text[:200]}")
+    except Exception as e:
+        logger.warning(f"  Telegram: send error — {e}")
 
 
 # ── Main pipeline ─────────────────────────────────────────────────────────────
@@ -236,7 +302,7 @@ def main():
         append_result(summary)
         mark_seen(seen, episode.id)
         save_seen(seen)
-        send_telegram(f"{episode.feed_name} — {episode.title}")
+        send_telegram(episode, summary)
         logger.info("  Done.")
 
         # Stop if whisper budget is exhausted (production only; test mode processes all 3)
