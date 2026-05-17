@@ -3386,3 +3386,79 @@ Looking ahead, Farbman highlighted ambitious projects his company is working on 
   • Transcript: page_content (12189 words, lang=he) — No audio download — summary based on show notes / description only
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter Name : העתיד של חברות הטק
+
+**Podcast:** בזמן שעבדתם  
+**Author:** mako מאקו  
+**Date:** 13/05/2026 09:05 UTC  
+**Generated:** 17/05/2026 09:38 UTC  
+**Link:** https://omny.fm/shows/program-51/2e71604b-1702-4628-aeee-b449009122ad  
+
+---
+
+**Hebrew Summary:**  
+**מושגי יסוד וכללים במחירים ותהליכים משפטיים**  
+- דוברי הפודקאסט מתארים את התהליך של יצירת הסכם שותפות בעת הקמת סטארטאפ בשם ג'אמפסטארט.  
+- הם מדגישים את העלות הגבוהה של עורכי דין ואת הקשיים הכרוכים בבחירה בעורך דין מתאים, תוך הבנת יתרונות וחסרונות של תהליך כזה.  
+- יש דיון על המחיר הגבוה שנגבה על ידי עורכי דין עבור יצירת מסמכים פשוטים.
+
+**היסטוריית עורכי הדין בתרבות פופולרית**  
+- דנים על העיסוק בעריכת דין וכיצד הסדרות הטלוויזיוניות השפיעו על תפיסת המקצוע בציבור.  
+- בין הסדרות שהוזכרו: "אלי מקביל", "פקולטת אלי" וכמובן סדרת הדגל "חוק וסדר".  
+- דוברי הפודקאסט מדגישים שישראל בעלת מספר עורכי הדין הגבוה לכל אלף נפש בעולם – קרוב ל-700 עורכי דין לכל אלף איש – יותר מארצות הברית, אנגליה, צרפת או גרמניה.  
+
+**השפעות AI והשימוש ב-ChatGPT בתחום המשפט**  
+- דיון על איך כלי AI כמו GPT-3 יכולים לסייע לעורכי דין, כולל כתיבת חוזי שכירות ודוגמה מסיפור של וינסטון ויינברג וגייב פרירה.  
+- הם ניגשו לפורום R/legaladvice ברדיט, והציגו שאלות משפטיות ל-GPT-3, ששתי שלישים מהן אושרו על ידי עורכי דין.  
+- הם יצרו AI ייעודי לתחום המשפטי בשם Harvey שמיועד להתמודדות עם מסמכים משפטיים.  
+- 50% ממשרדי עורכי הדין הגדולים בארצות הברית משתמשים בכלי הזה.  
+- Harvey שווה כבר מעל 11 מיליארד דולר לאחר גיוס השקעה של 200 מיליון דולר בפברואר, עם הכנסות של 200 מיליון דולר.
+
+**התיאוריה של סקויה והשפעות על העתיד של חברות טכנולוגיה**  
+- חברת סקויה מציגה תיאוריה על חברות הייטק עתידיות: הן יהפכו להיות חברות תוכנה המתחזות לחברות שירותים (SaaS).  
+- סקויה מממשת את הרעיון באסטרטגיה של "דיפ ספציפיות" - לימוד מודלים של AI להתמקדות בתעשייה מסוימת מאוד.  
+- בסקויה מאמינים שהתפתחות AI כעיקר הפעילות בתחומים כמו פיננסים, משפטים ואפילו רפואה, תוביל לחברה טכנולוגית בשווי טריליון דולר.  
+- התיאוריה גורמת לכך שהגבול בין תוכנה לשירות הופך מטושטש, כשהתוכנה מתפקדת כספק שירותים ישיר.
+
+**מסקנות וסיכום**  
+- הפודקאסט טוען שלמרות ההתלהבות מיכולת AI, יש עדיין חסמים מרובים בשימוש יומיומי שלו.  
+- יש דיון על האתגרים שעדיין קיימים במודלים של AI כיום, כמו הדיוק בתשובות המשפטיות.  
+- מסקנה עיקרית: עתיד חברות הטכנולוגיה מתבסס על התיאוריה של סקויה ועל המיזוג בין התוכנה לשירותים.
+
+---
+
+**English Summary:**  
+**Key Topics Covered in the Episode**  
+- The podcast explores the creation of business partnerships in founding a startup called Jumpstart, discussing challenges in hiring lawyers and the high costs associated with legal consultancy fees.  
+- The historical depiction of legal professionals in TV shows shapes public perceptions of the profession, with references to famous shows like "Ally McBeal," "Law & Order," and others.  
+
+**Israel's Legal Industry Insights**  
+- Israel ranks first worldwide in lawyer density, with nearly 700 lawyers per 1,000 residents, surpassing even the U.S. and major European countries like the UK, France, and Germany.
+
+**AI in Legal Services – Harvey**  
+- The discussion highlights GPT-3's capabilities, such as drafting legal agreements. GPT-3 performed well enough to have its responses validated by two-thirds of sampled legal professionals in a Reddit experiment.  
+- Harvey, a tailored AI model for legal use, has gained adoption by 50% of large law firms in the U.S., generating $200M in revenue with a current valuation exceeding $11B.
+
+**Sequoia's Bold Tech Theory**  
+- Venture capital firm Sequoia introduces the idea of "Deep Specificity," AI models trained for super-specific tasks within industries.  
+- They predict that the next trillion-dollar company will operate as a software business that masquerades as a services provider (SaaS model).  
+- This effectively blurs the boundaries between software and services, revolutionizing how industries like finance, law, and healthcare operate.  
+
+**Conclusion**  
+- While AI shows promise in specific areas, there are limitations to its accuracy and practical applications.  
+- The future of tech companies will largely be defined by their ability to leverage AI-driven niche solutions, blending software and services seamlessly.
+
+
+**Original description:**  
+פרק 265: האם הבינה המלאכותית עומדת להחליף את עורך הדין או רואה החשבון שלכם? אם להסתמך על התחזית המטלטלת של קרן ההשקעות סקוויה - בהחלט כן. אנחנו נכנסים לעידן שבו חברות הטק כבר לא מוכרות לנו רק תוכנה, אלא מתחפשות לשירותים מקצועיים שלמים שפועלים באופן אוטונומי. בפרק נדבר על המודלים שכבר מחליפים מערכים אנושיים שלמים, ננתח איך ייראו חברות העתיד והאם המודל העסקי המוכר לנו עומד להיעלם מהעולם. והשאלות שבאמת מטרידות: האם הקוד הופך לבעל המקצוע החדש ואיך המהפכה הזו תפגוש את כולנו בשוק העבודה? עורכת: אפרת מירון See omnystudio.com/listener for privacy information.
+
+
+**Links mentioned:**
+• [Privacy FAQ](https://tritondigital.com/privacy-faq)
+
+---
+*Pipeline:*
+  • Transcript: cached_cached_whisper (7491 words, lang=he) — Full audio file transcribed (Whisper)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
