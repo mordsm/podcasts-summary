@@ -227,3 +227,102 @@ feeds:
 
 - name: Elbit Systems
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnHahmwZkl4wddBn5jeHRJQ"
+
+- name: Israeli Tech Radar
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCV7lV9Lq2sc7t0QEKS4xH7A"
+
+- name: EEVblog
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCkGvUEt8iQLmq3aJIMjT2qQ"
+
+- name: James Bruton
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC13aEpuN2YzNXZuTVBFdW8x"
+
+- name: Mark Rober
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC513PdAP2-jWkJunTh5kXRw"
+
+- name: Google Israel
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA"
+
+- name: Seeed Studio
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC5mX-JaRWXc8cBc1gm5kKhg"
+
+- name: Israel MoD Online
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrx5c6Aq8O4_7SwlwaJxpFg"
+
+- name: TrafficGuard
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCqlm3_iS79_g7yHni13AXJA"
+
+- name: Israel National Cyber Directorate
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCHWw5LlRlRSWVxosc2N-ldg"
+
+- name: Israel Innovation Authority
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCsZUwvcpHpRoyuUDsUGEoHa"
+
+- name: AI With Henry
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCA4LQVMTiRVXfQLf-6LzIdA"
+
+- name: Flipper Zero
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCfKVWB_pOfsY-HQ2siMBn6g"
+
+- name: Unpacked
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCmouT0FDMQC8PH8CbQFdHUw"
+
+- name: Lets AI News
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9pDOWLJmhJ4BK_CH8pWsw"
+
+- name: Google DeepMind
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A"
+
+- name: Bloomberg
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCIALMKvObZNtJ6AmdCLP7Lg"
+
+- name: Veritasium
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCin0m13qWv3-051xlWlHamA"
+
+- name: Cheddar
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC04KsGq3npibMCE9Td3mVDg"
+
+- name: The Quantified Scientist
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCcpARGzXNaC62UQWns2dh2Q"
+
+- name: Big Think
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCswF-Mg6JuPBdHHzoK9ftDQ"
+
+- name: Discovery Australia
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrI8nYwHMoMAqT7QFRwlzrQ"
+
+- name: Absolute History
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC88lvyJe7aHZmcvzvubDFRg"
+
+- name: Black Hat
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg"
+
+- name: HardwareX
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCEPJOevlsHMp4WLq4NRtwAQ"
+
+- name: Vox
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA"
+
+- name: Business Insider
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCHJuQZuzapBh-CuhRYxIZrg"
+
+- name: Insider
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA"
+
+- name: WIRED
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCftwRNsjfRo08xYE31tkiyw"
+
+- name: Discovery
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCqOoboPm3uhY_YXhvhmL-WA"
+
+- name: Cleo Abram
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA"
+
+- name: The Patent Yogi
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCj8rIEAZPqxxT3wSSef_Mpg"
+
+- name: MDLI
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCfmK_Tsp2VJVFokMb6N3r1Q"
+
+- name: Rafael Marketing
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC04S29lWGVyLU1HZEFwWnVB"
