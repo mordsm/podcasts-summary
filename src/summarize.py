@@ -346,7 +346,17 @@ def summarize_episode(episode, transcript, settings: dict) -> str:
     urls = _extract_urls(raw_text) + _extract_urls(episode.description or "")
     urls = list(dict.fromkeys(urls))
 
-    transcript_step = f"Transcript: {transcript.method} ({transcript.word_count} words, lang={lang})"
+    method = transcript.method
+    if "whisper" in method:
+        audio_note = "Full audio file transcribed (Whisper)"
+    elif method.startswith("youtube_captions"):
+        audio_note = "No audio download — YouTube captions used"
+    elif method == "rss_tag":
+        audio_note = "No audio download — transcript from RSS feed"
+    else:
+        audio_note = "No audio download — summary based on show notes / description only"
+
+    transcript_step = f"Transcript: {method} ({transcript.word_count} words, lang={lang}) — {audio_note}"
     pipeline_steps = [transcript_step]
 
     try:
