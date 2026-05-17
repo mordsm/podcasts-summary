@@ -327,7 +327,10 @@ def _format_output(episode, hebrew_summary: str, english_summary: str,
     if urls:
         enriched = _enrich_urls(urls[:20])
         lines = []
+        _SKIP_TITLES = {"privacy faq", "privacy policy", "just a moment..."}
         for u, title in enriched:
+            if title.lower() in _SKIP_TITLES:
+                continue
             lines.append(f"• [{title}]({u})" if title else f"• {u}")
         url_block = "\n\n**Links mentioned:**\n" + "\n".join(lines)
 

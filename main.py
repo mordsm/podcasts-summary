@@ -148,14 +148,16 @@ def _md_to_tg_html(text: str) -> str:
     text = text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     # ## Heading → <b>Heading</b>
     text = _re.sub(r'^#{1,3} (.+)$', r'<b>\1</b>', text, flags=_re.MULTILINE)
-    # **bold** → <b>bold</b>
+    # **bold** → <b>bold</b>  (must come before single-star rule)
     text = _re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', text)
+    # *italic/bold* (single star, e.g. *Pipeline:*) → <b>text</b>
+    text = _re.sub(r'(?<!\*)\*([^*\n]+)\*(?!\*)', r'<b>\1</b>', text)
     # [title](url) → <a href="url">title</a>
     text = _re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2">\1</a>', text)
-    # bare URLs that weren't in a link
-    text = _re.sub(r'(?<!["\(])https?://\S+', lambda m: f'<a href="{m.group()}">{m.group()}</a>', text)
-    # strip ---- dividers
-    text = _re.sub(r'^----+$', '', text, flags=_re.MULTILINE)
+    # bare URLs not already inside an href
+    text = _re.sub(r'(?<!href=")https?://\S+', lambda m: f'<a href="{m.group()}">{m.group()}</a>', text)
+    # strip --- and ---- divider lines
+    text = _re.sub(r'^-{2,}$', '', text, flags=_re.MULTILINE)
     # collapse 3+ blank lines to 2
     text = _re.sub(r'\n{3,}', '\n\n', text)
     return text.strip()
