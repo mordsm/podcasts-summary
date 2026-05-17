@@ -142,6 +142,16 @@ def append_result(text: str):
 
 _TG_MAX = 4096
 
+_TG_STRIP_RE = re.compile(
+    r'\*\*(?:English Summary|Original description):\*\*.*?(?=\n\*\*|\n---|\Z)',
+    re.DOTALL,
+)
+
+
+def _strip_for_telegram(text: str) -> str:
+    """Remove English Summary and Original description blocks before sending to Telegram."""
+    return re.sub(r'\n{3,}', '\n\n', _TG_STRIP_RE.sub('', text)).strip()
+
 
 def _md_to_tg_html(text: str) -> str:
     """Convert the markdown used in results.txt.md to Telegram HTML."""
@@ -193,8 +203,9 @@ def send_telegram(formatted_summary: str):
         logger.info("  Telegram: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set — skipping")
         return
 
-    # Split markdown first so HTML tags are never cut across chunk boundaries
-    md_chunks = _tg_split(formatted_summary)
+    # Strip sections not needed in Telegram, then split before HTML conversion
+    tg_text = _strip_for_telegram(formatted_summary)
+    md_chunks = _tg_split(tg_text)
     api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     sent = 0
     try:
