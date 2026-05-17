@@ -57,6 +57,8 @@ The pipeline runs on a free GitHub-hosted Ubuntu runner. All state is stored in 
 - **Smart link handling** — Dead links are dropped, `example.com` removed, and URL shorteners (`bit.ly`, `t.co`, etc.) resolved to their final destination
 - **Feed filtering** — Run on a specific feed by name via `workflow_dispatch` input
 - **Test mode** — Process one small episode per feed type to verify the pipeline without long Whisper jobs
+- **Telegram delivery** — Each new summary is sent automatically to a Telegram channel; supports chunked messages for long summaries and respects rate limits
+- **Resend history** — Re-send all existing `results.txt.md` entries to Telegram via a single `workflow_dispatch` toggle
 - **No external paid APIs** — Uses GitHub's free Models API (`MODELS_TOKEN`) and falls back to local BART + Helsinki models if unavailable
 
 ---
@@ -196,6 +198,8 @@ Language is auto-detected from feed metadata and Hebrew character ratio. Overrid
 | Secret | Description |
 |--------|-------------|
 | `MODELS_TOKEN` | GitHub Personal Access Token with Models API access. Create at: GitHub → Settings → Developer settings → Personal access tokens → Fine-grained → Add `models:read` permission. **Do not use the default `GITHUB_TOKEN`** — it doesn't have Models API access. |
+| `TELEGRAM_BOT_TOKEN` | Token for your Telegram bot (from [@BotFather](https://t.me/BotFather)). Optional — if not set, Telegram delivery is silently skipped. |
+| `TELEGRAM_CHAT_ID` | Target channel or chat ID (e.g. `@MyChannel` or a numeric ID). The bot must be added as an **admin** of the channel. |
 
 ### Workflow Triggers
 
@@ -207,6 +211,7 @@ Language is auto-detected from feed metadata and Hebrew character ratio. Overrid
 |-------|-------------|
 | `feed` | Optional substring to filter by feed name (e.g. `רברס` or `Creative Channel`) |
 | `test` | If checked, processes only 1 small episode per feed type (YouTube / Spotify-RSS / other RSS) — fast verification without triggering Whisper |
+| `resend_history` | If checked, re-sends every entry already in `results.txt.md` to Telegram (useful after first bot setup or after adding a new channel) |
 
 ### First Run
 
