@@ -3462,3 +3462,76 @@ Looking ahead, Farbman highlighted ambitious projects his company is working on 
   • Transcript: cached_cached_whisper (7491 words, lang=he) — Full audio file transcribed (Whisper)
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter Name : העתיד של חברות הטק
+
+**Podcast:** בזמן שעבדתם  
+**Author:** mako מאקו  
+**Date:** 13/05/2026 09:05 UTC  
+**Generated:** 17/05/2026 09:50 UTC  
+**Link:** https://omny.fm/shows/program-51/2e71604b-1702-4628-aeee-b449009122ad  
+
+---
+
+**Hebrew Summary:**  
+**הקדמה כללית על הפרק והנושאים המרכזיים**
+- הפרק עוסק בהתפתחות טכנולוגיות מתקדמות בשוק הטק, בדגש על AI ויכולות ספציפיות.
+- נדון בהקמה ושימוש בכלים המבוססים על GPT-3 ובאופן ספציפי על הרבי (Harvey), פלטפורמת AI ייעודית לאורחי דין.
+- נידונו תחזיות לעתיד התעשייה הטכנולוגית ואופן עיצוב חברות חדשות.
+
+**הקשר בין מקצוע עריכת דין וטכנולוגיה**
+- דני מתאר את תחום עריכת דין כמעייף ולעיתים מתיש, בו השימוש בטכנולוגיות יכול לשפר באופן משמעותי את ההתנהלות.
+- צוין שישראל מובילה בעולם עם כמעט 700 אורחי דין לכל 1000 איש, נתון יוצא דופן בהשוואה למדינות שונות.
+- נידון שימוש ב-GPT-3 על ידי אורחי דין כפתרון בעייתי וחסכוני, לדוגמה לעריכת חוזים וסיוע בנדל"ן.
+
+**הקמת הרבי (Harvey) – AI בהתאמה ספציפית לאורחי דין**
+- שני יזמים צעירים, וינסטון ויינברג וגייב פרירה, שיתפו פעולה עם OpenAI לבניית פתרון מבוסס GPT-3 למשימות משפטיות.
+- ההשראה התחילה ממענה על שאלות קשות בפורום Reddit (למשל "Legal Advice").
+- בדיקות יצירת חוזים ותשובות משפטיות שהופקו על ידי GPT-3 הוכיחו עצמן עם שיעור הצלחה של 86%, כאשר אורחי הדין אישרו את המענה בלי תיקונים.
+
+**השקעות ופיתוח בהקשר של הרבי**
+- הרבי זכה להשקעה ראשונית מאת סקויה ונחשב כמודל לחיקוי בתחום חברות שהתמקדו ב-AI ייעודי.
+- הרבי מותאם ל-50% מתוך 100 פירמות עורכי הדין הגדולות ביותר בארה"ב ומייצר הכנסה של כ-200 מיליון דולר עם שווי של 11 מיליארד דולר.
+- המודל עובר פיינט-טיונינג ספציפי לסיוע ישיר במקרים משפטיים, תוך שימוש ב-AI כדי לייעל תהליכים סטנדרטיים.
+
+**סקויה ותחזית לעתיד חברות הטק**
+- סקויה הציגה תיאוריה חדשה הנוגעת להצלחה של חברות טכנולוגיות: חברות שמתפקדות תחת שירות טכנולוגי ספציפי יכולות להשיג שווי של טריליון דולר.
+- הדבר הודגם דרך התהליך הכרוך בהגשת דו"חות כספיים בארה"ב, בו תוכנות כמו QuickBooks של Intuit יכולות לבצע סיוע ספציפי ולהחליף את רואי החשבון בצורה אוטומטית.
+
+**השלכות עתידיות ותעשיות נוספות**
+- הסכמים משפטיים שנוצרים על ידי AI כבר מובילים לשינויים פרקטיים.
+- תחומי עבודה נוספים כמו אדריכלות, רפואה ושיווק עשויים להשתמש באימון ספציפי של מודלים עבור משימות ספציפיות.
+- קריאה למאזינים לחשוב על הדרך בה שינויים טכנולוגיים ישפיעו על כל עולם העבודה.
+
+**English Summary:**  
+**Episode Overview**
+The episode centers on advancements in tech, specifically AI technologies tailored to specific domains, with a focus on Harvey, an AI-driven platform for legal tasks.
+
+**Legal Practice and Technology**
+Host Danny discusses how the legal profession can benefit from technological enhancements, highlighting the disproportionate number of lawyers in Israel (700 per 1000 people). GPT-3's capabilities were explored as a tool for drafting contracts and providing assistance in real estate.
+
+**Harvey's Development**
+Two entrepreneurs used GPT-3 to answer legal questions and drafted contracts, achieving a remarkable 86% success rate approved by lawyers without corrections. Their AI solution, Harvey, addresses specific legal tasks and has become widely adopted.
+
+**Investments and Scalability**
+Harvey attracted significant investment from Sequoia, becoming a model for companies using domain-specific AI. It services 50% of the U.S.'s top 100 law firms and generates $200 million in annual revenue, with an $11 billion valuation.
+
+**Sequoia's Forecast for Future Tech Companies**
+Sequoia posits that companies combining software with specialized services could reach a valuation of $1 trillion. This idea is illustrated by platforms like QuickBooks, enabling automized accounting processes for businesses.
+
+**Impacts Across Industries**
+The episode suggests AI is revolutionizing professional fields beyond law, such as architecture, medicine, and marketing, by offering industry-specific AI training.
+
+
+**Original description:**  
+פרק 265: האם הבינה המלאכותית עומדת להחליף את עורך הדין או רואה החשבון שלכם? אם להסתמך על התחזית המטלטלת של קרן ההשקעות סקוויה - בהחלט כן. אנחנו נכנסים לעידן שבו חברות הטק כבר לא מוכרות לנו רק תוכנה, אלא מתחפשות לשירותים מקצועיים שלמים שפועלים באופן אוטונומי. בפרק נדבר על המודלים שכבר מחליפים מערכים אנושיים שלמים, ננתח איך ייראו חברות העתיד והאם המודל העסקי המוכר לנו עומד להיעלם מהעולם. והשאלות שבאמת מטרידות: האם הקוד הופך לבעל המקצוע החדש ואיך המהפכה הזו תפגוש את כולנו בשוק העבודה? עורכת: אפרת מירון See omnystudio.com/listener for privacy information.
+
+
+**Links mentioned:**
+• [Privacy FAQ](https://tritondigital.com/privacy-faq)
+
+---
+*Pipeline:*
+  • Transcript: cached_cached_whisper (7491 words, lang=he) — Full audio file transcribed (Whisper)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
