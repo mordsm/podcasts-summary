@@ -3107,3 +3107,282 @@ Expect upcoming episodes to explore tool reviews, practical practices with AI ag
   • Transcript: description (369 words, lang=he)
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter Name : סייבר עם חברים פרק 166 - יש בכלל כזה דבר שנקרא פרטיות  ? או שלא
+
+**Podcast:** סייבר עם חברים  
+**Author:** Rotem Bar  
+**Date:** 17/05/2026 06:05 UTC  
+**Generated:** 17/05/2026 07:37 UTC  
+**Link:** https://s3.castbox.fm/e8/e4/70/1dbffc43cda844dedad83b13f8.mp3  
+
+---
+
+**Hebrew Summary:**  
+**הפרטיות בעולם הדיגיטלי - מה נשאר ממנה?**
+
+- **הנושא המרכזי:**  
+  אדי הררי והלל קוברובסקי דנים בשאלה פילוסופית וטכנולוגית: האם קיימת פרטיות במרחב הדיגיטלי, או שהרעיון הזה נכחד בעידן שבו טכנולוגיות מתקדמות כמו AI, מכשירים חכמים ואיסוף נתונים נהפכו לנורמה?
+
+- **פישינג מתקדם ושיטות תקיפה מתוחכמות:**  
+  - הדיון מתחיל בסיפורים על התקפות פישינג מתוחכמות במיוחד, שלטענת אדי והלל, הפכו כמעט ל"אמנות" בעידן הדיגיטלי.  
+  - פישינג מבוסס AI מצליח לעקוב אחר דפוסי התנהגות משתמשים ולבנות מניפולציות מותאמות אישית.  
+  - נסקרים כלים וטכניקות שבהן משתמשים תוקפים ליצירת אימיילים שנראים אמיתיים לחלוטין.  
+  - נשאלת השאלה: איך אדם יכול להגן על עצמו בעולם שבו התוקפים מפתחים טכניקות חדשות בקצב מהיר יותר מאנשי האבטחה?
+
+- **חוסר הפוקוס בפתרונות יסודיים בסייבר:**  
+  - אדי הביע ביקורת על העובדה שקיים "הייפ" טכנולוגי בתעשיית הסייבר, במקום טיפול בבעיות ליבה בתחום האבטחה.  
+  - דגש מיותר על Buzzwords כמו Blockchain, Zero Trust ו-AI Security מונע פיתוחים משמעותיים באבטחת הבסיס.  
+  - החברות מונעות בעיקר משיקולים שיווקיים ופחות מצורך אמיתי לפתור בעיות קריטיות.
+
+**AI Safety – חזון או אשליה?**  
+
+- **תפקידם של ענקיות הטכנולוגיה:**  
+  - האם חברות גדולות כמו Google ו-Microsoft באמת שואפות להגן על פרטיות המשתמשים?  
+  - המשתתפים טענו כי חברות רבות פועלות לטובת המניה שלהן, ולא בהכרח לטובת המשתמשים או חשיבות ההגנה עליהם.  
+  - גם במקרים שבהם ננקטות צעדים שיווקיים להעלאת המודעות לסכנות דיגיטליות, פעמים רבות מדובר בניסיון להורדת האחריות המשפטית.
+
+- **בינה מלאכותית כמקור לזבל דיגיטלי:**  
+  - בינה מלאכותית מייצרת כמות הולכת וגוברת של תוכן לא איכותי או פיקטיבי, מה שגורם להצפה של המרחב הדיגיטלי בפייק ניוז וזבל דיגיטלי.  
+  - המשתתפים הביעו חשש שהיכולת של חברות ופעילים לזהות ולסנן את התוכן הזה עדיין לא מספקת.  
+  - ישנם נזקי לוואי מתמשכים, כמו מחיקת יצירה אנושית אותנטית והעלאת חסם עבור כותבים ויוצרים אמיתיים.
+
+**רכבים חכמים, טלוויזיות וטלפונים – מה הם באמת יודעים עלינו?**
+
+- **מידע נאסף באופן קבוע:**  
+  - מכשירים כמו רכבים חכמים ואביזרי IoT נזכרו בהקשר של כמות המידע הנאספת על המשתמשים.  
+  - התקנים כמו טלוויזיות חכמות עוקבים אחר הצפייה בתכנים, שיחות, מיקום פיזי והרגלים יומיומיים.  
+  - הנתונים שנאגרו הופכים למאגר מידע עצום המשמש חברות מסחריות ואחרות במגוון דרכים.  
+
+- **רק למי זה באמת מועיל:**  
+  - השימוש שנעשה בנתונים הפך את המשתמשים עצמם למוצרים: החברות אוספות ומנתחות מידע כדי למכור שירותים ומוצרים באופן אופטימלי.  
+  - הלל ציין כי המודל הקיים פוגע בפרטיות לטובת רווחיות, מה שמעורר שאלות בנוגע לאתיקה של מודל המידע בימינו.
+
+**מחיר עידן המידע: חיים “חכמים” במרחב נטול פרטיות**  
+
+- **התפתחות הטכנולוגיה והנכונות לוותר על פרטיות:**  
+  - המשתתפים סיכמו שמבחינה היסטורית, הציבור ויתר על פרטיותו בהדרגה בתמורה לנוחות הטכנולוגית.  
+  - בעוד שחיים "חכמים" אמורים לספק שירותים מותאמים, המחיר האמיתי בדמות החשיפה של חיינו עדיין לא מובן לחלוטין על ידי רוב האנשים.  
+  - קריאה להמשך חקר והעלאת מודעות לנושא בקרב הציבור הרחב, וכן חשיבה מחודשת על רגולציה בנושא.
+
+**English Summary:**  
+**Is Privacy Dead in the Digital Era?**
+
+- **Main topic:**  
+  Hosts Edi Harari and Hillel Koberovsky discuss the controversial topic of privacy in the technological age, asking if we've already lost all sense of privacy and are just in denial.
+
+- **Advanced phishing and cyber threats:**  
+  - The hosts shared stories of increasingly sophisticated phishing attacks.  
+  - AI tools track user behavior to craft personalized attempts at deception.  
+  - They also detailed techniques attackers use for creating highly convincing emails, raising questions about how users can protect themselves.  
+
+- **Failings in cybersecurity:**  
+  - The conversation criticized the tech world’s obsession with trends like Blockchain and AI Security at the cost of addressing core cybersecurity issues.  
+  - Companies seem driven more by marketing buzz and stock performance than by meaningful, foundational solutions.  
+
+- **AI Safety — Real or an illusion?**  
+  - Do major tech companies like Google and Microsoft genuinely protect users’ privacy?  
+  - The podcast suggested that much of their public action around security is a way to shift liability rather than to protect users.  
+  - AI is rapidly increasing the volume of digital "trash" — low-quality, fake, or spammy content — jeopardizing authentic human creativity.
+
+- **Data collection from smart devices:**  
+  - Smart cars, TVs, and IoT devices were highlighted as key culprits in constant data collection.  
+  - These devices track users’ viewing habits, conversations, and daily routines. 
+  - Collected data is often used to maximize corporate profit, raising ethical and regulatory concerns.
+
+- **Ceding privacy for "smart" living at a steep cost:**  
+  - The hosts concluded that society has relinquished its privacy for the sake of convenience and smart technology.  
+  - They called for increased public awareness and stricter regulation to rethink the trade-offs being made in the digital age.
+
+
+**Original description:**  
+בפרק החדש של ״סייבר עם חברים״, אדי הררי והלל קוברובסקי צוללים לאחד הדיונים הכי מטרידים בעולם הטכנולוגיה והסייבר: האם איבדנו לחלוטין את הפרטיות שלנו — ואנחנו פשוט מסרבים להודות בזה? מהקמפיינים המתוחכמים של פישינג ו־AI, דרך רכבים חכמים שאוספים עלינו מידע בלי סוף, ועד השאלה האם חברות הטכנולוגיה באמת מנסות להגן עלינו… או פשוט מגנות על המניה שלהן. בפרק: • איך כמעט נופלים בפישינג שנראה אמיתי לחלוטין • למה עולם הסייבר מתמכר להייפ במקום לפתור בעיות בסיסיות • האם AI Safety הוא בכלל אשליה • מה באמת אוספים עליכם הרכב, הטלוויזיה והטלפון • ואיך בינה מלאכותית מתחילה להציף את העולם בזבל דיגיטלי שמוחק יצירה א
+
+
+---
+*Pipeline:*
+  • Transcript: description (126 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : המטוס החשמלי הראשון בעולם? ✈️ | פרק 167 עם גיל צ'ארנס, חברת אייר
+
+**Podcast:** פשוט AI  
+**Author:** Benny Farber  
+**Date:** 17/05/2026 02:30 UTC  
+**Generated:** 17/05/2026 07:37 UTC  
+**Link:** https://podcasters.spotify.com/pod/show/benny-farber/episodes/167-e3jcuou  
+
+---
+
+**Hebrew Summary:**  
+**
+
+**פתיחת הפרק: תובנות רקע על השיחה**
+- בפרק 167 של פודקאסט **פשוט AI**, בני פרבר אירח את גיל צ'ארנס, נציג חברת **AIR** הישראלית, שמפתחת מטוס חשמלי מהראשונים בעולם.
+- הנושא המרכזי: איך AI והמהפכה החשמלית משפיעים על תעשיית התעופה, ובכך משנים את עתיד התחבורה העולמית.
+
+**חברת AIR והטכנולוגיה מאחורי המטוס החשמלי**
+- AIR היא חברת תעופה ישראלית המתמקדת במטוסים חשמליים המיועדים לשימוש פרטי וקומפקטי.
+- המטוס שהם מפתחים נקרא **AIR ONE** ומתוכנן להציע אלטרנטיבה לטיפוסיים המסורתיים בזכות מנועים חשמליים חכמים.
+- שילוב ה-AI: המנועים מצוידים בחיישנים מתקדמים, ניתוח דאטה בזמן אמת כדי לשפר ביצועים ולשמור על בטיחות הטיסה, כולל מנגנונים אינטגרטיביים שיכולים לקבל החלטות חכמות גם במהלך הטיסה.
+
+**השפעה על תעשיית התעופה**
+- חיסכון: המטוס החשמלי מפחית משמעותית את עלות התחזוקה והדלק, והופך את התעופה למשתלמת יותר עבור משתמשי קצה.
+- קיימות: השימוש במנועים חשמליים מוריד את הפליטה ל-0 ולכן תורם לשמירה על סביבה ירוקה יותר.
+- התייעלות תפעולית: ככל שמטוסים חשמליים של רכבים ומכשירים נוספים יהפכו לנפוצים, תשתפר היכולת של שדות תעופה לאמץ טכנולוגיות **automated traffic management**.
+
+**האתגרים המשמעותיים**
+- רמת טעינה מרבית: המטוס מאפשר **טווח של 200 ק״מ בלבד עם טעינה אחת**. חילופי סוללות וטכנולוגיות טעינה מהירה הם כיוונים אפשריים.
+- הסכמה וכללים: הממשלות בעולם, בעיקר בארצות הברית ובאירופה, צריכות לאשר ולהנגיש את שירותי הטיסה למטוסים חשמליים בצורה שאינה תפריע לתנועה האווירית המסורתית.
+
+**חוויית טיסה עתידנית**
+- המחיר המוערך של טיסה במטוס של AIR לטווח קצר עשוי להיות נמוך יותר ביחס למסוקים פרטיים.
+- דגש על יעילות וחוויית משתמש: עיצוב קל משקל, טיסה אוטונומית עם מערכות בטיחות חכמות למפעילה או המפעיל שמבצע את ההוראות.
+- תחזית לעתיד: צ'ארנס התייחס לכיבוש שווקים בינלאומיים כיעד מרכזי של החברה, לאחר ההשקה הרשמית ב-2027.
+
+**מידע חשוב ונוסף**
+- מצוין במהלך הפרק שהמוטו של AIR הוא להפוך את "השמיים לנגישים לכולם".
+- הוכרז באתר החדש של AIR: [www.air.co.il](www.air.co.il), דרכו ניתן לעקוב אחר רכישות וקבלת מידע נוסף.
+- הוזכר גם ערוץ היוטיוב של בני פרבר: [ללחוץ כאן למעבר לערוץ](#).
+
+---
+
+**
+
+**English Summary:**  
+**
+
+**Introduction**
+- Episode 167 of the **Pashut AI** podcast featured **Gil Chernis** from Israeli company **AIR**, discussing their development of one of the first private **electric aircrafts** in the world.
+- The focus: Integration of **AI** in aviation technology, cost reduction, environmental sustainability, and future implications for global transportation.
+
+**AIR and Their Electric Aircraft**
+- AIR develops **electric personal aircraft** aimed at being compact and efficient. Their flagship model is the **AIR ONE**.
+- **AI integration**: Advanced sensors and real-time data analysis optimize performance and ensure safety with **autonomous flight systems**.
+
+**Industry Impact**
+- **Cost savings**: Reduced maintenance and operational expenses compared to traditional aircraft.
+- **Environmental benefits**: Zero emissions, aligning with global sustainability goals.
+- **Operational efficiency**: The proliferation of electric aircraft is expected to enhance **automated traffic management systems** in airports.
+
+**Challenges**
+- **Limited range**: Only **200 km per charge**—advancements in **battery swapping** or fast-charging tech are potential solutions.
+- **Regulations**: Global laws, particularly in the US and EU, must adapt for electric aviation without disrupting traditional air traffic.
+
+**Future of Air Travel**
+- AIR envisions affordable short-distance flights, breaking economic barriers of private aviation.
+- They aim to launch commercially by **2027** and dominate international markets.
+
+**Additional Information**
+- AIR’s mission is to “democratize the skies.” Follow their progress via their website: [www.air.co.il](www.air.co.il). 
+- Check out host Benny Farber’s YouTube channel: [Click here](#).
+
+
+**Original description:**  
+בפרק היום אנחנו צוללים לעתיד התעופה עם האנשים שבונים את אחד המטוסים החשמליים הראשונים בעולם. דיברנו על הטכנולוגיה של חברת AIR הישראלית שמאחורי המנועים, איך AI משתלב בתכנון ובטיחות הטיסה, ומה זה אומר על העתיד של כולנו - מחירים, איכות סביבה וחוויית טיסה אחרת לגמרי. פרק חובה לכל מי שרוצה להבין איך עושים היסטוריה בתעשייה הכי שמרנית בעולם. ⁠⁠להרשמה לסדנה המעשית על אופןקלואו!⁠⁠⁠ ⁠⁠לערוץ היוטיוב שלי⁠⁠ ⁠⁠לאתר חברת AIR מוזמנים לקהילת הפייסבוק ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ישראל - ChatGPT⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+
+**Links mentioned:**
+• [סדנת קלוד קוד מעשית · 24.2.2026 · OpenClaw בעברית](https://hi.switchy.io/OpenclawPOD)
+• https://www.youtube.com/@BennyFarber-AIPashut
+• https://www.airev.aero/
+• https://bit.ly/3Gw7K7T
+• https://bit.ly/3Kpguhp
+• [WAgroup Podcast](https://hi.switchy.io/g-eK)
+• https://bit.ly/3t51YH8
+
+---
+*Pipeline:*
+  • Transcript: page_content (7471 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter Name : ראש בראש מול גוגל ו-OpenAI: עם זאב פרבמן מלייטריקס
+
+**Podcast:** TrashTech  
+**Author:** עמרי ברק ויואב צוקר  
+**Date:** 17/05/2026 02:00 UTC  
+**Generated:** 17/05/2026 07:37 UTC  
+**Link:** https://podcasters.spotify.com/pod/show/trashtechnews/episodes/-OpenAI-e3jfdff  
+
+---
+
+**Hebrew Summary:**  
+**ראיון עם זאב פרבמן מלייטריקס: התמודדות עם ענקיות כמו Google ו-OpenAI**  
+הפעם בתוכנית טראשטק, עומרי ברק ויואב צוקר מארחים את זאב פרבמן, מנכ"ל לייטריקס, חברה ישראלית מובילה בתחום מודלי וידאו AI מירושלים. מתוך האוניברסיטה העברית, פרבמן משתף את סיפור החברה על איך מדוקטורט הפך לסטארטאפ מצליח עם קהל לקוחות גלובלי, כולל סלבריטאים כמו קים קרדשיאן.  
+
+**נושאי שיחה מרכזיים:**  
+- **המעבר מדוקטורט ביזמות:** פרבמן שיתף כיצד הגיע מהאקדמיה לאקוסיסטם הסטארטאפים, הקים את **Facetune**, והביא את החברה למיליוני משתמשים והכנסות של מאות מיליוני דולרים בשנה.  
+- **התמודדות מול Google ו-OpenAI:** החברה מתמודדת מול ענקיות כמו Google, OpenAI, ו-Alibaba למרות תקציב צנוע באופן יחסי. פרבמן מסביר איך חדשנות ושימוש נכון ב-AI מאפשרים ללייטריקס להישאר תחרותיים.  
+- **התפרקות והצלחה:** פרבמן חשף כיצד לפני מספר שנים מצבה של החברה הידרדר עד שבשיאה התקרבה להתרסקות. הוא התייחס לאירועים מפתח ולנחישות שעזרו להם להתאפס ולהתחזק.  
+
+**השפעות ה-AI על עולם ההשכלה ומדעי המחשב**  
+- פרופ' גיא קינדלר ופרופ' גבי סטנובסקי מאוניברסיטה העברית דנו על כיצד ה-AI משנה את האופן שבו נלמד מדעי המחשב. לדבריהם, קיים מעבר מהוראה בסיסית של כתיבת קוד לפיתוח הבנה ויכולת לפיתוח אלגוריתמים וניתוח מערכות AI מורכבות.  
+- **שאלות עתידיות:** האם לימודי מדעי המחשב עדיין רלוונטיים ב-2026? האם הביקוש הנדרש לבוגרים יירד עקב תהליכי אוטומציה הולכים ומתרחבים? המומחים הביעו אופטימיות זהירה וטענו שתחום המחשוב רחוק ממיצוי.  
+
+**מודל ה-AI הבא והעתיד של לייטריקס**  
+- פרבמן רומז לגבי פיתוחים עתידיים של לייטריקס וטוען כי המהפכה האמיתית בעולם ה-AI רק החלה. הוא שואף למיצוב החברה כחברה שמובילה לא רק ב"קנה מידה ישראלי", אלא פועלת כשחקן גלובלי משפיע בתחום.  
+
+**קישורים רלוונטיים:**  
+- **פורמט "מעלית הבינה":** 30 יזמים, 30 קומות, 30 יוזקייסים בתחום AI: https://linktr.ee/elevator_ai  
+- **Guts** - מעבדת הסטארטאפים של הראל: https://www.gutsinnovation.com/  
+- הקישור לאתר האוניברסיטה העברית: https://new.huji.ac.il/  
+- הרשמה לערוץ היוטיוב של טראשטק: https://www.youtube.com/channel/UCwywdccdYsNS_Cs6tS0U_dg?sub_confirmation=1  
+- לאינסטגרם: https://www.instagram.com/trashtechnewsig/  
+- לטיקטוק: https://www.tiktok.com/@trashtechnews  
+- לפודקאסט בספוטיפיי: https://open.spotify.com/show/0nGv2IY8OATmjMtkJ7eLHG?si=9b6a1be00e2344ff  
+
+---
+
+**English Summary:**  
+**Episode Overview: Competing with Giants like Google and OpenAI**  
+The latest TrashTech podcast featured Ze’ev Farbman, founder and CEO of Lightricks, an Israeli company specializing in AI video models. Speaking from the Hebrew University, Farbman recounted his journey from completing his Ph.D. to creating a global app, **Facetune**, which reached massive success with millions of users, including high-profile figures like Kim Kardashian.  
+
+**Key Discussion Points:**  
+- **Journey from Academia to Startup Success:** Farbman shared insights into turning his academic research into Lightricks—a thriving AI-powered company generating millions in annual revenue.  
+- **Competition with Tech Giants:** Despite operating on just one-tenth of the budget of companies like Google, OpenAI, and Alibaba, Farbman emphasized innovation as key to Lightricks' success.  
+- **Education in AI Era:** Hebrew University professors Guy Kindler and Gabi Stonovsky discussed how AI is reshaping computer science education, requiring a shift towards algorithm development and systems analysis.  
+
+**Future Directions and Challenges:**  
+Looking ahead, Farbman highlighted ambitious projects his company is working on and stressed that Lightricks aims to solidify its global impact in the emerging AI economy. According to the experts, while automation poses concerns, demand for computer science graduates remains strong.  
+
+**Relevant Links:**  
+- Elevator AI format: https://linktr.ee/elevator_ai  
+- Guts Innovation Lab: https://www.gutsinnovation.com/  
+- Hebrew University: https://new.huji.ac.il/  
+- TrashTech YouTube: https://www.youtube.com/channel/UCwywdccdYsNS_Cs6tS0U_dg?sub_confirmation=1  
+- Podcast on Spotify: https://open.spotify.com/show/0nGv2IY8OATmjMtkJ7eLHG?si=9b6a1be00e2344ff
+
+
+**Original description:**  
+השבוע בטראשטק ראיון זאב פרבמן, מייסד ומנכ״ל לייטריקס - חברה ישראלית מירושלים שבונה מודלי וידיאו AI ומתחרה בגוגל, OpenAI ועליבאבא, עם עשירית מהתקציב. פרק לייב מהיום הפתוח של האוניברסיטה העברית! ניסינו להבין איך מדוקטורט באוניברסיטה העברית בנה אפליקציה שהגיעה לקים קרדשיאן ולמאות מיליוני דולרים של הכנסות שנתיות? ולאחר מכן - דיברנו עם פרופ׳ גיא קינדלר, דיקן ביה״ס להנדסה ומדעי המחשב ופרופ׳ גבי סטנובסקי, ראש התכנית ללימודי בינה מלאכותית על איך AI משנה את לימודי מדעי המחשב. *פרק מיוחד בשיתוף ביה״ס להנדסה ולמדעי המחשב של האוניברסיטה העברית _________________________ (00:00) - פתיחה (06:56) - מדוקטורט ל
+
+
+**Links mentioned:**
+• https://linktr.ee/elevator_ai
+• https://www.gutsinnovation.com/
+• https://new.huji.ac.il/
+• [בדיקת סיכויי קבלה - האוניברסיטה העברית בירושלים](https://go.huji.ac.il/?locale=he)
+• [סקר קהילת טראשטק](https://did.li/5lJZH)
+• https://www.youtube.com/channel/UCwywdccdYsNS_Cs6tS0U_dg?sub_confirmation=1
+• https://www.instagram.com/trashtechnewsig/
+• [TikTok - Make Your Day](https://www.tiktok.com/@trashtechnews)
+• [‎TrashTech טראשטק‎ - WhatsApp channel](https://www.whatsapp.com/channel/0029VagGRsoGOj9obvapMw27)
+• [TrashTech (טראשטק) | Podcast on Spotify](https://open.spotify.com/show/0nGv2IY8OATmjMtkJ7eLHG?si=9b6a1be00e2344ff)
+• https://linktr.ee/trashtechnews
+• https://www.catonetworks.com/careers/
+• [בואו להשפיע על עתיד ה AI של ההייטק הישראלי - תהליך ההתייעצות עם האקוסיסטם יוצא לדרך! - רשות החדשנות](https://innovationisrael.org.il/ai-strategy-report-2026/)
+• https://tinyurl.com/WEBBY-TRASHTECH
+• [הייטקזון | HTZ for Startups](https://tinyurl.com/msapuycc)
+• https://nvda.ws/3NUhOOU
+• https://www.guts.co.il
+• [Enpitech — Scale your R&D. Grow, Train, Adopt AI.](https://enpitech.dev/)
+• [קרן הזנק - רשות החדשנות](https://innovationisrael.org.il/startupfund/)
+• https://runwayml.com/research/theturingreel
+
+---
+*Pipeline:*
+  • Transcript: page_content (12189 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
