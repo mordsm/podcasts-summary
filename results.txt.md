@@ -2982,3 +2982,128 @@ Expect upcoming episodes to explore tool reviews, practical practices with AI ag
   • Transcript: page_content (10767 words, lang=he)
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter Name : מה עושים כשהבינה לא מבינה | פרק 53 מטפלים בחלק מהבעיות
+
+**Podcast:** מי אמר AI  
+**Author:** Eran Goldstein  
+**Date:** 17/05/2026 02:00 UTC  
+**Link:** https://www.buzzsprout.com/2439036/episodes/19187359-53.mp3  
+
+---
+
+**Hebrew Summary:**  
+**מבוא לפרק ותיאור כללי**
+
+- בפרק ה-53 של הפודקאסט "מי אמר AI", רועי וערן משתפים את תסכוליהם מעולם ה-AI, המתמקד בבעיות ותקלות טכניות שמציקות למשתמשים ביום-יום.
+- בעוד בדרך כלל הפודקאסט עוסק בפריצות דרך וחידושים בעולמות הבינה המלאכותית, הפעם הם פותחים "קליניקה" לתמיכת נפגעי AI ומתמקדים בקשיי שימוש ובאגים שמאתגרים משתמשים רבים.
+
+---
+
+**תסמונת האמן המיוסר של ג'מיני**
+
+- מדובר במקרה שבו מודל הבינה המלאכותית ג'מיני מתמודד בצורה יצירתית מדי עם פרומפטים. המשתמש מבקש לתרגם טקסט לאנגלית כדי ליצור תמונה בעזרת כלי אחר, אך ג'מיני "מקבל החלטה" לבצע את יצירת התמונה בעצמו, לעיתים ללא הדיוק הדרוש.
+- השאלה שאלו המנחים: האם יש דרך לכוון את ג'מיני למלא רק הוראות מוגדרות, ללא התערבות יצירתית לא רצויה?
+
+---
+
+**איפה התמונה שלי? משחק הפרצופים של ערן**
+
+- ערן יצר רובוט אוטומציה ליצירת כריכות אחוריות לספרים מומצאים שתכלול גם תמונה של הסופר. אך ה-AI מתעקש לשנות את תמונת הסופר בכל פעם שאוטומציה מתבצעת.
+- לעיתים קרובות ה-AI "ממציא" פרצופים אקראיים, כולל דמויות לא קשורות כמו אדם בעל מראה מונגולי.
+- הבעיה הזו מובילה לכשל בשמירת עקביות המוצר שנבנה, והמנחים שואלים האם יש דרך לפתור בעיות כאלה.
+
+---
+
+**חרדת טוקנים וזוגיות רעילה עם קלוד**
+
+- ערן משתף על התסכול בתהליך בניית אפליקציה בתוך פלטפורמת Vibe Coding, שבה הוא תלוי באופן מוגזם בהגבלות של הטוקנים במודל הבינה המלאכותית קלוד.
+- קלוד מגביל את השימוש בטוקנים, מה שמוביל את ערן להתאים את כל התהליך להתחדשות השעה שבה הטוקנים מתרעננים. המנחים מתארים זאת כ"זוגיות רעילה".
+- אחד הפתרונות שנדונו היה שימוש בקבצי Markdown על מנת להתמודד עם בעיית חיסכון בזיכרון.
+
+---
+
+**המאבק השוטף של צ'אט GPT עם עברית**
+
+- רועי מספר על מאבקו היומיומי מול Chat GPT שמתקשה ביישור לימין (RTL) בעת עבודה עם טקסטים בעברית.
+- למרות שטענותיו של ה-AI על כך ש"הצמיד הכל לימין", בפועל, הטקסט נשאר מיושר לשמאל, מה שמוביל לתסכול ולנטישת משתמשים.
+- הבעיה הזו הופכת יותר רלוונטית עבור דוברי עברית המשתמשים ב-AI לצרכים מקצועיים.
+
+---
+
+**פיצול אישיות בקריינות של 11Labs**
+
+- כשמנסים לתקן מילה בודדת בלבד בהקלטה המתקבלת מהפלטפורמה, מקבלים פתאום קריין עם קול שונה לגמרי ואף תחושה של שינוי אישיותי.
+- המנחים מתארים את התוצאה כמאכזבת מאוד מבחינת עקביות ואמינות של המערכת.
+
+---
+
+**טיימר שבור בגנרטור מוזיקה סונו**
+
+- אחת התלונות העיקריות היא חוסר היכולת ליצור שיר באורך מדויק בגנרטור המוזיקה סונו. לדוגמה, בקשה לשיר של 7 שניות עשויה להניב תוצאה של 9 או 47 שניות.
+- המנחים מציעים לפתור את הבעיה באופן ידני על ידי חיתוך האודיו.
+
+---
+
+**הבמאים המופרעים של הוידאו**
+
+- בבקשות ליצירת סרטונים פשוטים, הבינה המלאכותית לעיתים "מתפרעת" ומוסיפה אלמנטים בלתי צפויים כמו אנשים מרחפים או חורים בתקרה.
+- זה מעלה שאלות על אמינות ושליטה בתוצרים של AI בתחום הוידאו.
+
+---
+
+**בעיות נקודתיות במוצרים טכנולוגיים נוספים**
+
+- **NotebookLM**: המחברות נתקעות על מצב "טוען" לנצח וללא כל התרעה ברורה על תקלה.
+- **Google Sheets**: ג'מיני עדיין מתקשה לעבוד בעברית ואינו מצליח להבין פקודות בשפה, מה שמקשה על העבודה עם גרסאות חדשות של הכלי.
+- **קופי-פייסט בצ'אט GPT**: בעת העתקת טקסטים בעברית מצ'אט GPT לוורד, יש בעיות עם פיסוק לא נכון, נקודות וגרשיים שמקפצים ומקלקלים את התוצאה.
+
+---
+
+**מסקנות וסיכום כללי**
+
+- הפודקסט מזמין את המאזינים לשתף בעיות נוספות ואף הציע מספר פתרונות זמניים כמו מעבר למערכת Markdown במקרים מסוימים.
+- למרות כל הבעיות, המנחים מדגישים את החשיבות של סבלנות וריאליזם בעבודה עם AI, שממשיך להיות מערכת מתפתחת.
+- להזמנה להרצאות, הדרכות ושיתוף תרוניות נוספות, ניתן ליצור קשר באמצעות המייל: Eran@binali.co.il
+- הקורס המומלץ: קורס AI EXPERT.
+
+---
+
+**English Summary:**  
+**Episode Overview**
+
+- Episode 53 of the podcast "מי אמר AI" focuses on frustrating issues and technical bugs experienced with AI tools. Unlike other episodes that highlight breakthroughs, this installment is a "support group" for users facing challenges with AI in their everyday workflows.
+
+---
+
+**Topics Covered**
+
+- **Gemini's Over-enthusiastic Artist Syndrome**: Gemini tends to overly interpret prompts, taking creative liberties by generating images when simply asked to translate text for another tool.
+- **Automated Book Covers**: Eran shared struggles with maintaining consistent author images due to AI's tendency to generate random faces, sometimes entirely unrelated.
+- **Claude's Token Anxiety**: Challenges arise with Vibe Coding due to Claude's restrictive token limits, forcing users to time their workflow around token resets.
+- **Chat GPT's Struggle with RTL**: Roy expressed frustrations over Chat GPT's challenges consistently aligning Hebrew text to the right.
+- **Voice Generator Issues (11Labs)**: Editing single words in audio outputs causes significant shifts in voice tone and consistency, leading to unsatisfactory results.
+- **Sonu Music Timer Bug**: Creating tracks of exact lengths with Sonu is problematic; requested durations result in wildly inaccurate outputs, prompting manual edits.
+- **Overzealous Video Directing**: AI video generators unexpectedly add bizarre features like floating people or holes in ceilings, complicating simple requests.
+- **Google NotebookLM and Google Sheets**: Issues with loading states and lack of Hebrew support continue to plague these Google tools.
+- **Copy-Paste Nightmare**: Transferring Hebrew text outputs from Chat GPT to Word disrupts formatting, adding misplaced punctuation.
+
+---
+
+**Conclusion**
+
+- The episode emphasized patience and adaptation to AI shortcomings, proposing solutions like leveraging Markdown files for memory efficiency. Listeners were invited to share additional complaints at Eran@binali.co.il or explore recommended courses like AI EXPERT.
+
+
+**Original description:**  
+קבוצת תמיכה לנפגעי AI הפעם ריכזנו את כל מה שמעצבן אותנו בבינה המלאכותית (כרגע) בדרך כלל אנחנו מביאים לכם את החדשות הכי מסעירות ופריצות הדרך הכי מדהימות של עולם ה-AI. אבל הפעם, רועי וערן פותחים קליניקה ומדברים על המציאות עצמה: כל הבאגים הקטנים, הפיצ&apos;רים השבורים, וההתחכמויות של המכונה שפשוט מוציאים אותנו מדעתנו ביום-יום. הכנו רשימת תרוניות (תלונות) ארוכה במיוחד, והנה קצת ממה שדיברנו עליו בפרק: תסמונת האמן המיוסר של ג&apos;מיני: למה כשמבקשים ממנו רק לתרגם פרומפט לאנגלית בשביל יצירת תמונה בתוכנה אחרת, הוא מחליט להגדיל ראש ולייצר את התמונה בעצמו? איפה התמונה שלי? ערן בנה אוטומציה שמייצרת קריכו
+
+
+**Links mentioned:**
+• [קורס AI - העתיד שלך מתחיל כאן](https://aicourse.bdo-academy.co.il/miamar)
+
+---
+*Pipeline:*
+  • Transcript: description (369 words, lang=he)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
