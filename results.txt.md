@@ -3535,3 +3535,86 @@ The episode suggests AI is revolutionizing professional fields beyond law, such 
   • Transcript: cached_cached_whisper (7491 words, lang=he) — Full audio file transcribed (Whisper)
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter Name : העתיד של חברות הטק
+
+**Podcast:** בזמן שעבדתם  
+**Author:** mako מאקו  
+**Date:** 13/05/2026 09:05 UTC  
+**Generated:** 17/05/2026 10:01 UTC  
+**Link:** https://omny.fm/shows/program-51/2e71604b-1702-4628-aeee-b449009122ad  
+
+---
+
+**Hebrew Summary:**  
+**
+
+**סקירה כללית של הפרק**
+- הפרק "העתיד של חברות הטק" מתוך הפודקאסט "בזמן שעבדתם" דן בשינויים קריטיים המתרחשים בתחום הטכנולוגיה והיזמות, והתפתחויות משמעותיות בתחום השירותים, הטכנולוגיה המשפטית, ובינה מלאכותית.
+- במהלך הפרק מועלים סיפורים על יזמות בתחום המשפטים, עלייתו של כלי כמו GPT-3 והאופן בו ניתן להתמקד באפליקציות ספציפיות לשירותים מיוחדים.
+
+**המקצוע המשפטי בעידן הטכנולוגי**
+- נפתח בניתוח ההתמודדות עם הסכמי שותפות ובירור כמה קשה ותובעני תהליך העבודה בתחום עריכת דין.
+- מטפורה על השפעת התרבות הפופולרית (כמו סדרות טלוויזיה) על תפיסת מקצועיות עורכי הדין.
+- תיאור סטטיסטיקות גלובאליות, המצביעות על מספר גבוה של עורכי דין בישראל – 700 עורכי דין לכל 1,000 תושבים בישראל, הגבוהה ביותר בעולם. לשם השוואה, בארצות הברית רק במקום החמישי.
+- הדומיננטיות של מודלים כלכליים או חוקיים, במדינות כמו הרפובליקה הדומיניקנית, הדורשים באופן נרחב ייעוץ משפטי לפרטים יומיומיים.
+
+**GitHub3 והשפעתו על תחום המשפט**
+- סיפור מעניין על יצירת חוזה סחירות באמצעות GPT-3 על-ידי שני שותפים צעירים. השניים שילבו את היכולת של המודל של OpenAI (GPT-3) לכתוב מסמכים משפטיים על ידי ייבוא שאלות מסאב-רדיט בשם Legal Advice.
+- ניסוי שהשניים ערכו מול עורכי דין הראה ששני שליש מהעורכים אישרו את הפתרונות של GPT-3 ללא כל צורך בעריכה.
+- בעקבות הצלחות הניסוי, הקימו את חברת הרביעי הייעודית לתחום המשפטי. AI מותאם למצבים רפואיים, שיווקיים ואפילו עבודה של ארכיטקטים על הסכמים.
+
+**חברת Harvey – הצלחה של AI משפטי**
+- החברה "Harvey" מתבססת על מודל GPT ומותאמת באופן ספציפי עבור עורכי דין.
+- 50% מפירמות עורכי הדין הגדולות בארצות הברית מאמצות את הפתרונות של החברה.
+- ההכנסות עומדות על 200 מיליון דולר שנתיים, ובפברואר הם גייסו 200 מיליון דולר נוספים לפי הערכת שווי של 11 מיליארד דולר.
+- הרבי פותח על בסיס ChatGPT ועבר אימון ספציפי לכתיבה וחוות דעת משפטית.
+
+**מגמות יזמות טכנולוגית עתידיות**
+- התובנה של סקויה: החברה הבאה שתגיע לשווי טריליון דולר תהיה חברה שמתפקדת כ"שירות מתוחכם", כלומר תוכנה שמתחזה לשירותים אנושיים.
+- התייחסות לחברת Intuit שתוכנת QuickBooks פופולרית במיוחד בתחום ניהול חשבונות.
+- הדיון מתמקד בשילוב כלים אנושיים ותוכנה ליצירת פתרונות אוטומטיים, המורידים את הצורך באנשי מקצוע אנושיים בשירותים מסוימים.
+
+---
+
+**
+
+**English Summary:**  
+**
+
+**Key insights from the episode**
+- "The Future of Tech Companies," an episode from the podcast "While You Were Working," explores the evolution of technology, entrepreneurship, legal tech, and specialized artificial intelligence (AI) applications.
+- Discussion spans professional legal challenges, innovations in AI like GPT-3, and focusing AI on specific fields like law, medicine, and architecture.
+
+**Challenges in the legal profession**
+- The hosts address the inefficiencies often experienced when handling partnership agreements.
+- Comparison of lawyer densities worldwide: Israel has the highest with 700 lawyers per 1,000 people globally, followed by the Dominican Republic. U.S. ranks fifth.
+- Shows like "Suits" and "Law & Order" have misrepresented the legal profession, creating false notions about its allure and practicality.
+
+**GPT-3 revolutionizing legal contracts and advice**
+- Young entrepreneurs used GPT-3 to draft lease agreements by repurposing legal questions from Reddit's "Legal Advice" subreddit as input.
+- Experiment showed promising results, with over two-thirds of tested lawyers approving GPT-3’s responses without editing.
+- The feedback eventually led to founding "Harvey," an AI-powered platform tailored specifically to legal applications.
+
+**Harvey: A disrupting force in legal tech**
+- Harvey's tailored AI legal tools are used by 50% of major U.S. law firms. The startup has generated $200 million annually and achieved an $11 billion valuation after a recent funding round.
+- Harvey demonstrates the immense market potential of customized AI for specific industries.
+
+**Future of tech companies**
+- According to Sequoia Capital’s prediction, the next trillion-dollar company will likely be a software startup posing as an advanced services provider.
+- Example: Intuit’s QuickBooks, a leading accounting software replacing human accountants with automated systems.
+- The episode emphasizes the critical role of AI-powered tools in reshaping industries.
+
+
+**Original description:**  
+פרק 265: האם הבינה המלאכותית עומדת להחליף את עורך הדין או רואה החשבון שלכם? אם להסתמך על התחזית המטלטלת של קרן ההשקעות סקוויה - בהחלט כן. אנחנו נכנסים לעידן שבו חברות הטק כבר לא מוכרות לנו רק תוכנה, אלא מתחפשות לשירותים מקצועיים שלמים שפועלים באופן אוטונומי. בפרק נדבר על המודלים שכבר מחליפים מערכים אנושיים שלמים, ננתח איך ייראו חברות העתיד והאם המודל העסקי המוכר לנו עומד להיעלם מהעולם. והשאלות שבאמת מטרידות: האם הקוד הופך לבעל המקצוע החדש ואיך המהפכה הזו תפגוש את כולנו בשוק העבודה? עורכת: אפרת מירון See omnystudio.com/listener for privacy information.
+
+
+**Links mentioned:**
+• [Privacy FAQ](https://tritondigital.com/privacy-faq)
+
+---
+*Pipeline:*
+  • Transcript: cached_cached_whisper (7491 words, lang=he) — Full audio file transcribed (Whisper)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
