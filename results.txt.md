@@ -3618,3 +3618,90 @@ The episode suggests AI is revolutionizing professional fields beyond law, such 
   • Transcript: cached_cached_whisper (7491 words, lang=he) — Full audio file transcribed (Whisper)
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter Name : העתיד של חברות הטק
+
+**Podcast:** בזמן שעבדתם  
+**Author:** mako מאקו  
+**Date:** 13/05/2026 09:05 UTC  
+**Generated:** 17/05/2026 10:22 UTC  
+**Link:** https://omny.fm/shows/program-51/2e71604b-1702-4628-aeee-b449009122ad  
+
+---
+
+**Hebrew Summary:**  
+**מבוא – רקע וסיפור אישי**
+- הפרק נפתח בסיפור אישי על הקמה של סטארטאפ בשם ג'אמפסטארט והשימוש בכלים משפטיים כדי ליצור את הסכם השותפות. 
+- נידון כאן הצורך למצוא פתרונות יעילים וזולים בתחום המשפטי, במיוחד כשמדובר בשימוש בטכנולוגיות AI כמו ChatGPT.
+- הפודקאסט מתאר את החשיבה מאחורי איך ניתן להוריד עלויות ולהגדיל יעילות משפטית, במיוחד במקרים של משימות חוזרות על עצמן כמו כתיבת מסמכים משפטיים.
+
+**התפתחות תחום המשפט וטכנולוגיה – הדוגמה של GPT-3**
+- הפרק מתאר את הקשר בין טכנולוגיות AI, ובעיקר GPT-3, למקצוע המשפטים. 
+- מסופר סיפורם של שני שותפים צעירים, וינסטון ויינברג וגייב פרירה, שגילו את הפוטנציאל של GPT-3 בכתיבת מסמכים משפטיים.
+- הם השתמשו ב-GPT-3 כדי לענות על שאלות משפטיות שנשאלו בפורומים כמו Reddit, וקיבלו חיזוקים חיוביים מאורחי דין – 86 מתוך 100 דוגמאות התקבלו ללא תיקונים.
+
+**יצירת סטארטאפ משפטי מבוסס AI – הרוי**
+- שני היזמים הקימו סטארט אפ בשם Harvey המתמקד במתן פתרונות משפטיים אוטומטיים באמצעות AI. 
+- הטכנולוגיה של Harvey מתבססת על תהליך עיצוב מותאם אישית המכונה Fine-tuning, שמסייע לדייק את המערכת למטרות ספציפיות.
+- Harvey זכתה להשקעה ראשונית משמעותית מצד חברת סקויה והוערכה בשווי של 11 מיליארד דולר.
+
+**סקויה והתיאוריה של SaaS כשירות**
+- סקויה דנה בתיאוריה חדשנית על ההשפעה העתידית של טכנולוגיות AI על מודלים עסקיים. לפי סקויה, חברות טכנולוגיה יתחילו להתמקד יותר ויותר במתן תוכנה כשירות – Software as a Service (SaaS). 
+- דוגמה משעשעת שהובאה היא תוכנות המס כמו TurboTax בארה"ב, בהן משתמשים רבים במהלך תקופת הגשת דוחות המס השנתיות. 
+- התהליך של חברות השירותים, על פי סקויה, יהפוך להיות חברות SaaS שבהן המספקים שירותים כמו ראיית חשבון יחליפו בפלטפורמות טכנולוגיות מבוססות AI.
+
+**חיזוי לגבי עתיד חברות הטכנולוגיה**
+- סקויה טוענת שהחברה הבאה שתגיע לשווי של טריליון דולר תהיה חברת SaaS שמתחזה לחברת שירותים. כלומר, מודלים עסקיים מסורתיים יצטרכו להתרגל לשינויים הנגרמים כתוצאה מהאימוץ המואץ של AI בתחומים שונים.
+- נידונים תחומים נוספים שבהם AI יכול לשמש, כמו בנקים, בריאות, ובנייה.
+
+**השלכות על העתיד**
+- המסקנה מהפרק היא כי שימוש ב-AI ובמודלים כמו GPT-4 יכולים לשנות לחלוטין את אופי העבודה ומודלי ההכנסות של תעשיות רבות.
+- קיימת אמונה כי סטארטאפים רבים עתידים להתאים עצמם לנישה שבה AI יוכל להחליף את עבודתם של נותני השירותים המסורתיים.
+- נאמר גם כי במקרים מסוימים שימוש לא נכון ב-AI עלול להוביל לטעויות, כמו ניצול לא נכון של טכנולוגיה בבתי משפט.
+
+**נושאים נוספים שנידונו בפרק**
+- דוגמאות לשימושים מעשיים של ChatGPT בתחומים משפטיים ועסקיים
+- דיון באתגר האתיקה והשפעות של AI על איך אנו תופסים מקצועות מסורתיים
+- המלצה על הקשבה למאמר המטלטל של סקויה בנושא העתיד של חברות הטכנולוגיה.
+
+**English Summary:**  
+**Introduction – Background and Personal Story**
+- The episode begins with a personal story about founding a startup called Jumpstart and needing legal tech solutions for partnership agreements.
+- Discussion about reducing costs and increasing efficiency in legal work using technologies such as ChatGPT.
+
+**Legal and Tech Evolution – The Power of GPT-3**
+- The hosts cover how AI, particularly GPT-3, is connected to the legal profession.
+- They narrate the story of two young entrepreneurs, Winston Weinberg and Gabe Ferreira, who explored GPT-3’s potential to create legal documents.
+- 86 out of 100 test samples prepared by GPT-3 were approved by lawyers without edits.
+
+**AI-Powered Startup – Harvey**
+- The founders launched a startup named Harvey, focused on automated legal solutions through AI.
+- Harvey leverages Fine-tuning processes to customize its models for specific legal tasks.
+- The startup received major funding from Sequoia and was valued at $11 billion.
+
+**The Future of SaaS Models**
+- Sequoia introduced a radical theory predicting that the next trillion-dollar company will be SaaS-oriented and will mimic traditional service industries.
+- Examples, such as TurboTax software, illustrate how these models are already being adopted, especially for tasks like tax filings.
+
+**Future Outlook**
+- The episode predicts a significant shift in industries as AI solutions like GPT-4 are increasingly adopted.
+- They emphasize the application of AI across professions such as banking, healthcare, and architecture.
+- Ethical challenges and potential misuse of AI are also discussed.
+
+**Additional Topics**
+- Real-world examples of ChatGPT applications in legal and business areas.
+- Recommendations to read Sequoia’s thought-provoking article on the future of tech companies and AI usage.
+
+
+**Original description:**  
+פרק 265: האם הבינה המלאכותית עומדת להחליף את עורך הדין או רואה החשבון שלכם? אם להסתמך על התחזית המטלטלת של קרן ההשקעות סקוויה - בהחלט כן. אנחנו נכנסים לעידן שבו חברות הטק כבר לא מוכרות לנו רק תוכנה, אלא מתחפשות לשירותים מקצועיים שלמים שפועלים באופן אוטונומי. בפרק נדבר על המודלים שכבר מחליפים מערכים אנושיים שלמים, ננתח איך ייראו חברות העתיד והאם המודל העסקי המוכר לנו עומד להיעלם מהעולם. והשאלות שבאמת מטרידות: האם הקוד הופך לבעל המקצוע החדש ואיך המהפכה הזו תפגוש את כולנו בשוק העבודה? עורכת: אפרת מירון See omnystudio.com/listener for privacy information.
+
+
+**Links mentioned:**
+
+
+---
+*Pipeline:*
+  • Transcript: cached_cached_whisper (7491 words, lang=he) — Full audio file transcribed (Whisper)
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
