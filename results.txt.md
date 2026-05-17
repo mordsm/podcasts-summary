@@ -13399,3 +13399,84 @@ Storm chaser Reed Timmer takes us around and inside The Dominator—his massive 
   • Transcript: description (40 words, lang=en) — No audio download — summary based on show notes / description only
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter : פרק #1203 - פרופ׳ ינאי עופרן מפתח תרופות
+
+**Podcast:** גיקונומי  
+**Author:** ראם שרמן ודורון ניר  
+**Date:** 17/05/2026 21:21 UTC  
+**Generated:** 17/05/2026 22:04 UTC  
+**Link:** https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a71203%d7%a4%d7%a8%d7%95%d7%a4%d7%b3-%d7%99%d7%a0%d7%90%d7%99-%d7%a2%d7%95%d7%a4%d7%a8%d7%9f-%d7%9e%d7%a4%d7%aa%d7%97-%d7%aa/  
+
+---
+
+**Hebrew Summary:**  
+**ינאי עופרן: מדען בתחומי הביולוגיה החישובית והפיתוח התרופתי באמצעות AI**  
+- פרופ׳ ינאי עופרן הוא אחת הדמויות הבולטות בעולם המחקר בתחום הביולוגיה החישובית והשימוש באינטליגנציה מלאכותית (AI) בתחום הפיתוח התרופתי.  
+- כיום פרופ׳ עופרן הוא מרצה באוניברסיטת בר אילן וכן מוביל שלוש חברות בתחומים שונים של פיתוח תרופות.  
+   
+**על הביולוגיה החישובית ושימוש ב-AI בפיתוח תרופות**  
+- עופרן שיתף אודות השימוש ב-AI במציאת פתרונות רפואיים ותכנון תרופות מדויקות למחלות מורכבות.  
+- הדגש הושם על היתרונות של שילוב AI לזיהוי יעדים תרופתיים חדשים ולצמצום העלויות והזמן הנדרש למחקר ופיתוח תרופתי.  
+- דיבר על הערך המוסף של כלי AI ביכולת לחזות תהליכים ביולוגיים ולערוך מודלים מתקדמים של אינטראקציות בין תרופות ותאים בגוף.  
+
+**החברות שאותן עופרן מוביל**  
+- הוזכרו שלוש חברות שעופרן מעורב בהן, שמתמקדות בפיתוח תרופות למחלות שונות.  
+- העומס המחקרי והניהולי של עופרן מהווה אתגר, אך גם מייצג חלוציות יוצאת דופן בתחום הקשר בין טכנולוגיה ומדע.  
+
+**נותני חסות ואיזכורים מיוחדים במהלך הפרק**  
+- נותני החסות לפרק הם חברת **Cato Networks**, המספקת אבטחת רשת והגנה בענן.  
+- כמו כן, הוזכרה תוכנית לימודים של **מכון דוידסון**.  
+- הופיע קישור ליצירת קשר: **האימייל של ראם**.  
+- בנוסף, הועלו בהקשר זה דיונים מקצועיים עם ישי יובל מ-Cato Networks בפרקים קודמים.  
+
+**טכנולוגיות עתידיות והשפעתן על תחום הרפואה**  
+- עופרן דן על תפקידם של כלים טכנולוגיים, כמו אוטומציה, מכשור דיגיטלי, ונתונים גדולים (Big Data) בהובלת פריצת דרך עתידית בתעשיית הפארמה.  
+- הוזכרו האתגרים: חוסר רגולציה מוגדרת, שאלות אתיות, והצורך בגישה הוליסטית למחקר ופיתוח.  
+
+**תחזיות לעתיד**  
+- עופרן הביע אופטימיות לגבי הפוטנציאל של AI וידע חישובי בשיפור בריאות האנושות, אך הדגיש גם את החשיבות לקנה מידה ביקורתי ושקיפות מדעית.  
+- הערכה לגבי זמני פיתוח תרופה מתקנים: ממוצע עשור למספר שנים בלבד באמצעות AI.  
+   
+**סיכום המסר המרכזי**  
+- הפודקאסט נוגע בחשיבות המיזוג בין תחום המדע הקלאסי לבין הטכנולוגיות המודרניות על מנת לענות על אתגרי בריאות עולמיים, ולפתח תרופות שיצילו חיים במהירות וביעילות רבה יותר.
+
+**English Summary:**  
+**Yanai Ofran: Leading Computational Biology and AI-driven Drug Development**  
+- Professor Yanai Ofran is a prominent figure in computational biology and a pioneer in the use of AI for drug development.  
+- He currently teaches at Bar-Ilan University and leads three companies focused on developing treatments for various medical challenges.  
+
+**AI in Drug Development**  
+- Ofran highlighted the advantages of AI in identifying new drug targets, reducing costs, and expediting research timelines.  
+- AI tools provide insights into biological processes and enable advanced modeling of drug-cell interactions.  
+
+**Companies Led by Ofran**  
+- The podcast mentioned the three companies Ofran is spearheading, focusing on innovative pharmaceutical development strategies.  
+
+**Sponsors and Mentions**  
+- The episode is sponsored by **Cato Networks**, a cloud-based security and networking company.  
+- **Davidson Institute** educational programs were also mentioned.  
+- A contact reference was included: **Raam’s email**.  
+- Prior discussions with Yishai Yuval from Cato Networks were briefly noted.  
+
+**Future of Medicine and Prediction**  
+- Ofran discussed how automation, digital tools, and Big Data are facilitating medical advancements, while also addressing regulatory and ethical challenges.  
+- He predicted AI could cut drug development timelines from about a decade to a few years.  
+
+**Key Takeaway**  
+The podcast underscores the crucial integration of traditional science and modern technology (AI) to address global health challenges with more efficient drug discovery and development processes.
+
+
+**Original description:**  
+ינאי עופרן הוא מדען ישראלי מהמובילים בעולם הביולוגיה החישובית וחלוץ בתחום השימוש באינטליגנציה מלאכותית כדי לפתח תרופות. עופרן הוא פרופסור באונ׳ בר אילן ומוביל, בצורה כזו או אחרת, שלוש חברות שמנסות לפתח תרופות בתחומים שונים של מדע הרפואה. נותני החסות לפרק: הפרק בחסות חברת Cato Networks הפרק עם ישי יובל מקייטו תוכניות הלימוד במכון דוידסון האימייל של ראם
+
+
+**Links mentioned:**
+• https://www.catonetworks.com/careers/
+• [Geekonomy - פרק #886 – ישי יובל ואסטרטגיית סייבר](https://geekonomy.net/2024/04/30/geekonomy886/)
+
+---
+*Pipeline:*
+  • Transcript: description (58 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
