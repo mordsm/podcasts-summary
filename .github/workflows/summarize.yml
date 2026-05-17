@@ -14,6 +14,11 @@ on:
         required: false
         type: boolean
         default: false
+      resend_history:
+        description: 'Resend all existing results.txt.md entries to Telegram'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -52,10 +57,12 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           INPUT_TEST: ${{ github.event.inputs.test }}
           INPUT_FEED: ${{ github.event.inputs.feed }}
+          INPUT_RESEND_HISTORY: ${{ github.event.inputs.resend_history }}
         run: |
           args=()
           [ "$INPUT_TEST" = "true" ] && args+=(--test)
           [ -n "$INPUT_FEED" ] && args+=(--feed "$INPUT_FEED")
+          [ "$INPUT_RESEND_HISTORY" = "true" ] && args+=(--resend-history)
           python main.py "${args[@]}"
 
       - name: Commit results

@@ -180,7 +180,7 @@ def _tg_split(text: str, limit: int = _TG_MAX) -> list[str]:
     return chunks
 
 
-def send_telegram(episode, formatted_summary: str):
+def send_telegram(formatted_summary: str):
     import os
     import requests as _req
 
@@ -213,6 +213,20 @@ def send_telegram(episode, formatted_summary: str):
         logger.warning(f"  Telegram: send error — {e}")
 
 
+def resend_history():
+    """Send every entry already in results.txt.md to Telegram."""
+    if not RESULTS_PATH.exists():
+        logger.info("No results.txt.md found — nothing to resend")
+        return
+    content = RESULTS_PATH.read_text(encoding="utf-8")
+    # Each entry starts with "----\n"
+    blocks = [b.strip() for b in content.split("----") if b.strip()]
+    logger.info(f"Resending {len(blocks)} existing entries to Telegram")
+    for i, block in enumerate(blocks, 1):
+        logger.info(f"  Sending entry {i}/{len(blocks)}")
+        send_telegram(block)
+
+
 # ── Main pipeline ─────────────────────────────────────────────────────────────
 
 def main():
@@ -221,7 +235,13 @@ def main():
                         help="Test mode: process 3 smallest episodes (1 per feed type), ignore 7d window")
     parser.add_argument("--feed", type=str, default=None,
                         help="Filter feeds by name substring (case-insensitive)")
+    parser.add_argument("--resend-history", action="store_true",
+                        help="Resend all existing entries in results.txt.md to Telegram")
     args = parser.parse_args()
+
+    if args.resend_history:
+        resend_history()
+        return
 
     feed_configs, settings = load_config()
     if args.feed:
@@ -307,7 +327,7 @@ def main():
         append_result(summary)
         mark_seen(seen, episode.id)
         save_seen(seen)
-        send_telegram(episode, summary)
+        send_telegram(summary)
         logger.info("  Done.")
 
         # Stop if whisper budget is exhausted (production only; test mode processes all 3)
