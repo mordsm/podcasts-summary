@@ -201,6 +201,7 @@ def send_telegram(episode, formatted_summary: str):
                 "parse_mode": "HTML",
                 "disable_web_page_preview": True,
             }, timeout=15)
+            if resp.ok:
                 sent += 1
             else:
                 logger.warning(f"  Telegram: send failed {resp.status_code} — {resp.text[:200]}")
