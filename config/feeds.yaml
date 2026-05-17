@@ -275,6 +275,7 @@ feeds:
 
 - name: Bloomberg
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCIALMKvObZNtJ6AmdCLP7Lg"
+  disabled: true
 
 - name: Veritasium
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCin0m13qWv3-051xlWlHamA"

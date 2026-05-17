@@ -203,6 +203,9 @@ def get_recent_episodes(feed_configs: list, hours: int = 168) -> list[Episode]:
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
     result = []
     for cfg in feed_configs:
+        if cfg.get("disabled"):
+            logger.debug(f"Skipping disabled feed: {cfg['name']}")
+            continue
         feed_type = cfg.get("type") or _detect_feed_type(cfg["url"])
         if feed_type == "spotify":
             logger.warning(f"Skipping {cfg['name']}: type=spotify requires Spotify API (not available)")

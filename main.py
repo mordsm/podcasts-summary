@@ -97,6 +97,8 @@ def select_test_episodes(feed_configs: list) -> list:
     other_rss_bucket = []
 
     for cfg in feed_configs:
+        if cfg.get("disabled"):
+            continue
         feed_type = cfg.get("type", "rss")
         if feed_type == "spotify":
             continue
