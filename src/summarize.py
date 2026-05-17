@@ -11,45 +11,63 @@ _URL_RE = re.compile(r"https?://[^\s'\"<>)\]]+")
 _HEBREW_RE = re.compile(r"[֐-׿]")
 _AUDIO_EXT_RE = re.compile(r'\.(mp3|m4a|ogg|opus|aac|wav|flac)(\?.*)?$', re.IGNORECASE)
 _TITLE_RE = re.compile(r'<title[^>]*>(.*?)</title>', re.IGNORECASE | re.DOTALL)
+_SHORTENER_RE = re.compile(
+    r'^https?://(?:bit\.ly|tinyurl\.com|t\.co|goo\.gl|ow\.ly|buff\.ly|'
+    r'rebrand\.ly|short\.io|tiny\.cc|is\.gd|cutt\.ly|rb\.gy)/',
+    re.IGNORECASE,
+)
+_EXAMPLE_RE = re.compile(r'^https?://(?:[^/]*\.)?example\.com', re.IGNORECASE)
 
 
 def _extract_urls(text: str) -> list:
     return list(dict.fromkeys(_URL_RE.findall(text)))
 
 
-def _fetch_title(url: str) -> str:
+def _resolve_and_check(url: str) -> tuple[str, str] | None:
+    """Fetch url, follow redirects, check liveness. Returns (final_url, title) or None if dead."""
     if _AUDIO_EXT_RE.search(url):
-        return ""
+        return None
+    if _EXAMPLE_RE.match(url):
+        return None
     try:
-        r = requests.get(url, timeout=5,
+        r = requests.get(url, timeout=8,
                          headers={"User-Agent": "Mozilla/5.0 (compatible; PodcastSummarizer/1.0)"},
                          allow_redirects=True)
+        if r.status_code >= 400:
+            return None
+        final_url = r.url  # resolved URL after any redirects (expands shorteners)
+        title = ""
         m = _TITLE_RE.search(r.text[:4096])
         if m:
             title = re.sub(r"\s+", " ", m.group(1)).strip()
             title = re.sub(r"<[^>]+>", "", title).strip()
             title = html.unescape(title)
-            return title[:120]
+            title = title[:120]
+        return (final_url, title)
     except Exception:
-        pass
-    return ""
+        return None
 
 
 def _enrich_urls(urls: list) -> list[tuple[str, str]]:
-    """Return list of (url, title) pairs, fetched in parallel."""
-    results = {u: "" for u in urls}
+    """Return list of (final_url, title) for live URLs only, fetched in parallel.
+    Dead links, example.com URLs, and audio files are dropped.
+    Shortener URLs are resolved to their final destination."""
+    results: dict[str, tuple[str, str] | None] = {}
     with ThreadPoolExecutor(max_workers=8) as ex:
-        future_to_url = {ex.submit(_fetch_title, u): u for u in urls}
+        future_to_url = {ex.submit(_resolve_and_check, u): u for u in urls}
         try:
-            for future in as_completed(future_to_url, timeout=15):
-                url = future_to_url[future]
+            for future in as_completed(future_to_url, timeout=20):
+                orig_url = future_to_url[future]
                 try:
-                    results[url] = future.result()
+                    results[orig_url] = future.result()
                 except Exception:
-                    pass
+                    results[orig_url] = None
         except Exception:
             pass
-    return [(u, results[u]) for u in urls]
+    # Preserve original order, drop dead links
+    return [(final_url, title) for u in urls
+            if (r := results.get(u)) is not None
+            for final_url, title in [r]]
 
 
 _TIMESTAMP_RE = re.compile(
