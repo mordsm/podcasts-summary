@@ -182,6 +182,7 @@ def _tg_split(text: str, limit: int = _TG_MAX) -> list[str]:
 
 def send_telegram(formatted_summary: str):
     import os
+    import time as _time
     import requests as _req
 
     bot_token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
@@ -190,41 +191,58 @@ def send_telegram(formatted_summary: str):
         logger.info("  Telegram: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set — skipping")
         return
 
-    html = _md_to_tg_html(formatted_summary)
-    chunks = _tg_split(html)
-
+    # Split markdown first so HTML tags are never cut across chunk boundaries
+    md_chunks = _tg_split(formatted_summary)
     api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     sent = 0
     try:
-        for chunk in chunks:
+        for i, md_chunk in enumerate(md_chunks):
+            if i > 0:
+                _time.sleep(3)  # stay under Telegram's 20 msg/min channel limit
+            html = _md_to_tg_html(md_chunk)
             resp = _req.post(api_url, json={
                 "chat_id": chat_id,
-                "text": chunk,
+                "text": html,
                 "parse_mode": "HTML",
                 "disable_web_page_preview": True,
             }, timeout=15)
             if resp.ok:
                 sent += 1
+            elif resp.status_code == 429:
+                retry_after = resp.json().get("parameters", {}).get("retry_after", 30)
+                logger.info(f"  Telegram: rate limited, waiting {retry_after}s")
+                _time.sleep(retry_after + 1)
+                resp = _req.post(api_url, json={
+                    "chat_id": chat_id, "text": html,
+                    "parse_mode": "HTML", "disable_web_page_preview": True,
+                }, timeout=15)
+                if resp.ok:
+                    sent += 1
+                else:
+                    logger.warning(f"  Telegram: retry failed {resp.status_code} — {resp.text[:200]}")
+                    break
             else:
                 logger.warning(f"  Telegram: send failed {resp.status_code} — {resp.text[:200]}")
                 break
-        logger.info(f"  Telegram: {sent}/{len(chunks)} message(s) sent")
+        logger.info(f"  Telegram: {sent}/{len(md_chunks)} message(s) sent")
     except Exception as e:
         logger.warning(f"  Telegram: send error — {e}")
 
 
 def resend_history():
     """Send every entry already in results.txt.md to Telegram."""
+    import time as _time
     if not RESULTS_PATH.exists():
         logger.info("No results.txt.md found — nothing to resend")
         return
     content = RESULTS_PATH.read_text(encoding="utf-8")
-    # Each entry starts with "----\n"
     blocks = [b.strip() for b in content.split("----") if b.strip()]
     logger.info(f"Resending {len(blocks)} existing entries to Telegram")
     for i, block in enumerate(blocks, 1):
         logger.info(f"  Sending entry {i}/{len(blocks)}")
         send_telegram(block)
+        if i < len(blocks):
+            _time.sleep(4)  # pause between entries to avoid rate limiting
 
 
 # ── Main pipeline ─────────────────────────────────────────────────────────────
