@@ -138,25 +138,44 @@ def append_result(text: str):
 
 # ── Telegram ──────────────────────────────────────────────────────────────────
 
-RESULTS_URL = "https://github.com/ZacSadan/podcasts-summary/blob/master/results.txt.md"
 _TG_MAX = 4096
 
 
-def _tg_escape(text: str) -> str:
-    """Escape special characters for Telegram HTML mode."""
-    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+def _md_to_tg_html(text: str) -> str:
+    """Convert the markdown used in results.txt.md to Telegram HTML."""
+    import re as _re
+    # Escape HTML special chars first
+    text = text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    # ## Heading → <b>Heading</b>
+    text = _re.sub(r'^#{1,3} (.+)$', r'<b>\1</b>', text, flags=_re.MULTILINE)
+    # **bold** → <b>bold</b>
+    text = _re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', text)
+    # [title](url) → <a href="url">title</a>
+    text = _re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2">\1</a>', text)
+    # bare URLs that weren't in a link
+    text = _re.sub(r'(?<!["\(])https?://\S+', lambda m: f'<a href="{m.group()}">{m.group()}</a>', text)
+    # strip ---- dividers
+    text = _re.sub(r'^----+$', '', text, flags=_re.MULTILINE)
+    # collapse 3+ blank lines to 2
+    text = _re.sub(r'\n{3,}', '\n\n', text)
+    return text.strip()
 
 
-def _extract_hebrew_summary(formatted: str) -> str:
-    """Pull the Hebrew summary block out of the formatted markdown output."""
-    if "**Hebrew Summary:**" not in formatted:
-        return ""
-    after = formatted.split("**Hebrew Summary:**", 1)[1]
-    # Stop at English summary or original description
-    for marker in ("**English Summary:**", "**Original description:**", "---"):
-        if marker in after:
-            after = after.split(marker, 1)[0]
-    return after.strip()
+def _tg_split(text: str, limit: int = _TG_MAX) -> list[str]:
+    """Split text into chunks that each fit within Telegram's limit,
+    breaking on blank lines where possible."""
+    chunks = []
+    while len(text) > limit:
+        split_at = text.rfind('\n\n', 0, limit)
+        if split_at == -1:
+            split_at = text.rfind('\n', 0, limit)
+        if split_at == -1:
+            split_at = limit
+        chunks.append(text[:split_at].strip())
+        text = text[split_at:].strip()
+    if text:
+        chunks.append(text)
+    return chunks
 
 
 def send_telegram(episode, formatted_summary: str):
@@ -169,41 +188,24 @@ def send_telegram(episode, formatted_summary: str):
         logger.info("  Telegram: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set — skipping")
         return
 
-    date_str = episode.published.strftime("%d/%m/%Y")
-    he_summary = _extract_hebrew_summary(formatted_summary)
+    html = _md_to_tg_html(formatted_summary)
+    chunks = _tg_split(html)
 
-    # Build header (always included)
-    header = (
-        f"🎙 <b>{_tg_escape(episode.feed_name)}</b>\n"
-        f"📝 {_tg_escape(episode.title)}\n"
-        f"📅 {date_str}\n"
-        f"🔗 <a href=\"{episode.url}\">האזנה לפרק</a>\n\n"
-    )
-    footer = f"\n\n<a href=\"{RESULTS_URL}\">📄 סיכום מלא ב-GitHub</a>"
-
-    # Fit as much Hebrew summary as possible between header and footer
-    budget = _TG_MAX - len(header) - len(footer) - 30  # 30 chars safety margin
-    if he_summary:
-        body = "<b>סיכום:</b>\n" + _tg_escape(he_summary)
-        if len(body) > budget:
-            body = body[:budget - 3] + "..."
-    else:
-        body = ""
-
-    message = header + body + footer
-
-    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    sent = 0
     try:
-        resp = _req.post(url, json={
-            "chat_id": chat_id,
-            "text": message,
-            "parse_mode": "HTML",
-            "disable_web_page_preview": False,
-        }, timeout=15)
-        if resp.ok:
-            logger.info("  Telegram: message sent")
-        else:
-            logger.warning(f"  Telegram: send failed {resp.status_code} — {resp.text[:200]}")
+        for chunk in chunks:
+            resp = _req.post(api_url, json={
+                "chat_id": chat_id,
+                "text": chunk,
+                "parse_mode": "HTML",
+                "disable_web_page_preview": True,
+            }, timeout=15)
+                sent += 1
+            else:
+                logger.warning(f"  Telegram: send failed {resp.status_code} — {resp.text[:200]}")
+                break
+        logger.info(f"  Telegram: {sent}/{len(chunks)} message(s) sent")
     except Exception as e:
         logger.warning(f"  Telegram: send error — {e}")
 
