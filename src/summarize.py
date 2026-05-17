@@ -297,6 +297,8 @@ def _summarize_with_models(episode, transcript_text: str, lang: str, settings: d
 
 def _format_output(episode, hebrew_summary: str, english_summary: str,
                    urls: list, pipeline_steps: list) -> str:
+    from datetime import datetime, timezone
+
     # Clear English if it came out as Hebrew (extractive/model error)
     if english_summary and _is_mostly_hebrew(english_summary):
         english_summary = ""
@@ -313,6 +315,7 @@ def _format_output(episode, hebrew_summary: str, english_summary: str,
 
     steps_block = "\n".join(f"  • {s}" for s in pipeline_steps)
     date_str = episode.published.strftime("%d/%m/%Y %H:%M") + " UTC"
+    generated_str = datetime.now(timezone.utc).strftime("%d/%m/%Y %H:%M") + " UTC"
     desc_block = f"\n**Original description:**  \n{desc_clean[:600]}" if desc_clean else ""
 
     he_block = f"**Hebrew Summary:**  \n{hebrew_summary}\n\n" if hebrew_summary else ""
@@ -323,6 +326,7 @@ def _format_output(episode, hebrew_summary: str, english_summary: str,
         f"**Podcast:** {episode.feed_name}  \n"
         f"**Author:** {episode.author}  \n"
         f"**Date:** {date_str}  \n"
+        f"**Generated:** {generated_str}  \n"
         f"**Link:** {episode.url}  \n"
         f"\n---\n\n"
         f"{he_block}"
