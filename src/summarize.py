@@ -351,7 +351,7 @@ def _format_output(episode, hebrew_summary: str, english_summary: str,
         f"**Author:** {episode.author}  \n"
         f"**Date:** {date_str}  \n"
         f"**Generated:** {generated_str}  \n"
-        f"**Link:** \n{episode.url}  \n"
+        f"**Link:** \n\n{episode.url}  \n"
         f"\n---\n\n"
     )
     footer = (
