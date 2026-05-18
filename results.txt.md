@@ -13559,3 +13559,100 @@ No specific links or resources were provided, but exploring AI learning platform
   • Transcript: description (86 words, lang=he) — No audio download — summary based on show notes / description only
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter : מה עושים כשהבינה לא מבינה | פרק 53 מטפלים בחלק מהבעיות
+
+**Podcast:** מי אמר AI  
+**Author:** Eran Goldstein  
+**Date:** 17/05/2026 02:00 UTC  
+**Generated:** 18/05/2026 06:00 UTC  
+**Link:** 
+https://www.buzzsprout.com/2439036/episodes/19187359-53.mp3  
+
+---
+
+**Hebrew Summary:**  
+**מבוא: נושאים ונקודת מיקוד הפרק**  
+- פרק 53 בפודקאסט "מי אמר AI" מתמקד באתגרים והכשלים שמגיעים עם שימוש בטכנולוגיות AI כיום.  
+- רועי וערן חולקים תלונות בולטות, תקלות טכניות, ובעיות תפקוד של כלים פופולריים, עם דוגמאות מהשטח והצעות לפתרונות יצירתיים.  
+- מטרת הפרק להציג את מה שעומד מאחורי החזית המבריקה של AI ולפשר על חסרונותיו ופגמיו הנוכחיים.  
+
+**תסמונת האמן המיוסר - Gemini**  
+- בעיה עם Gemini: כשהוא מקבל פרומפט לתרגום לאנגלית עבור הפקת תמונה בתוכנה אחרת, הוא נוטה לייצר את התמונה בעצמו במקום רק לבצע התרגום הנדרש.  
+- התנהגות זו מזכירה "הגדלת ראש" שהתוכנה עשתה שלא במקום הנכון, וגורמת לתסכול עבודה יומיומית.  
+
+**איפה התמונה שלי? - יצירת קריכות ספרים**  
+- ערן הקים אוטומציה עבור יצירת קריכות אחוריות לספרים מומצאים.  
+- ה-AI לא מצליח לשמור על עקביות והחלפת תמונת הסופר בכל עיבוד מחדש, לפעמים עם פרצופים מוזרים ואקראיים (כמו מונגולי).  
+- בעיה זו מובילה להשקעת זמן רב בבקרת איכות ידנית.  
+
+**חרדת טוקנים וזוגיות רעילה עם Claude**  
+- ערן השתתף בפרויקטים עם Vibe Coding, המיועדת לבניית אפליקציות בצורה קלה באמצעות Claude.  
+- Claude מגביל את כמות הטוקנים לכל שעה, דבר שגורם לעיכובים בעבודה רגילה ולהתאמת הליך העבודה סביב מועד חידוש הטוקנים.  
+
+**יישור לימין: קנבס של ChatGPT**  
+- רועי משתף את תסכולו מהמאבק התמידי בבעיית יישור הטקסט לעברית (RTL) בפלטפורמת ChatGPT.  
+- ה-AI מבצע טעויות ביישור לימין למרות שהוא טוען שהגדרה זו נעשתה.  
+- בעיה זו גורמת לאי נוחות של משתמשים בעברית ואף לנטישה של הפלטפורמה.  
+
+**פיצול אישיות בקריינות - 11Labs**  
+- בתיקון מילה אחת בסאונד, כלי הקריינות משנה את קול הקריין לחלוטין באופן לא יציב.  
+- התוצאה היא תוכן שמאבד קונסיסטנטיות, ונדמה שעבר עליו "משהו בחיים", כפי שתיארו המנחים.  
+
+**טיימר שבור - Sonu**  
+- שימוש בג'נרטור מוזיקה לבקשת שיר באורך ספציפי (7 שניות), אבל הכלי מתעלם מהבקשה ויוצר שירים באורכים שונים כמו 9 או 47 שניות.  
+- המנחים מציעים שאולי כדאי "לחתוך אודיו ידנית" עד שיימצא פתרון אמין יותר.  
+
+**תקלות בהפקת וידאו באמצעות AI**  
+- המנחים משתפים תסכולים מהפקת סרטוני וידאו עם AI, כשהמערכת מתנהגת באופן אקראי ומוסיפה פריטים לא קשורים כמו אנשים מרחפים או חורים בתקרה.  
+
+**בעיות בתוכנות של גוגל**  
+- בעיית טעינה אינסופית: NotebookLM של גוגל נתקע על "טוען" בלי שום התראה על בעיה.  
+- מעבר בין שפות: בתוספי AI ב-Google Sheets, בפרט Gemini, הכלי נתקל בקשיים בעבודה עם השפה העברית וטוען שהוא "לא מבין" אותה.  
+
+**סיוט ה”קופי-פייסט” - ChatGPT**  
+- בהעתקת טקסטים בעברית מ-ChatGPT ל-Word, כל הניקוד והגרשיים משתנים ונוצרים שיבושים בפורמט הטקסט.  
+- הכלי גם נוטה לפצל את התשובה לקופסאות במקום להציג תוצאה אחידה, מה שמקשה על עיבוד התוכן.  
+
+**סיכום וקריאה לפעולה**  
+- המנחים דנים בדרכים להתמודד עם האתגרים, כמו לעבוד עם קבצי Markdown במקום פורמטים אחרים כדי לחסוך בזיכרון ב-Claude.  
+- בשורה התחתונה, הם מציינים את הצורך לגלות סבלנות בתקופת המעבר וההתפתחות של טכנולוגיית AI.  
+- להזמנה להרצאות, הדרכות ולשליחת פידבק על נושאי הפרק ניתן לפנות במייל לכתובת: Eran@binali.co.il.  
+
+**משאבים נוספים**  
+- הקורס "AI Expert" של הפודקאסט — מידע נוסף בקישור או במייל.  
+- הפרק כולל טיפים והצעות להתמודדות עם האתגרים שהוזכרו בעבודה יומיומית עם כלים ודיגיטליים מבוססי AI.
+
+**English Summary:**  
+**Introduction: Episode Focus**  
+- Episode 53 of “מי אמר AI” focuses on the frustrations and challenges of using current AI technologies.  
+- Hosts Roy and Eran discuss bugs, broken features, and unexpected AI behaviors that disrupt daily workflows.   
+
+**Key Issues Highlighted**  
+- **Gemini’s Overzealous Creativity:** Gemini tends to exceed instructions, creating images instead of sticking to requested tasks like simple prompt translations.  
+- **Image Consistency Problems:** Eran’s project generates book cover designs, but AI fails to consistently preserve author portraits, often introducing random faces.  
+- **Claude Token Limits:** Claude causes workflow issues by limiting token usage per hour, forcing users to adapt their schedules to token renewal times.  
+- **RTL Alignment Errors in ChatGPT:** Roy faces daily frustrations with ChatGPT failing to align Hebrew text properly, despite claiming it’s formatted correctly.  
+- **11Labs Voice Consistency Issues:** Correcting an audio word leads to inconsistent voice changes in the narration output.  
+- **Sonu’s Broken Timer:** Requests for specific-duration music tracks (e.g., 7 seconds) result in arbitrary lengths like 9 or 47 seconds.  
+- **Erratic AI Video Creation:** AI-generated videos add random elements such as floating objects or ceiling holes, disrupting the original vision.  
+- **Google Tools Bugs:** NotebookLM freezes on “loading” without error messages, and Gemini in Google Sheets struggles with Hebrew language processing.  
+- **Hebrew Copy-Paste Problems in ChatGPT:** Pasting Hebrew text into Word creates formatting errors with punctuation marks and inconsistent text layouts.  
+
+**Conclusion**  
+- Hosts explore creative solutions, such as using Markdown files with Claude for memory efficiency. Ultimately, the message is to stay patient as AI technology evolves.  
+- Contact: Eran@binali.co.il for comments, event bookings, and course details ("AI Expert").
+
+
+**Original description:**  
+קבוצת תמיכה לנפגעי AI הפעם ריכזנו את כל מה שמעצבן אותנו בבינה המלאכותית (כרגע) בדרך כלל אנחנו מביאים לכם את החדשות הכי מסעירות ופריצות הדרך הכי מדהימות של עולם ה-AI. אבל הפעם, רועי וערן פותחים קליניקה ומדברים על המציאות עצמה: כל הבאגים הקטנים, הפיצ&apos;רים השבורים, וההתחכמויות של המכונה שפשוט מוציאים אותנו מדעתנו ביום-יום. הכנו רשימת תרוניות (תלונות) ארוכה במיוחד, והנה קצת ממה שדיברנו עליו בפרק: תסמונת האמן המיוסר של ג&apos;מיני: למה כשמבקשים ממנו רק לתרגם פרומפט לאנגלית בשביל יצירת תמונה בתוכנה אחרת, הוא מחליט להגדיל ראש ולייצר את התמונה בעצמו? איפה התמונה שלי? ערן בנה אוטומציה שמייצרת קריכו
+
+
+**Links mentioned:**
+• [קורס AI - העתיד שלך מתחיל כאן](https://aicourse.bdo-academy.co.il/miamar)
+
+---
+*Pipeline:*
+  • Transcript: cached_description (371 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+

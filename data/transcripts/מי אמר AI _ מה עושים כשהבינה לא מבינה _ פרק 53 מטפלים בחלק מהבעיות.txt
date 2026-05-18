@@ -1,8 +1,8 @@
 Feed: מי אמר AI
 Episode: מה עושים כשהבינה לא מבינה | פרק 53 מטפלים בחלק מהבעיות
-Method: description
+Method: cached_description
 Language: he
-Words: 369
+Words: 371
 URL: https://www.buzzsprout.com/2439036/episodes/19187359-53.mp3
 
 --- TRANSCRIPT ---
