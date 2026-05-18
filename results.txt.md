@@ -13480,3 +13480,82 @@ The podcast underscores the crucial integration of traditional science and moder
   • Transcript: description (58 words, lang=he) — No audio download — summary based on show notes / description only
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter : איך באמת מריצים LLM בסקייל עצום? [עושים תוכנה]
+
+**Podcast:** עושים תוכנה  
+**Author:** רשת עושים היסטוריה  
+**Date:** 18/05/2026 02:30 UTC  
+**Generated:** 18/05/2026 04:41 UTC  
+**Link:** https://www.spreaker.com/episode/yk-b-mt-mryzym-llm-bsqyyl-zwm-wsym-twknh--72041423  
+
+---
+
+**Hebrew Summary:**  
+**איך באמת מריצים LLM בסקייל עצום?**
+
+בפרק החדש של הפודקאסט "עושים תוכנה", עמית בן דור מארח את מייק ארליךסון, אושייה בתחום ה-AI, לשיחה מעמיקה על modus operandi שללית מודלים לשפה (LLM) בסקייל רחב. השיחה מתמקדת בכמה מהמרכיבים החשובים והמאתגרים של ריצה והפעלת LLM, כמו גם בטכניקות המתפתחות בתחום.
+
+**מה הופך בקשה אחת ל-LLM למורכבת?**
+- מייק מסביר כיצד בקשה אחת ל-LLM נראית פשוטה מהצד, אך מאחוריה יש מורכבות רבה. הם דנים בתהליך שבמהלכו проходится הבקשה, כולל שלבים כגון:
+  - **KV Cache**: כיצד שיטה זו מאפשרת לשמור על נתוני מפתח ולהאיץ גישה לאותם נתונים כדי לייעל את תהליך ההפקה והעיבוד.
+  - **Batching**: מאגר של בקשות שמאושר יחד במקביל, כדי לחסוך בזמן עיבוד וביצוע.
+
+**שיטות עבודה עם LLM**
+- **Prefill vs Decode**: מייק מסביר את ההבדלים בין השניים ולמה כל שיטה מתאימה למצבים שונים. prefill מתייחס להשלמת טקסטים לפני האירוע של ההנחה, ואילו decode עוסק בהפקה של טקסט מתשובות לא ידועות דרך מודל.
+- **חלוקה של המודל בין GPUs**: דובר גם על הדרך שבה ניתן לחלק את המשאבים בין GPU שונים כדי לנצל את מלוא הפוטנציאל של היכולות החישוביות שלהם.
+
+**Mixture of Experts**
+- מייק מציין דבר מהותי נוסף - השיטה המכונה Mixture of Experts. זהו מודל ששולח לפלט השלב הבא את הכוח החישובי רק ממומחים מסוימים מתוך מכלול המומחים שיש למודל. כך ניתן לחסוך בזמן ובמשאבים.
+
+**החשיבות והצורך בתחום הריצה של LLM**
+- ניתוח של הסיבות שהפכו את התחום לקריטי. המון חברות ובעלי טכנולוגיה מחפשים כעת דרכים לייעל את השימוש ב-AI, והצורך במודלים קלים ומסודרים להכנה וריצה הוא לא רק מגבלות כלכליות אלא גם טכניות.
+
+**כיצד אפשר להתחיל לפתח ולעבוד עם LLM?**
+- מייק נותן טיפים למהנדסים שמעוניינים להתחיל לעבוד עם מודלים כאלה:
+  - הכרות עם הכלים הנדרשים והבנה של תהליכי העבודה בסקייל גדול.
+  - שימוש בפלטפורמות כמו TensorFlow ו-PyTorch שיכולות להקל על הפיתוח והניסוי עם LLM.
+  - הבנה של ה-fluidity של הרשמות והדרישות המשתנות בין פרויקטים שונים.
+
+לסיום, מייק מדגיש את הפוטנציאל העצום שנמצא במודלים כאלה ואיך בהבנה מעמיקה של התהליכים, מהנדסים יכולים להיכנס לתחום ולהשתתף מהצד של הפיתוח.
+
+**לינקים ומשאבים:**
+- לינקים למידע נוסף לא צוינו במפורש בפרק, אך יתכן שניתן למצוא מידע על LLM ויישומיהם באתרי למידה על AI או בפלטפורמות כמו arXiv.org להשגת פ papers.
+
+**English Summary:**  
+In the latest episode of "Doing Software," Amit Ben Dor hosts Mike Erlichson, an authority in the AI field, discussing the operational intricacies of running large language models (LLMs) at scale. 
+
+**Key Discussion Points:**
+- **Complexity of LLM Requests**: 
+  - Mike explains the complex backend processes that occur behind seemingly simple LLM requests, including:
+    - **KV Cache**: Technique for storing key data to optimize processing speed.
+    - **Batching**: Grouping multiple requests for parallel processing efficiency.
+
+- **Operational Methods**: 
+  - **Prefill vs Decode**: The difference between preparing text and generating unknown responses.
+  - **Distributed Model Among GPUs**: The strategy for partitioning computing resources among different GPUs to optimize processing capability.
+
+- **Mixture of Experts**: 
+  - A method that utilizes only specific computational resources from a pool of experts, enhancing efficiency while conserving time and resources.
+
+- **Significance of LLM Operations**: 
+  - The rising demand for efficient AI usage and the need for streamlined, cost-effective models.
+
+- **Getting Started with LLM**: 
+  - Mike offers practical advice for engineers looking to develop and work with LLMs, including:
+    - Familiarization with necessary tools such as TensorFlow and PyTorch.
+
+The conversation concludes with Mike emphasizing the enormous potential in understanding these processes, encouraging engineers to explore and engage in the development side of AI.
+
+No specific links or resources were provided, but exploring AI learning platforms and repositories like arXiv.org was suggested for deeper insights on LLM and its applications.
+
+
+**Original description:**  
+מה הופך בקשה אחת ל-LLM למורכבת כל כך מאחורי הקלעים? איך מאות מיליארדי פרמטרים נדחסים על עשרות GPUs, ואיך כל ה-cluster הזה משרת אלפי משתמשים במקביל בלי להתפוצץ? אירחתי את מייק ארליכסון, אושייה בעולם הAI, ופירקנו את עולם ה-inference מבפנים: KV cache, batching, ההבדל בין prefill ל-decode, חלוקה של מודל בין GPUs שונים, ו-Mixture of Experts. דיברנו גם על למה זה הפך לאחד התחומים הכי קריטיים בעולם ה-AI - וגם איך נכנסים אליו אם אתם מהנדסים שרוצים להתחיל להריץ מודלים בעצמכם. האזנה נעימה, עמית בן דור.
+
+
+---
+*Pipeline:*
+  • Transcript: description (86 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
