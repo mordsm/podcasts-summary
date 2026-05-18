@@ -13820,3 +13820,1346 @@ https://podcasters.spotify.com/pod/show/guy-katsovich/episodes/102-e3jg6he
   • Transcript: page_content (11274 words, lang=he) — No audio download — summary based on show notes / description only
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter : איך ייראה תחום הסייבר בעתיד?
+
+**Youtube Channel:** MDLI  
+**Author:** Machine & Deep Learning Israel  
+**Date:** 18/05/2026 12:19 UTC  
+**Generated:** 18/05/2026 12:39 UTC  
+**Link:** 
+
+https://www.youtube.com/shorts/9B8MYfvlOo0  
+
+---
+
+**Hebrew Summary:**  
+**דמוקרטיזציה של תקיפות סייבר**  
+- גילי מ-Vega דיבר על תופעה חדשה בעולם הסייבר: דמוקרטיזציה של תקיפות סייבר.  
+- לטענתו, כלי תקיפה הופכים להיות נגישים לכולם, כולל לפרטים ואנשים חסרי הכשרה מקצועית בתחום.  
+- מדובר בשינוי משמעותי בעולם הסייבר שגורם לכך שארגונים שמעולם לא היו חשופים לתקיפות, פתאום הופכים למטרה אפשרית.  
+
+**הפתרון: Shift-Left**  
+- גישת ה-Shift-Left הוצגה כאחד הפתרונות המרכזיים להתמודדות עם אתגרי ההנגשה של כלי התקיפה.  
+- במקום להגיב לתקיפות אחרי שהן כבר התרחשו, הגישה מתמקדת במניעה מוקדמת ובזיהוי של נוזקות או חולשות אבטחה עוד בשלבים מוקדמים של הפיתוח.  
+- הכלים והאסטרטגיות שתומכות בגישה זו מצמצמות את כמות התקיפות וגם את הנזק שתקיפות יכולות לגרום.  
+
+**הסיכונים בעידן החדש של גישה פתוחה לסייבר**  
+- גילי התייחס גם לבעיית הזמינות של כלים מתקדמים כמו AI או APIs בפלטפורמות ציבוריות, שהופכים כלים מתקדמים לנגישים למטרות זדוניות.  
+- החיפוש של פתרונות דורש עבודה משותפת בין טכנולוגיה, ארגונים, וגופים ממשלתיים כדי להישאר צעד אחד קדימה מאיומים החדשים.
+
+**English Summary:**  
+**Cybersecurity Democratization**  
+- Gili from Vega highlighted a major shift in cybersecurity: the democratization of hacking tools.  
+- He stated that tools for cyberattacks are increasingly available to the public, including individuals without professional expertise.  
+- This change exposes organizations, which were previously safe from attacks, to new threats.  
+
+**Solution: Shift-Left Approach**  
+- The Shift-Left approach was presented as a key response to these challenges.  
+- By focusing on early prevention and identifying malware or weaknesses during development stages, organizations can reduce attack occurrences and minimize damage.  
+
+**Risks in the Age of Open Access Cyber Tools**  
+- Gili emphasized the danger of advanced tools like AI and APIs being accessible for malicious purposes on public platforms.  
+- Collaboration between technology, corporations, and governments is essential to stay ahead of emerging threats.
+
+
+**Original description:**  
+דמוקרטיזציה של תקיפות סייבר גילי מ-Vega על העתיד: כלי תקיפה נגישים לכולם, ארגונים שמעולם לא חוו תקיפות פתאום חשופים. הפתרון? Shift-Left — לגלות ולמנוע כמה שיותר מוקדם.
+
+
+---
+*Pipeline:*
+  • Transcript: description (27 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : הכירו: מודלי שפה **קטנים** שכותבים קוד לניתוח לוגים
+
+**Youtube Channel:** MDLI  
+**Author:** Machine & Deep Learning Israel  
+**Date:** 18/05/2026 12:19 UTC  
+**Generated:** 18/05/2026 12:39 UTC  
+**Link:** 
+
+https://www.youtube.com/shorts/_JkUUjag88Q  
+
+---
+
+**Hebrew Summary:**  
+**מבוא:**  
+- הפרק עוסק במודלים לשוניים קטנים (SLM) המשמשים ליצירת קוד לניתוח לוגים בזמן אמת.  
+- גילי מחברת Vega מארח את הפרק ומסביר את ההחלטות הטכנולוגיות שמאחורי הגישה שלהם.  
+
+**הגישה של Vega לניתוח לוגים:**  
+- Vega בחרה לא לעבוד בגישה הישירה של הכנסת לוגים לחלון הקונטקסט של המודל (Context Window).  
+- במקום זאת, הם מסתמכים על Small Language Model שמייצר קוד לתהליך ניתוח דטרמיניסטי.  
+- היתרונות של הגישה כוללים:  
+  - שיפור בביצועים וביציבות כאשר אין עומס על חלון הקונטקסט.  
+  - אפשרות לבצע אופטימיזציה לכלים קיימים ולאמוד יעילות באופן ברור.  
+
+**המשמעות של שימוש במודלים קטנים:**  
+- גילי מסביר שמודלים קטנים (SMALL Language Models) מציעים מספר יתרונות:  
+  - דרישות נמוכות מבחינת משאבי חומרה.  
+  - התאמה טובה למשימות ספציפיות כמו ניתוח לוגים, בניגוד למודלים גדולים יותר שמתאימים לשימוש כללי.  
+  - הם פחות רגישים לטעויות בהזנת נתונים (Garbage in, garbage out).  
+
+**התמודדות עם Time Sensitivity:**  
+- Vega הצליחה לפתור אתגרי זמן אמת בעזרת כתיבת קוד מותאם אישית על ידי המודל.  
+- בגישה זו, ניתן לעבד לוגים בצורה דטרמיניסטית, מה שמבטיח תוצאות עקביות ואמינות.
+
+**דיון על שינוי הפרדיגמה במודלים לשוניים:**  
+- המודל של Vega מצביע על שינוי בפרדיגמה לעומת שימוש במודלים הגדולים כמו GPT-4.  
+- תוך מעבר מאופטימיזציה של מודלים פרימיטיביים יחסית למערכות ממוקדות מטרה (Task-Specific).  
+
+**סיכום ונקודות שיחה לעתיד:**  
+- שימוש ב-Small Language Models עשוי להיות חלק מהעתיד של AI בתחומים מקצועיים.  
+- הדגש עובר מפתרונות גנריים לאינטגרציה עמוקה בתוך כלים ייעודיים כמו ניתוח מערכות לוגים.
+
+**English Summary:**  
+**Introduction:**  
+- The episode explores the use of Small Language Models (SLMs) for real-time log analysis and code generation.  
+- Gili from Vega explains their choice of not feeding logs into the Context Window but letting an SLM write deterministic analysis code instead.  
+
+**Vega's Approach to Log Analysis:**  
+- Vega opted against embedding logs directly into the model's context.  
+- Instead, they rely on SLMs for deterministic code creation to analyze the logs.  
+- Benefits of this approach:  
+  - Improved performance and stability by avoiding Context Window burdens.  
+  - Better optimization for existing tools and clearer efficiency measurements.  
+
+**Advantages of Small Models:**  
+- Gili highlights several advantages of using smaller models:  
+  - Lower hardware requirements.  
+  - Better tailoring for specific tasks like log analysis.  
+  - Less prone to errors from poor data input quality.  
+
+**Handling Time Sensitivity:**  
+- Vega addressed real-time challenges by having the model write customized code.  
+- This deterministic approach ensures consistent and reliable results.  
+
+**Paradigm Shift:**  
+- Reflects a shift from large, generic models like GPT-4 to task-specific systems.  
+- Emphasis on goal-oriented AI for professional applications.  
+
+**Conclusion & Future Directions:**  
+- SLMs could shape AI's role in specialized fields.  
+- Focus increasingly moves from general solutions to deep integration with specific tools like log analysis platforms.
+
+
+**Original description:**  
+SLM שכותב קוד לניתוח לוגים בזמן אמת גילי מ-Vega מסביר למה הם בחרו לא לדחוף לוגים ל-Context Window, אלא לתת ל-Small Language Model לכתוב קוד שמנתח אותם דטרמיניסטית.
+
+
+---
+*Pipeline:*
+  • Transcript: description (28 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : למה Agent צריך Context-Awareness?
+
+**Youtube Channel:** MDLI  
+**Author:** Machine & Deep Learning Israel  
+**Date:** 18/05/2026 12:18 UTC  
+**Generated:** 18/05/2026 12:39 UTC  
+**Link:** 
+
+https://www.youtube.com/shorts/zyZkmer9N0M  
+
+---
+
+**Hebrew Summary:**  
+**מבוא לפרק ודוגמה לנושא המרכזי**  
+- הפרק מתמקד בצורך של Agent להיות Context-Aware בתהליכי עיבוד ואינטראקציה עם מידע.  
+- גילי מ-Vega מסביר על הבעייתיות של Queries שנראים נכונים אך מחזירים אפס תוצאות, ומה ההשלכות על תהליכים מבוססי AI.  
+- השיח מתמקד בהבדל בין שגיאה מסוג אפס תוצאות (Zero Results Error) לבין Hallucinations במערכות AI.  
+
+**האתגר של אפס תוצאות לעומת Hallucinations**  
+- בעוד Hallucinations הם כאשר המערכת מייצרת תשובה שאינה נכונה או מבוססת, אפס תוצאות מתייחסות למצב בו לא מתקבלת תשובה כלל, למרות שהשאלה נראית תקינה.  
+- גילי מדגיש: "בעיית האפס תוצאות חמורה במיוחד במערכות שחייבות לספק מידע קונקרטי, כמו מערכות SaaS שנותנות דוחות או מערכות חיפוש מותאמות אישית".  
+- נעשה שימוש בדוגמה מעשית: במערכת חיפוש בכנס CyberML, משתמשים עלולים להזין שאילתות תקינות כגון "CyberML use cases in Python" ועדיין לקבל אפס תוצאות אם המערכת אינה תומכת בקונטקסט זה.  
+
+**תפקיד Context-Awareness בפתרון הבעיה**  
+- Agent שיודע לזהות את ההקשר סביב השאלה יכול "להבין" למה הכוונה האמתית של המשתמש ולא לחפש רק התאמות מדויקות.  
+- טכנולוגיות כמו NLP ו-Large Language Models (LLMs) נדרשות כדי לספק את התובנה ה"אינטואיטיבית" הנדרשת.  
+- לדוגמה, שימוש בכלי כמו OpenAI API יכול לשפר משמעותית את ההתאמה בין השאלה לתוצאה, על ידי עיבוד פרטים קונטקסטואליים מורכבים יותר.  
+
+**פתרונות וטכנולוגיות מתקדמות בעולמות ה-AI**  
+- **Neural Search Engines**: גילי מזכיר פתרונות המשתמשים בארכיטקטורות מתקדמות כמו Transformers כדי לתאם בין הנתונים לבין ההקשר של השאלה.  
+- **Fine-Tuning Models**: חברות יכולות להתאים מודלים כמו GPT עבור צרכים ספציפיים.  
+- **Graph Databases**: לפתרונות חיפוש מתקדמים ניתן לשלב Databases מסוג זה כדי לארגן נתונים בצורה יעילה שמתאימה לקישורים והקשרים בין פריטים.  
+
+**השלכות עסקיות ומבצעיות על חברות**  
+- בעיות של אפס תוצאות יכולות להוביל לאובדן משתמשים או הכנסות, שכן המשתמשים מתוסכלים מחוסר מענה.  
+- גילי מדגיש את החשיבות של הטמעת Context-Aware Agents במערכות כמו SaaS כדי לשפר את רמת שביעות הרצון.  
+- מנגד, אסטרטגיות ניהול נתונים גרועות, או אי השקעה בפתרונות חכמים, עלולות לעכב את הצמיחה.  
+
+**סיכום ותובנות לעתיד**  
+- העתיד נמצא בנתונים: שימוש באלגוריתמים מתקדמים ל-Context-Awareness יאפשר לשפר את חוויות המשתמש בצורה משמעותית.  
+- פתרונות מבוססי AI צריכים להינתן מתוך חשיבה רב-שלבית הכוללת איסוף נתונים קונטקסטואליים, שיפור המודלים והתאמת התוצאות האפקטיביות למשתמשים.  
+- הוזכרו הכנסים והאירועים של CyberML והערך הטמון בהשקעה בדיונים טכנולוגיים בסגנון הזה.
+
+**English Summary:**  
+**Introduction and Episode Focus**  
+- The episode highlights the need for Agents to be Context-Aware in information processing and interaction.  
+- Gili from Vega points out the critical challenge of queries that look valid yet return zero results, an issue possibly more severe than AI hallucinations.  
+
+**Zero Results vs. Hallucinations in AI Systems**  
+- Zero Results refers to valid queries yielding no results, unlike hallucinations which produce fabricated answers.  
+- Gili gives examples relevant to CyberML, like users searching "CyberML use cases in Python" and receiving zero outputs without proper Context-Awareness.  
+
+**Role of Context-Awareness and Key Technologies**  
+- Context-Aware Agents utilize NLP and LLMs to interpret user intent instead of relying solely on exact keyword matches.  
+- Tools like OpenAI API can process complex contextual details, improving result accuracy significantly.  
+
+**Advanced AI Solutions**  
+- Technologies like Neural Search Engines and Graph Databases organize and link data efficiently.  
+- Fine-tuning GPT-like models enhances customization for specific business needs.  
+
+**Operational and Business Implications**  
+- Zero Results can lead to lost users or revenue, emphasizing the necessity for Context-Aware Agents, especially in SaaS.  
+- Poor data strategies hinder company growth, making investment in these technologies a competitive advantage.  
+
+**Summary and Predictions**  
+- Future advancements in Context-Awareness algorithms will revolutionize user experience.  
+- CyberML discussions show how investing in innovation fuels competitive capabilities in this field.
+
+
+**Original description:**  
+בפרק של Hidden Layers לקראת CyberML, גילי מ-Vega נותן דוגמה מעשית למה Query שנראה תקין יכול להחזיר אפס תוצאות — ולמה זו בעיה חמורה יותר מ-Hallucinations.
+
+
+---
+*Pipeline:*
+  • Transcript: description (26 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : למה Skills לסוכני AI זה כזה דבר חשוב?
+
+**Youtube Channel:** MDLI  
+**Author:** Machine & Deep Learning Israel  
+**Date:** 18/05/2026 12:16 UTC  
+**Generated:** 18/05/2026 12:40 UTC  
+**Link:** 
+
+https://www.youtube.com/shorts/QSBmJ7SQS_8  
+
+---
+
+**Hebrew Summary:**  
+**מבוא - חשיבות Skills עבור סוכני AI**  
+- בפרק זה דנים במנגנון ה-Skills עבור Agents ומדוע הוא קריטי לתפקוד שלהם בעולמות מבוססי AI.  
+- גילי מ-Vega מציג את השיטה בה בנו Agent שמבצע טעינה דינמית של Skills בהתאם לתרחישים משתנים.  
+
+**השימוש ב-Skills דינמיים בסוכנים**  
+- Vega היא חברה שמתמקדת בפתרונות AI מתקדמים, ובין השאר פיתחה Agent בעל יכולת טעינה דינמית של Skills.  
+- גילי מדגיש ש-Agent טוב חייב להיות מסוגל להסתגל במהירות לתרחישים משתנים, כשהידע הדרוש לו "נטען" בעת הצורך ולא מראש.  
+- בפרק מוסבר שהגישה הזו נועדה לייעל את הפעולה של Agents ולחסוך משאבים.  
+
+**האתגר בטעינה דינמית**  
+- גילי מתאר את האתגרים שעמדו בפני הצוות במהלך פיתוח ה-Agent.  
+- היה צורך ליצור framework שידע להעריך בזמן אמת אילו משימות דורשות אילו Skills.  
+- לשם כך נעזרו במנגנוני Machine Learning מתקדמים להערכת הקשרים בזיהוי צרכים בזמן אמת.  
+
+**סינרגיה בין API, SaaS ופעולות מיידיות**  
+- הפיתוח כלל אינטגרציה משמעותית עם שירותי API מגוונים ו-SaaS platforms לניהול דינמי של Execution Tasks.  
+- אחד האתגרים המרכזיים, לדברי גילי, היה לשמור על מהירות תגובה תוך שימוש במאגרי מידע מבוזרים.  
+
+**חזון לעתיד: רשת סוכנים חכמה**  
+- החברה צופה ש-Agents כאלו יהפכו לגישה העיקרית בניהול משימות בקנה מידה רחב.  
+- גילי מציין כי בעתיד הקרוב, ייתכן שתהיה רשת סוכנים שידעו "לדבר" זה עם זה ולחלוק Skills במחזוריות, כמו סוג של שיתוף פעולה קולקטיבי.  
+- פרטים נוספים על המחקר והפיתוח של Vega זמינים באתר החברה: [www.vega.com](http://www.vega.com).  
+
+**סיכום ותובנות**  
+- הפיתוח של סוכנים עם טעינת Skills דינמית משנה את כללי המשחק בשוק הטכנולוגי.  
+- גילי מסכם שאוניברסליות וגמישות הן המפתחות להצלחה בעולם AI מבוסס.
+
+**English Summary:**  
+**Introduction - Why Are Skills Critical for AI Agents?**  
+- This episode explores the importance of Skills for AI Agents and their dynamic adaptation to scenarios.  
+- Gili from Vega shares how their team developed an Agent capable of loading Skills dynamically as needed.  
+
+**Dynamic Skills in Action**  
+- Vega, specializing in advanced AI solutions, built an Agent designed for flexible use in varied scenarios.  
+- Gili explains that dynamically loaded Skills enhance efficiency by reducing resource use and adapting quickly.  
+
+**Developmental Challenges**  
+- The team faced challenges in designing a framework to identify and load relevant Skills in real time.  
+- They leveraged Machine Learning mechanisms to evaluate situational needs dynamically.  
+
+**Integration of API and SaaS**  
+- The Agent integrates with various API and SaaS platforms for dynamic task execution.  
+- Real-time response speed and managing distributed data were key hurdles.  
+
+**Future Vision: Intelligent Agent Networks**  
+- Vega envisions future networks of Agents capable of sharing and rotating Skills for collective operation.  
+- More on Vega’s work can be found at: [www.vega.com](http://www.vega.com).  
+
+**Key Takeaway**  
+- Dynamic Skill-loading Agents represent a disruptive innovation in the AI landscape, emphasizing flexibility and universal applicability.
+
+
+**Original description:**  
+Skills — הסוד של Agent חוקר טוב גילי מ-Vega מסביר איך בנו Agent שטוען Skills דינמית בהתאם לתרחיש שהוא חוקר.
+
+
+---
+*Pipeline:*
+  • Transcript: description (20 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : פנס או מפה - איך Agent מנווט בדאטה?
+
+**Youtube Channel:** MDLI  
+**Author:** Machine & Deep Learning Israel  
+**Date:** 18/05/2026 12:15 UTC  
+**Generated:** 18/05/2026 12:40 UTC  
+**Link:** 
+
+https://www.youtube.com/shorts/FAi6XEE8Mok  
+
+---
+
+**Hebrew Summary:**  
+**מבוא: הקונספט של "מפה ולא פנס" בדאטה**  
+- גילי מ-Vega מדבר על החשיבות של שינוי גישה בעולם המחקר בדאטה, במיוחד בהקשר של חוקרי סייבר ושל שימוש ב-Agents.  
+- הקונספט: במקום מקורות מידע שמספקים "פנס" שמאיר על נקודה אחת בלבד, יש צורך ב"מפה" רחבה שנותנת מבט הוליסטי על המידע הקיים.
+
+**האתגר המרכזי: עודף דאטה והצורך בניווט אפקטיבי**  
+- כיום חוקרי סייבר מתמודדים עם כמויות עצומות של דאטה ממקורות רבים ומגוונים.  
+- גילי מסביר שמצב זה משאיר חוקרים עם "פנס" – כלים או מערכות שמספקים תשובות מאוד מתמקדות אך לא תמיד רלוונטיות לשאלות הגדולות.
+
+**Agents כפתרון: איך הם עובדים ואיך הם משנים את המשחק**  
+- Agents הם כלים חכמים מבוססי AI שמסוגלים "לנווט" בתוך מאגרי הדאטה בצורה חכמה.  
+- שימוש ב-Agents מאפשר אינטגרציה אוטומטית בין המידע, זיהוי דפוסים וקשרים, וסיוע בהחלטות.  
+- דוגמה טכנולוגית: פתרון Vega שמשתמש ב-AI כדי לנתח דאטה באופן רחב ומעמיק.
+
+**יתרונות גישה של מפה על פני פנס**  
+- **אינטגרציה של דאטה רב-מקורי**: Map-based systems יכולים לאחד נתונים ממגוון מקורות כדי ליצור תמונה מלאה.  
+- **חסכון בזמן ודיוק מחקרי**: במקום לנחש על בסיס פנס נקודתי, המפה מספקת תובנות יותר מושכלות.  
+- **שימוש משופר ב-AI ו-Machine Learning**: אלו משתלבים בצורה אורגנית יותר כאשר יש "מפה" טובה לנתונים.
+
+**תחזיות לעתיד ומבט קדימה**  
+- גילי מדבר על איך השוק נע לכיוון פתרונות הוליסטיים יותר, שמשלבים SaaS עם טכנולוגיות AI מתקדמות.  
+- הוא צופה שהגישה המבוססת-מפה תהפוך לסטנדרט עבור חוקרי דומיינים וסייבר בפרט.  
+- האתגר העיקרי: בניית כלים מספיק אינטואיטיביים גם למשתמשים ללא רקע טכנולוגי חזק.
+
+**משאבים ולינקים נוספים**  
+- גילי מזמין את המאזינים לבדוק את Vega ואת הפתרונות שהיא מציעה בתחום: https://www.vega.com  
+- פנייה נוספת לחוקרים: ניצול של ML ו-Data Science כבסיס לתחום המחקר העתידי.
+
+**English Summary:**  
+**Introduction: Concept of 'Map, Not Flashlight' in Data**  
+- Gili from Vega explains the necessity of a paradigm shift in data research, specifically for cybersecurity researchers.  
+- The idea: instead of tools offering a "flashlight" that focuses on one point, researchers need a comprehensive "map" to navigate broader datasets.
+
+**Key Challenge: Data Overload and Need for Effective Navigation**  
+- Cybersecurity researchers face overwhelming amounts of data from diverse sources.  
+- Current tools often act as "flashlights," giving limited, narrow answers without broader context.
+
+**Agents as a Solution: Capabilities and Impact**  
+- Agents leverage AI to navigate data repositories smartly, integrating, identifying patterns, and supporting decisions.  
+- Example: Vega's AI-driven solution provides comprehensive and in-depth data analyses.
+
+**Advantages of a Map-Based Approach**  
+- **Data Integration:** Combines info from multiple sources for a holistic view.  
+- **Time Savings & Research Accuracy:** Avoids reliance on narrow "flashlight" tools, leading to smarter insights.  
+- **Enhanced AI/ML Usage:** These work better when provided with a comprehensive data "map."
+
+**Future Predictions and Industry Outlook**  
+- Gili foresees holistic solutions becoming standard for researchers, blending SaaS with advanced AI technologies.  
+- Challenge: Building user-friendly tools for non-technical users.
+
+**Resources and Links**  
+- Explore Vega and its solutions: https://www.vega.com  
+- Encouragement to utilize ML and Data Science for future research practices.
+
+
+**Original description:**  
+"תנו ל-Agent מפה, לא פנס". גילי מ-Vega מסביר למה חוקרי סייבר (ו-Agents) צריכים מפת ניווט של הדאטה — ולא רק פנס שמאיר נקודה אחת.
+
+
+---
+*Pipeline:*
+  • Transcript: description (24 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : How to be more creative | The Gray Area
+
+**Youtube Channel:** Vox  
+**Author:** Vox  
+**Date:** 18/05/2026 12:01 UTC  
+**Generated:** 18/05/2026 12:40 UTC  
+**Link:** 
+
+https://www.youtube.com/watch?v=eACPFk8m594  
+
+---
+
+**Hebrew Summary:**  
+**מגבלות ותפקידן ביצירתיות**
+
+- דיוויד אפשטיין מסביר כיצד מגבלות הובילו ליצירת הטבלה המחזורית ואיך דוגמא זו מראה את חשיבות המגבלות ככלי שמסייע להיברידיות מחשבתית ולארגון רעיוני.
+- שימוש במגבלות דווקא מעודד יצירתיות בכך שהוא מספק מסגרת פעולה מוגדרת שמצמצמת חוסר ודאות.
+
+**הקשר בין חופש ליצירתיות**
+
+- שון ודיוויד בוחנים האם אכן חופש מלא מביא ליצירתיות מקסימלית או שההפך הוא הנכון.
+- מדברים על הקונספט שחופש אינו בהכרח העדר מגבלות אלא היכולת לפעול בתוך קווים מנחים.
+
+**עומס אפשרויות והאופן בו הוא פוגע במחשבה יצירתית**
+
+- דיון מעמיק על כך שבני אדם נוטים להיות מתוחים ומקבלים החלטות פחות טובות בעולם שבו יש עודף אופציות לבחירה.
+- הצגת הדיסוננס הפסיכולוגי והשפעתו על תהליך קבלת ההחלטות.
+
+**הערך של טקסים**
+
+- הובלה לעומק הדיון על החשיבות של טקסים בחיי היומיום והיכולת שלהם לגשר על הפער שבין חוסר ודאות לצורך בשליטה בחיים.
+
+**השראה מד"ר סוס וחשיבותם של מגבלות יצירתיות**
+
+- דיבורים על האופן בו ד"ר סוס יצר יצירתיות בלתי פוסקת בגלל המגבלה שהציב לעצמו להשתמש בכמות מוגבלת של מילים.
+
+**איך חיי דיוויד אפשטיין השתנו אחרי כתיבת הספר** 
+
+- דיוויד חולק כיצד כתיבת ספרו הובילה אותו לעצב מחדש את חייו האישיים ולחפש מסגרות שמגבילות אותו בעבודה ובחיי היומיום.
+
+**איך לבחור בסביבה מאוזנת בעולם של עומס מידע**
+
+- המגישים דנים באסטרטגיות שיעזרו לאדם להתמודד עם כמות המידע העצומה והתגברות הצורך לשמור על סדר מחשבתי.
+
+**קישורים ומודעות לתכנית**
+
+- מוזמנים לשלוח פידבק למייל thegrayarea@vox.com או להשאיר הודעה קולית בטלפון 1-800-214-5749.
+- הרשמה כדי לשמוע את הפרקים ללא פרסומות ובגישה מוקדמת דרך האתר vox.com/members.
+- קישור לצפייה בפרקים ביוטיוב: http://goo.gl/IZONyE
+- קישורים נוספים: עמוד הפייסבוק של Vox http://goo.gl/U2g06o, עמוד הטוויטר http://goo.gl/XFrZ5H, ומידע נוסף באתר Vox http://www.vox.com.
+
+---
+
+**English Summary:**  
+**Constraints and Creativity**
+- David Epstein explains how constraints foster creativity, using the example of the periodic table’s invention. Defined boundaries guide thinking and reduce uncertainty.
+
+**Freedom versus Creativity**
+- The conversation explores whether absolute freedom boosts creativity or if limits are more effective. Freedom, they argue, isn’t just the absence of boundaries—it’s working effectively within set guidelines.
+
+**Overload of Choices**
+- They delve into how too many options can overwhelm decision-making, causing stress and indecision.
+
+**Value of Rituals**
+- The hosts discuss how rituals help people navigate uncertainty and bring a sense of structure to daily life.
+
+**Dr. Seuss and Creative Constraints**
+- Dr. Seuss thrived under self-imposed creative limits, like using only a select number of words, promoting innovation.
+
+**Personal Impact on David Epstein**
+- David shares how writing his book reshaped his perspective, leading him to seek structured boundaries in his personal and professional life.
+
+**Managing Today’s Information Overload**
+- Tips on navigating the modern world’s overwhelming options and maintaining focus were shared.
+
+**Links & Feedback**
+- For feedback, email thegrayarea@vox.com or leave a voicemail at 1-800-214-5749. Ad-free episodes are available at vox.com/members.
+- Additional resources: Vox YouTube: http://goo.gl/IZONyE, Facebook: http://goo.gl/U2g06o, Twitter: http://goo.gl/XFrZ5H, and http://www.vox.com.
+
+
+**Original description:**  
+Sean talks with writer David Epstein about why unlimited freedom and endless choice often make us less creative, less focused, and less fulfilled. They discuss the hidden power of constraints, the psychology of attention, why humans struggle with too many options, and how useful limits can help us do better work and live more meaningful lives. Subscribe to our channel! http://goo.gl/0bsAjO Host: Sean Illing (@seanilling) Guest: David Epstein (@DavidEpstein) 00:00 Intro 01:46 How restraints helped create the periodic table 03:41 The relationship between freedom and creativity 10:55 Is freedom t
+
+
+**Links mentioned:**
+• https://www.youtube.com/user/voxdotcom?sub_confirmation=1
+• https://www.vox.com/
+• https://www.youtube.com/voxdotcom/videos
+• https://www.facebook.com/Vox
+• https://x.com/voxdotcom
+
+---
+*Pipeline:*
+  • Transcript: description (246 words, lang=en) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : How to Overcome Social Anxiety | Dr. Nick Epley
+
+**Youtube Channel:** Andrew Huberman  
+**Author:** Andrew Huberman  
+**Date:** 18/05/2026 12:00 UTC  
+**Generated:** 18/05/2026 12:41 UTC  
+**Link:** 
+
+https://www.youtube.com/watch?v=Q2hOryHdgAk  
+
+---
+
+**Hebrew Summary:**  
+**
+
+**מבוא לפרק ותיאור כללי**  
+- בפרק זה של הפודקאסט "Andrew Huberman", ד"ר ניק אפלי, פרופסור למדעי ההתנהגות באוניברסיטת שיקגו ומומחה בנושא חיבור חברתי, מציג כלים ושיטות מדעיות להקל על חרדה חברתית ולשפר את איכות חיי היום-יום שלנו.  
+- השיחה עוסקת בחשיבות האינטראקציות החברתיות הקטנות עם אנשים אחרים, בין אם הם זרים ובין אם מוכרים, וכיצד הן משפיעות על הבריאות הפיזית והנפשית שלנו.  
+- נושאים נוספים כוללים את טעויות ההנחות שלנו ושל אחרים לגבי דינמיקות חברתיות, ואת הדרכים לשנות דפוסי חשיבה שליליים בנוגע לחיבורים חברתיים.
+
+**טעויות בהנחות ודינמיקות חברתיות**  
+- ד"ר אפלי מדבר על איך הנחות שאנחנו עושים לגבי מה שאחרים חושבים עלינו לעיתים קרובות אינן נכונות.  
+- הדיון כולל סוגים של רמזים חברתיים כמו מגע עיניים, טון דיבור, ואמצעים לא מילוליים נוספים.  
+- הוא מסביר כיצד AI וכלים דיגיטליים, כמו פלטפורמות חברתיות, משפיעים על האופן שבו אנו ניגשים לתקשורת ומקבלים משוב מאחרים.  
+
+**חשיבות החיבור החברתי וההשפעה על בריאות הנפש והגוף**  
+- המחקר מראה כיצד אינטראקציות חברתיות, אפילו הקטנות ביותר כמו "שלום" או חיוך, משפיעות לטובה על תחושת הרווחה והביטחון העצמי.  
+- רובנו מפספסים את היתרונות של אינטראקציות אלה בגלל פחדים חברתיים או הנחות שגויות לגבי איך אחרים יתפסו אותנו.  
+- אפלי מבהיר שיש כלים פשוטים וזמינים לכל אחד כמו:  
+  - **התחלת שיחות קטנות עם זרים**  
+  - **טיפוח סקרנות לגבי אנשים אחרים**  
+  - **התמקדות באינטרקציות כחיוביות**  
+
+**חרדה חברתית ו"טיפולי 100 הימים של דחייה"**  
+- ד"ר אפלי מדבר על התרגול של "100 ימים של דחייה", טכניקה שמטרתה לעזור לאנשים להתמודד עם חרדה חברתית ע"י כוונה מכוונת לחוות "דחייה חברתית" במצבים שונים.  
+- התהליך עוזר להתמודד עם הפחד מדחייה ובסופו של דבר מגביר אומץ ותחושת שליטה.  
+- בנוסף, יש גם נתונים על "תחושת זרות", שהיא פחד מצפייה והערכת הסביבה, וכיצד ניתן להפחית אותו.  
+
+**הקשר בין אקסטרוברטיות לשלומות אישית**  
+- אפלי חולק ממצא חשוב לפיו אנשים בעלי נטיות אקסטרוברטיות מדווחים על מצבים של רווחה נפשית גבוהה יותר.  
+- אין הכרח להיות אקסטרוברטי כדי להרוויח; אפילו פעולות קטנות כמו אמירת תודה, הכרה דרך מילים פשוטות כלפי אחרים, יכולות ליצור שינוי משמעותי.  
+
+**תמיכה חברתית וכיצד לעזור לילדים להתנהל בעולם החברתי**  
+- ד"ר אפלי נותן דגש על המודלינג החברתי שאנחנו מציגים לילדים וכיצד הרגלים פשוטים, שקופים ולא יקרים, משפיעים על היכולת שלהם ליצור חיבורים חברתיים משלהם.  
+- דוגמא לכך היא פעילויות חוץ כמו ציד או טיולים שמאפשרים ליצור שיח על הבנת האחר.  
+
+**משאבים, ספונסרים, והמלצות נוספות מהפרק**  
+- רשימת הספונסרים כוללת את:  
+  - AG1: תוספי תזונה (https://drinkag1.com/huberman)  
+  - Wealthfront: https://wealthfront.com/huberman  
+  - Eight Sleep: https://eightsleep.com/huberman  
+  - Function: https://functionhealth.com/huberman  
+  - LMNT: https://drinklmnt.com/huberman  
+- ד"ר אופמן מזמין את המאזינים להמשיך ללמוד על הרגלי בריאות חברתית ופיזית דרך הניוזלטר שלו: https://www.hubermanlab.com/newsletter  
+
+---
+
+**
+
+**English Summary:**  
+**  
+
+**Introduction**  
+- In this episode of the "Andrew Huberman Lab" podcast, Dr. Nick Epley, a professor of behavioral science at the University of Chicago, explains how small daily interactions — with strangers or acquaintances — can positively impact mental and physical health.  
+- He discusses practical, evidence-based tools to combat social anxiety and provides insights into common misconceptions about social dynamics and interactions.
+
+**Key Discussion Points**  
+- **Assumptions and Social Dynamics**: Dr. Epley addresses how incorrect assumptions about others’ thoughts and behaviors often lead to social anxiety and missed opportunities. Gaze, tone, and subtle social cues are key focus points. The rise of AI and social media platforms has influenced how we communicate and interpret feedback.  
+- **Importance of Social Connections**: Small acts of interaction, such as smiling or saying hello, significantly improve well-being. Dr. Epley shares practical tools like initiating conversations and being curious about others to build confidence and connection.  
+- **Social Anxiety Management**: "100 Days of Rejection" is a method to intentionally face social rejection, which ultimately reduces fear, boosts courage, and builds resilience.  
+- **Extroversion and Well-Being**: Extroverts tend to report higher levels of happiness, but even introverts can benefit from simple positive actions like expressing gratitude.  
+- **Supporting Social Skills in Children**: Parents can guide their children by modeling positive social interactions. Outdoor activities encourage connection and empathy.  
+
+**Sponsors & Resources**  
+- Sponsors include AG1 (https://drinkag1.com/huberman), Wealthfront (https://wealthfront.com/huberman), Function (https://functionhealth.com/huberman), and LMNT (https://drinklmnt.com/huberman).  
+- Additional resources, follow-ups, and Huberman Lab offerings available at https://www.hubermanlab.com/newsletter.
+
+
+**Original description:**  
+Dr. Nick Epley, PhD, is a professor of behavioral science at the University of Chicago and a leading expert on the science of social connection. We discuss how seemingly small daily interactions with strangers (as well as with people we know) can meaningfully improve our mental and physical health. Dr. Epley also explains how to reduce social anxiety using simple and easily accessible science-supported tools. We also discuss the data on assumptions — both the ones we and others make — and why so often those are wrong when it comes to social dynamics. Show notes: https://go.hubermanlab.com/NaH2
+
+
+**Links mentioned:**
+• [How to Overcome Social Anxiety | Dr. Nick Epley](https://www.hubermanlab.com/episode/how-to-overcome-social-anxiety-nick-epley?utm_source=youtube&utm_medium=social&utm_content=description+link)
+• https://www.wealthfront.com/c/&type=podcast&camp=podcast_cash_50incentive&show=hubermanlab&LP=huberman/to/wfcash/huberman?utm_medium=podcast&utm_source=hubermanlab&utm_campaign=podcast_cash_50incentive
+• https://www.eightsleep.com/huberman/
+• [Function for Andrew Huberman's community](https://www.functionhealth.com/asp/andrew-huberman)
+• [LMNT | Zero Sugar Electrolytes | Paleo-Keto Friendly Hydration](https://partners.drinklmnt.com/free-gift-with-purchase?utm_campaign=agwp&rfsn=6327528.ecaabe8&utm_medium=sponsor&utm_source=andrewhuberman&utm_content=&utm_term=&rfsn_cn=EXCLUSIVE+GIFT+FOR+THE+HUBERMAN+LAB+COMMUNITY)
+• https://www.instagram.com/hubermanlab
+• https://www.threads.com/@hubermanlab
+• https://x.com/hubermanlab
+• https://www.facebook.com/hubermanlab
+• [TikTok - Make Your Day](https://www.tiktok.com/@hubermanlab)
+• [Andrew Huberman - Professor and Neuroscientist at Stanford & Host of Huberman Lab | LinkedIn](https://www.linkedin.com/in/andrew-huberman)
+• [Huberman Lab](https://www.hubermanlab.com/)
+• [Neural Network Newsletter](https://www.hubermanlab.com/newsletter)
+• [Disclaimer and Disclosures](https://www.hubermanlab.com/disclaimer)
+
+---
+*Pipeline:*
+  • Transcript: description (519 words, lang=en) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : הקאמבק האיראני של ה-A10: האם הוא עדיין לא מתאים לצה"ל?
+
+**Youtube Channel:** Calcalist  
+**Author:** Calcalist | כלכליסט  
+**Date:** 17/05/2026 05:48 UTC  
+**Generated:** 18/05/2026 12:41 UTC  
+**Link:** 
+
+https://www.youtube.com/watch?v=pj_Aap7FkqQ  
+
+---
+
+**Hebrew Summary:**  
+**השימוש במטוס ה-A10 בזירת הקרב האיראנית – דיון על פוטנציאל ההתאמה עבור חיל האוויר הישראלי**
+
+- **סקירה כללית על מטוס ה-A10 והיסטוריית השימוש בו:**
+  - ה-A10 Thunderbolt II, מכונה גם "Warthog", הוא מטוס תקיפה חזק שתוכנן במיוחד להשמדת כלי רכב משוריינים ומטרות קרקעיות.
+  - המטוס נחשב לכמעט מיושן והיה קרוב לצאת רשמית משירות פעיל בארצות הברית.
+  - המאפיינים הבולטים שלו כוללים את תותח ה-GAU-8 Avenger, שמסוגל לירות 3,900 כדורים לדקה, וכן עמידות יוצאת מן הכלל בפני ירי נ"מ קל ובינוני.
+
+- **תחייה מחודשת במלחמת איראן:**
+  - פריצת המלחמה הגלויה באזור השני גרמה לחיל האוויר האמריקני לשקול מחדש את ההחלטה להוציא את מטוסי ה-A10 משירות.
+  - לפי מקורות, המטוס הוכיח באיראן כי הוא שחקן משמעותי בזירות מלחמה א-סימטריות, במיוחד בזיהוי וסילוק מחבלים וכלי טרור.
+  - הוזכרו מערכים טכנולוגיים בכטב"מים (מל"טים) וכלים חדישים, אך הודגש כי ה-A10 מספק מענה שונה בשל עלותו היחסית נמוכה, אמינותו ויכולת הרתעה בסביבה המבצעית.
+
+- **למה ה-A10 עשוי להשתלב בחיל האוויר הישראלי?**
+  - התועלות הטכניות של ה-A10 בזירות לחימה בעלות משך פעולה ארוך וחשיבותו במשימות סיוע לכוחות קרקע גם בסירי לחץ אסטרטגיים נידונו לעומק.
+  - טענות בעד: עלות תחזוקה זולה יחסית, עמידות גבוהה, ופשטות טכנולוגית שמאפשרת התאמה ושדרוג מהירים.
+  - טענות נגד: מגבלות בטווחים ובמהירויות טיסה, חשיפה אפשרית במערכים הכוללים טילים מונחים או מערכות הגנה מתקדמות.
+
+- **ניתוח התאמת ה-A10 למערך הצה"לי ולזירה המזרח תיכונית:**
+  - הועלתה השאלה אם חיל האוויר הישראלי, הידוע בדגש הטכנולוגי המתקדם שלו, צריך להוסיף למערכו מטוס שנחשב פחות "מתוחכם" מבחינת מערכות הבקרה.
+  - דובר על כך שישראל מתמודדת עם איום מתפתח, בעיקר אל מול חיזבאללה ורצועת עזה, שם אולי המטוס יכול להוכיח את יעילותו באופן נקודתי.
+  - יחד עם זאת, יודגש כי ישראל נשענת באופן מסורתי על מטוסים רב-משימתיים כמו F-16 ו-F-35, אשר מספקים פלטפורמה גמישה ושליטה טובה במרחב האווירי.
+
+- **סיכומים ותחזיות:**
+  - בעוד שבארצות הברית ה-A10 זוכה להזדמנות שנייה, התועלת מהכנסתו לחיל האוויר הישראלי תלויה בניתוח מדוקדק של צרכים לעומת משאבים ומערכות קיימות.
+  - לסיום הפרק הופנה הקהל להמשך הקריאה באתר כלכליסט: https://bit.ly/4tEL3nS ולמעקב בערוצי כלכליסט המופיעים למטה:
+    - YouTube ► https://bit.ly/2t5ezLs
+    - TikTok ► https://www.tiktok.com/@calcalist
+    - Twitter ► https://twitter.com/calcalist
+    - Instagram ► https://instagram.com/calcalist/
+    - Facebook ► https://www.facebook.com/calcalistonline
+    - Telegram ► https://t.me/calcalist
+
+**English Summary:**  
+**The A10’s Comeback in the Iranian Theater: A Fit for the Israeli Air Force?**
+
+- **Overview and Capabilities:**
+  - The A10 Thunderbolt II, nicknamed "Warthog," is a heavily armored attack aircraft designed for ground targets. It is equipped with the powerful GAU-8 Avenger cannon, capable of firing 3,900 rounds per minute, and is known for durability.
+
+- **Performance in Iran’s Conflict:**
+  - Initially slated for retirement, the A10 proved indispensable in Iran’s conflict for targeting militants and terrorist vessels more effectively than UAVs. Its cost-effectiveness, reliability, and field performance revived its reputation as a potent tactical force.
+
+- **Debate Over its Suitability for the Israeli Air Force:**
+  - Advocates highlight its affordability, resilience, and simple upgrade pathways as strengths. Critics point out its slower speeds, limited range, and vulnerability to advanced missile and defense systems.
+
+- **Analysis for Middle Eastern Scenarios:**
+  - The A10 might excel in asymmetric warfare scenarios like Gaza or against Hezbollah but clashes with Israel’s focus on advanced multi-role platforms like the F-16 and F-35.
+
+- **Conclusion and Future Outlook:**
+  - While successful in the U.S., Israel’s interest in the A10 hinges on matching operational gaps with its unique military and geographic needs. Full article: https://bit.ly/4tEL3nS  
+    Social links: Youtube: https://bit.ly/2t5ezLs | TikTok: https://www.tiktok.com/@calcalist | Twitter: https://twitter.com/calcalist | Instagram: https://instagram.com/calcalist/ | Facebook: https://www.facebook.com/calcalistonline | Telegram: https://t.me/calcalist.
+
+
+**Original description:**  
+מטוס התקיפה המפורסם כבר היה בדרך לפנסיה במוזיאון, ואז פרצה מלחמת איראן - בה הוכיח שביכולתו לצוד מחבלים וסירות טרור טוב יותר מכטב"מים וכלים אחרים. מה אפשר ללמוד מכך על ההתאמה שלו לזירת הלחימה של ימינו, ולחיל האוויר הישראלי? לכתבה המלאה באתר כלכליסט: https://bit.ly/4tEL3nS להרשמה לערוץ כלכליסט ביוטיוב ◄ https://bit.ly/2t5ezLs אתר כלכליסט ◄ https://www.calcalist.co.il כלכליסט בטיקטוק ◄ https://www.tiktok.com/@calcalist כלכליסט בטוויטר ◄ https://twitter.com/calcalist כלכליסט באינסטגרם ◄ https://instagram.com/calcalist/ כלכליסט בפייסבוק ◄ https://www.facebook.com/calcalistonline כלכליסט בטלגרם ◄ ht
+
+
+**Links mentioned:**
+• https://www.youtube.com/channel/UCnl6VjqWdAIqbuhPb7XR7LA?sub_confirmation=1
+• [TikTok - Make Your Day](https://www.tiktok.com/@calcalist)
+• https://x.com/calcalist
+• https://www.instagram.com/calcalist/
+• https://www.facebook.com/calcalistonline
+• [Telegram: View @calcalist](https://t.me/calcalist)
+
+---
+*Pipeline:*
+  • Transcript: description (74 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : קריסת הכלכלה האיראנית תשרת את ארה"ב או דווקא את משמרות המהפכה? פרק חדש בפודקאסט ציר הכסף
+
+**Youtube Channel:** Calcalist  
+**Author:** Calcalist | כלכליסט  
+**Date:** 14/05/2026 12:00 UTC  
+**Generated:** 18/05/2026 12:41 UTC  
+**Link:** 
+
+https://www.youtube.com/shorts/SBuiZ2VOLD8  
+
+---
+
+**Hebrew Summary:**  
+**
+
+**מבוא:**  
+בפרק החדש בפודקאסט ציר הכסף של כלכליסט, נדונה קריסת הכלכלה האיראנית והשפעתה על ארצות הברית, משמרות המהפכה האיראניות, והמצב האזורי והגלובלי. השיחה כוללת ניתוחים מעמיקים של המצב הכלכלי באיראן, הקשרים העסקיים, והשלכות מדיניות.
+
+**הקישורים המוזכרים בפרק:**  
+- הרשמה לערוץ כלכליסט ביוטיוב ◄ https://bit.ly/2t5ezLs  
+- אתר כלכליסט ◄ https://www.calcalist.co.il  
+- כלכליסט בטיקטוק ◄ https://www.tiktok.com/@calcalist  
+- כלכליסט בטוויטר ◄ https://twitter.com/calcalist  
+- כלכליסט באינסטגרם ◄ https://instagram.com/calcalist/  
+- כלכליסט בפייסבוק ◄ https://www.facebook.com/calcalistonline  
+- כלכליסט בטלגרם ◄ https://t.me/calcalist  
+
+**מצב הכלכלה האיראנית:**  
+- התכנית מתארת את העמקת המשבר הכלכלי באיראן כתוצאה מהסנקציות שהטילו ארצות הברית ובעלות בריתה.  
+- צוין כי האינפלציה במדינה הגיעה ל-50%, מה שמחמיר את אי היציבות הכלכלית ואת הפערים החברתיים.  
+- משבר המטבע האיראני, ה"ריאל," מוביל להיחלשות משמעותית של כח הקנייה הפנימי ושל יחסי המסחר הבינלאומיים של המדינה.
+
+**השפעת הסנקציות:**  
+- מומחים מתוך הפרק התייחסו להשלכות של הסנקציות האמריקאיות כפי שהן השפיעו על המגזר הציבורי והפרטי באיראן.  
+- דוחו כי הסנקציות עשויות לחזק גורמי כוח פנימיים כמו משמרות המהפכה, שמנצלים את המצב לחיזוק אחיזתם בכלכלה המקומית.
+
+**מבט גלובלי:**  
+- השיח עבר לעסוק בשאלה גדולה: האם קריסת הכלכלה האיראנית תשרת את ארצות הברית ואת המערב, או דווקא תעמיק את שליטת משמרות המהפכה במזרח התיכון?  
+- נטען כי יש סיכון שבהיעדר כלכלה חזקה, קבוצות קיצוניות ומיליציות הקשורות למשטר האיראני עשויות להתרחב גיאוגרפית.  
+- נבחנה גם הזווית של השפעת המשבר על שוק הנפט לאורך השנים הקרובות.
+
+**השערות לעתיד:**  
+- הועלו מחשבות על כך שאם ארצות הברית תחזק את היציבות הכלכלית במזרח התיכון על ידי השקעות וסיוע, הדבר יוביל לאיזון מחדש.  
+- הוזכר הצורך בשיתוף פעולה בינלאומי רחב יותר כדי להתמודד עם ההשפעות של קריסת הכלכלה האיראנית.
+
+**סיכום:**  
+הפודקאסט מספק מבט מרתק על המורכבות הכלכלית והפוליטית של איראן, ההשפעות הבינלאומיות והאזוריות של המשבר, והרבדים הפוליטיים שנבנים סביב תהליכים אלה.  
+
+---
+
+**
+
+**English Summary:**  
+**  
+
+**Introduction:**  
+The latest episode of Calcalist's podcast "Tzir Kesef" explores the economic collapse in Iran and its impact on the U.S., the Iranian Revolutionary Guards, and regional and global dynamics. The discussion includes an in-depth analysis of Iran's economic situation, business ties, and geopolitical consequences.
+
+**Links Mentioned:**  
+- YouTube ◄ https://bit.ly/2t5ezLs  
+- Calcalist website ◄ https://www.calcalist.co.il  
+- TikTok ◄ https://www.tiktok.com/@calcalist  
+- Twitter ◄ https://twitter.com/calcalist  
+- Instagram ◄ https://instagram.com/calcalist/  
+- Facebook ◄ https://www.facebook.com/calcalistonline  
+- Telegram ◄ https://t.me/calcalist  
+
+**Iran's Economy:**  
+- Iran faces deepening economic crises due to U.S.-led sanctions. Inflation has soared to 50%, exacerbating social disparities and weakening local and international trade.  
+- The Iranian rial's instability has significantly impacted purchasing power and foreign trade.
+
+**Impact of Sanctions:**  
+- Experts analyzed how U.S. sanctions have impaired Iran’s public and private sectors.  
+- Observations suggest these sanctions may empower internal forces like the Revolutionary Guards, who exploit the situation to fortify their economic control.
+
+**Global Perspective:**  
+- The discussion raised whether Iran’s economic collapse benefits the U.S. and the West or strengthens the Revolutionary Guards in the Middle East.  
+- Concerns were highlighted about extremist groups expanding influence amidst economic instability.  
+- Possible effects on the oil market in the coming years were evaluated.
+
+**Future Predictions:**  
+- Suggestions were made for the U.S. to invest and provide aid to stabilize the Middle East economically.  
+- The necessity for broader international cooperation was emphasized to mitigate the effects of Iran's crisis.
+
+**Conclusion:**  
+This episode offers a compelling insight into Iran's complex economic and political challenges, the regional implications, and the global reactions toward its ongoing crises.
+
+
+**Original description:**  
+להרשמה לערוץ כלכליסט ביוטיוב ◄ https://bit.ly/2t5ezLs אתר כלכליסט ◄ https://www.calcalist.co.il כלכליסט בטיקטוק ◄ https://www.tiktok.com/@calcalist כלכליסט בטוויטר ◄ https://twitter.com/calcalist כלכליסט באינסטגרם ◄ https://instagram.com/calcalist/ כלכליסט בפייסבוק ◄ https://www.facebook.com/calcalistonline כלכליסט בטלגרם ◄ https://t.me/calcalist
+
+
+**Links mentioned:**
+• https://www.youtube.com/channel/UCnl6VjqWdAIqbuhPb7XR7LA?sub_confirmation=1
+• [TikTok - Make Your Day](https://www.tiktok.com/@calcalist)
+• https://x.com/calcalist
+• https://www.instagram.com/calcalist/
+• https://www.facebook.com/calcalistonline
+• [Telegram: View @calcalist](https://t.me/calcalist)
+
+---
+*Pipeline:*
+  • Transcript: description (30 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : הכלכלה קורסת אבל האיראנים הפעם לא מפגינים. פרק חדש בפודקאסט ציר הכסף על העניים החדשים של המלחמה
+
+**Youtube Channel:** Calcalist  
+**Author:** Calcalist | כלכליסט  
+**Date:** 14/05/2026 06:36 UTC  
+**Generated:** 18/05/2026 12:41 UTC  
+**Link:** 
+
+https://www.youtube.com/shorts/NSv0azw-xRw  
+
+---
+
+**Hebrew Summary:**  
+**המשבר הכלכלי באיראן – סקירה כללית**  
+- הפרק מתמקד בשאלות סביב קריסת הכלכלה האיראנית והשלכותיה על החברה מקומית.  
+- הוזכרו הסנקציות הכלכליות שמטילה ארה"ב על איראן מאז יציאת ממשל טראמפ מהסכם הגרעין בשנת 2018 והשפעתן המתמשכת.  
+- הכלכלן שהתארח בפודקאסט, ד"ר ראיד מג'יד, טוען כי שיעורי האינפלציה הרשמית באיראן עמדו על מעל 50% בתחילת 2023, אך מעריך כי הנתון האמיתי גבוה יותר.  
+- הסנקציות גרמו לצמצום ייצוא הנפט – מקור עיקרי לכלכלה האיראנית, מה שפגע באופן נרחב בתקציב המדינה והביא להתגברות החוב הלאומי.  
+
+**תמורות חברתיות ומשבר אמון ציבורי**  
+- הניתוח מתאר כיצד האוכלוסייה האיראנית חווה קושי כלכלי יומיומי במספר תחומים:  
+  - עליות חדות במחירי המזון והתרופות.  
+  - עלייה מטורפת במחירי הדיור בטהראן – מחירי הדירות טיפסו ב-70% בשנתיים האחרונות.  
+- ד"ר מג'יד טוען כי המשטר האיראני מצליח, למרות הנסיבות, למנוע הפגנות נרחבות באמצעות שליטה צבאית מוגברת ותעמולה מתוחכמת במדיה המקומית.  
+- אמון הציבור ברשויות הממשל נמוך משמעותית, מה שמוביל להגירה של צעירים משכילים למדינות המערב.  
+
+**טכנולוגיה וכלכלה דיגיטלית באיראן**  
+- דובר גם על תחום הכלכלה הדיגיטלית באיראן, שם ישנה התקדמות מסוימת למרות המגבלות:  
+  - קיימות יוזמות סטארטאפיות פנימיות באיראן, כמו אפליקציות למסחר מקומי וסחר חליפין דיגיטלי שעוקפות את מגבלות הסנקציות.  
+  - פלטפורמות מתקדמות כמו Peer-to-Peer עדיין בחיתוליהן אך מושכות פעילות עסקית פנימית.  
+- האורחים המליצו לעקוב באמצעות האתר של כלכליסט, לינק לכתבות נוספות: https://www.calcalist.co.il  
+
+**ההשפעה האזורית של משבר איראן**  
+- ד"ר מג'יד מסביר כי משבר הכלכלה האיראנית משפיע גם ברמה הגיאופוליטית:  
+  - חיזבאללה בלבנון רשם ירידה ביכולתו הכלכלית, לאור צמצום התמיכה הכספית של איראן.  
+  - המיליציות הסעודיות המופעלות על ידי איראן חוות קושי במימון לוגיסטי ואספקת נשק.  
+
+**העתיד הקרוב – תחזיות**  
+- ע"פ האורחים, אם הסנקציות ימשיכו ולא תימצא דרך להסדרה גרעינית, איראן תיאלץ לצמצם משמעותית את השקעותיה הצבאיות והאזרחיות.  
+- הכיוון העתידי תלוי במידה רבה גם בהשתנות דינמיקת האנרגיה הגלובלית, במיוחד ביחס לסין ולסעודיה.  
+
+**קישורים חשובים**  
+- הרשמה לערוץ כלכליסט ביוטיוב: https://bit.ly/2t5ezLs  
+- אתר כלכליסט: https://www.calcalist.co.il  
+- כלכליסט בטיקטוק: https://www.tiktok.com/@calcalist  
+- כלכליסט בטוויטר: https://twitter.com/calcalist  
+- כלכליסט באינסטגרם: https://instagram.com/calcalist/  
+- כלכליסט בפייסבוק: https://www.facebook.com/calcalistonline  
+- כלכליסט בטלגרם: https://t.me/calcalist  
+
+---
+
+**English Summary:**  
+**Iran’s Economic Collapse – Overview**  
+- This episode dives into the spiraling economic crisis in Iran and its societal impacts.  
+- U.S. sanctions since the Trump administration's withdrawal from the 2018 nuclear deal have led to over 50% official inflation rates, though experts suggest these numbers might be underestimated.  
+- Oil export reduction, as a result of sanctions, heavily impacted Iran's budget and increased its national debt.  
+
+**Social Shifts and Public Distrust**  
+- Iranian citizens face significant economic distress:  
+  - Sharp price hikes in food and medications.  
+  - A 70% rise in housing prices in Tehran over the past two years.  
+- The government is reportedly preventing large-scale protests via increased military presence and sophisticated media propaganda.  
+- Public trust in governmental authorities is at a record low, driving educated youth to emigrate to Western countries.  
+
+**Iran’s Digital Economy**  
+- Despite restrictions, internal startup initiatives are developing:  
+  - Local trading and digital barter apps circumvent sanctions.  
+  - Peer-to-Peer platforms show promise but remain in early stages.  
+- Follow Calcalist for updates on similar trends via their website: https://www.calcalist.co.il  
+
+**Regional Repercussions**  
+- The crisis impacts geopolitics, with Iran reducing financial support for Hezbollah and other regional militias.  
+
+**Future Forecasts**  
+- Continuous sanctions and the lack of a nuclear agreement could force Iran to significantly cut military and civil spending.  
+- Iran’s trajectory will also depend heavily on global energy dynamics, particularly its relations with powers like China and Saudi Arabia.  
+
+**Relevant Links:**  
+- Calcalist YouTube Channel: https://bit.ly/2t5ezLs  
+- Calcalist Website: https://www.calcalist.co.il  
+- Calcalist TikTok: https://www.tiktok.com/@calcalist  
+- Calcalist Twitter: https://twitter.com/calcalist  
+- Calcalist Instagram: https://instagram.com/calcalist/  
+- Calcalist Facebook: https://www.facebook.com/calcalistonline  
+- Calcalist Telegram: https://t.me/calcalist
+
+
+**Original description:**  
+להרשמה לערוץ כלכליסט ביוטיוב ◄ https://bit.ly/2t5ezLs אתר כלכליסט ◄ https://www.calcalist.co.il כלכליסט בטיקטוק ◄ https://www.tiktok.com/@calcalist כלכליסט בטוויטר ◄ https://twitter.com/calcalist כלכליסט באינסטגרם ◄ https://instagram.com/calcalist/ כלכליסט בפייסבוק ◄ https://www.facebook.com/calcalistonline כלכליסט בטלגרם ◄ https://t.me/calcalist
+
+
+**Links mentioned:**
+• https://www.youtube.com/channel/UCnl6VjqWdAIqbuhPb7XR7LA?sub_confirmation=1
+• [TikTok - Make Your Day](https://www.tiktok.com/@calcalist)
+• https://x.com/calcalist
+• https://www.instagram.com/calcalist/
+• https://www.facebook.com/calcalistonline
+• [Telegram: View @calcalist](https://t.me/calcalist)
+
+---
+*Pipeline:*
+  • Transcript: description (30 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : 75% אינפלציה ומיליוני מובטלים, אז  למה הפעם האיראנים לא יוצאים לרחובות?
+
+**Youtube Channel:** Calcalist  
+**Author:** Calcalist | כלכליסט  
+**Date:** 13/05/2026 10:36 UTC  
+**Generated:** 18/05/2026 12:42 UTC  
+**Link:** 
+
+https://www.youtube.com/watch?v=VsEL79RuDJM  
+
+---
+
+**Hebrew Summary:**  
+**הקדמה: המצב הכלכלי באיראן והפודקאסט החדש של "כלכליסט"**  
+- שם הפודקאסט: ציר הכסף.  
+- מנחה: נטעלי בינשטוק.  
+- כתב: דורון פסקין.  
+- הפודקאסט עוסק במצב הכלכלי באיראן, השאלות מדוע הפעם האזרחים אינם יוצאים להפגנות, ואמירותיו של טראמפ בנוגע לקריסת כלכלת איראן.  
+
+**המצב הכלכלי באיראן: סקירה והתפתחות**  
+- רק ארבעה חודשים לפני פרסום הפרק, מאות אלפי איראנים יצאו להפגין מול המשטר בשל מצוקה כלכלית.  
+- בפרק נדון הנסיבות לכך שבמצב הנוכחי, למרות החרפת המשבר הכלכלי, האזרחים האיראנים בוחרים להישאר בבתים ולא יצאו לרחובות.  
+- המצור הימי על איראן בעקבות המלחמה החמיר את התנאים הכלכליים במדינה.  
+- הנתון המרכזי: האינפלציה באיראן מוערכת בכ-75%.  
+
+**מדדי אבטלה והשלכות משבר כלכלי**  
+- לפי נתונים שנחשפו בפרק, מיליוני איראנים נעשו מובטלים בחודשים האחרונים, מה שמוביל ללחץ עצום על משפחות.  
+- מאורעות הכלכלה האיראנית מהווים דוגמה לכך שצפוי גל חדש של משברים שתוצאותיו טרם התגלו במלואם.  
+
+**טענותיו של טראמפ בנוגע לכלכלת איראן**  
+- דונלד טראמפ טוען שכלכלת איראן קרובה לקריסה מוחלטת, בפודקאסט נבחנת אמיתות הטענה הזו.  
+- בפרק מודגש כי קריסת כלכלה לא בהכרח מובילה להפלת משטר, ולכן יש לבחון לא רק את מצב הנתונים אלא גם את ההתרחשויות הפוליטיות.  
+
+**מדוע האיראנים לא יוצאים להפגין הפעם?**  
+- נדון ההיבט החברתי והפוליטי שעשוי לספק הסבר להתנהגות הציבור.  
+- אחת התיאוריות שנידונו היא החשש מאכיפה קשה יותר מצד המשטר.  
+- תיאור נוסף מתמקד בהתשה כללית של העם אחרי תקופה ארוכה של הפגנות וחוסר שינוי מהותי במצב.  
+
+**קרדיטים ומשאבים נוספים**  
+- קרדיטים על הפרק:  
+  - צילום: טל שחר.  
+  - עריכת וידאו: אייל נביא.  
+  - עיצוב והנפשה: זהר שרעבי-קופר.  
+  - הפקה ראשית: עדי גימשי-כהן.  
+  - הפקת פוסט: אילה אוזנה.  
+  - עורך אחראי: מאור שלום סויסה.  
+- קישורים חשובים:  
+  - ערוץ יוטיוב של כלכליסט: https://bit.ly/2t5ezLs.  
+  - אתר כלכליסט: https://www.calcalist.co.il.  
+  - טיקטוק של כלכליסט: https://www.tiktok.com/@calcalist.  
+  - טוויטר של כלכליסט: https://twitter.com/calcalist.  
+  - אינסטגרם של כלכליסט: https://instagram.com/calcalist/.  
+  - פייסבוק של כלכליסט: https://www.facebook.com/calcalistonline.  
+  - טלגרם של כלכליסט: https://t.me/calcalist.
+
+**English Summary:**  
+**Introduction: Podcast Overview**  
+- Name: "ציר הכסף" (The Money Axis).  
+- Host: Netaly Binshstock.  
+- Writer: Doron Paskin.  
+- Focus: Iran's economic situation, the reasons behind the lack of protests this time, and Trump’s claims about Iran’s economy nearing collapse.  
+
+**Iran’s Economic Situation**  
+- Four months earlier, mass protests erupted in Iran against economic mismanagement.  
+- Despite worsening conditions due to war and maritime blockades, Iranians now choose to stay at home instead of demanding change in the streets.  
+- Inflation rate in Iran is estimated at 75%.  
+
+**Unemployment and the Social Impact**  
+- Millions of Iranians have recently lost their jobs, creating intense pressure on households.  
+- The repercussions of Iran’s economic crisis are so severe that they highlight the inevitability of further crises.  
+
+**Trump’s Claims on Iran’s Economy**  
+- The podcast analyzes Trump’s assertion that Iran’s economy is on the brink of collapse.  
+- It emphasizes that economic collapse doesn’t necessarily mean a regime change and considers the political implications.  
+
+**Why Aren’t Iranians Protesting Now?**  
+- Social and political factors are discussed as possible explanations.  
+- Theories include fear of stricter enforcement by the regime and fatigue from prolonged protests that yielded little change.  
+
+**Further Resources**  
+- YouTube Channel: https://bit.ly/2t5ezLs  
+- Website: https://www.calcalist.co.il  
+- TikTok: https://www.tiktok.com/@calcalist  
+- Twitter: https://twitter.com/calcalist  
+- Instagram: https://instagram.com/calcalist/  
+- Facebook: https://www.facebook.com/calcalistonline  
+- Telegram: https://t.me/calcalist
+
+
+**Original description:**  
+רק לפני 4 חודשים המצב הכלכלי הוציא מאות אלפי איראנים להפגין נגד המשטר. דווקא עכשיו, כשמצבם הורע משמעותית בגלל המלחמה והמצור הימי – האזרחים נשארים בבית. וגם: האם טראמפ צודק שכלכלת איראן בפני קריסה? פרק חדש בפודקאסט ציר הכסף מנחה: נטעלי בינשטוק | כתב: דורון פסקין | צילום: טל שחר | עריכת וידאו: אייל נביא | עיצוב והנפשה: זהר שרעבי-קופר | מפיקה ראשית: עדי גימשי-כהן | מפיקת פוסט: אילה אוזנה עורך אחראי: מאור שלום סויסה להרשמה לערוץ כלכליסט ביוטיוב ◄ https://bit.ly/2t5ezLs אתר כלכליסט ◄ https://www.calcalist.co.il כלכליסט בטיקטוק ◄ https://www.tiktok.com/@calcalist כלכליסט בטוויטר ◄ https://twitter.co
+
+
+**Links mentioned:**
+• https://www.youtube.com/channel/UCnl6VjqWdAIqbuhPb7XR7LA?sub_confirmation=1
+• [TikTok - Make Your Day](https://www.tiktok.com/@calcalist)
+• https://x.com/calcalist
+• https://www.instagram.com/calcalist/
+• https://www.facebook.com/calcalistonline
+• [Telegram: View @calcalist](https://t.me/calcalist)
+
+---
+*Pipeline:*
+  • Transcript: description (105 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : אומודה 7: האם זו הפלאג אין הייבריד הטובה ביותר של צ'רי?
+
+**Youtube Channel:** Calcalist  
+**Author:** Calcalist | כלכליסט  
+**Date:** 13/05/2026 07:00 UTC  
+**Generated:** 18/05/2026 12:42 UTC  
+**Link:** 
+
+https://www.youtube.com/watch?v=dRzK0D9rhFg  
+
+---
+
+**Hebrew Summary:**  
+**סקירת הפלאג־אין הייבריד של צ'רי - דגם מתקדם וטכנולוגי**
+- **תכונות מרכזיות של הרכב:**
+  - הרכב הוא פלאג־אין הייבריד מתקדם שפותח במיוחד עבור השוק האירופאי.
+  - דגם זה מציע טווח חשמלי מרשים שנותן מענה משמעותי לצרכנים המעוניינים ברכב חסכוני ומודרני.
+  - כולל מנוע דלק חסכוני המשולב עם המערכת החשמלית ומשפר את החיסכון בדלק.
+
+- **מערכות בידור וטכנולוגיה:**
+  - רכבי צ'רי מצוידים במערכת סטריאו מתקדמת שמספקת חוויית נהיגה משופרת.
+  - מערכת השליטה הקולית של הרכב תוארה כפחות מהירה מהצפוי, אך עדיין מציעה פונקציונליות טובה לשימוש יומיומי.
+
+- **עיצוב וביצועים:**
+  - עיצוב הרכב מחדש הביא למראית יוקרתית בניסיון לשווק את הדגם כ"פרימיום".
+  - בעקבות הקושי במיצובו כרכב פרימיום, מחיר הדגם ירד ועכשיו פונה לפלח שוק רחב יותר.
+  - ליקויים צוינו ברמת השיכוך, עם תחושת נסיעה שאינה שוות ערך בכל התנאים.
+
+- **קישורים ומשאבים קשורים:**
+  - לקריאה נוספת - כתבה מלאה: [https://bit.ly/4tutUx8](https://bit.ly/4tutUx8)
+  - הרשמה לערוץ YouTube של כלכליסט: [https://bit.ly/2t5ezLs](https://bit.ly/2t5ezLs)
+  - כלכליסט באינטרנט וברשתות חברתיות:
+    - אתר: [https://www.calcalist.co.il](https://www.calcalist.co.il)
+    - TikTok: [https://www.tiktok.com/@calcalist](https://www.tiktok.com/@calcalist)
+    - Twitter: [https://twitter.com/calcalist](https://twitter.com/calcalist)
+    - Instagram: [https://instagram.com/calcalist/](https://instagram.com/calcalist/)
+    - Facebook: [https://www.facebook.com/calcalistonline](https://www.facebook.com/calcalistonline)
+    - Telegram: [https://t.me/calcalist](https://t.me/calcalist)
+
+- **אנשי המפתח בהפקת הפרק:**
+  - מגיש: תומר הדר.
+  - צילום: דניאל קמפוס.
+  - עריכת וידאו: אייל נביא.
+  - עיצוב: זהר שרעבי-קופר.
+  - מפיקה ראשית: עדי גימשי-כהן.
+  - מפיקת פוסט: אילה אוזנה.
+  - עורך אחראי: מאור שלום סויסה.
+
+**ניתוח שיווקי של צ'רי אירופה:**
+- החברה נאלצה להתמודד עם כישלון מיצוב הרכב כ"יוקרתית" בשוק האירופאי.
+- הירידה במחיר מסמנת שינוי אסטרטגי שמטרתו להתרחב לפלחי שוק נוספים ומגוונים.
+- הדגם זוכה לשבחים אף על פי שישנם תחומים לשיפור.
+
+**תובנות כלליות:**
+- למרות החסרונות הקטנים, הדגם מוצג כבחירה חזקה עבור מי שמחפש אחר שילוב של חסכון באנרגיה, טכנולוגיה מתקדמת ומחיר תחרותי.
+
+**English Summary:**  
+- **Overview of Chery’s new plug-in hybrid model:**
+  - Designed for the European market, featuring an impressive electric driving range.
+  - Combines electric components with a fuel-efficient engine for optimized performance.
+  - Known for its cost-effective benefits and modern design despite some uneven ride comfort.
+
+- **Technology and features:**
+  - Equipped with a top-notch stereo system enhancing the driving experience.
+  - Voice control system, while functional, is noted as occasionally slow to respond.
+
+- **Marketing and pricing:**
+  - Initial branding efforts as a "premium" car failed, leading to a price drop.
+  - Targeted towards increasing reach among broader market segments.
+
+- **Production credits and links:**
+  - Hosted by Tomer Hadar, photography by Daniel Campos, and video editing by Eyal Navi.
+  - Full article: [https://bit.ly/4tutUx8](https://bit.ly/4tutUx8)
+  - Additional resources:
+    - YouTube: [https://bit.ly/2t5ezLs](https://bit.ly/2t5ezLs)
+    - TikTok: [https://www.tiktok.com/@calcalist](https://www.tiktok.com/@calcalist)
+    - More platforms included in the podcast description.
+
+- **Final thoughts:**
+  - While not without minor flaws, the new Chery plug-in hybrid is a strong contender due to its tech features, cost savings, and updated strategy aimed at appealing to a wider audience.
+
+
+**Original description:**  
+העירונית המתוחכמת של צ'רי שנועדה לאירופה היא בעלת טווח חשמלי מרשים ומנוע דלק חסכוני. יש לה גם מערכת סטריאו מצוינת, והמחיר שלה ירד אחרי ששיווקה כ"יוקרתית" נכשל. גם אם רמת השיכוך אינה אחידה ומערכות השליטה הקולית לפעמים איטיות, מדובר בצ'רי פלאג־אין הייבריד הטובה במשפחה לינק לכתבה המלאה: https://bit.ly/4tutUx8 קרדיטים: הגשה: תומר הדר | צילום: דניאל קמפוס עריכת וידאו: אייל נביא | עיצוב: זהר שרעבי-קופר מפיקה ראשית: עדי גימשי-כהן | מפיקת פוסט: אילה אוזנה עורך אחראי: מאור שלום סויסה להרשמה לערוץ כלכליסט ביוטיוב ◄ https://bit.ly/2t5ezLs אתר כלכליסט ◄ https://www.calcalist.co.il כלכליסט בטיקטוק ◄ https:
+
+
+**Links mentioned:**
+• https://www.youtube.com/channel/UCnl6VjqWdAIqbuhPb7XR7LA?sub_confirmation=1
+• [TikTok - Make Your Day](https://www.tiktok.com/@calcalist)
+• https://x.com/calcalist
+• https://www.instagram.com/calcalist/
+• https://www.facebook.com/calcalistonline
+• [Telegram: View @calcalist](https://t.me/calcalist)
+
+---
+*Pipeline:*
+  • Transcript: description (108 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : SN 1078: DigiCert does it right - Hugging Face Under Fire
+
+**Podcast:** Security Now  
+**Author:** TWiT  
+**Date:** 13/05/2026 02:36 UTC  
+**Generated:** 18/05/2026 12:42 UTC  
+**Link:** 
+
+https://twit.tv/shows/security-now/episodes/1078  
+
+---
+
+**Hebrew Summary:**  
+**הסבר על פריצת DigiCert: תקרית אבטחת סייבר וחידוש בסטנדרטים של תגובה**
+
+- **מה קרה בפריצה ב-DigiCert?**
+  - באפריל 2026, DigiCert, אחת מרשויות האישורים (CAs) הגדולות והאמינות בעולם, נפלה קורבן למתקפת נוזקה.
+  - התוקפים הצליחו להיכנס לנקודות קצה של תמיכה פנימית באמצעות הונאת הצוות הפנימי ופתיחת קבצים נגועים בפורטל התמיכה של החברה.
+  - כתוצאה מכך, התוקפים השיגו קודים ייחודיים להפעלת תעודות חתימה במידה מורחבת (EV), לפני העברתן ללקוחות לגיטימיים.
+  - סך הכל נגנבו 27 תעודות חתימה ונוצלו לחתימה על נוזקות, ובהן קמפיין "Zong Stealer" הקשור לקבוצות פשיעה סיניות.
+  - חשוב לציין: שורשי התעודות (Root Certificates) של DigiCert לא נפגעו, וזיהוי מהיר על ידי חוקרי אבטחה עזר לצמצם את הנזקים.
+
+**איך DigiCert טיפלה בתקרית – מודל שקיפות לתעשייה**
+
+- גישת DigiCert להתמודדות עם האירוע זכתה לשבחים על השקיפות והאחריות:
+  - **זמן תגובה מהיר:** בתוך 24 שעות בלבד מיום גילוי הפריצה, ביטלה החברה את כל התעודות שנפגעו עם תאריך ביטול רטרואקטיבי.
+  - **דו"ח מפורט:** תיעדו בצורה מפורשת את כל שלבי האירוע: איך קרתה הפריצה, חולשות תשתיתיות ופרוצדורות התורמות שהובילו לה, ואת הפעולות שננקטו בעקבותיה.
+  - **פעולות עיקריות שנקטו בעקבות האירוע:**
+    - חסימת נקודות הקצה שנפגעו.
+    - הסתרת הגישה למידע רגיש בפורטל התמיכה.
+    - שיפור סריקת הנוזקות בכל הערוצים.
+    - סקירת מודלי איומים וניהול הרשאות בארגון.
+
+**Microsoft Defender – איך לא להתמודד עם משבר**
+
+- בעוד ש-DigiCert זכתה לשבחים על תגובתה המהירה והמקצועית, Microsoft Defender, מצד שני, גרם לבעיות בעקבות תגובתו למקרה:
+  - במקום רק לחסום את התעודות שנפגעו, עדכון התוכנה של Microsoft Defender מחק את תעודות השורש של DigiCert מאינסוף התקני Windows.
+  - משתמשים חוו קשיים כמו תוכנות לגיטימיות שסווגו כלא אמינות ואף נאלצו להתקין מחדש את Windows.
+  - בעקבות משוב מאסיבי מהשוק, מיקרוסופט תיקנה את הטעות ושיחזרה את התעודות שנפגעו.
+  - מקרה זה מדגיש את החשיבות של זהירות בעיבוד אוטומטי של פרצות בתשתיות קריטיות.
+
+**למה פריצות לרשויות אישורים מסוכנות כל כך?**
+
+- רשויות האישורים הינן עוגן הביטחון של האינטרנט ומשמשות להבטחת קשר מאובטח בגלישה, הורדות תוכנה ותקשורת מוצפנת.
+- פריצה לעוגן אמון כזה יכולה לגרום לנזק קטסטרופלי לאבטחת המשתמשים ולנוחות הפעלה.
+- אירוע זה מדגיש עוד יותר את הנטייה של פושעי סייבר להפנות את מאמציהם לעבר תשתיות אמון כדי לעקוף מגבלות אבטחה ולהשפיע על משתמשים קצה.
+
+**מסקנות חשובות**
+
+- הפריצה ל-DigiCert אירעה בפורטל תמיכה פנימי והובילה לגניבה ושימוש פסול ב-27 תעודות חתימה.
+- DigiCert ביטלה את כל התעודות שנפגעו תוך 24 שעות, תעדה את המקרה בצורה מלאה ונקטה צעדים חדים לשיפורים פנימיים.
+- לעומת זאת, תגובת Microsoft Defender הייתה רשלנית ומזיקה.
+- האירוע מדגיש את החשיבות של בקרת גישה קפדנית, ניטור רציף ושקיפות בתהליכים.
+
+**סיכום ומסר**
+
+- מתקפות על תשתיות אמון הן אסטרטגיה גוברת של פושעי סייבר.
+- תגובת DigiCert הדגימה איך תגובה מהירה, שקופה, ומבוססת ביסוס טכני יכולה להציל אמון ציבורי ולמנוע נזק רחב.
+- תגובה אוטומטית לא זהירה, כפי שניתן לראות אצל מיקרוסופט, עלולה להפוך משבר לממדים גדולים יותר.
+  
+למידע נוסף וניתוחי אבטחה: [https://twit.tv/shows/security-now/episodes/1078](https://twit.tv/shows/security-now/episodes/1078)
+
+---
+
+**English Summary:**  
+**DigiCert Breach Explained**
+
+- In April 2026, DigiCert, a prominent Certificate Authority (CA), suffered a malware attack targeting its internal support portal. The attackers tricked employees into opening infected files, compromising unique codes for Extended Validation (EV) certificates.
+- 27 fraudulent certificates were issued and used for malware distribution (e.g., the "Zong Stealer" campaign linked to Chinese cybercrime). DigiCert’s root certificates remained intact due to swift internal monitoring and security researchers' reports.
+- DigiCert’s exceptional incident management included:
+  - Revoking all compromised certificates within 24 hours.
+  - Publishing a comprehensive report outlining the attack, vulnerabilities exploited, and mitigation steps (e.g., endpoint blocking, access controls review, malware scanning enhancements).
+- In contrast, Microsoft Defender exacerbated issues by overly aggressive measures, causing widespread disruption by deleting DigiCert’s root certificates. This resulted in legitimate software being marked untrusted. After feedback, Microsoft corrected the issue.
+
+**Key Takeaways:**
+- Certificate Authority breaches highlight the critical role of secure trust models in web security.
+- DigiCert is praised for its transparent, responsible response, setting a high industry standard.
+- Microsoft’s mismanagement exemplifies risks of automated overreach in responding to root-level trust issues.
+- Businesses should vet vendors based on their incident response frameworks and security transparency.
+
+**Learn more: [https://twit.tv/shows/security-now/episodes/1078](https://twit.tv/shows/security-now/episodes/1078)**
+
+
+**Original description:**  
+DigiCert's latest security mishap triggered not just a scramble behind the scenes, but a cascading crisis that briefly wiped trust from millions of Windows systems. Find out how a single support slip, followed by Microsoft's heavy-handed response, left critical infrastructures exposed. The FCC decides router firmware updates are useful. Netgear applies for and gets a full FCC pass. AI uncovers a 21-year old critical FreeBSD RCE. What was behind that Let's Encrypt outage. AI model repositories are overflowing with malware. The CISA 2015 info-sharing act is being renewed. Edge leaves ALL usernam
+
+
+**Links mentioned:**
+• https://twit.tv/shows/security-now/episodes/1078
+• https://www.grc.com/sn/SN-1078-Notes.pdf
+• https://twit.tv/people/steve-gibson
+• https://twit.tv/people/leo-laporte
+• https://twit.tv/shows/security-now
+• [GRC | 's Visitor & Listener Feedback Page  ](https://www.grc.com/feedback.htm)
+• [GRC | Security Now! Episode Archive  ](https://www.grc.com/securitynow.htm)
+• [GRC | Hard drive data recovery software  ](https://www.grc.com/sr/spinrite.htm)
+• https://twit.tv/clubtwit
+• [Security Awareness Training for Security Now Listeners – CyberHoot](http://cyberhoot.com/securitynow/)
+• [Leader In Mobile App Security | Guardsquare](https://www.guardsquare.com/)
+• https://www.doppel.com/
+• [Your AI development platform built for the enterprise | OutSystems](https://www.outsystems.com)
+• [ThreatLocker® - TWiT](https://www.threatlocker.com/twit)
+
+---
+*Pipeline:*
+  • Transcript: rss_tag (892 words, lang=auto) — No audio download — transcript from RSS feed
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : Setting up Check Point Managed Rules on AWS Network Firewall
+
+**Youtube Channel:** Check Point  
+**Author:** Check Point Software  
+**Date:** 12/05/2026 17:17 UTC  
+**Generated:** 18/05/2026 12:42 UTC  
+**Link:** 
+
+https://www.youtube.com/watch?v=DaVyPZ4PDrM  
+
+---
+
+**Hebrew Summary:**  
+**הגדרה בסיסית של Check Point Managed Rules ל-AWS Network Firewall**  
+- בפרק זה מתאר דויד היל, מנהל המוצר של Check Point ב-AWS, את תהליך ההגדרה של Check Point Managed Rules בתוך AWS Network Firewall.  
+- מדובר בכלים הזמינים דרך AWS Marketplace, שמטרתם להקטין את העומס התפעולי על ידי מתן סטי חוקים מוכנים מראש, המבוססים על Suricata ואשר משולבים עם טכנולוגיית ThreatCloud AI של Check Point.  
+- הכלים נועדו לזהות ולמנוע פעילות זדונית ברשת, תוך שילוב יכולות למידה חישובית ואינטגרציות עם תשתית AWS קיימת.  
+
+**מערכת AWS Network Firewall והשירות של Check Point**  
+- AWS Network Firewall היא מערכת חומת-אש מבוססת ענן שמספקת אבטחת רשת ברמה גבוהה בתוך תשתית AWS.  
+- השירות של Check Point Managed Rules מבוסס על ניסיון נרחב בניהול איומים ובינה מלאכותית ומביא את האבטחה לרמה חדשה על ידי פתרון שמתעדכן באופן תדיר ומותאם לתרחישים עכשוויים.  
+- ThreatCloud AI, שמעורב בתהליך, משמש מקור מידע בזמן אמת על איומים ומאפשר תגובה חכמה ומהירה.  
+
+**שלבי ההגדרה של Check Point Managed Rules**  
+- פריסה: דויד מדגים כיצד להיעזר ב-AWS Marketplace כדי להוריד ולהגדיר את הכלים ישירות בתוך הקונסולה של AWS.  
+- התאמה אישית: ניתן להתאים את סטי החוקים בהתאם לצרכים העסקיים ופרופיל האבטחה הרצוי.  
+- ניטור: הצגת צעד לניטור הפעילות הרשתית והפעילות של חוקים המוטמעים דרך הקונסולה של AWS.  
+ 
+**יתרונות מרכזיים של הפתרון**  
+- **פישוט וסקלביליות:** פתרון זה מקטין משמעותית את המורכבות הנדרשת לפריסת חומות אש ברשת מבוססת ענן, תוך תמיכה בתעבורה עצומה בהיקפים עסקיים גדולים.  
+- **עדכוני איומים מתמשכים:** הפתרון מתעדכן באופן אוטומטי דרך ThreatCloud AI כדי להתמודד עם איומים חדשים.  
+- **תאימות ואינטגרציה:** עבודה אינטגרטיבית חלקה עם כלים ומערכות קיימות שמתופעלות בתוך AWS.  
+
+**תחזיות והשלכות עתידיות**  
+- דויד מציין כי צרכים של אבטחת סייבר רק ימשיכו לגדול בהתחשב בכך שמספר האיומים ואופי ההתקפות מתקדמים ונעשים מתוחכמים יותר.  
+- הפתרון של Check Point מותאם לשמש כבסיס טוב לגמישות ויכולות סקיילינג בענן.
+
+**English Summary:**  
+**Intro to Check Point Managed Rules on AWS Network Firewall**  
+- In this episode, Check Point's AWS Product Manager David Hill provides a detailed walkthrough on setting up Check Point Managed Rules within AWS Network Firewall.  
+- This tool, available via AWS Marketplace, delivers pre-configured Suricata rules enhanced by ThreatCloud AI, designed to detect and block malicious activities.  
+
+**AWS Network Firewall and Check Point Service Integration**  
+- AWS Network Firewall is a high-level cloud-based firewall solution for securing AWS infrastructures.  
+- Check Point’s service reduces operational complexity and leverages ThreatCloud AI to provide up-to-date protection against evolving threats.  
+
+**Setup Steps**  
+- Deployment: David explains how to install the tool via AWS Marketplace and configure it within AWS.  
+- Customization: Rulesets can be tailored based on specific business needs.  
+- Monitoring: Steps to monitor network traffic and rule activity via AWS Console.  
+
+**Key Benefits**  
+- **Simplification and Scalability:** The solution minimizes complexity and supports large-scale enterprise-level traffic.  
+- **Real-Time Updates:** ThreatCloud AI enables continuous rule updates to counter new threats.  
+- **Integration:** Seamless operation within existing AWS environments.  
+
+**Future Outlook**  
+- David highlights the increasing need for advanced cybersecurity solutions with the growing sophistication of cyber threats. The Check Point Managed Rules are designed to be robust and scalable for future cloud demands.
+
+
+**Original description:**  
+Watch Check Point's AWS Product Manager David Hill walk you step-by-step through setting up Check Point Managed Rules for AWS Network Firewall. Check Point Managed Rules for AWS Network Firewall, available on AWS Marketplace, reduces operational overhead by providing expertly curated, pre-configured Suricata rule sets, powered by Check Point ThreatCloud AI, designed to detect and prevent malicious network activity.
+
+
+---
+*Pipeline:*
+  • Transcript: description (59 words, lang=en) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : המסוקים כבר שם: למה לא מחסלים מהאוויר את המוקשים של איראן?
+
+**Youtube Channel:** Calcalist  
+**Author:** Calcalist | כלכליסט  
+**Date:** 12/05/2026 07:00 UTC  
+**Generated:** 18/05/2026 12:42 UTC  
+**Link:** 
+
+https://www.youtube.com/watch?v=6uHwXgTF5bY  
+
+---
+
+**Hebrew Summary:**  
+**הקדמה לנושא הפודקאסט**  
+- בפרק זה של הפודקאסט "המסוקים כבר שם: למה לא מחסלים מהאוויר את המוקשים של איראן?", נדונה הבעיה המרכזית של מוקשים ימיים שהונחו על ידי איראן במצר הורמוז.  
+- הפודקאסט נוגע בשאלות טכנולוגיות, ביטחוניות ואסטרטגיות, תוך התמקדות בשיטות קיימות לחיסול מוקשים באמצעות טכנולוגיות מודרניות וכלי תעופה.  
+- הדיון מלווה בטענות, סטטיסטיקות וקישורים למקורות מידע נוספים.  
+
+**מצרי הורמוז: חשיבות כלכלית ואסטרטגית**  
+- מצרי הורמוז מהווה מסדרון ימי אסטרטגי דרכו עובר כשליש מתפוקת הנפט העולמית, ולכן כל איום על הגישה אליו משפיע ישירות על כלכלה עולמית.  
+- איראן השתמשה במוקשים בכדי להפעיל לחץ בינלאומי ולהשיג יתרון אסטרטגי במאזן הכוחות האזורי.  
+
+**הערכת זמן לפינוי המוקשים**  
+- לפי הערכות שהוזכרו בפרק, פינוי המוקשים צפוי לקחת שישה חודשים ויותר, למרות שהמיקום שלהם ידוע מראש.  
+- מוקשים ימיים אינם בעיה חדשה — מדובר באיום שקיים למעלה מ-80 שנה, ושיטות ההתמודדות איתו התפתחו לאורך השנים.  
+
+**שיטות חיסול מוקשים מהאוויר**  
+- ניתן להשתמש במטוסים ובכלים אוטונומיים בכדי לזהות ולשלוף מוקשים ימיים בצורה מרחוק.  
+- שיטות אלו כוללות שימוש בטכנולוגיות כמו סונאר, AI ומערכים מבוססי Drone לחיפוש ואיתור מוקשים מתחת למים.  
+- עם זאת, קיימות מגבלות טכניות ופרקטיות לחיסול מוקשים באמצעות אוויר — כולל מזג אוויר, כיסוי שטח גדול ומורכבות מערכת ההנעה של המוקש.  
+
+**דיון במגבלות הטכנולוגיה והאסטרטגיה**  
+- למרות יכולת החיסול מהאוויר, ישנן מגבלות פוליטיות ודיפלומטיות שמונעות יישום מהיר של טכנולוגיות אלו באזור.  
+- בנוסף, עלויות גבוהות, יעילות מוגבלת במיקומים מסוימים ותקלות טכנולוגיות גורמות לעיכובים משמעותיים בפינוי המוקשים.  
+
+**קישורים ומשאבים בנושא**  
+- לפרטים נוספים, ניתן לקרוא את הכתבה המלאה באתר כלכליסט: https://bit.ly/42q5JF8  
+- ערוצים נוספים לקבלת מידע:  
+  - YouTube: https://bit.ly/2t5ezLs  
+  - TikTok: https://www.tiktok.com/@calcalist  
+  - Twitter: https://twitter.com/calcalist  
+  - Instagram: https://instagram.com/calcalist/  
+  - Facebook: https://www.facebook.com/calcalistonline  
+  - Telegram: https://t.me/calcalist
+
+**English Summary:**  
+**Podcast Topic Overview**  
+- The episode titled "Helicopters are already there: Why aren’t the mines in Iran eradicated from the air?" discusses the issue of naval mines laid by Iran in the Strait of Hormuz.  
+- The podcast dives into technological, security, and strategic matters, exploring current methods for clearing mines through modern air-based technologies.  
+
+**Strategic Importance of the Strait of Hormuz**  
+- It is a critical maritime corridor where approximately one-third of the world's oil passes through.  
+- Iran uses mines as leverage for regional and international influence.  
+
+**Mine Clearance Timeline**  
+- Estimates indicate that clearing these mines could take over six months, despite their locations being known.  
+- Naval mines and aerial mine clearance methods have been used for over 80 years, showcasing long-standing technological solutions.  
+
+**Air-based Mine Clearance Methods**  
+- Aircraft and autonomous tools equipped with sonar, AI, and Drone systems are deployed for remote mine detection.  
+- The methods face challenges like weather conditions, large coverage areas, and the technical complexity of mine mechanisms.  
+
+**Technological and Strategic Limitations**  
+- Political and diplomatic issues inhibit the use of advanced technologies for rapid clearance in the region.  
+- High costs, operational inefficiencies, and potential technical failures further delay demining efforts.  
+
+**Additional Resources**  
+- Full article available on Calcalist’s website: https://bit.ly/42q5JF8  
+- You can also explore more via Calcalist’s channels:  
+  - YouTube: https://bit.ly/2t5ezLs  
+  - TikTok: https://www.tiktok.com/@calcalist  
+  - Twitter: https://twitter.com/calcalist  
+  - Instagram: https://instagram.com/calcalist/  
+  - Facebook: https://www.facebook.com/calcalistonline  
+  - Telegram: https://t.me/calcalist
+
+
+**Original description:**  
+לפי הערכות, פינוי המוקשים שאיראן זרעה במצר הורמוז יקח חצי שנה ויותר; למה? האזור הממוקש כבר ידוע, וצבאות מחסלים מוקשים ממטוסים כבר יותר מ-80 שנה. "הקברניט" מפרק את האיום, השיטות והמגבלות לכתבה המלאה באתר כלכליסט: https://bit.ly/42q5JF8 להרשמה לערוץ כלכליסט ביוטיוב ◄ https://bit.ly/2t5ezLs אתר כלכליסט ◄ https://www.calcalist.co.il כלכליסט בטיקטוק ◄ https://www.tiktok.com/@calcalist כלכליסט בטוויטר ◄ https://twitter.com/calcalist כלכליסט באינסטגרם ◄ https://instagram.com/calcalist/ כלכליסט בפייסבוק ◄ https://www.facebook.com/calcalistonline כלכליסט בטלגרם ◄ https://t.me/calcalist
+
+
+**Links mentioned:**
+• https://www.youtube.com/channel/UCnl6VjqWdAIqbuhPb7XR7LA?sub_confirmation=1
+• [TikTok - Make Your Day](https://www.tiktok.com/@calcalist)
+• https://x.com/calcalist
+• https://www.instagram.com/calcalist/
+• https://www.facebook.com/calcalistonline
+• [Telegram: View @calcalist](https://t.me/calcalist)
+
+---
+*Pipeline:*
+  • Transcript: description (66 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
