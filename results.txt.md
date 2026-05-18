@@ -13656,3 +13656,167 @@ https://www.buzzsprout.com/2439036/episodes/19187359-53.mp3
   • Transcript: cached_description (371 words, lang=he) — No audio download — summary based on show notes / description only
   • Summary: GitHub Models gpt-4o-mini (he+en)
 
+----
+## Chapter : אבטחה של מקורות הדאטה בעידן ה-AI: ראיון עם גילי כנפו מחברת Vega
+
+**Youtube Channel:** MDLI  
+**Author:** Machine & Deep Learning Israel  
+**Date:** 18/05/2026 05:50 UTC  
+**Generated:** 18/05/2026 08:50 UTC  
+**Link:** 
+https://www.youtube.com/watch?v=KFgWcufXPck  
+
+---
+
+**Hebrew Summary:**  
+**הקדמה לפרק ודובר המרכזי**  
+- הפרק עסק באבטחת מקורות דאטה בעידן ה-AI.  
+- המראיין שוחח עם גילי כנפו, AI Lead של חברת Vega, אחת החברות המעניינות ביותר בתחום ה-AI והסייבר.  
+- גילי מנוסה במחקר וביישום פתרונות של סוכני AI לאבטחת מידע.
+
+**מהות האבטחה בעידן ה-AI**  
+- גילי הסביר כי אתגרי האבטחה הינם גדולים במיוחד בעידן שבו כמויות המידע גדלות משמעותית.  
+- חברות רבות מסתמכות על מודלי AI, אבל אלו ניזונים מדאטה גולמית שעלולה להיות פגיעה למתקפות סייבר שונות.  
+- נוסף על כך, התשתיות המאומצות להפעלת המודלים חייבות לעמוד בסטנדרטים מחמירים של אבטחה.  
+- לדבריו, יש עלייה במתקפות מסוג "Data Poisoning" שמטרתן לשבש את פעולת המודלים על ידי נגיעה בדאטה המוזן.  
+
+**שימוש בסוכנים לחקירת פרצות אבטחה**  
+- Vega פיתחה כלים ייחודיים המבוססים על סוכני AI שמאתרים פרצות אבטחה ושומרים על איכות הדאטה.  
+- הסוכנים יכולים לזהות איומים כמעט בזמן אמת ולפעול בצורת מניעה פרו-אקטיבית.  
+- גילי הדגיש את היתרון של שימוש ב-AI לצורך ניטור ידני פחות ומיקוד במשימות קריטיות במקום.
+
+**החיבור בין AI וסייבר**  
+- יש כיום מגמה גוברת שבה AI משמש ככלי אסטרטגי באבטחת מידע.  
+- במסגרת זו, Vega חוקרת שיטות לניתוח מעמיק של מתקפות ולאיתור דפוסים חדשים במתקפות שעדיין לא זוהו על ידי כלים קלאסיים.
+- גילי ציין שחברות מובילות כמו Google ו-Microsoft גם הן משקיעות רבות ב-AI עבור אבטחת מידע.
+
+**תחזיות לעתיד**  
+- גילי העריך שבעתיד הקרוב נראה עלייה משמעותית בשימוש בוגים אוטומטיים ואינטליגנציה מלאכותית לצורך שם שמירה על אבטחת דאטה.  
+- במקביל, הוא הזהיר שעם ההתפתחות המהירה של הכלים, גם האיומים צפויים להתחכם ולהתפתח.  
+- לדבריו, השקעה באבטחת מידע, במיוחד למשתמש הקצה ולארגונים קטנים ובינוניים (SMBs), צריכה להיות עדיפות גבוהה.  
+
+**לינקים ותזכורות**  
+- גילי המליץ לבקר באתר Vega לעדכונים נוספים: [www.vega.ai](http://www.vega.ai).  
+- עוד הוזכר שבעיית האבטחה חייבת להיות חלק מהשיח הציבורי, וחשיבות שיתוף פעולה בין חברות פרטיות לארגונים ממשלתיים.
+
+**English Summary:**  
+- This episode of the MDLI podcast features Gili Kanafo, AI Lead at Vega, a leading startup in AI and cybersecurity.  
+- Gili discussed the challenges of data security in the AI era, emphasizing the rise of issues like "Data Poisoning," which can compromise machine learning model effectiveness.  
+- Vega uses AI agents to detect and prevent breaches in real-time, reducing the need for manual monitoring and focusing instead on critical tasks.  
+- There’s growing adoption of AI in cybersecurity, as demonstrated by major tech players like Google and Microsoft investing heavily in this area.  
+- Gili predicts more advancements in automation and AI for data protection in the near future, alongside increasingly sophisticated threats.  
+- He emphasized the importance of prioritizing cybersecurity, especially for SMBs and end-users.  
+- For more updates, visit Vega’s website: [www.vega.ai](http://www.vega.ai).
+
+
+**Original description:**  
+הפרק היה לי העונג לדבר עם גילי כנפו, AI Lead בחברת Vega - בין הסטארטאפים הכי מעניינים בתחום ה-AI והסייבר. דברנו על איך מאבטחים דאטה בעידן ה-AI, איך חוקרים פרצות אבטחה בעזרת סוכנים ובכלל לאן כל התחום הולך בשנים הקרובות.
+
+
+---
+*Pipeline:*
+  • Transcript: description (40 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
+----
+## Chapter : יסמין לוקץ': מאחורי הקלעים של "הכרישים", מתי תחזור ל"רוקדים עם כוכבים", והאם תרוץ לפוליטיקה? #102
+
+**Podcast:** הפודקאסט של גיא קצוביץ'  
+**Author:** גיא קצוביץ'  
+**Date:** 18/05/2026 03:15 UTC  
+**Generated:** 18/05/2026 08:51 UTC  
+**Link:** 
+https://podcasters.spotify.com/pod/show/guy-katsovich/episodes/102-e3jg6he  
+
+---
+
+**Hebrew Summary:**  
+**
+
+**הקדמה על יסמין לוקץ' וביוגרפיה קצרה**  
+• יסמין לוקץ' היא דמות בולטת בסצנת ההייטק בישראל ובטלוויזיה הישראלית, מוכרת ככוכבת תוכנית "הכרישים".  
+• עלתה לישראל לאחר 18 שנים בסיליקון ואלי, שם צברה ניסיון ועשתה קריירה נחשבת בטכנולוגיה ויזמות.  
+• החזון שלה מתמקד בהפיכת ישראל למעצמת הייטק עולמית על ידי חיבורים בין יזמים ישראליים לשווקים בינלאומיים.  
+
+**הקמת ארגון ICON והפעילות היזמית**  
+• יסמין הקימה את ICON, ארגון ללא מטרות רווח שמטרתו חיבור יזמים ישראליים לשוק האמריקאי.  
+• ICON גדל והפך לגורם מרכזי בתחזוק קשרים בינלאומיים עבור חברות סטארט-אפ מישראל לארה"ב.   
+• הארגון מהווה גשר משמעותי בין שתי הכלכלות הטכנולוגיות ומחזק את השפעת ישראל בתעשיית ההייטק העולמית.  
+• יחד עם ICON, יסמין יצרה את התשתית לאחת מתנועות ההתנדבות הגדולות בהייטק הישראלי - Code for Israel, שמטרתה לשלב טכנולוגיה לטובת המגזר הציבורי.  
+
+**השקעות הון סיכון ופעילות עסקית**  
+• בשנה האחרונה החלה יסמין להתמקד בהשקעות הון-סיכון וניהול פמילי אופיס לתמיכה ביזמויות טכנולוגיות ישראליות ובינלאומיות.  
+
+**תוכנית "הכרישים" והפן הטלוויזיוני**  
+• לוקץ' חשפה נקודות מבט מעניינות על תהליכי קבלת החלטות בתוכנית, על דינמיקות מאחורי הקלעים, ועל הדרך שבה הריאליטי תורם לשוק הסטארט-אפים בישראל.  
+• על אף ההצלחה במסך הקטן, היא אינה רואה את עצמה חוזרת לתוכנית "רוקדים עם כוכבים" בקרוב בגלל התמקדותה בקריירה הנוכחית.  
+
+**פרויקט "תו מילואים"**  
+• פרויקט חדש של לוקץ' נועד לעזור למילואימניקים ישראלים להשתלב חזרה בשוק העבודה.  
+• היא ציינה את האתגרים שהפרויקט כבר מתמודד איתם ואת התגובות החיוביות מממונים ששמעו על היוזמה.  
+
+**מסע אישי וג'ו-ג'יצו**  
+• לוקץ' דיברה על מסעה האישי, כולל התחיבה החדש שלה בג'ו-ג'יצו, כאמצעי להתמודדות עם כשלונות ולמידת אתגרים. היא החלה לעסוק בספורט זה בגיל מבוגר, דבר שסייע לה להתמודד עם אתגרי החיים.  
+
+**ביקורת על המערכת הפוליטית**  
+• לוקץ' אינה פוסלת עיסוק פוליטי בעתיד אך כרגע אינה מתכננת להתמודד בפוליטיקה.  
+• היא מבקרת את חוסר היעילות במערכת הפוליטית הישראלית ואת הנטייה "לנהל משברים במקום למנוע אותם".  
+
+**מוטיבציות אישיות ופילוסופיה לחיים**  
+• אידיאולוגיית חייה מושתתת על עקרון: "Be the change you want to see in the world".  
+• עם שילוב בין קריירה, פודקאסט, גידול ארבעה ילדים, והיותה כוכבת טלוויזיה, היא מחלקת טיפים כיצד לשלב בין חזון לעשייה.  
+
+**הפודקאסט "הסלון של יסמין"**  
+• הפודקאסט שלה עוסק בשיח פתוח ומעמיק בנושאים אישיים וחברתיים.  
+• היא סיפרה כיצד באמצעות הפודקאסט היא למדה רבות גם על הקרובים אליה ביותר ולקחה השראה להמשך חייה ופעילותה.  
+
+**
+
+**English Summary:**  
+**
+
+**Introduction and Background**  
+- Yasmin Lukatz, a prominent figure in Israeli high-tech and television, is best known for her role in the show “Shark Tank.”  
+- After 18 years in Silicon Valley, she returned to Israel, aiming to bolster its position as a global high-tech hub.  
+
+**ICON and Social Ventures**  
+- Yasmin founded ICON, a nonprofit connecting Israeli entrepreneurs with the U.S. market.  
+- ICON has become a vital bridge between the tech ecosystems of both countries, promoting cross-border innovation.  
+- She also spearheaded Code for Israel, one of the largest volunteer movements in the Israeli tech sector, leveraging technology for public benefit.  
+
+**Venture Capital and New Projects**  
+- Recently, Yasmin has turned her focus to venture capital investments and managing a family office to support startups.  
+- She introduced “Miluim Tag,” a project to help Israeli reservists reintegrate into the job market.  
+
+**“Shark Tank” and Media Involvement**  
+- Shared insights on her behind-the-scenes experience from “Shark Tank.”  
+- Currently, she does not plan to return to “Dancing with the Stars,” focusing on her current professional endeavors.  
+
+**Philosophy and Personal Journey**  
+- Embraces the philosophy: “Be the change you want to see in the world.”  
+- She balances her professional life, podcast, and raising four children, highlighting resilience and practical tips for juggling diverse pursuits.  
+
+**Podcast - "Yasmin's Salon"**  
+- Yasmin hosts a podcast delving into personal and societal topics, uncovering insights that influence her career and personal life.  
+
+**Potential Political Career**  
+- She critiques inefficiencies in Israeli politics yet avoids ruling out future involvement. Currently, her focus remains on tech, investments, and social impact.
+
+
+**Original description:**  
+מה קורה כשהכרישה מהטלוויזיה מחליטה לחזור לארץ אחרי 18 שנים בסיליקון ואלי ולהפוך את ישראל למעצמת הייטק עולמית? יסמין לוקץ' לא רק חזרה - היא הביאה איתה את כל הקשרים, הידע והחזון שצברה בעמק, והפכה אותם למנוע שינוי חברתי אמיתי. בפרק מרתק זה, יסמין חושפת איך הקימה את ארגון ICON שמחבר יזמים ישראלים לשוק האמריקאי, איך הפכה את Code for Israel לתנועת מתנדבים מהגדולות ביותר בהייטק הישראלי, ומדוע החליטה להתמקד בשנה האחרונה בהשקעות הון-סיכון. היא מספרת על הפרויקט החדש שלה "תו מילואים" שמסייע למילואימניקים בשוק העבודה, על החוויה המפתיעה ברוקדים עם כוכבים שלימדה אותה על התמודדות עם כישלון, ועל הפודקאסט "הסל
+
+
+**Links mentioned:**
+• [××¤×××§××¡× ×©× ××× ×§×¦××××¥' - Podcast - Apple Podcasts](https://podcasts.apple.com/us/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%9C-%D7%92%D7%99%D7%90-%D7%A7%D7%A6%D7%95%D7%91%D7%99%D7%A5/id1252035397)
+• [Digital Health Track with A-Squared](https://www.fusion-vc.com/digital-health-track-with-a-squared)
+• https://www.instagram.com/guykatsovich/
+• https://www.instagram.com/guy_katsovich_podcast/
+• [הפודקאסט של גיא קצוביץ' | Podcast on Spotify](https://open.spotify.com/show/0dTqS27ynvNmMnA5x4ObKQ)
+• https://www.apple.com/
+
+---
+*Pipeline:*
+  • Transcript: page_content (11274 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: GitHub Models gpt-4o-mini (he+en)
+
