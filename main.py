@@ -142,16 +142,6 @@ def append_result(text: str):
 
 _TG_MAX = 4096
 
-_TG_STRIP_RE = re.compile(
-    r'\*\*(?:English Summary|Original description):\*\*.*?(?=\n\*\*|\n---|\Z)',
-    re.DOTALL,
-)
-
-
-def _strip_for_telegram(text: str) -> str:
-    """Remove English Summary and Original description blocks before sending to Telegram."""
-    return re.sub(r'\n{3,}', '\n\n', _TG_STRIP_RE.sub('', text)).strip()
-
 
 def _md_to_tg_html(text: str) -> str:
     """Convert the markdown used in results.txt.md to Telegram HTML."""
@@ -203,9 +193,7 @@ def send_telegram(formatted_summary: str):
         logger.info("  Telegram: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set — skipping")
         return
 
-    # Strip sections not needed in Telegram, then split before HTML conversion
-    tg_text = _strip_for_telegram(formatted_summary)
-    md_chunks = _tg_split(tg_text)
+    md_chunks = _tg_split(formatted_summary)
     api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     sent = 0
     try:
@@ -348,7 +336,7 @@ def main():
         logger.info(f"  Transcript saved to {debug_path.name}")
 
         try:
-            summary = summarize_episode(episode, transcript, settings)
+            summary, tg_summary = summarize_episode(episode, transcript, settings)
         except Exception as e:
             logger.error(f"  Summarization failed: {e}")
             mark_seen(seen, episode.id)
@@ -358,7 +346,7 @@ def main():
         append_result(summary)
         mark_seen(seen, episode.id)
         save_seen(seen)
-        send_telegram(summary)
+        send_telegram(tg_summary)
         logger.info("  Done.")
 
         # Stop if whisper budget is exhausted (production only; test mode processes all 3)

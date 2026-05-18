@@ -314,7 +314,9 @@ def _summarize_with_models(episode, transcript_text: str, lang: str, settings: d
 # ── Formatting ────────────────────────────────────────────────────────────────
 
 def _format_output(episode, hebrew_summary: str, english_summary: str,
-                   urls: list, pipeline_steps: list) -> str:
+                   urls: list, pipeline_steps: list) -> tuple[str, str]:
+    """Returns (full_text, telegram_text). full_text goes to results.txt.md;
+    telegram_text omits English summary and original description."""
     from datetime import datetime, timezone
 
     # Clear English if it came out as Hebrew (extractive/model error)
@@ -343,26 +345,29 @@ def _format_output(episode, hebrew_summary: str, english_summary: str,
     en_block = f"**English Summary:**  \n{english_summary}\n\n" if english_summary else ""
 
     source_label = "Youtube Channel" if episode.feed_type == "youtube_rss" else "Podcast"
-    return (
+    header = (
         f"## Chapter : {episode.title}\n\n"
         f"**{source_label}:** {episode.feed_name}  \n"
         f"**Author:** {episode.author}  \n"
         f"**Date:** {date_str}  \n"
         f"**Generated:** {generated_str}  \n"
-        f"**Link:** {episode.url}  \n"
+        f"**Link:** \n{episode.url}  \n"
         f"\n---\n\n"
-        f"{he_block}"
-        f"{en_block}"
-        f"{desc_block}\n"
+    )
+    footer = (
         f"{url_block}\n\n"
         f"---\n"
         f"*Pipeline:*\n{steps_block}\n"
     )
 
+    full_text = header + he_block + en_block + desc_block + "\n" + footer
+    telegram_text = header + he_block + footer
+    return full_text, telegram_text
+
 
 # ── Public API ────────────────────────────────────────────────────────────────
 
-def summarize_episode(episode, transcript, settings: dict) -> str:
+def summarize_episode(episode, transcript, settings: dict) -> tuple[str, str]:
     lang = transcript.language or episode.language
     raw_text = transcript.text
     urls = _extract_urls(raw_text) + _extract_urls(episode.description or "")
