@@ -327,3 +327,18 @@ feeds:
 
 - name: Rafael Marketing
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC04S29lWGVyLU1HZEFwWnVB"
+
+- name: Security Now
+  url: "https://feeds.twit.tv/sn.xml"
+
+- name: Geektime
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCUOQyNcs_Kqont5qT7ZZNrw"
+
+- name: Calcalist
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnl6VjqWdAIqbuhPb7XR7LA"
+
+- name: TheMarker
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC2XFysSp9eg9acTnzkrBxUQ"
+
+- name: Check Point
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCXnlgfiXZQm1sbxMzU-8ZKA"
