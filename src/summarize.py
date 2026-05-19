@@ -1,13 +1,40 @@
 import re
 import html
 import logging
+import ipaddress
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from urllib.parse import urlparse
 
 import requests
 
 logger = logging.getLogger(__name__)
 
 _URL_RE = re.compile(r"https?://[^\s'\"<>)\]]+")
+
+_LINK_CHECK_MAX_BYTES = 1 * 1024 * 1024  # 1 MB — enough to find a <title> tag
+
+
+def _is_safe_url(url: str) -> bool:
+    """Block SSRF targets: non-http(s) schemes, private/loopback/link-local IPs, cloud metadata."""
+    try:
+        p = urlparse(url)
+        if p.scheme not in ("http", "https"):
+            return False
+        host = (p.hostname or "").lower()
+        if not host:
+            return False
+        if host in {"localhost", "metadata.google.internal", "169.254.169.254"}:
+            return False
+        try:
+            addr = ipaddress.ip_address(host)
+            if addr.is_private or addr.is_loopback or addr.is_link_local or addr.is_reserved:
+                return False
+        except ValueError:
+            pass
+        return True
+    except Exception:
+        return False
+
 _HEBREW_RE = re.compile(r"[֐-׿]")
 _AUDIO_EXT_RE = re.compile(r'\.(mp3|m4a|ogg|opus|aac|wav|flac)(\?.*)?$', re.IGNORECASE)
 _TITLE_RE = re.compile(r'<title[^>]*>(.*?)</title>', re.IGNORECASE | re.DOTALL)
@@ -29,15 +56,28 @@ def _resolve_and_check(url: str) -> tuple[str, str] | None:
         return None
     if _EXAMPLE_RE.match(url):
         return None
+    if not _is_safe_url(url):
+        return None
     try:
         r = requests.get(url, timeout=8,
                          headers={"User-Agent": "Mozilla/5.0 (compatible; PodcastSummarizer/1.0)"},
-                         allow_redirects=True)
+                         allow_redirects=True, stream=True)
         if r.status_code >= 400:
+            r.close()
             return None
-        final_url = r.url  # resolved URL after any redirects (expands shorteners)
+        final_url = r.url
+        # Read only enough bytes to find the <title> tag
+        chunks = []
+        total = 0
+        for chunk in r.iter_content(4096):
+            chunks.append(chunk)
+            total += len(chunk)
+            if total >= _LINK_CHECK_MAX_BYTES:
+                break
+        r.close()
+        raw = b"".join(chunks).decode("utf-8", errors="replace")
         title = ""
-        m = _TITLE_RE.search(r.text[:4096])
+        m = _TITLE_RE.search(raw[:4096])
         if m:
             title = re.sub(r"\s+", " ", m.group(1)).strip()
             title = re.sub(r"<[^>]+>", "", title).strip()

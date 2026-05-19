@@ -2,13 +2,59 @@ import re
 import os
 import logging
 import tempfile
+import ipaddress
 from dataclasses import dataclass
 from typing import Optional
+from urllib.parse import urlparse
 
 import requests
 from bs4 import BeautifulSoup
 
 logger = logging.getLogger(__name__)
+
+_MAX_DOWNLOAD_BYTES = 500 * 1024 * 1024  # 500 MB
+
+
+def _is_safe_url(url: str) -> bool:
+    """Block SSRF targets: non-http(s) schemes, private/loopback/link-local IPs, cloud metadata."""
+    try:
+        p = urlparse(url)
+        if p.scheme not in ("http", "https"):
+            return False
+        host = (p.hostname or "").lower()
+        if not host:
+            return False
+        if host in {"localhost", "metadata.google.internal", "169.254.169.254"}:
+            return False
+        try:
+            addr = ipaddress.ip_address(host)
+            if addr.is_private or addr.is_loopback or addr.is_link_local or addr.is_reserved:
+                return False
+        except ValueError:
+            pass  # hostname, not a bare IP — pass through
+        return True
+    except Exception:
+        return False
+
+
+def _safe_get_text(url: str, timeout: int = 30, headers: dict = None) -> str:
+    """GET with SSRF check and 500 MB download cap. Returns decoded text."""
+    if not _is_safe_url(url):
+        raise ValueError(f"Blocked unsafe URL: {url}")
+    r = requests.get(url, timeout=timeout, stream=True,
+                     headers=headers or {})
+    r.raise_for_status()
+    chunks = []
+    total = 0
+    for chunk in r.iter_content(65536):
+        total += len(chunk)
+        if total > _MAX_DOWNLOAD_BYTES:
+            r.close()
+            raise ValueError(f"Response exceeded 500 MB cap: {url}")
+        chunks.append(chunk)
+    raw = b"".join(chunks)
+    encoding = r.encoding or r.apparent_encoding or "utf-8"
+    return raw.decode(encoding, errors="replace")
 
 
 @dataclass
@@ -41,9 +87,7 @@ def try_rss_transcript(episode) -> Optional[TranscriptResult]:
     if not episode.transcript_url:
         return None
     try:
-        r = requests.get(episode.transcript_url, timeout=30)
-        r.raise_for_status()
-        text = r.text
+        text = _safe_get_text(episode.transcript_url, timeout=30)
         mime = (episode.transcript_type or "").lower()
         if "vtt" in mime or "srt" in mime:
             text = strip_vtt(text)
@@ -79,7 +123,7 @@ def try_youtube_captions(video_id: str, language: str) -> Optional[TranscriptRes
                     t = (tlist.find_manually_created_transcript([lang]) if manual
                          else tlist.find_generated_transcript([lang]))
                     snippets = t.fetch()
-                    text = " ".join(s["text"] for s in snippets).replace("\n", " ")
+                    text = " ".join(s.text for s in snippets).replace("\n", " ")
                     text = re.sub(r"\s+", " ", text).strip()
                     return TranscriptResult(text, "youtube_captions", t.language_code, len(text.split()))
                 except Exception:
@@ -139,10 +183,11 @@ def try_page_content(episode, min_length: int) -> Optional[TranscriptResult]:
         return None
 
     try:
-        r = requests.get(url, timeout=20,
-                         headers={"User-Agent": "Mozilla/5.0 (compatible; PodcastSummarizer/1.0)"})
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, "lxml")
+        page_text = _safe_get_text(
+            url, timeout=20,
+            headers={"User-Agent": "Mozilla/5.0 (compatible; PodcastSummarizer/1.0)"},
+        )
+        soup = BeautifulSoup(page_text, "lxml")
         for tag in soup.find_all(_SKIP_TAGS):
             tag.decompose()
         text = soup.get_text(separator=" ", strip=True)
@@ -238,6 +283,9 @@ def try_cached_transcript(episode, transcripts_dir) -> Optional[TranscriptResult
     transcripts_dir = Path(transcripts_dir)
     safe_name = re.sub(r'[^\w\- ]', '_', f"{episode.feed_name} — {episode.title}")[:80]
     cache_path = transcripts_dir / f"{safe_name}.txt"
+    if not str(cache_path.resolve()).startswith(str(transcripts_dir.resolve())):
+        logger.warning(f"Path traversal blocked for cache read: {safe_name!r}")
+        return None
     if not cache_path.exists():
         return None
     try:

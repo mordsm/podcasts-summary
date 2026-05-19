@@ -1,10 +1,10 @@
-openai>=1.30.0
+openai>=1.30.0,<2.0.0
 feedparser==6.0.11
-youtube-transcript-api==0.6.2
-yt-dlp==2024.11.18
+youtube-transcript-api==1.2.4
+yt-dlp==2026.3.17
 faster-whisper==1.0.3
-transformers==4.44.0
-torch==2.4.0
+transformers==4.57.6
+torch==2.12.0
 sentencepiece==0.2.0
 sacremoses==0.1.1
 PyYAML==6.0.2

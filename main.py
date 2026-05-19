@@ -369,16 +369,19 @@ def main():
         DEBUG_DIR.mkdir(parents=True, exist_ok=True)
         safe_name = re.sub(r'[^\w\- ]', '_', f"{episode.feed_name} — {episode.title}")[:80]
         debug_path = DEBUG_DIR / f"{safe_name}.txt"
-        with open(debug_path, "w", encoding="utf-8") as f:
-            f.write(f"Feed: {episode.feed_name}\n")
-            f.write(f"Episode: {episode.title}\n")
-            f.write(f"Method: {transcript.method}\n")
-            f.write(f"Language: {transcript.language}\n")
-            f.write(f"Words: {transcript.word_count}\n")
-            f.write(f"URL: {episode.url}\n")
-            f.write("\n--- TRANSCRIPT ---\n\n")
-            f.write(transcript.text)
-        logger.info(f"  Transcript saved to {debug_path.name}")
+        if not str(debug_path.resolve()).startswith(str(DEBUG_DIR.resolve())):
+            logger.warning(f"  Path traversal blocked for transcript save: {safe_name!r}")
+        else:
+            with open(debug_path, "w", encoding="utf-8") as f:
+                f.write(f"Feed: {episode.feed_name}\n")
+                f.write(f"Episode: {episode.title}\n")
+                f.write(f"Method: {transcript.method}\n")
+                f.write(f"Language: {transcript.language}\n")
+                f.write(f"Words: {transcript.word_count}\n")
+                f.write(f"URL: {episode.url}\n")
+                f.write("\n--- TRANSCRIPT ---\n\n")
+                f.write(transcript.text)
+            logger.info(f"  Transcript saved to {debug_path.name}")
 
         try:
             summary, tg_summary = summarize_episode(episode, transcript, settings)
