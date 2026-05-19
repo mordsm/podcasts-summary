@@ -2,8 +2,9 @@
 Production entry point for the podcast/YouTube summarization pipeline.
 
 Usage:
-    python main.py           # normal run: episodes from last 7 days, skip seen
-    python main.py --test    # test run: 3 smallest episodes (1 YouTube, 1 RSS-Spotify, 1 other RSS)
+    python main.py                  # normal run: episodes from last 7 days, skip seen
+    python main.py --test           # test run: 3 smallest episodes (1 YouTube, 1 RSS-Spotify, 1 other RSS)
+    python main.py --write-results  # also append summaries to results.txt.md
 """
 import sys
 import io
@@ -256,6 +257,8 @@ def main():
                         help="Filter feeds by name substring (case-insensitive)")
     parser.add_argument("--resend-history", action="store_true",
                         help="Resend all existing entries in results.txt.md to Telegram")
+    parser.add_argument("--write-results", action="store_true",
+                        help="Append summaries to results.txt.md (disabled by default)")
     args = parser.parse_args()
 
     if args.resend_history:
@@ -275,7 +278,7 @@ def main():
     if args.test:
         logger.info("Test mode: selecting 3 smallest episodes across feed types")
         # Only wipe results in pure test mode (no feed filter); with --feed, always append
-        if not args.feed and RESULTS_PATH.exists():
+        if args.write_results and not args.feed and RESULTS_PATH.exists():
             RESULTS_PATH.unlink()
         episodes = select_test_episodes(feed_configs)
         logger.info(f"Test episodes selected: {len(episodes)}")
@@ -343,7 +346,8 @@ def main():
             save_seen(seen)
             continue
 
-        append_result(summary)
+        if args.write_results:
+            append_result(summary)
         mark_seen(seen, episode.id)
         save_seen(seen)
         send_telegram(tg_summary)
