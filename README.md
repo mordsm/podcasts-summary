@@ -60,6 +60,8 @@ The pipeline runs on a free GitHub-hosted Ubuntu runner. All state is stored in 
 - **Telegram delivery** — Each new summary is sent automatically to a Telegram channel; supports chunked messages for long summaries and respects rate limits
 - **Resend history** — Re-send all existing `results.txt.md` entries to Telegram via a single `workflow_dispatch` toggle (requires `--write-results` to have been used previously)
 - **No external paid APIs** — Uses GitHub's free Models API (`MODELS_TOKEN`) and falls back to local BART + Helsinki models if unavailable
+- **SSRF protection** — All outbound HTTP requests validate the target URL against a blocklist of private/loopback/link-local IPs and cloud metadata endpoints before fetching
+- **Download size cap** — RSS transcript and episode-page fetches are capped at 500 MB; link-liveness checks are capped at 1 MB
 
 ---
 
@@ -278,19 +280,45 @@ URL: <episode URL>
 
 | Package | Version | Purpose |
 |---------|---------|---------|
-| `openai` | ≥1.30.0 | GitHub Models API client |
+| `openai` | ≥1.30.0,<2.0.0 | GitHub Models API client |
 | `feedparser` | 6.0.11 | RSS/Atom feed parsing |
 | `beautifulsoup4` | 4.12.3 | HTML parsing for page content extraction |
 | `lxml` | 5.3.0 | Fast HTML/XML parser backend |
 | `requests` | 2.32.3 | HTTP client for RSS, transcripts, link checking |
 | `PyYAML` | 6.0.2 | Config file parsing |
-| `youtube-transcript-api` | 0.6.2 | YouTube caption fetching (no download) |
-| `yt-dlp` | 2024.11.18 | Audio download and YouTube subtitle fallback |
+| `youtube-transcript-api` | 1.2.4 | YouTube caption fetching (no download) |
+| `yt-dlp` | 2026.3.17 | Audio download and YouTube subtitle fallback |
 | `faster-whisper` | 1.0.3 | CPU-optimized Whisper transcription |
-| `transformers` | 4.44.0 | BART summarization + Helsinki translation models |
-| `torch` | 2.4.0 | PyTorch backend for local models |
+| `transformers` | 4.57.6 | BART summarization + Helsinki translation models |
+| `torch` | 2.12.0 | PyTorch backend for local models |
 | `sentencepiece` | 0.2.0 | Tokenizer for Helsinki translation models |
 | `sacremoses` | 0.1.1 | Text normalization for translation |
+
+---
+
+## Security
+
+### SSRF protection
+
+All outbound HTTP requests made from RSS feed content (transcript URLs, episode page URLs, and extracted links) are validated before fetching. The `_is_safe_url()` check blocks:
+
+- Non-`http`/`https` schemes
+- `localhost`, `127.x.x.x`, and all loopback addresses
+- `169.254.169.254` and `metadata.google.internal` (cloud instance metadata endpoints)
+- All RFC-1918 private ranges (`10.x`, `172.16–31.x`, `192.168.x`) and link-local addresses
+
+### Download size limits
+
+Fetches from untrusted RSS sources are capped to prevent memory exhaustion:
+
+| Fetch type | Cap |
+|---|---|
+| RSS transcript tag, episode web page | 500 MB |
+| Link liveness / title check | 1 MB |
+
+### Path traversal protection
+
+Transcript filenames are derived from RSS feed and episode titles. After sanitizing the name, the resolved path is asserted to remain inside `data/transcripts/` before any read or write.
 
 ---
 
