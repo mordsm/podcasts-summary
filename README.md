@@ -52,7 +52,7 @@ The pipeline runs on a free GitHub-hosted Ubuntu runner. All state is stored in 
 - **Fully automated** — GitHub Actions cron fires every hour, processes new episodes, and commits results back
 - **Bilingual output** — Long Hebrew summary (800–1200 words) + concise English summary (200–300 words)
 - **7 transcript methods** — Tries every available source before falling back to Whisper audio transcription
-- **Transcript caching** — Whisper results are saved to `data/transcripts/` and re-used on subsequent runs, avoiding costly re-transcription
+- **Transcript caching** — Whisper results are saved to `data/transcripts/` and re-used on subsequent runs, avoiding costly re-transcription. Files older than 30 days are deleted automatically on each run.
 - **Whisper budget** — Only 1 audio transcription per run to stay within GitHub Actions runner time limits; remaining episodes are deferred to the next cron run
 - **Smart link handling** — Dead links are dropped, `example.com` removed, and URL shorteners (`bit.ly`, `t.co`, etc.) resolved to their final destination
 - **Feed filtering** — Run on a specific feed by name via `workflow_dispatch` input
@@ -299,7 +299,7 @@ URL: <episode URL>
 The pipeline uses two files for state — no database required:
 
 - **`data/seen.json`** — Which episodes have been processed (persisted in git after every run)
-- **`data/transcripts/`** — Full transcript text for each processed episode (persisted in git, used as a cache to avoid re-running Whisper)
+- **`data/transcripts/`** — Full transcript text for each processed episode (persisted in git, used as a cache to avoid re-running Whisper). Files are automatically deleted after 30 days based on their first git commit date.
 
 Both files are committed back to `master` by the workflow after every run, so state survives across cron invocations.
 
