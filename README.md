@@ -37,10 +37,10 @@ Every hour (GitHub Actions cron)
     ├─ Summarize with GitHub Models (gpt-4o / gpt-4o-mini)
     ├─ Format bilingual output (Hebrew + English)
     ├─ Validate and resolve all links
-    └─ Append to results.txt.md
+    └─ Send to Telegram
         │
         ▼
-  git commit & push results back to repo
+  git commit & push state back to repo
 ```
 
 The pipeline runs on a free GitHub-hosted Ubuntu runner. All state is stored in the repository itself — no database, no external services.
@@ -58,14 +58,14 @@ The pipeline runs on a free GitHub-hosted Ubuntu runner. All state is stored in 
 - **Feed filtering** — Run on a specific feed by name via `workflow_dispatch` input
 - **Test mode** — Process one small episode per feed type to verify the pipeline without long Whisper jobs
 - **Telegram delivery** — Each new summary is sent automatically to a Telegram channel; supports chunked messages for long summaries and respects rate limits
-- **Resend history** — Re-send all existing `results.txt.md` entries to Telegram via a single `workflow_dispatch` toggle
+- **Resend history** — Re-send all existing `results.txt.md` entries to Telegram via a single `workflow_dispatch` toggle (requires `--write-results` to have been used previously)
 - **No external paid APIs** — Uses GitHub's free Models API (`MODELS_TOKEN`) and falls back to local BART + Helsinki models if unavailable
 
 ---
 
 ## Output Format
 
-Results accumulate in `results.txt.md`. Each episode produces one block:
+By default, summaries are sent to Telegram only. To also write them to `results.txt.md`, pass `--write-results` when running the pipeline. Each episode produces one block:
 
 ```markdown
 ----
@@ -211,7 +211,7 @@ Language is auto-detected from feed metadata and Hebrew character ratio. Overrid
 |-------|-------------|
 | `feed` | Optional substring to filter by feed name (e.g. `רברס` or `Creative Channel`) |
 | `test` | If checked, processes only 1 small episode per feed type (YouTube / Spotify-RSS / other RSS) — fast verification without triggering Whisper |
-| `resend_history` | If checked, re-sends every entry already in `results.txt.md` to Telegram (useful after first bot setup or after adding a new channel) |
+| `resend_history` | If checked, re-sends every entry already in `results.txt.md` to Telegram (requires `--write-results` to have been used previously) |
 
 ### First Run
 
@@ -228,7 +228,7 @@ The pipeline is designed to run on GitHub Actions, not locally. To trigger a run
 3. Optionally fill in `feed` (e.g. `בזמן שעבדתם`) and check `test` for a quick run
 4. Click **Run workflow**
 
-Results appear in `results.txt.md` after the run commits back to `master`.
+Results are sent to Telegram after the run. To also write them to `results.txt.md`, add `--write-results` to the workflow inputs.
 
 ---
 
@@ -247,7 +247,6 @@ podcasts-summary/
 ├── data/
 │   ├── seen.json               # Tracks processed episode IDs (max 1000 entries)
 │   └── transcripts/            # Cached transcript files (one .txt per episode)
-├── results.txt.md              # Accumulated summaries — appended on every run
 └── .github/
     └── workflows/
         └── summarize.yml       # GitHub Actions workflow definition
@@ -271,7 +270,7 @@ URL: <episode URL>
 <full transcript text>
 ```
 
-**`results.txt.md`** — Append-only output file. Each summarization run adds new entries. In test mode with `--feed`, new entries are appended. In bare `--test` mode (no feed filter), the file is cleared first.
+**`results.txt.md`** — Optional append-only output file. Only written when `--write-results` flag is passed. In test mode with `--feed`, new entries are appended. In bare `--test` mode (no feed filter), the file is cleared first.
 
 ---
 
