@@ -12,7 +12,7 @@ import re
 import json
 import logging
 import argparse
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
@@ -31,6 +31,8 @@ SEEN_PATH = DATA_DIR / "seen.json"
 RESULTS_PATH = ROOT / "results.txt.md"
 CONFIG_PATH = ROOT / "config" / "feeds.yaml"
 DEBUG_DIR = DATA_DIR / "transcripts"
+
+TRANSCRIPT_RETENTION_DAYS = 30
 
 MAX_SEEN_ENTRIES = 1000
 
@@ -67,6 +69,44 @@ def mark_seen(seen: dict, episode_id: str):
 
 def is_seen(seen: dict, episode_id: str) -> bool:
     return episode_id in seen["entries"]
+
+
+# ── Transcript cleanup ────────────────────────────────────────────────────────
+
+def _git_first_commit_date(path: Path) -> datetime | None:
+    """Return the UTC datetime when the file was first committed to git, or None."""
+    import subprocess
+    try:
+        result = subprocess.run(
+            ["git", "log", "--follow", "--diff-filter=A", "--format=%cI", "--", str(path)],
+            capture_output=True, text=True, timeout=10,
+        )
+        date_str = result.stdout.strip()
+        if date_str:
+            return datetime.fromisoformat(date_str)
+    except Exception:
+        pass
+    return None
+
+
+def cleanup_old_transcripts():
+    """Delete transcript .txt files first committed to git more than TRANSCRIPT_RETENTION_DAYS ago."""
+    if not DEBUG_DIR.exists():
+        return
+    cutoff = datetime.now(timezone.utc) - timedelta(days=TRANSCRIPT_RETENTION_DAYS)
+    deleted = 0
+    for txt_file in sorted(DEBUG_DIR.glob("*.txt")):
+        first_commit = _git_first_commit_date(txt_file)
+        if first_commit is None:
+            continue  # untracked / new file — leave it alone
+        if first_commit.tzinfo is None:
+            first_commit = first_commit.replace(tzinfo=timezone.utc)
+        if first_commit < cutoff:
+            txt_file.unlink()
+            deleted += 1
+            logger.info(f"Cleanup: deleted {txt_file.name} (committed {first_commit.date()})")
+    if deleted:
+        logger.info(f"Cleanup: removed {deleted} transcript(s) older than {TRANSCRIPT_RETENTION_DAYS} days")
 
 
 # ── Test mode episode selection ───────────────────────────────────────────────
@@ -264,6 +304,8 @@ def main():
     if args.resend_history:
         resend_history()
         return
+
+    cleanup_old_transcripts()
 
     feed_configs, settings = load_config()
     if args.feed:
