@@ -291,6 +291,7 @@ feeds:
 
 - name: Discovery Australia
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrI8nYwHMoMAqT7QFRwlzrQ"
+  disabled: true
 
 - name: Absolute History
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC88lvyJe7aHZmcvzvubDFRg"
@@ -315,6 +316,7 @@ feeds:
 
 - name: Discovery
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCqOoboPm3uhY_YXhvhmL-WA"
+  disabled: true
 
 - name: Cleo Abram
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA"
