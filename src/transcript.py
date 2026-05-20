@@ -114,7 +114,7 @@ def try_youtube_captions(video_id: str, language: str) -> Optional[TranscriptRes
     # Strategy A: youtube-transcript-api (no download needed)
     try:
         from youtube_transcript_api import YouTubeTranscriptApi
-        tlist = YouTubeTranscriptApi().list_transcripts(video_id)
+        tlist = YouTubeTranscriptApi().list(video_id)
         langs = _lang_priority(language)
 
         for manual in (True, False):
@@ -258,7 +258,7 @@ def _download_audio(url: str, out_tmpl: str, tmpdir: str) -> None:
     # Attempt 3: pytubefix
     try:
         from pytubefix import YouTube
-        yt = YouTube(url)
+        yt = YouTube(url, 'WEB')
         stream = yt.streams.filter(only_audio=True).order_by("abr").last()
         if not stream:
             raise RuntimeError("no audio stream found")
