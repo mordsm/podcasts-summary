@@ -114,7 +114,7 @@ def try_youtube_captions(video_id: str, language: str) -> Optional[TranscriptRes
     # Strategy A: youtube-transcript-api (no download needed)
     try:
         from youtube_transcript_api import YouTubeTranscriptApi
-        tlist = YouTubeTranscriptApi.list_transcripts(video_id)
+        tlist = YouTubeTranscriptApi().list_transcripts(video_id)
         langs = _lang_priority(language)
 
         for manual in (True, False):
