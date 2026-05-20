@@ -244,7 +244,7 @@ def _download_audio(url: str, out_tmpl: str, tmpdir: str) -> None:
             ydl.download([url])
         return
     except Exception as e:
-        logger.debug(f"yt-dlp default failed: {e}")
+        logger.warning(f"yt-dlp default failed: {e}")
 
     # Attempt 2: yt-dlp with iOS player client (bypasses YouTube bot check)
     try:
@@ -253,7 +253,7 @@ def _download_audio(url: str, out_tmpl: str, tmpdir: str) -> None:
             ydl.download([url])
         return
     except Exception as e:
-        logger.debug(f"yt-dlp ios client failed: {e}")
+        logger.warning(f"yt-dlp ios client failed: {e}")
 
     # Attempt 3: pytubefix
     try:
@@ -265,7 +265,7 @@ def _download_audio(url: str, out_tmpl: str, tmpdir: str) -> None:
         stream.download(output_path=tmpdir, filename="audio")
         return
     except Exception as e:
-        logger.debug(f"pytubefix failed: {e}")
+        logger.warning(f"pytubefix failed: {e}")
 
     raise RuntimeError(f"all audio download methods failed for {url}")
 
