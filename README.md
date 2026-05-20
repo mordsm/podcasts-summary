@@ -183,6 +183,13 @@ feeds:
     spotify_url: https://open.spotify.com/show/...
 ```
 
+To force Whisper transcription for a specific feed (skipping captions/description methods):
+```yaml
+  - name: My Channel
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC...
+    enforce_whisper: true   # always use Whisper, skip captions/description
+```
+
 For YouTube channels, use the channel RSS URL:
 ```yaml
   - name: My Channel

@@ -190,6 +190,7 @@ feeds:
 
 - name: Aleph
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCv7A2bI0SBkxKKKZTlIOxsw"
+  enforce_whisper: true
 
 - name: Andreas Spiess
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7_D0o48KbfhpEohoP7YSQ"
@@ -344,3 +345,11 @@ feeds:
 
 - name: Check Point
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCXnlgfiXZQm1sbxMzU-8ZKA"
+
+- name: Nick Saraev
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCbo-KbSjJDG6JWQ_MTZ_rNA"
+  enforce_whisper: true
+
+- name: Greg Isenberg
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
+  enforce_whisper: true

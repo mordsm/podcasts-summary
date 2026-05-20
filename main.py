@@ -341,6 +341,7 @@ def main():
 
     max_whisper = settings.get("max_whisper_per_run", 1)
     whisper_count = 0
+    feed_config_by_name = {f["name"]: f for f in feed_configs}
 
     for episode in episodes:
         logger.info(f"\n{'─' * 60}")
@@ -348,9 +349,13 @@ def main():
         logger.info(f"  Published: {episode.published.strftime('%Y-%m-%d %H:%M UTC')}")
         logger.info(f"  URL: {episode.url}")
 
+        feed_cfg = feed_config_by_name.get(episode.feed_name, {})
+        enforce_whisper = feed_cfg.get("enforce_whisper", False)
+
         # In test mode, don't apply the whisper budget to get_transcript so all 3 run
         transcript = get_transcript(episode, settings,
                                     whisper_count=0 if args.test else whisper_count,
+                                    enforce_whisper=enforce_whisper,
                                     transcripts_dir=DEBUG_DIR)
 
         if transcript is None:

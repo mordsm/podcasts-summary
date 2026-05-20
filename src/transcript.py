@@ -315,6 +315,7 @@ def try_cached_transcript(episode, transcripts_dir) -> Optional[TranscriptResult
 
 def get_transcript(episode, settings: dict, whisper_count: int = 0,
                    skip_whisper: bool = False,
+                   enforce_whisper: bool = False,
                    transcripts_dir=None) -> Optional[TranscriptResult]:
     if transcripts_dir:
         result = try_cached_transcript(episode, transcripts_dir)
@@ -322,33 +323,36 @@ def get_transcript(episode, settings: dict, whisper_count: int = 0,
             logger.info(f"  Transcript via cache ({result.word_count} words)")
             return result
 
-    result = try_rss_transcript(episode)
-    if result:
-        logger.info(f"  Transcript via rss_tag ({result.word_count} words)")
-        return result
-
-    if episode.youtube_video_id:
-        result = try_youtube_captions(episode.youtube_video_id, episode.language)
+    if not enforce_whisper:
+        result = try_rss_transcript(episode)
         if result:
-            logger.info(f"  Transcript via youtube_captions ({result.word_count} words)")
+            logger.info(f"  Transcript via rss_tag ({result.word_count} words)")
             return result
 
-    result = try_page_content(episode, settings.get("description_min_length", 1500))
-    if result:
-        logger.info(f"  Transcript via page_content ({result.word_count} words)")
-        return result
+        if episode.youtube_video_id:
+            result = try_youtube_captions(episode.youtube_video_id, episode.language)
+            if result:
+                logger.info(f"  Transcript via youtube_captions ({result.word_count} words)")
+                return result
 
-    result = try_description(episode, settings.get("description_min_length", 1500))
-    if result:
-        logger.info(f"  Transcript via description ({result.word_count} words)")
-        return result
+        result = try_page_content(episode, settings.get("description_min_length", 1500))
+        if result:
+            logger.info(f"  Transcript via page_content ({result.word_count} words)")
+            return result
 
-    # Last resort before Whisper: accept very short descriptions (≥50 words) rather than
-    # downloading audio — useful for YouTube videos blocked by bot detection
-    result = try_description(episode, 50)
-    if result:
-        logger.info(f"  Transcript via short description fallback ({result.word_count} words)")
-        return result
+        result = try_description(episode, settings.get("description_min_length", 1500))
+        if result:
+            logger.info(f"  Transcript via description ({result.word_count} words)")
+            return result
+
+        # Last resort before Whisper: accept very short descriptions (≥50 words) rather than
+        # downloading audio — useful for YouTube videos blocked by bot detection
+        result = try_description(episode, 50)
+        if result:
+            logger.info(f"  Transcript via short description fallback ({result.word_count} words)")
+            return result
+    else:
+        logger.info("  enforce_whisper: skipping non-whisper methods")
 
     if skip_whisper:
         logger.info("  Whisper skipped (test mode)")
