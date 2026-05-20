@@ -227,9 +227,52 @@ def try_description(episode, min_length: int) -> Optional[TranscriptResult]:
 
 # ── Method 4: Whisper (speech-to-text fallback) ───────────────────────────────
 
+def _download_audio(url: str, out_tmpl: str, tmpdir: str) -> None:
+    """Download audio with three fallbacks. Raises if all methods fail."""
+    import yt_dlp
+
+    base_opts = {
+        "format": "bestaudio[ext=m4a]/bestaudio/best",
+        "outtmpl": out_tmpl,
+        "quiet": True,
+        "no_warnings": True,
+    }
+
+    # Attempt 1: yt-dlp default
+    try:
+        with yt_dlp.YoutubeDL(base_opts) as ydl:
+            ydl.download([url])
+        return
+    except Exception as e:
+        logger.debug(f"yt-dlp default failed: {e}")
+
+    # Attempt 2: yt-dlp with iOS player client (bypasses YouTube bot check)
+    try:
+        ios_opts = {**base_opts, "extractor_args": {"youtube": {"player_client": ["ios"]}}}
+        with yt_dlp.YoutubeDL(ios_opts) as ydl:
+            ydl.download([url])
+        return
+    except Exception as e:
+        logger.debug(f"yt-dlp ios client failed: {e}")
+
+    # Attempt 3: pytubefix
+    try:
+        from pytubefix import YouTube
+        yt = YouTube(url)
+        stream = yt.streams.filter(only_audio=True).order_by("abr").last()
+        if not stream:
+            raise RuntimeError("no audio stream found")
+        stream.download(output_path=tmpdir, filename="audio")
+        return
+    except Exception as e:
+        logger.debug(f"pytubefix failed: {e}")
+
+    raise RuntimeError(f"all audio download methods failed for {url}")
+
+
 def try_whisper(episode, model_size: str = "small") -> Optional[TranscriptResult]:
     try:
-        import yt_dlp
+        import yt_dlp  # noqa: F401
         from faster_whisper import WhisperModel
     except ImportError as e:
         logger.warning(f"Whisper deps not installed ({e}), skipping")
@@ -243,15 +286,8 @@ def try_whisper(episode, model_size: str = "small") -> Optional[TranscriptResult
         url = (f"https://www.youtube.com/watch?v={episode.youtube_video_id}"
                if episode.youtube_video_id else episode.audio_url)
 
-        ydl_opts = {
-            "format": "bestaudio[ext=m4a]/bestaudio/best",
-            "outtmpl": out_tmpl,
-            "quiet": True,
-            "no_warnings": True,
-        }
         try:
-            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-                ydl.download([url])
+            _download_audio(url, out_tmpl, tmpdir)
         except Exception as e:
             logger.error(f"Audio download failed: {e}")
             return None
