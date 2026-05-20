@@ -39,7 +39,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
+
+      - uses: actions/cache@v4
+        id: venv-cache
+        with:
+          path: ~/.venv
+          key: venv-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
 
       - uses: actions/cache@v4
         with:
@@ -47,7 +52,13 @@ jobs:
           key: huggingface-${{ runner.os }}-v1
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        if: steps.venv-cache.outputs.cache-hit != 'true'
+        run: |
+          python -m venv ~/.venv
+          ~/.venv/bin/pip install -r requirements.txt
+
+      - name: Add venv to PATH
+        run: echo "$HOME/.venv/bin" >> $GITHUB_PATH
 
       - name: Run pipeline
         env:
