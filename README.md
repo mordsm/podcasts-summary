@@ -1,7 +1,7 @@
 # Podcast & YouTube Summarizer
 
 An automated pipeline that monitors Hebrew and English podcast RSS feeds and YouTube channels, fetches new episodes, extracts transcripts, and generates detailed bilingual summaries (Hebrew + English). Runs entirely on GitHub Actions — no local setup, no external paid APIs.
-
+Results are delivered automatically to a configured Telegram channel.
 ---
 
 ## Table of Contents
