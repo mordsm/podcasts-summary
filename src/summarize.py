@@ -424,6 +424,8 @@ def summarize_episode(episode, transcript, settings: dict) -> tuple[str, str]:
         audio_note = "No audio download — summary based on show notes / description only"
 
     transcript_step = f"Transcript: {method} ({transcript.word_count} words, lang={lang}) — {audio_note}"
+    if getattr(transcript, "attempted", []):
+        transcript_step += f"\n  • Tried and failed: {', '.join(transcript.attempted)}"
     pipeline_steps = [transcript_step]
 
     try:

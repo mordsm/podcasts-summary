@@ -3,8 +3,8 @@ import os
 import logging
 import tempfile
 import ipaddress
-from dataclasses import dataclass
-from typing import Optional
+from dataclasses import dataclass, field
+from typing import Optional, List
 from urllib.parse import urlparse
 
 import requests
@@ -63,6 +63,7 @@ class TranscriptResult:
     method: str
     language: str
     word_count: int
+    attempted: List[str] = field(default_factory=list)  # methods tried before this succeeded
 
 
 def strip_html(html: str) -> str:
@@ -353,19 +354,26 @@ def get_transcript(episode, settings: dict, whisper_count: int = 0,
                    skip_whisper: bool = False,
                    enforce_whisper: bool = False,
                    transcripts_dir=None) -> Optional[TranscriptResult]:
+    attempted: List[str] = []
+
+    def _return(result: TranscriptResult) -> TranscriptResult:
+        result.attempted = attempted[:]
+        return result
+
     if transcripts_dir:
         result = try_cached_transcript(episode, transcripts_dir)
         if result:
             logger.info(f"  Transcript via cache ({result.word_count} words)")
-            return result
+            return _return(result)
 
     if enforce_whisper and episode.youtube_video_id:
-        # Even with enforce_whisper, use YouTube captions if they provide a full transcript
-        # (≥500 words). This avoids audio download when captions are already high-quality.
+        # Even with enforce_whisper, prefer YouTube captions when they are full (≥500 words).
+        attempted.append("youtube_captions")
         result = try_youtube_captions(episode.youtube_video_id, episode.language)
         if result and result.word_count >= 500:
             logger.info(f"  Transcript via youtube_captions (enforce_whisper overridden, {result.word_count} words)")
-            return result
+            attempted.pop()  # succeeded — not a failed attempt
+            return _return(result)
         if result:
             logger.info(f"  enforce_whisper: captions too short ({result.word_count} words), falling back to Whisper")
         else:
@@ -375,41 +383,70 @@ def get_transcript(episode, settings: dict, whisper_count: int = 0,
         result = try_rss_transcript(episode)
         if result:
             logger.info(f"  Transcript via rss_tag ({result.word_count} words)")
-            return result
+            return _return(result)
+        attempted.append("rss_tag")
 
         if episode.youtube_video_id:
             result = try_youtube_captions(episode.youtube_video_id, episode.language)
             if result:
                 logger.info(f"  Transcript via youtube_captions ({result.word_count} words)")
-                return result
+                return _return(result)
+            attempted.append("youtube_captions")
 
         result = try_page_content(episode, settings.get("description_min_length", 1500))
         if result:
             logger.info(f"  Transcript via page_content ({result.word_count} words)")
-            return result
+            return _return(result)
+        attempted.append("page_content")
 
         result = try_description(episode, settings.get("description_min_length", 1500))
         if result:
             logger.info(f"  Transcript via description ({result.word_count} words)")
-            return result
-
-        # Last resort before Whisper: accept very short descriptions (≥50 words) rather than
-        # downloading audio — useful for YouTube videos blocked by bot detection
-        result = try_description(episode, 50)
-        if result:
-            logger.info(f"  Transcript via short description fallback ({result.word_count} words)")
-            return result
+            return _return(result)
+        attempted.append("description")
 
     if skip_whisper:
         logger.info("  Whisper skipped (test mode)")
-        return None
+        attempted.append("whisper_skipped")
+    else:
+        max_w = settings.get("max_whisper_per_run", 2)
+        if whisper_count >= max_w:
+            logger.info(f"  Whisper limit reached ({whisper_count}/{max_w})")
+            attempted.append("whisper_limit_reached")
+        else:
+            attempted.append("whisper")
+            result = try_whisper(episode, settings.get("whisper_model", "small"))
+            if result:
+                logger.info(f"  Transcript via whisper ({result.word_count} words)")
+                attempted.pop()  # succeeded
+                return _return(result)
 
-    max_w = settings.get("max_whisper_per_run", 2)
-    if whisper_count >= max_w:
-        logger.info(f"  Whisper limit reached ({whisper_count}/{max_w})")
-        return None
+    # Whisper failed or was skipped — fall back to whatever text is available
+    logger.info("  Whisper unavailable — falling back to text methods")
 
-    result = try_whisper(episode, settings.get("whisper_model", "small"))
+    result = try_rss_transcript(episode)
     if result:
-        logger.info(f"  Transcript via whisper ({result.word_count} words)")
-    return result
+        logger.info(f"  Transcript via rss_tag fallback ({result.word_count} words)")
+        return _return(result)
+    attempted.append("rss_tag")
+
+    if episode.youtube_video_id:
+        result = try_youtube_captions(episode.youtube_video_id, episode.language)
+        if result:
+            logger.info(f"  Transcript via youtube_captions fallback ({result.word_count} words)")
+            return _return(result)
+        attempted.append("youtube_captions")
+
+    result = try_page_content(episode, settings.get("description_min_length", 1500))
+    if result:
+        logger.info(f"  Transcript via page_content fallback ({result.word_count} words)")
+        return _return(result)
+    attempted.append("page_content")
+
+    result = try_description(episode, 50)
+    if result:
+        logger.info(f"  Transcript via description fallback ({result.word_count} words)")
+        return _return(result)
+    attempted.append("description")
+
+    return None
