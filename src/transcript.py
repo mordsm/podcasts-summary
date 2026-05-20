@@ -359,6 +359,18 @@ def get_transcript(episode, settings: dict, whisper_count: int = 0,
             logger.info(f"  Transcript via cache ({result.word_count} words)")
             return result
 
+    if enforce_whisper and episode.youtube_video_id:
+        # Even with enforce_whisper, use YouTube captions if they provide a full transcript
+        # (≥500 words). This avoids audio download when captions are already high-quality.
+        result = try_youtube_captions(episode.youtube_video_id, episode.language)
+        if result and result.word_count >= 500:
+            logger.info(f"  Transcript via youtube_captions (enforce_whisper overridden, {result.word_count} words)")
+            return result
+        if result:
+            logger.info(f"  enforce_whisper: captions too short ({result.word_count} words), falling back to Whisper")
+        else:
+            logger.info("  enforce_whisper: no captions found, falling back to Whisper")
+
     if not enforce_whisper:
         result = try_rss_transcript(episode)
         if result:
@@ -387,8 +399,6 @@ def get_transcript(episode, settings: dict, whisper_count: int = 0,
         if result:
             logger.info(f"  Transcript via short description fallback ({result.word_count} words)")
             return result
-    else:
-        logger.info("  enforce_whisper: skipping non-whisper methods")
 
     if skip_whisper:
         logger.info("  Whisper skipped (test mode)")
