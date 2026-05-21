@@ -348,8 +348,24 @@ feeds:
 
 - name: Nick Saraev
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCbo-KbSjJDG6JWQ_MTZ_rNA"
-  enforce_whisper: true
+  
 
 - name: Greg Isenberg
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw"
-  enforce_whisper: true
+  
+
+- name: Liam Ottley
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCui4jxDaMb53Gdh-AZUTPAg"
+  
+
+- name: My First Million
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCxoRKax_0vHaulMbceZtAwA"
+  
+
+- name: The Brett Way
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCsg20ERGZt9eHVZRXROJSqg"
+  
+
+- name: mreflow
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g"
+  
