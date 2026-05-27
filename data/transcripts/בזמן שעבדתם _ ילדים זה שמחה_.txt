@@ -1,6 +1,6 @@
 Feed: בזמן שעבדתם
 Episode: ילדים זה שמחה?
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 6141
 URL: https://omny.fm/shows/program-51/4e4e3dcf-e484-4041-89f7-b457008b5571
