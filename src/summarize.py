@@ -257,8 +257,28 @@ Transcript:
 
 _MODEL_WORD_LIMITS = {
     "gpt-4o": 2000,       # ~3k tokens input, stays under 8k TPM with 4k output
-    "gpt-4o-mini": 6000,  # ~9k tokens input, stays under 16k TPM with 4k output
+    "gpt-4o-mini": 4000,  # ~6k tokens input, conservative to avoid context refusals
 }
+
+_REFUSAL_PHRASES = (
+    "i'm sorry",
+    "i am sorry",
+    "too long",
+    "falls outside",
+    "cannot process",
+    "could you provide",
+    "please provide",
+    "exceeds",
+)
+
+
+def _is_refusal(text: str) -> bool:
+    """Return True if the model returned an apology/refusal instead of a summary."""
+    lower = text.lower()
+    return (
+        "HEBREW_SUMMARY:" not in text
+        and any(phrase in lower for phrase in _REFUSAL_PHRASES)
+    )
 
 
 def _summarize_with_github_models(episode, text: str, github_token: str) -> tuple:
@@ -271,30 +291,53 @@ def _summarize_with_github_models(episode, text: str, github_token: str) -> tupl
     )
 
     result = ""
-    # Try gpt-4o first, fall back to gpt-4o-mini; each model gets its own word limit
+    used_model = "gpt-4o-mini"
+    last_exc = None
+
+    # Try gpt-4o first, fall back to gpt-4o-mini; each model gets its own word limit.
+    # For refusals (text too long), retry with progressively smaller chunks.
+    # For API exceptions, skip to the next model.
     for model in ("gpt-4o", "gpt-4o-mini"):
         word_limit = _MODEL_WORD_LIMITS[model]
         words = text.split()
-        truncated = " ".join(words[:word_limit]) if len(words) > word_limit else text
-        prompt = _GITHUB_MODELS_PROMPT.format(
-            title=episode.title,
-            feed_name=episode.feed_name,
-            transcript=truncated,
-        )
-        try:
-            response = client.chat.completions.create(
-                model=model,
-                messages=[{"role": "user", "content": prompt}],
-                max_tokens=4096,
+        got_result = False
+
+        for attempt, limit in enumerate([word_limit, word_limit // 2, word_limit // 4]):
+            truncated = " ".join(words[:limit]) if len(words) > limit else text
+            prompt = _GITHUB_MODELS_PROMPT.format(
+                title=episode.title,
+                feed_name=episode.feed_name,
+                transcript=truncated,
             )
-            logger.info(f"  GitHub Models: used {model} ({len(truncated.split())} words)")
-            result = response.choices[0].message.content or ""
-            break
-        except Exception as e:
-            logger.warning(f"  GitHub Models {model} failed: {type(e).__name__}: {e}")
-            if model == "gpt-4o-mini":
-                raise
-    else:
+            try:
+                response = client.chat.completions.create(
+                    model=model,
+                    messages=[{"role": "user", "content": prompt}],
+                    max_tokens=4096,
+                )
+                candidate = response.choices[0].message.content or ""
+                if _is_refusal(candidate):
+                    logger.warning(
+                        f"  GitHub Models {model} refused (attempt {attempt + 1}, "
+                        f"{len(truncated.split())} words) — retrying with fewer words"
+                    )
+                    continue  # try smaller chunk for same model
+                logger.info(f"  GitHub Models: used {model} ({len(truncated.split())} words)")
+                result = candidate
+                used_model = model
+                got_result = True
+                break
+            except Exception as e:
+                logger.warning(f"  GitHub Models {model} failed: {type(e).__name__}: {e}")
+                last_exc = e
+                break  # API error — skip remaining chunk sizes, try next model
+
+        if got_result:
+            break  # done
+
+    if not result:
+        if last_exc:
+            raise last_exc
         raise RuntimeError("All GitHub Models attempts failed")
 
     hebrew_summary = ""
@@ -305,7 +348,7 @@ def _summarize_with_github_models(episode, text: str, github_token: str) -> tupl
     else:
         hebrew_summary = result
 
-    return hebrew_summary, english_summary, ["Summary: GitHub Models gpt-4o-mini (he+en)"]
+    return hebrew_summary, english_summary, [f"Summary: GitHub Models {used_model} (he+en)"]
 
 
 def _summarize_with_models(episode, transcript_text: str, lang: str, settings: dict) -> tuple:
