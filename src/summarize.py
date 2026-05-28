@@ -431,7 +431,7 @@ def _format_output(episode, hebrew_summary: str, english_summary: str,
     header = (
         f"## {episode.url}  \n\n"
         f"**{episode.feed_name}** / {episode.author} \n"
-        f"**{episode.title}**  \n"
+        f"**{episode.title}**  \n\n"
         f"{date_str}  ( Generated: {generated_str} ) [{source_label}] \n"
         f"\n---\n\n"
     )
