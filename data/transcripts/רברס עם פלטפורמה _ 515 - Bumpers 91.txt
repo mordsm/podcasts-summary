@@ -1,8 +1,8 @@
 Feed: רברס עם פלטפורמה
 Episode: 515 - Bumpers 91
-Method: description
+Method: cached_description
 Language: he
-Words: 727
+Words: 729
 URL: https://www.reversim.com/2026/05/2026-05-515-bumpers91.html
 
 --- TRANSCRIPT ---
