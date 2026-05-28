@@ -427,9 +427,10 @@ def _format_output(episode, hebrew_summary: str, english_summary: str,
     he_block = f"**Hebrew Summary:**  \n{hebrew_summary}\n\n" if hebrew_summary else ""
     en_block = f"**English Summary:**  \n{english_summary}\n\n" if english_summary else ""
 
+    source_label = "Youtube Channel" if episode.feed_type == "youtube_rss" else "Podcast"
     header = (
         f"## {episode.url}  \n\n"
-        f"**{episode.feed_name}** / {episode.author}  \n"
+        f"**{episode.feed_name}** / {episode.author} [{source_label}]  \n"
         f"**{episode.title}**  \n"
         f"{date_str}  ( Generated: {generated_str}  )\n"
         f"\n---\n\n"
