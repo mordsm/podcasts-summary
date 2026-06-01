@@ -222,6 +222,9 @@ feeds:
 - name: DoiT
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCK6-Ti9ZjGsDwEwTFcL8zUA"
 
+- name: LangTalks
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCWPBxQSxychk2M49Fuoq-5A"
+
 - name: Lenny's Podcast
   url: "https://api.substack.com/feed/podcast/10845.rss"
   spotify_url: "https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305"
