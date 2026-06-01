@@ -325,7 +325,7 @@ feeds:
 - name: The Patent Yogi
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCj8rIEAZPqxxT3wSSef_Mpg"
 
-- name: MDLI
+- name: MDLI (Machine & Deep Learning Israel )
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCfmK_Tsp2VJVFokMb6N3r1Q"
 
 - name: Rafael Marketing
