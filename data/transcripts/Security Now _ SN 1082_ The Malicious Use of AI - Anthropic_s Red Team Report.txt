@@ -1,0 +1,11 @@
+Feed: Security Now
+Episode: SN 1082: The Malicious Use of AI - Anthropic's Red Team Report
+Method: description
+Language: en
+Words: 202
+URL: https://twit.tv/shows/security-now/episodes/1082
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+Discover how Anthropic's secretive red team and the MITRE ATT&CK framework are mapping the chilling rise of malicious AI use, revealing cyber threats that now move faster than defenders can respond. Was a U.S. law firm right to pay a $20 million ransom. Could Cisco have yet another SD-WAN 0-day in the wild. Why is it so difficult to author secure PHP code. Teens use "WeedHack" to spy and attack each other. Researchers create the first AI-enabled Internet worm. Google Chrome pops-up "Shop with confidence." What... The discovered and irresponsibly disclosed HTTP/2 Bomb. What Anthropic learns from their past year of Claude abuse: It's bad Show Notes - https://www.grc.com/sn/SN-1082-Notes.pdf Hosts: Steve Gibson and Leo Laporte Download or subscribe to Security Now at https://twit.tv/shows/security-now . You can submit a question to Security Now at the GRC Feedback Page . For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: grc.com , also the home of the best disk maintenance and recovery utility ever written Spinrite 6 . Join Club TWiT for Ad-Free Podcasts! Support what you love and get ad-free audio and video feeds, a members-only Discord, and exclusive content. Join today: https://twit.tv/clubtwit Sponsors: threatlocker.com for Security Now outsystems.com/twit guardsquare.com doppel.com cyberhoot.com/securitynow
