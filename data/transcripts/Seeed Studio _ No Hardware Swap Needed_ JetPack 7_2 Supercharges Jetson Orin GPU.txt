@@ -1,0 +1,11 @@
+Feed: Seeed Studio
+Episode: No Hardware Swap Needed! JetPack 7.2 Supercharges Jetson Orin GPU & Memory Efficiency
+Method: description
+Language: en
+Words: 43
+URL: https://www.youtube.com/watch?v=pE5zINVDc9w
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+Recently we ran a head-to-head benchmark inside Seeed: same NVIDIA Jetson AGX Orin 32GB module, same Qwen3.5-27B model (Q4_K_M quantized), running on JetPack 6.2 versus JetPack 7.2. We wanted to find out exactly how much real-world performance a pure system-level upgrade could unlock.
