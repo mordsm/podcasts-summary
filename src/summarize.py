@@ -261,15 +261,15 @@ You are summarizing a podcast episode that has full, detailed show notes. Write 
 IMPORTANT RULES:
 - Keep ALL English tech terms as-is (product names, company names, tools, frameworks, acronyms like AI, AGI, SaaS, API, etc.)
 - Preserve ALL URLs and links mentioned anywhere in the transcript or description
-- Hebrew summary must be VERY LONG and COMPREHENSIVE (1500-2500 words) — cover every topic, detail, and nuance
+- Hebrew summary must be EXTREMELY LONG and COMPREHENSIVE (2500-4000 words) — cover every topic, detail, and nuance
 - Use bold section headers (**כותרת**) and bullet points
 - Include all numbers, statistics, names, CVEs, vulnerabilities, tools, and specific claims made
 - Do NOT skip any technological, business, security, or product topics
 - Since this is based on full show notes, be especially thorough and complete
 
-1. Hebrew summary — structured with bold headers and bullets. Cover EVERY subject in depth. 1500-2500 words.
+1. Hebrew summary — structured with bold headers and bullets. Cover EVERY subject in depth. 2500-4000 words.
 
-2. English summary — 400-600 words, same structure, key points only.
+2. English summary — 600-800 words, same structure, key points only.
 
 Respond EXACTLY in this format (no extra text before or after):
 HEBREW_SUMMARY:
