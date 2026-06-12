@@ -1,9 +1,9 @@
 Feed: Google Israel
 Episode: Build your custom soccer schedule with Search 📅
-Method: description
+Method: cached_description
 Language: en
-Words: 15
-URL: https://www.youtube.com/shorts/j9Z_xJHNd6g
+Words: 17
+URL: https://www.youtube.com/shorts/VuehnAv5Ftw
 
 --- TRANSCRIPT ---
 
