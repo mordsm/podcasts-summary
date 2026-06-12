@@ -1,9 +1,9 @@
 Feed: Seeed Studio
 Episode: No Hardware Swap Needed! JetPack 7.2 Supercharges Jetson Orin GPU & Memory Efficiency
-Method: description
+Method: cached_description
 Language: en
-Words: 43
-URL: https://www.youtube.com/watch?v=pE5zINVDc9w
+Words: 45
+URL: https://www.youtube.com/watch?v=YAl-uNkh6BM
 
 --- TRANSCRIPT ---
 
