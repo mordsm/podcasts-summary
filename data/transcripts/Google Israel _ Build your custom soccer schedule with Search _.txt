@@ -1,0 +1,13 @@
+Feed: Google Israel
+Episode: Build your custom soccer schedule with Search 📅
+Method: description
+Language: en
+Words: 15
+URL: https://www.youtube.com/shorts/j9Z_xJHNd6g
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+Search your favorite teams and players to build a personalized match schedule in seconds.
+
+#GooglePartner
