@@ -19,6 +19,11 @@ on:
         required: false
         type: boolean
         default: false
+      no_pdf:
+        description: 'Skip PDF show-notes extraction (for before/after comparison)'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -69,11 +74,13 @@ jobs:
           INPUT_TEST: ${{ github.event.inputs.test }}
           INPUT_FEED: ${{ github.event.inputs.feed }}
           INPUT_RESEND_HISTORY: ${{ github.event.inputs.resend_history }}
+          INPUT_NO_PDF: ${{ github.event.inputs.no_pdf }}
         run: |
           args=()
           [ "$INPUT_TEST" = "true" ] && args+=(--test)
           [ -n "$INPUT_FEED" ] && args+=(--feed "$INPUT_FEED")
           [ "$INPUT_RESEND_HISTORY" = "true" ] && args+=(--resend-history)
+          [ "$INPUT_NO_PDF" = "true" ] && args+=(--no-pdf)
           python main.py "${args[@]}"
 
       - name: Commit results

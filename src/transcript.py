@@ -413,6 +413,7 @@ def try_cached_transcript(episode, transcripts_dir) -> Optional[TranscriptResult
 def get_transcript(episode, settings: dict, whisper_count: int = 0,
                    skip_whisper: bool = False,
                    enforce_whisper: bool = False,
+                   no_pdf: bool = False,
                    transcripts_dir=None) -> Optional[TranscriptResult]:
     attempted: List[str] = []
 
@@ -440,11 +441,12 @@ def get_transcript(episode, settings: dict, whisper_count: int = 0,
             logger.info("  enforce_whisper: no captions found, falling back to Whisper")
 
     if not enforce_whisper:
-        result = try_pdf_show_notes(episode)
-        if result:
-            logger.info(f"  Transcript via pdf_show_notes ({result.word_count} words)")
-            return _return(result)
-        attempted.append("pdf_show_notes")
+        if not no_pdf:
+            result = try_pdf_show_notes(episode)
+            if result:
+                logger.info(f"  Transcript via pdf_show_notes ({result.word_count} words)")
+                return _return(result)
+            attempted.append("pdf_show_notes")
 
         result = try_rss_transcript(episode)
         if result:

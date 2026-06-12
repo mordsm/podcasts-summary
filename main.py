@@ -298,6 +298,8 @@ def main():
                         help="Filter feeds by name substring (case-insensitive)")
     parser.add_argument("--resend-history", action="store_true",
                         help="Resend all existing entries in results.txt.md to Telegram")
+    parser.add_argument("--no-pdf", action="store_true",
+                        help="Skip PDF show-notes extraction (for before/after comparison tests)")
     parser.add_argument("--write-results", action="store_true",
                         help="Append summaries to results.txt.md (disabled by default)")
     args = parser.parse_args()
@@ -357,6 +359,7 @@ def main():
         transcript = get_transcript(episode, settings,
                                     whisper_count=0 if args.test else whisper_count,
                                     enforce_whisper=enforce_whisper,
+                                    no_pdf=args.no_pdf,
                                     transcripts_dir=DEBUG_DIR)
 
         if transcript is None:
