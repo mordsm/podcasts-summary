@@ -43,6 +43,9 @@ feeds:
 - name: "הייטק, חרדים ומה שביניהם"
   url: "https://feed.podbean.com/ddoshightechcharedim/feed.xml"
 
+- name: "פודקאסט בונים בית"
+  url: "https://feed.podbean.com/bonimbayit/feed.xml"
+
 - name: "השקעות למתחילים - סטפק & רבינוביץ"
   url: "https://feeds.transistor.fm/78de6a96-5902-4320-ae28-409bd1858168"
   spotify_url: "https://open.spotify.com/show/3mtVeLEN5ymtWdfzDAlQbt"
