@@ -82,6 +82,66 @@ def strip_vtt(vtt: str) -> str:
     return " ".join(lines)
 
 
+# ── Method 0: PDF show notes ─────────────────────────────────────────────────
+
+_PDF_URL_RE = re.compile(r'https?://[^\s\'"<>)]+\.pdf(?:\?[^\s\'"<>)]*)?', re.IGNORECASE)
+_PDF_MAX_BYTES = 20 * 1024 * 1024  # 20 MB
+
+
+def try_pdf_show_notes(episode, min_length: int = 500) -> Optional[TranscriptResult]:
+    """Find PDF show-note links in description or episode page and extract text.
+
+    Runs before all other methods so that rich PDF show notes (e.g. Security Now)
+    are preferred over captions or Whisper.
+    """
+    pdf_urls: list[str] = []
+    pdf_urls.extend(_PDF_URL_RE.findall(episode.description or ""))
+
+    url = episode.url or ""
+    if url and not re.search(r'\.(mp3|m4a|ogg|opus|aac|wav|flac)(\?.*)?$', url, re.IGNORECASE) \
+            and "youtube.com/watch" not in url and "youtu.be/" not in url:
+        try:
+            page = _safe_get_text(url, timeout=20,
+                                  headers={"User-Agent": "Mozilla/5.0 (compatible; PodcastSummarizer/1.0)"})
+            pdf_urls.extend(_PDF_URL_RE.findall(page))
+        except Exception as e:
+            logger.debug(f"PDF page scan failed for {episode.title}: {e}")
+
+    seen: set[str] = set()
+    for pdf_url in pdf_urls:
+        if pdf_url in seen or not _is_safe_url(pdf_url):
+            continue
+        seen.add(pdf_url)
+        try:
+            import io
+            from pypdf import PdfReader
+            r = requests.get(pdf_url, timeout=30, stream=True,
+                             headers={"User-Agent": "Mozilla/5.0 (compatible; PodcastSummarizer/1.0)"})
+            if r.status_code >= 400:
+                r.close()
+                continue
+            chunks, total = [], 0
+            for chunk in r.iter_content(65536):
+                total += len(chunk)
+                if total > _PDF_MAX_BYTES:
+                    r.close()
+                    break
+                chunks.append(chunk)
+            text = "\n".join(
+                t for page in PdfReader(io.BytesIO(b"".join(chunks))).pages
+                if (t := page.extract_text())
+            ).strip()
+            text = re.sub(r"\s+", " ", text).strip()
+            wc = len(text.split())
+            if wc >= min_length:
+                logger.info(f"  PDF show notes: {pdf_url} ({wc} words)")
+                return TranscriptResult(f"[SHOW NOTES — PDF]\n{text}",
+                                        "pdf_show_notes", episode.language, wc)
+        except Exception as e:
+            logger.debug(f"PDF extraction failed for {pdf_url}: {e}")
+    return None
+
+
 # ── Method 1: RSS <podcast:transcript> tag ────────────────────────────────────
 
 def try_rss_transcript(episode) -> Optional[TranscriptResult]:
@@ -380,6 +440,12 @@ def get_transcript(episode, settings: dict, whisper_count: int = 0,
             logger.info("  enforce_whisper: no captions found, falling back to Whisper")
 
     if not enforce_whisper:
+        result = try_pdf_show_notes(episode)
+        if result:
+            logger.info(f"  Transcript via pdf_show_notes ({result.word_count} words)")
+            return _return(result)
+        attempted.append("pdf_show_notes")
+
         result = try_rss_transcript(episode)
         if result:
             logger.info(f"  Transcript via rss_tag ({result.word_count} words)")

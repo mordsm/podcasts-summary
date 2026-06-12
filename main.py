@@ -193,6 +193,7 @@ def _md_to_tg_html(text: str) -> str:
     text = _re.sub(r'^#{1,3} (.+)$', r'<b>\1</b>', text, flags=_re.MULTILINE)
     # **bold** → <b>bold</b>  (must come before single-star rule)
     text = _re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', text)
+    text = text.replace("**", "")  # remove any unmatched ** leftover
     # *italic/bold* (single star, e.g. *Pipeline:*) → <b>text</b>
     text = _re.sub(r'(?<!\*)\*([^*\n]+)\*(?!\*)', r'<b>\1</b>', text)
     # [title](url) → <a href="url">title</a>

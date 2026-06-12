@@ -255,6 +255,36 @@ Transcript:
 {transcript}"""
 
 
+_GITHUB_MODELS_PROMPT_LONG = """\
+You are summarizing a podcast episode that has full, detailed show notes. Write TWO detailed summaries.
+
+IMPORTANT RULES:
+- Keep ALL English tech terms as-is (product names, company names, tools, frameworks, acronyms like AI, AGI, SaaS, API, etc.)
+- Preserve ALL URLs and links mentioned anywhere in the transcript or description
+- Hebrew summary must be VERY LONG and COMPREHENSIVE (1500-2500 words) — cover every topic, detail, and nuance
+- Use bold section headers (**כותרת**) and bullet points
+- Include all numbers, statistics, names, CVEs, vulnerabilities, tools, and specific claims made
+- Do NOT skip any technological, business, security, or product topics
+- Since this is based on full show notes, be especially thorough and complete
+
+1. Hebrew summary — structured with bold headers and bullets. Cover EVERY subject in depth. 1500-2500 words.
+
+2. English summary — 400-600 words, same structure, key points only.
+
+Respond EXACTLY in this format (no extra text before or after):
+HEBREW_SUMMARY:
+<Hebrew text>
+
+ENGLISH_SUMMARY:
+<English text>
+
+Episode: {title}
+Podcast: {feed_name}
+
+Show Notes:
+{transcript}"""
+
+
 _MODEL_WORD_LIMITS = {
     "gpt-4o": 2000,       # ~3k tokens input, stays under 8k TPM with 4k output
     "gpt-4o-mini": 4000,  # ~6k tokens input, conservative to avoid context refusals
@@ -281,7 +311,8 @@ def _is_refusal(text: str) -> bool:
     )
 
 
-def _summarize_with_github_models(episode, text: str, github_token: str) -> tuple:
+def _summarize_with_github_models(episode, text: str, github_token: str,
+                                   long_summary: bool = False) -> tuple:
     """Returns (hebrew_summary, english_summary, steps) using GitHub Models free API."""
     from openai import OpenAI
 
@@ -302,9 +333,10 @@ def _summarize_with_github_models(episode, text: str, github_token: str) -> tupl
         words = text.split()
         got_result = False
 
+        prompt_tpl = _GITHUB_MODELS_PROMPT_LONG if long_summary else _GITHUB_MODELS_PROMPT
         for attempt, limit in enumerate([word_limit, word_limit // 2, word_limit // 4]):
             truncated = " ".join(words[:limit]) if len(words) > limit else text
-            prompt = _GITHUB_MODELS_PROMPT.format(
+            prompt = prompt_tpl.format(
                 title=episode.title,
                 feed_name=episode.feed_name,
                 transcript=truncated,
@@ -351,14 +383,15 @@ def _summarize_with_github_models(episode, text: str, github_token: str) -> tupl
     return hebrew_summary, english_summary, [f"Summary: GitHub Models {used_model} (he+en)"]
 
 
-def _summarize_with_models(episode, transcript_text: str, lang: str, settings: dict) -> tuple:
+def _summarize_with_models(episode, transcript_text: str, lang: str, settings: dict,
+                           long_summary: bool = False) -> tuple:
     """Returns (hebrew_summary, english_summary, pipeline_steps_list).
     Uses GitHub Models (free, GITHUB_TOKEN) if available, else BART+Helsinki fallback."""
     import os
     github_token = os.environ.get("MODELS_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
     if github_token:
         text = _clean_text(transcript_text, strip_urls=False)
-        return _summarize_with_github_models(episode, text, github_token)
+        return _summarize_with_github_models(episode, text, github_token, long_summary)
 
     # ── Fallback: BART + Helsinki (no API key available) ──────────────────────
     steps = []
@@ -429,15 +462,15 @@ def _format_output(episode, hebrew_summary: str, english_summary: str,
 
     source_label = "Youtube Channel" if episode.feed_type == "youtube_rss" else "Podcast"
     header = (
-        f"## {episode.url}  \n\n"
-        f"**{episode.feed_name}** / {episode.author} \n"
+        f"**{episode.feed_name}** [ {episode.author} ]\n\n"
         f"**{episode.title}**  \n\n"
-        f"{date_str}  ( Generated: {generated_str} ) [{source_label}] \n"
+        f"[{source_label}]\n{date_str}\n{generated_str} [Generated]  \n"
         f"\n---\n\n"
     )
     footer = (
         f"{url_block}\n\n"
-        f"---\n"
+        f"---\n\n"
+        f"**Link:** {episode.url}\n\n"
         f"*Pipeline:*\n{steps_block}\n"
     )
 
@@ -461,6 +494,8 @@ def summarize_episode(episode, transcript, settings: dict) -> tuple[str, str]:
         audio_note = "No audio download — YouTube captions used"
     elif method == "rss_tag":
         audio_note = "No audio download — transcript from RSS feed"
+    elif method == "pdf_show_notes":
+        audio_note = "No audio download — summary based on PDF show notes"
     else:
         audio_note = "No audio download — summary based on show notes / description only"
 
@@ -469,9 +504,10 @@ def summarize_episode(episode, transcript, settings: dict) -> tuple[str, str]:
         transcript_step += f"\n  • Tried and failed: {', '.join(transcript.attempted)}"
     pipeline_steps = [transcript_step]
 
+    is_pdf = method == "pdf_show_notes"
     try:
         hebrew_summary, english_summary, model_steps = _summarize_with_models(
-            episode, raw_text, lang, settings)
+            episode, raw_text, lang, settings, long_summary=is_pdf)
         pipeline_steps.extend(model_steps)
     except Exception as e:
         logger.warning(f"Model pipeline unavailable ({type(e).__name__}: {e}), using extractive fallback")
