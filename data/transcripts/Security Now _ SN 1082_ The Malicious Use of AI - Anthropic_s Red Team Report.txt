@@ -1,8 +1,8 @@
 Feed: Security Now
 Episode: SN 1082: The Malicious Use of AI - Anthropic's Red Team Report
-Method: description
+Method: cached_description
 Language: en
-Words: 202
+Words: 204
 URL: https://twit.tv/shows/security-now/episodes/1082
 
 --- TRANSCRIPT ---
