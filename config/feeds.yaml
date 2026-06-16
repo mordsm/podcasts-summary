@@ -207,6 +207,10 @@ feeds:
 - name: BSidesTLV
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCKcGZg3NT3iPEXuiLk15nrQ"
 
+- name: Paul's Security Weekly
+  url: "https://pswonly.libsyn.com/rss"
+  spotify_url: "https://open.spotify.com/show/0YC8VPkCkfmrDuiEulxkC6"
+
 - name: Creative Channel
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCFwdmgEXDNlEX8AzDYWXQEg"
 
