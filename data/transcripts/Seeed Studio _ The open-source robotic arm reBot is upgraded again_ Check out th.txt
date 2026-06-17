@@ -1,9 +1,9 @@
 Feed: Seeed Studio
 Episode: The open-source robotic arm reBot is upgraded again! Check out this unboxing and hands-on demo
-Method: description
+Method: cached_description
 Language: en
-Words: 1
-URL: https://www.youtube.com/watch?v=WcjDPm8GUDM
+Words: 3
+URL: https://www.youtube.com/watch?v=llSa6qn3yrY
 
 --- TRANSCRIPT ---
 
