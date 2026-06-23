@@ -236,6 +236,7 @@ IMPORTANT RULES:
 - Use bold section headers (**כותרת**) and bullet points
 - Include all numbers, statistics, names, and specific claims made
 - Do NOT skip any technological, business, or product topics
+- Do NOT include generic descriptions of the podcast/channel itself (its mission, social links, subscription info, follow us on X/Facebook/TikTok etc.) — focus only on what was discussed in THIS episode
 
 1. Hebrew summary — structured with bold headers and bullets. Cover EVERY subject: technology topics, business models, products, companies, people mentioned, arguments made, predictions, and all links/resources. 800-1200 words.
 
@@ -265,6 +266,7 @@ IMPORTANT RULES:
 - Use bold section headers (**כותרת**) and bullet points
 - Include all numbers, statistics, names, CVEs, vulnerabilities, tools, and specific claims made
 - Do NOT skip any technological, business, security, or product topics
+- Do NOT include generic descriptions of the podcast/channel itself (its mission, social links, subscription info, follow us on X/Facebook/TikTok etc.) — focus only on what was discussed in THIS episode
 - Since this is based on full show notes, be especially thorough and complete
 
 1. Hebrew summary — structured with bold headers and bullets. Cover EVERY subject in depth. 2500-4000 words.
@@ -470,7 +472,7 @@ def _format_output(episode, hebrew_summary: str, english_summary: str,
     footer = (
         f"{url_block}\n\n"
         f"---\n\n"
-        f"**Link:** {episode.url}\n\n"
+        f"**Link:**\n{episode.url}\n\n"
         f"*Pipeline:*\n{steps_block}\n"
     )
 

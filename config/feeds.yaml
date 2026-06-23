@@ -315,6 +315,7 @@ feeds:
 
 - name: Vox
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA"
+  disabled: true
 
 - name: Business Insider
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCHJuQZuzapBh-CuhRYxIZrg"
