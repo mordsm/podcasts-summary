@@ -227,27 +227,23 @@ _PRE_EXTRACT_HE_WORDS = 1500   # max words to translate (he→en)
 _PRE_EXTRACT_EN_WORDS = 4000   # max words to feed into BART
 
 _GITHUB_MODELS_PROMPT = """\
-You are summarizing a Hebrew podcast episode. Write TWO detailed summaries.
+You are summarizing a podcast episode. Write a detailed Hebrew summary.
 
 IMPORTANT RULES:
 - Keep ALL English tech terms as-is (product names, company names, tools, frameworks, acronyms like AI, AGI, SaaS, API, etc.)
 - Preserve ALL URLs and links mentioned anywhere in the transcript or description
-- Hebrew summary must be LONG and DETAILED (800-1200 words) — cover every topic discussed
+- Summary must be LONG and DETAILED (800-1200 words) — cover every topic discussed
 - Use bold section headers (**כותרת**) and bullet points
 - Include all numbers, statistics, names, and specific claims made
 - Do NOT skip any technological, business, or product topics
 - Do NOT include generic descriptions of the podcast/channel itself (its mission, social links, subscription info, follow us on X/Facebook/TikTok etc.) — focus only on what was discussed in THIS episode
+- Write ONLY Hebrew text (except for English tech terms that must stay in English)
 
-1. Hebrew summary — structured with bold headers and bullets. Cover EVERY subject: technology topics, business models, products, companies, people mentioned, arguments made, predictions, and all links/resources. 800-1200 words.
-
-2. English summary — 200-300 words, same structure, key points only.
+Cover EVERY subject: technology topics, business models, products, companies, people mentioned, arguments made, predictions, and all links/resources. 800-1200 words.
 
 Respond EXACTLY in this format (no extra text before or after):
 HEBREW_SUMMARY:
-<Hebrew text>
-
-ENGLISH_SUMMARY:
-<English text>
+[your Hebrew summary here]
 
 Episode: {title}
 Podcast: {feed_name}
@@ -257,28 +253,24 @@ Transcript:
 
 
 _GITHUB_MODELS_PROMPT_LONG = """\
-You are summarizing a podcast episode that has full, detailed show notes. Write TWO detailed summaries.
+You are summarizing a podcast episode that has full, detailed show notes. Write a comprehensive Hebrew summary.
 
 IMPORTANT RULES:
 - Keep ALL English tech terms as-is (product names, company names, tools, frameworks, acronyms like AI, AGI, SaaS, API, etc.)
 - Preserve ALL URLs and links mentioned anywhere in the transcript or description
-- Hebrew summary must be EXTREMELY LONG and COMPREHENSIVE (2500-4000 words) — cover every topic, detail, and nuance
+- Summary must be COMPREHENSIVE (1200-1500 words) — cover every topic, detail, and nuance
 - Use bold section headers (**כותרת**) and bullet points
 - Include all numbers, statistics, names, CVEs, vulnerabilities, tools, and specific claims made
 - Do NOT skip any technological, business, security, or product topics
 - Do NOT include generic descriptions of the podcast/channel itself (its mission, social links, subscription info, follow us on X/Facebook/TikTok etc.) — focus only on what was discussed in THIS episode
 - Since this is based on full show notes, be especially thorough and complete
+- Write ONLY Hebrew text (except for English tech terms that must stay in English)
 
-1. Hebrew summary — structured with bold headers and bullets. Cover EVERY subject in depth. 2500-4000 words.
-
-2. English summary — 600-800 words, same structure, key points only.
+Cover EVERY subject in depth. 1200-1500 words.
 
 Respond EXACTLY in this format (no extra text before or after):
 HEBREW_SUMMARY:
-<Hebrew text>
-
-ENGLISH_SUMMARY:
-<English text>
+[your Hebrew summary here]
 
 Episode: {title}
 Podcast: {feed_name}
@@ -356,6 +348,13 @@ def _summarize_with_github_models(episode, text: str, github_token: str,
                         f"{len(truncated.split())} words) — retrying with fewer words"
                     )
                     continue  # try smaller chunk for same model
+                # Detect placeholder response (model echoed the format template literally)
+                parsed_he = candidate.split("HEBREW_SUMMARY:", 1)[1].strip() if "HEBREW_SUMMARY:" in candidate else ""
+                if re.match(r'^\s*\[[^\]]{0,200}\]\s*$', parsed_he) or re.match(r'^\s*<[^>]{0,200}>\s*$', parsed_he):
+                    logger.warning(
+                        f"  GitHub Models {model} returned a placeholder — retrying with fewer words"
+                    )
+                    continue
                 logger.info(f"  GitHub Models: used {model} ({len(truncated.split())} words)")
                 result = candidate
                 used_model = model
@@ -374,15 +373,12 @@ def _summarize_with_github_models(episode, text: str, github_token: str,
             raise last_exc
         raise RuntimeError("All GitHub Models attempts failed")
 
-    hebrew_summary = ""
-    english_summary = ""
-    if "HEBREW_SUMMARY:" in result and "ENGLISH_SUMMARY:" in result:
-        hebrew_summary = result.split("HEBREW_SUMMARY:")[1].split("ENGLISH_SUMMARY:")[0].strip()
-        english_summary = result.split("ENGLISH_SUMMARY:")[1].strip()
+    if "HEBREW_SUMMARY:" in result:
+        hebrew_summary = result.split("HEBREW_SUMMARY:", 1)[1].strip()
     else:
-        hebrew_summary = result
+        hebrew_summary = result.strip()
 
-    return hebrew_summary, english_summary, [f"Summary: GitHub Models {used_model} (he+en)"]
+    return hebrew_summary, "", [f"Summary: GitHub Models {used_model} (he)"]
 
 
 def _summarize_with_models(episode, transcript_text: str, lang: str, settings: dict,
