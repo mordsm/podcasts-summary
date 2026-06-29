@@ -23,7 +23,7 @@ feeds:
   spotify_url: "https://open.spotify.com/show/02FXr0K8Qx9KFnf6Z5ZBHR"
 
 
-
+- name
 
 - name: "בונים בית"
   url: "https://feed.podbean.com/bonimbayit/feed.xml"
@@ -60,6 +60,31 @@ feeds:
 - name: מי אמר AI
   url: "https://rss.buzzsprout.com/2439036.rss"
   spotify_url: "https://open.spotify.com/show/7jmeoP2f2lXExgHPsct2my"
+
+- name: The Diary of a CEO
+  url: "https://media.rss.com/the-diary-of-a-ceo/feed.xml"
+  spotify_url: "https://open.spotify.com/show/7gZQRQmQdVTLZxZlF2p2zG"
+
+- name: הביולוגיה של הווינרים
+  url: "https://feeds.soundon.fm/podcast-4929/rss"
+  spotify_url: "https://open.spotify.com/show/4j2z7qfV3CyMfCVxYvBy06"
+
+- name: חושבים טוב
+  url: "https://positivepsychology.co.il/feed/podcast/"
+  spotify_url: "https://open.spotify.com/show/0uHqfZqvXbGqQ3QAtF5NCB"
+
+- name: סליחה זה לא מה שהזמנתי
+  url: "https://feeds.soundon.fm/podcast-10616/rss"
+  spotify_url: "https://open.spotify.com/show/4p9m7qHkGZqfVqz7ZxYp2u"
+
+- name: שירלי פסיכולוגיה בקטנה
+  url: "https://shirley-psychology.captivate.fm/rss"
+  spotify_url: "https://open.spotify.com/show/0q8sJv1uQ0zQ0z8mVxkF1P"
+
+- name: שירלי ובן – עושים פסיכולוגיה
+  url: "https://shirley-and-ben.captivate.fm/rss"
+  spotify_url: "https://open.spotify.com/show/5xQ0mZq8QJtVv7g4kYk7rA"
+
 
 - name: TrashTech
   url: "https://anchor.fm/s/f4876104/podcast/rss"
