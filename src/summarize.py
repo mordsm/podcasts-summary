@@ -280,8 +280,8 @@ Show Notes:
 
 
 _MODEL_WORD_LIMITS = {
-    "gpt-4o": 2000,       # ~3k tokens input, stays under 8k TPM with 4k output
-    "gpt-4o-mini": 4000,  # ~6k tokens input, conservative to avoid context refusals
+    "openai/gpt-4.1": 2000,       # ~3k tokens input, stays under 8k TPM with 4k output
+    "openai/gpt-4.1-mini": 4000,  # ~6k tokens input, conservative to avoid context refusals
 }
 
 _REFUSAL_PHRASES = (
@@ -311,18 +311,22 @@ def _summarize_with_github_models(episode, text: str, github_token: str,
     from openai import OpenAI
 
     client = OpenAI(
-        base_url="https://models.inference.ai.azure.com",
+        base_url="https://models.github.ai/inference",
         api_key=github_token,
+        default_headers={
+            "Accept": "application/vnd.github+json",
+            "X-GitHub-Api-Version": "2026-03-10",
+        },
     )
 
     result = ""
-    used_model = "gpt-4o-mini"
+    used_model = "openai/gpt-4.1-mini"
     last_exc = None
 
     # Try gpt-4o first, fall back to gpt-4o-mini; each model gets its own word limit.
     # For refusals (text too long), retry with progressively smaller chunks.
     # For API exceptions, skip to the next model.
-    for model in ("gpt-4o", "gpt-4o-mini"):
+    for model in ("openai/gpt-4.1", "openai/gpt-4.1-mini"):
         word_limit = _MODEL_WORD_LIMITS[model]
         words = text.split()
         got_result = False
@@ -517,7 +521,7 @@ def summarize_episode(episode, transcript, settings: dict) -> tuple[str, str]:
         else:
             hebrew_summary = ""
             english_summary = f"[Extractive summary]\n\n{extracted}"
-        pipeline_steps.append(f"Summary: extractive ({max_sent} sentences, BART unavailable: {type(e).__name__})")
+        pipeline_steps.append(f"Summary: extractive ({max_sent} sentences, model unavailable: {type(e).__name__})")
         pipeline_steps.append("תרגום: — (לא בוצע)")
 
     return _format_output(episode, hebrew_summary, english_summary, urls, pipeline_steps)
