@@ -1,6 +1,6 @@
 Feed: בזמן שעבדתם
 Episode: פרס נובל למכונה: המהפכה המדעית החדשה
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 6462
 URL: https://omny.fm/shows/program-51/a847069e-c919-49a5-b080-b473009374b3
