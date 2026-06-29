@@ -23,7 +23,6 @@ feeds:
   spotify_url: "https://open.spotify.com/show/02FXr0K8Qx9KFnf6Z5ZBHR"
 
 
-- name
 
 - name: "בונים בית"
   url: "https://feed.podbean.com/bonimbayit/feed.xml"
@@ -36,7 +35,6 @@ feeds:
   url: "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/1ea69f94-8d46-4ff2-aaca-a919008d58b8/podcast.rss"
   spotify_url: "https://open.spotify.com/show/44Mg6W7BrmDtJuuWF7H4b2"
 
-- 
 - name: מנועי הכסף
   url: "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/e187fae7-3db8-4cde-8b39-a96f00cd338c/podcast.rss"
   spotify_url: "https://open.spotify.com/show/3wjWZWBm6DK6Qim3uDRUmd"

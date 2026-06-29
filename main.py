@@ -43,7 +43,16 @@ def load_config() -> tuple[list, dict]:
     import yaml
     with open(CONFIG_PATH, encoding="utf-8") as f:
         config = yaml.safe_load(f)
-    return config["feeds"], config["settings"]
+    feeds = []
+    for feed in config["feeds"]:
+        if not isinstance(feed, dict):
+            logger.warning(f"Skipping malformed feed config: {feed!r}")
+            continue
+        if not feed.get("name") or not feed.get("url"):
+            logger.warning(f"Skipping feed config missing name/url: {feed!r}")
+            continue
+        feeds.append(feed)
+    return feeds, config["settings"]
 
 
 def load_seen() -> dict:

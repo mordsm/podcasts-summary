@@ -203,6 +203,12 @@ def get_recent_episodes(feed_configs: list, hours: int = 168) -> list[Episode]:
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
     result = []
     for cfg in feed_configs:
+        if not isinstance(cfg, dict):
+            logger.warning(f"Skipping malformed feed config: {cfg!r}")
+            continue
+        if not cfg.get("name") or not cfg.get("url"):
+            logger.warning(f"Skipping feed config missing name/url: {cfg!r}")
+            continue
         if cfg.get("disabled"):
             logger.debug(f"Skipping disabled feed: {cfg['name']}")
             continue
