@@ -1,6 +1,6 @@
 Feed: בונים בית
 Episode: פודקאסט פרק 108  - משפחה משתפת - איך עבר תהליך הבניה ומה היו הקשיים שלנו ?!
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 3448
 URL: https://bonimbayit.podbean.com/e/%d7%a4%d7%95%d7%93%d7%a7%d7%90%d7%a1%d7%98-%d7%a4%d7%a8%d7%a7-108%d7%9e%d7%a9%d7%a4%d7%97%d7%94%d7%9e%d7%a9%d7%aa%d7%a4%d7%aa%d7%90%d7%99/
