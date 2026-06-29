@@ -390,7 +390,10 @@ def _summarize_with_models(episode, transcript_text: str, lang: str, settings: d
     """Returns (hebrew_summary, english_summary, pipeline_steps_list).
     Uses GitHub Models (free, GITHUB_TOKEN) if available, else BART+Helsinki fallback."""
     import os
-    github_token = os.environ.get("MODELS_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
+    if os.environ.get("GITHUB_ACTIONS"):
+        github_token = os.environ.get("GITHUB_TOKEN") or os.environ.get("MODELS_TOKEN", "")
+    else:
+        github_token = os.environ.get("MODELS_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
     if github_token:
         text = _clean_text(transcript_text, strip_urls=False)
         return _summarize_with_github_models(episode, text, github_token, long_summary)

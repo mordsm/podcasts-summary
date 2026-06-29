@@ -32,6 +32,7 @@ on:
 
 permissions:
   contents: write
+  models: read
 
 concurrency:
   group: summarize
@@ -77,7 +78,7 @@ jobs:
 
       - name: Run pipeline
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           MODELS_TOKEN: ${{ secrets.MODELS_TOKEN }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
