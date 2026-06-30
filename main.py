@@ -405,8 +405,7 @@ def main():
             summary, tg_summary = summarize_episode(episode, transcript, settings)
         except Exception as e:
             logger.error(f"  Summarization failed: {e}")
-            mark_seen(seen, episode.id)
-            save_seen(seen)
+            logger.error("  Episode was not marked seen, so a later run can retry.")
             continue
 
         if args.write_results:

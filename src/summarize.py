@@ -385,15 +385,22 @@ def _summarize_with_github_models(episode, text: str, github_token: str,
     return hebrew_summary, "", [f"Summary: GitHub Models {used_model} (he)"]
 
 
+def _github_models_token() -> str:
+    """Return an explicit GitHub Models token, if configured.
+
+    The Actions-provided GITHUB_TOKEN is deliberately not used as a fallback:
+    it is easy for it to exist but lack Models API access, which creates a
+    PermissionDeniedError and hides the real configuration issue.
+    """
+    import os
+    return os.environ.get("MODELS_TOKEN", "").strip()
+
+
 def _summarize_with_models(episode, transcript_text: str, lang: str, settings: dict,
                            long_summary: bool = False) -> tuple:
     """Returns (hebrew_summary, english_summary, pipeline_steps_list).
-    Uses GitHub Models (free, GITHUB_TOKEN) if available, else BART+Helsinki fallback."""
-    import os
-    if os.environ.get("GITHUB_ACTIONS"):
-        github_token = os.environ.get("GITHUB_TOKEN") or os.environ.get("MODELS_TOKEN", "")
-    else:
-        github_token = os.environ.get("MODELS_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
+    Uses GitHub Models (free, MODELS_TOKEN) if available, else BART+Helsinki fallback."""
+    github_token = _github_models_token()
     if github_token:
         text = _clean_text(transcript_text, strip_urls=False)
         return _summarize_with_github_models(episode, text, github_token, long_summary)
@@ -515,6 +522,12 @@ def summarize_episode(episode, transcript, settings: dict) -> tuple[str, str]:
             episode, raw_text, lang, settings, long_summary=is_pdf)
         pipeline_steps.extend(model_steps)
     except Exception as e:
+        if not settings.get("allow_extractive_fallback", False):
+            raise RuntimeError(
+                "Model summarization failed and extractive fallback is disabled. "
+                "Set MODELS_TOKEN with GitHub Models access, or set "
+                "allow_extractive_fallback: true to permit transcript excerpts."
+            ) from e
         logger.warning(f"Model pipeline unavailable ({type(e).__name__}: {e}), using extractive fallback")
         max_sent = settings.get("extractive_max_sentences", 15)
         extracted = _extractive_summary(_clean_text(raw_text, strip_urls=True), max_sentences=max_sent, max_chars=5000)

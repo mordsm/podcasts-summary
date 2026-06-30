@@ -6,6 +6,7 @@ settings:
   max_whisper_per_run: 1
   bart_chunk_words: 800
   summary_sentences: 8
+  allow_extractive_fallback: false
 
 feeds:
 
