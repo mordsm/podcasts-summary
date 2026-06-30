@@ -342,6 +342,8 @@ def main():
         logger.info(f"Normal mode: fetching episodes from last {hours}h")
         all_recent = get_recent_episodes(feed_configs, hours=hours)
         episodes = [e for e in all_recent if not is_seen(seen, e.id)]
+        logger.info(f"Recent episodes fetched: {len(all_recent)}")
+        logger.info(f"Already seen in recent window: {len(all_recent) - len(episodes)}")
         logger.info(f"New episodes after seen filter: {len(episodes)}")
 
     if not episodes:
@@ -353,6 +355,7 @@ def main():
 
     max_whisper = settings.get("max_whisper_per_run", 1)
     whisper_count = 0
+    summary_failures = 0
     feed_config_by_name = {f["name"]: f for f in feed_configs}
 
     for episode in episodes:
@@ -404,6 +407,7 @@ def main():
         try:
             summary, tg_summary = summarize_episode(episode, transcript, settings)
         except Exception as e:
+            summary_failures += 1
             logger.error(f"  Summarization failed: {e}")
             logger.error("  Episode was not marked seen, so a later run can retry.")
             continue
@@ -428,6 +432,10 @@ def main():
                     f"{len(needs_whisper)} episodes deferred to next cron run."
                 )
                 break
+
+    if summary_failures:
+        logger.error(f"\nPipeline completed with {summary_failures} summarization failure(s).")
+        raise SystemExit(1)
 
     logger.info("\nPipeline complete.")
 
