@@ -12,6 +12,7 @@ import re
 import json
 import logging
 import argparse
+import os
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -320,6 +321,14 @@ def main():
     cleanup_old_transcripts()
 
     feed_configs, settings = load_config()
+    if os.environ.get("GITHUB_ACTIONS") and not os.environ.get("MODELS_TOKEN", "").strip():
+        logger.error(
+            "MODELS_TOKEN is not configured. The GitHub Actions GITHUB_TOKEN returned "
+            "403 no_access from GitHub Models. Add a repository secret named "
+            "MODELS_TOKEN with GitHub Models access, then rerun the workflow."
+        )
+        raise SystemExit(1)
+
     if args.feed:
         feed_configs = [f for f in feed_configs if args.feed.lower() in f["name"].lower()]
         if not feed_configs:

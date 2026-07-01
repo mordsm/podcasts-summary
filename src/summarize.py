@@ -386,19 +386,9 @@ def _summarize_with_github_models(episode, text: str, github_token: str,
 
 
 def _github_models_token() -> str:
-    """Return a GitHub Models token, if configured.
-
-    Prefer MODELS_TOKEN when present. In GitHub Actions, the workflow grants
-    models:read, so the Actions GITHUB_TOKEN is a valid fallback and avoids
-    silently doing no work when a separate secret was not configured.
-    """
+    """Return an explicit GitHub Models token, if configured."""
     import os
-    models_token = os.environ.get("MODELS_TOKEN", "").strip()
-    if models_token:
-        return models_token
-    if os.environ.get("GITHUB_ACTIONS"):
-        return os.environ.get("GITHUB_TOKEN", "").strip()
-    return ""
+    return os.environ.get("MODELS_TOKEN", "").strip()
 
 
 def _summarize_with_models(episode, transcript_text: str, lang: str, settings: dict,

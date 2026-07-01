@@ -53,7 +53,7 @@ feeds:
   spotify_url: "https://open.spotify.com/show/57oUhsLBTKzb0kGbJ4Nf4A"
 
 - name: hackit.co.il — האקינג בעברית
-  url: "https://rss.com/podcasts/hackit/"
+  url: "https://media.rss.com/hackit/feed.xml"
   spotify_url: "https://open.spotify.com/show/21a3TXPe0fyPBycVGU3O1r"
 
 - name: מי אמר AI
@@ -61,7 +61,7 @@ feeds:
   spotify_url: "https://open.spotify.com/show/7jmeoP2f2lXExgHPsct2my"
 
 - name: The Diary of a CEO
-  url: "https://media.rss.com/the-diary-of-a-ceo/feed.xml"
+  url: "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn"
   spotify_url: "https://open.spotify.com/show/7gZQRQmQdVTLZxZlF2p2zG"
 
 - name: הביולוגיה של הווינרים
@@ -98,11 +98,11 @@ feeds:
   spotify_url: "https://open.spotify.com/show/4ZniwrK1YaYRh9CLZxQ7T4"
 
 - name: בינה מלאכותית בגובה העיניים
-  url: "https://podcast.argmaxml.com/feed.xml"
+  url: "https://anchor.fm/s/fb36ce04/podcast/rss"
   spotify_url: "https://open.spotify.com/show/5bt0qGN6KIFkrH3kg5hw5J"
 
 - name: AI בגובה האוזניים
-  url: "https://rss.com/podcasts/yuvai/"
+  url: "https://media.rss.com/yuvai/feed.xml"
   spotify_url: "https://open.spotify.com/show/2AOtGeU0aeQsMnAXqzfoTo"
 
 - name: Andrew Huberman
