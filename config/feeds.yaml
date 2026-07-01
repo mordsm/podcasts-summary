@@ -65,23 +65,23 @@ feeds:
   spotify_url: "https://open.spotify.com/show/7gZQRQmQdVTLZxZlF2p2zG"
 
 - name: הביולוגיה של הווינרים
-  url: "https://feeds.soundon.fm/podcast-4929/rss"
+  url: "https://anchor.fm/s/10116a664/podcast/rss"
   spotify_url: "https://open.spotify.com/show/4j2z7qfV3CyMfCVxYvBy06"
 
 - name: חושבים טוב
-  url: "https://positivepsychology.co.il/feed/podcast/"
+  url: "https://feeds.simplecast.com/w2pVTj5d"
   spotify_url: "https://open.spotify.com/show/0uHqfZqvXbGqQ3QAtF5NCB"
 
 - name: סליחה זה לא מה שהזמנתי
-  url: "https://feeds.soundon.fm/podcast-10616/rss"
+  url: "https://feed.podbean.com/talbashan/feed.xml"
   spotify_url: "https://open.spotify.com/show/4p9m7qHkGZqfVqz7ZxYp2u"
 
 - name: שירלי פסיכולוגיה בקטנה
-  url: "https://shirley-psychology.captivate.fm/rss"
+  url: "https://feed.podbean.com/shirleyyair/feed.xml"
   spotify_url: "https://open.spotify.com/show/0q8sJv1uQ0zQ0z8mVxkF1P"
 
 - name: שירלי ובן – עושים פסיכולוגיה
-  url: "https://shirley-and-ben.captivate.fm/rss"
+  url: "https://www.spreaker.com/show/5277195/episodes/feed"
   spotify_url: "https://open.spotify.com/show/5xQ0mZq8QJtVv7g4kYk7rA"
 
 

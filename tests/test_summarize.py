@@ -1,8 +1,23 @@
 import os
+import tempfile
 import unittest
+from pathlib import Path
 from unittest.mock import patch
 
+import main
 from src import summarize
+
+
+class RunLockTests(unittest.TestCase):
+    def test_run_lock_prevents_concurrent_runs(self):
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            lock_path = Path(tmp_dir) / "pipeline.lock"
+            with patch.object(main, "LOCK_PATH", lock_path):
+                self.assertTrue(main.acquire_run_lock())
+                self.assertFalse(main.acquire_run_lock())
+                main.release_run_lock()
+                self.assertTrue(main.acquire_run_lock())
+                main.release_run_lock()
 
 
 class GitHubModelsTokenTests(unittest.TestCase):
