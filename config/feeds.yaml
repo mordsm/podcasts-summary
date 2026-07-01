@@ -108,7 +108,38 @@ feeds:
 - name: Andrew Huberman
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC2D2CMWXMOVWx7giW1n3LIg"
 
+- name: קשיבות Mindfulness Podcast
+  url: "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/c1a11d4c-836e-4044-96db-aab400abc1b2/f6639443-1329-47ce-b707-aab400adbf18/podcast.rss"
+  spotify_url: "https://open.spotify.com/show/1kvBW7amB0kA5OD72C1qEW"
 
+- name: מיינדפולנס - פשוט לתרגל
+  url: "https://anchor.fm/dmindful/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/71GYJKjgrl7Zc5o1rkRmir"
+
+- name: קול המיינדפולנס - הדרך למוח שליו
+  url: "https://anchor.fm/s/100719944/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/6uBDPjILRRTxVs1s80AGy2"
+
+- name: 10% Happier with Dan Harris
+  url: "https://feeds.libsyn.com/570160/rss"
+  spotify_url: "https://open.spotify.com/show/1CfW319UkBMVhCXfei8huv"
+
+- name: Tara Brach
+  url: "https://tarabrach.libsyn.com/rss"
+  spotify_url: "https://open.spotify.com/show/37McjD0j2cdu4GExcFQgm0"
+
+- name: Our Mindful Nature
+  url: "https://www.merylarnett.com/feed/podcast/"
+  spotify_url: "https://open.spotify.com/show/3w4GAQtt7Zb5jDWLWGL5sh"
+
+- name: שיח על גינון
+  url: "https://anchor.fm/s/feba4740/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/4MPBNPL8hLm3JNCkUDOJvK"
+
+- name: Gardening with the RHS
+  url: "https://feeds.megaphone.fm/PIXP1366629560"
+  spotify_url: "https://open.spotify.com/show/772Y5SGgHQtKV9w50YgWW3"
+  
 - name: Creative Channel
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCFwdmgEXDNlEX8AzDYWXQEg"
 
