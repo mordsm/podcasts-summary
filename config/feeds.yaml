@@ -23,7 +23,47 @@ feeds:
   url: "https://anchor.fm/s/9ed2e94/podcast/rss"
   spotify_url: "https://open.spotify.com/show/02FXr0K8Qx9KFnf6Z5ZBHR"
 
+# =========================
+# English AI Developer Podcasts
+# =========================
 
+- name: Latent Space - The AI Engineer Podcast
+  url: "https://api.substack.com/feed/podcast/1084089.rss"
+  spotify_url: "https://open.spotify.com/show/2p7zZVwVF6Yk0Zsb4QmT7t"
+
+- name: AI Engineering Podcast
+  url: "https://serve.podhome.fm/rss/c9abdd38-a5dc-5eb2-96fd-f833f93208a7"
+  spotify_url: "https://open.spotify.com/show/19KSYTTB5DTEb2z5Q3qiTh"
+
+- name: The Pragmatic Engineer
+  url: "https://api.substack.com/feed/podcast/458709.rss"
+  spotify_url: "https://open.spotify.com/show/2Bho9xCbOQMWMJ7UKmqCzD"
+
+- name: How I AI
+  url: "https://anchor.fm/s/1035b1568/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/4aRP2XSavdtrLG5FZoonOK"
+
+- name: Agents of Dev
+  url: "https://feed.podbean.com/agentsofdev/feed.xml"
+  spotify_url: "https://open.spotify.com/show/1idfgMO54uCpNI2s41boqu"
+
+
+# =========================
+# Hebrew AI Developer Podcasts
+# =========================
+
+- name: סוכני הבינה
+  url: "https://feeds.transistor.fm/sohnei-bina"
+  spotify_url: "https://open.spotify.com/show/2QNnbvrNjKdhcmfxEzkpz3"
+
+
+- name: רברס עם פלטפורמה
+  url: "https://feed.reversim.com/"
+  spotify_url: "https://open.spotify.com/show/6Lr6PCSEqN8siYm9n6fE8N"
+
+- name: AI By AI
+  url: ""
+  spotify_url: "https://open.spotify.com/show/0gwTvWoADKBDcacHdODku5"
 
 - name: "בונים בית"
   url: "https://feed.podbean.com/bonimbayit/feed.xml"
@@ -84,11 +124,6 @@ feeds:
   url: "https://www.spreaker.com/show/5277195/episodes/feed"
   spotify_url: "https://open.spotify.com/show/5xQ0mZq8QJtVv7g4kYk7rA"
 
-
-- name: TrashTech
-  url: "https://anchor.fm/s/f4876104/podcast/rss"
-  spotify_url: "https://open.spotify.com/show/0nGv2IY8OATmjMtkJ7eLHG"
-
 - name: פשוט AI
   url: "https://anchor.fm/s/dd127d10/podcast/rss"
   spotify_url: "https://open.spotify.com/show/3nmpfA2evHKSVvzOnbmb0w"
@@ -113,20 +148,20 @@ feeds:
   spotify_url: "https://open.spotify.com/show/1kvBW7amB0kA5OD72C1qEW"
 
 - name: מיינדפולנס - פשוט לתרגל
-  url: "https://anchor.fm/dmindful/podcast/rss"
+  url: "https://podcasters.spotify.com/pod/show/dmindful/podcast/rss"
   spotify_url: "https://open.spotify.com/show/71GYJKjgrl7Zc5o1rkRmir"
 
 - name: קול המיינדפולנס - הדרך למוח שליו
   url: "https://anchor.fm/s/100719944/podcast/rss"
   spotify_url: "https://open.spotify.com/show/6uBDPjILRRTxVs1s80AGy2"
 
+- name: תזונה מושכלת
+  url: "https://anchor.fm/s/d9fd30e8/podcast/rss"
+  # spotify_url can be added if available later
+
 - name: 10% Happier with Dan Harris
   url: "https://feeds.libsyn.com/570160/rss"
   spotify_url: "https://open.spotify.com/show/1CfW319UkBMVhCXfei8huv"
-
-- name: Tara Brach
-  url: "https://tarabrach.libsyn.com/rss"
-  spotify_url: "https://open.spotify.com/show/37McjD0j2cdu4GExcFQgm0"
 
 - name: Our Mindful Nature
   url: "https://www.merylarnett.com/feed/podcast/"
@@ -164,10 +199,3 @@ feeds:
 - name: Geektime
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCUOQyNcs_Kqont5qT7ZZNrw"
 
-- name: Calcalist
-  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnl6VjqWdAIqbuhPb7XR7LA"
-
-- name: TheMarker
-  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC2XFysSp9eg9acTnzkrBxUQ"
-
-  
