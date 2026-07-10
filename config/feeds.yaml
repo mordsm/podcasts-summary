@@ -72,9 +72,6 @@ feeds:
   url: "https://feeds.transistor.fm/78de6a96-5902-4320-ae28-409bd1858168"
   spotify_url: "https://open.spotify.com/show/3mtVeLEN5ymtWdfzDAlQbt"
 
-- name: חיות כיס
-  url: "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/1ea69f94-8d46-4ff2-aaca-a919008d58b8/podcast.rss"
-  spotify_url: "https://open.spotify.com/show/44Mg6W7BrmDtJuuWF7H4b2"
 
 - name: מנועי הכסף
   url: "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/e187fae7-3db8-4cde-8b39-a96f00cd338c/podcast.rss"
@@ -147,9 +144,6 @@ feeds:
   url: "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/c1a11d4c-836e-4044-96db-aab400abc1b2/f6639443-1329-47ce-b707-aab400adbf18/podcast.rss"
   spotify_url: "https://open.spotify.com/show/1kvBW7amB0kA5OD72C1qEW"
 
-- name: מיינדפולנס - פשוט לתרגל
-  url: "https://podcasters.spotify.com/pod/show/dmindful/podcast/rss"
-  spotify_url: "https://open.spotify.com/show/71GYJKjgrl7Zc5o1rkRmir"
 
 - name: קול המיינדפולנס - הדרך למוח שליו
   url: "https://anchor.fm/s/100719944/podcast/rss"
