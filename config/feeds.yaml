@@ -15,9 +15,6 @@ feeds:
   url: "https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/a5d4b51f-5b9e-43db-84da-ace100c04108/0ab18f83-1327-4f4e-9d7a-ace100c0411f/podcast.rss"
   spotify_url: "https://open.spotify.com/show/0R8OGY0eb6BJSepIApWB0z"
 
-- name: גיקונומי
-  url: "https://feed.podbean.com/geekonomy/feed.xml"
-  spotify_url: "https://open.spotify.com/show/3yrzEmFw9VwNDMaZ1EO7ue"
 
 - name: 30 דקות או פחות
   url: "https://anchor.fm/s/9ed2e94/podcast/rss"
@@ -153,10 +150,6 @@ feeds:
   url: "https://anchor.fm/s/d9fd30e8/podcast/rss"
   # spotify_url can be added if available later
 
-- name: 10% Happier with Dan Harris
-  url: "https://feeds.libsyn.com/570160/rss"
-  spotify_url: "https://open.spotify.com/show/1CfW319UkBMVhCXfei8huv"
-
 - name: Our Mindful Nature
   url: "https://www.merylarnett.com/feed/podcast/"
   spotify_url: "https://open.spotify.com/show/3w4GAQtt7Zb5jDWLWGL5sh"
@@ -178,11 +171,6 @@ feeds:
 - name: LangTalks
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCWPBxQSxychk2M49Fuoq-5A"
 
-
-
-
-- name: Black Hat
-  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg"
 
 
 - name: Discovery
