@@ -154,6 +154,10 @@ feeds:
   url: "https://www.merylarnett.com/feed/podcast/"
   spotify_url: "https://open.spotify.com/show/3w4GAQtt7Zb5jDWLWGL5sh"
 
+- name: Brain Story
+  url: "https://anchor.fm/s/f1c446a8/podcast/rss"
+  spotify_url: "https://open.spotify.com/show/5DyJbPMaQLNiG75Vy1TLDJ"
+
 - name: שיח על גינון
   url: "https://anchor.fm/s/feba4740/podcast/rss"
   spotify_url: "https://open.spotify.com/show/4MPBNPL8hLm3JNCkUDOJvK"
