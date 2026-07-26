@@ -415,8 +415,7 @@ def main():
 
             if transcript is None:
                 logger.warning("  No transcript found — skipping episode")
-                mark_seen(seen, episode.id)
-                save_seen(seen)
+                logger.warning("  Episode was not marked seen, so a later run can retry.")
                 continue
 
             if transcript.method == "whisper":
