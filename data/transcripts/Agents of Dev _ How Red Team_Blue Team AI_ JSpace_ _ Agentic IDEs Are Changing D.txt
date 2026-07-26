@@ -1,6 +1,6 @@
 Feed: Agents of Dev
 Episode: How Red Team/Blue Team AI, JSpace, & Agentic IDEs Are Changing Development | Agents of Dev Episode 30
-Method: whisper
+Method: cached_whisper
 Language: en
 Words: 7451
 URL: https://agentsofdev.podbean.com/e/how-red-teamblue-team-ai-jspace-agentic-ides-are-changing-development-agents-of-dev-episode-30/

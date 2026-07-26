@@ -1,8 +1,8 @@
 Feed: פשוט AI
 Episode: שוק התעסוקה ומיסוי על סוכני בינה מלאכותית(?) 📠 | פרק 177 עם אפרת בכר-נתנאל, מכון מוזאיק
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 7416
+Words: 7420
 URL: https://podcasters.spotify.com/pod/show/benny-farber/episodes/177-----e3md3pk
 
 --- TRANSCRIPT ---

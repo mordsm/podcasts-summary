@@ -1,8 +1,8 @@
 Feed: חושבים טוב
 Episode: האם אפשר להזדקן אחרת? | רם שכטר על גיל ביולוגי וביו-האקינג | חושבים טוב 210
-Method: description
+Method: cached_description
 Language: he
-Words: 481
+Words: 483
 URL: https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/a0bcaa21-99d1-482d-9833-feb3aaf9e31c/d3e99393-a86b-4bf5-ae97-7b5194be2228/episodes/audio/group/beffca4d-792e-4dec-a9a3-e80e6831d78d/group-item/c0eb6d08-6f68-4a38-9640-73a92275585f/128_default_tc.mp3?aid=rss_feed&feed=w2pVTj5d
 
 --- TRANSCRIPT ---

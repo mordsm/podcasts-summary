@@ -1,8 +1,8 @@
 Feed: הביולוגיה של הווינרים
 Episode: פרק 286: רגע לפני שאתם מוותרים על החלום שלכם - תעשו את זה
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 8923
+Words: 8927
 URL: https://podcasters.spotify.com/pod/show/eitanazaria/episodes/286----------e3mie8e
 
 --- TRANSCRIPT ---

@@ -1,8 +1,8 @@
 Feed: 30 דקות או פחות
 Episode: ליאור פרושאור - זה הזמן להשקיע בדיפ טק ישראלי
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 6989
+Words: 6993
 URL: https://podcasters.spotify.com/pod/show/30minutesorless/episodes/--e3krstn
 
 --- TRANSCRIPT ---

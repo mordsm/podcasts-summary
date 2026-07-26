@@ -1,8 +1,8 @@
 Feed: AI לומדים
 Episode: אנשים ששינו את החיים שלהם עם AI - ואיך גם אתם יכולים
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 13080
+Words: 13084
 URL: https://podcasters.spotify.com/pod/show/-316679/episodes/AI---e3mcp0a
 
 --- TRANSCRIPT ---

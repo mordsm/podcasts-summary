@@ -1,8 +1,8 @@
 Feed: הפודקאסט של גיא קצוביץ'
 Episode: "אחרי 3 ימים בשרונה גייסתי 60 מיליון דולר בלי רעיון" - אחרי 3 אקזיטים, היזם הסדרתי מסתער עם סטארט-אפ חדש - שי מורג #116
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 12250
+Words: 12254
 URL: https://podcasters.spotify.com/pod/show/guy-katsovich/episodes/3----60--------3--------------116-e3mbrbm
 
 --- TRANSCRIPT ---

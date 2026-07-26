@@ -1,6 +1,6 @@
 Feed: מנועי הכסף
 Episode: המשקיעים מורידים סיכון: לאן הכסף עובר עכשיו
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 5771
 URL: https://omny.fm/shows/calcalistpodsmenoeyhakesef/129d34e2-8eaa-4683-a8e4-b49000c156bb

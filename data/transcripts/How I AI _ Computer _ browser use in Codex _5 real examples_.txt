@@ -1,8 +1,8 @@
 Feed: How I AI
 Episode: Computer & browser use in Codex (5 real examples)
-Method: pdf_show_notes
+Method: cached_pdf_show_notes
 Language: en
-Words: 61922
+Words: 61926
 URL: https://podcasters.spotify.com/pod/show/pen-name/episodes/Computer--browser-use-in-Codex-5-real-examples-e3mcabc
 
 --- TRANSCRIPT ---

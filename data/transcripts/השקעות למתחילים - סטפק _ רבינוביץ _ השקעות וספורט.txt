@@ -1,6 +1,6 @@
 Feed: השקעות למתחילים - סטפק & רבינוביץ
 Episode: השקעות וספורט
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 3380
 URL: https://share.transistor.fm/s/a63169ed

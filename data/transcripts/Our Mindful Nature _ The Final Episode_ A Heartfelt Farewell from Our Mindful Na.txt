@@ -1,8 +1,8 @@
 Feed: Our Mindful Nature
 Episode: The Final Episode: A Heartfelt Farewell from Our Mindful Nature
-Method: description
+Method: cached_description
 Language: en
-Words: 372
+Words: 374
 URL: https://podcast.show/the_mindful_minute/episode/154446529/
 
 --- TRANSCRIPT ---

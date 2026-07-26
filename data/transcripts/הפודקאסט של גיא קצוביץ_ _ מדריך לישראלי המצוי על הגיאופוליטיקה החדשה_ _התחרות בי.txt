@@ -1,8 +1,8 @@
 Feed: הפודקאסט של גיא קצוביץ'
 Episode: מדריך לישראלי המצוי על הגיאופוליטיקה החדשה: "התחרות בין ארה"ב לסין משנה את המזרח התיכון" (פרק חובה) #115
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 12292
+Words: 12296
 URL: https://podcasters.spotify.com/pod/show/guy-katsovich/episodes/115-e3lj56i
 
 --- TRANSCRIPT ---

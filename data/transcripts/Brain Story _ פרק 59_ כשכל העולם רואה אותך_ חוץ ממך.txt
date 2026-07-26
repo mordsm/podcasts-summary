@@ -1,8 +1,8 @@
 Feed: Brain Story
 Episode: פרק 59: כשכל העולם רואה אותך, חוץ ממך
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 8598
+Words: 8602
 URL: https://podcasters.spotify.com/pod/show/-34652/episodes/59-e3m9cki
 
 --- TRANSCRIPT ---

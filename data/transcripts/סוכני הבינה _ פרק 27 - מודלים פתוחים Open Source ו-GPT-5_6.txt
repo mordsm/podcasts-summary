@@ -1,6 +1,6 @@
 Feed: סוכני הבינה
 Episode: פרק 27 - מודלים פתוחים Open Source ו-GPT-5.6
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 8042
 URL: https://share.transistor.fm/s/21f1240e

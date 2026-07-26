@@ -1,8 +1,8 @@
 Feed: How I AI
 Episode: Claude Opus 5 review: this model is brilliant (but annoying)
-Method: pdf_show_notes
+Method: cached_pdf_show_notes
 Language: en
-Words: 61922
+Words: 61926
 URL: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Opus-5-review-this-model-is-brilliant-but-annoying-e3mghgi
 
 --- TRANSCRIPT ---

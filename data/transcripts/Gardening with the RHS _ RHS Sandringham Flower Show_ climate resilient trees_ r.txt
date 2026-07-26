@@ -1,6 +1,6 @@
 Feed: Gardening with the RHS
 Episode: RHS Sandringham Flower Show: climate resilient trees, rainwater capture, frogs
-Method: whisper
+Method: cached_whisper
 Language: en
 Words: 6014
 URL: https://traffic.megaphone.fm/PIXP4770419293.mp3

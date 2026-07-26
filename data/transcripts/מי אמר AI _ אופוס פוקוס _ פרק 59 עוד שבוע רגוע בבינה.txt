@@ -1,6 +1,6 @@
 Feed: מי אמר AI
 Episode: אופוס פוקוס | פרק 59 עוד שבוע רגוע בבינה
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 4186
 URL: https://www.buzzsprout.com/2439036/episodes/19548853-59.mp3

@@ -1,8 +1,8 @@
 Feed: How I AI
 Episode: How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman
-Method: pdf_show_notes
+Method: cached_pdf_show_notes
 Language: en
-Words: 61922
+Words: 61926
 URL: https://podcasters.spotify.com/pod/show/pen-name/episodes/How-the-founder-of-Morning-Brew-built-a-Claude-content-machine-that-never-runs-out-of-ideas-and-never-sounds-like-slop--Alex-Lieberman-e3m67l8
 
 --- TRANSCRIPT ---

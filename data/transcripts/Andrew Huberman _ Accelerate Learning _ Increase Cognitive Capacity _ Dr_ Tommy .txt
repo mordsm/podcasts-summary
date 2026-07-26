@@ -1,8 +1,8 @@
 Feed: Andrew Huberman
 Episode: Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood
-Method: description
+Method: cached_description
 Language: en
-Words: 368
+Words: 370
 URL: https://www.youtube.com/watch?v=bPd9NnOzx78
 
 --- TRANSCRIPT ---

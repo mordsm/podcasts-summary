@@ -1,6 +1,6 @@
 Feed: בזמן שעבדתם
 Episode: סטארט-אפ ניישן או סעד ניישן: מי יפרנס אותנו כשהבינה המלאכותית תעשה הכל?
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 8308
 URL: https://omny.fm/shows/program-51/636c150f-454a-4108-b636-b48f008fccd2
