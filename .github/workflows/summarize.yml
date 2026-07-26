@@ -28,7 +28,7 @@ on:
         description: 'Also append summaries to results.txt.md'
         required: false
         type: boolean
-        default: false
+        default: true
 
 permissions:
   contents: write
@@ -92,7 +92,7 @@ jobs:
           [ -n "$INPUT_FEED" ] && args+=(--feed "$INPUT_FEED")
           [ "$INPUT_RESEND_HISTORY" = "true" ] && args+=(--resend-history)
           [ "$INPUT_NO_PDF" = "true" ] && args+=(--no-pdf)
-          [ "$INPUT_WRITE_RESULTS" = "true" ] && args+=(--write-results)
+          [ "$INPUT_WRITE_RESULTS" != "false" ] && args+=(--write-results)
           python main.py "${args[@]}"
 
       - name: Commit results
