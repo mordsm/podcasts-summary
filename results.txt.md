@@ -3479,3 +3479,119 @@ https://podcasters.spotify.com/pod/show/-316679/episodes/92-e3mj2qb
   • Tried and failed: pdf_show_notes, rss_tag
   • Summary: GitHub Models openai/gpt-4.1 (he)
 
+----
+**The Diary of a CEO** [ FlightStory ]
+
+**Vitamin D Expert: The Supplement World Is Giving The WRONG Advice!**  
+
+[Podcast]
+27/07/2026 05:00 UTC
+27/07/2026 07:01 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+**המלצות Endocrine Society וההנחיות החדשות לויטמין D**
+- המלצות עדכניות של Endocrine Society (2024): מתמקדות במתן תוסף ויטמין D למספר אוכלוסיות: ילדים ומתבגרים בגילאי 1-18, מבוגרים מגיל 75 ומעלה, נשים בהריון, ואנשים עם סיכון גבוה לטרום-סוכרת. 
+- ההנחיה: לא מומלץ מתן תוסף ויטמין D שגרתי במינון מעל המוקדם המומלץ לאנשים בריאים מתחת לגיל 75, ולא מומלץ בדיקות 25(OH)D באוכלוסייה הכללית ללא אינדיקציה ברורה.
+- נטען ע"י ד"ר Stasha Gominak שהרופאים מודרים מקבלת עניין בויטמין D, בניגוד למעמד הציבורי שלו כהורמון חשוב. כושר ההבנה של ההשפעות המלאות טרם הגיע למיצוי במחקרים, במיוחד בהקשר הורמונלי-עצבי.
+
+**הפרעות שינה: דפוס REM Sleep Apnea**
+- דפוס ייחודי: apnea שמופיעה רק בזמן rapid eye movement (REM), או מופיעה בעיקר ב-REM.
+- אין עדיין הגדרה מסודרת, והמשמעות היא שאנשים מסוימים מפסיקים לנשום למעשה רק בשלב השינה הזה, מה שמקשה על זיהוי ואבחון.
+- המחקרים שונים בהערכת שכיחות הדפוס הזה, והוא עשוי להיות קשור למנגנונים כימיים ונוירולוגיים, ללא קשר בלעדי בלבד לנקודת כשל אנטומית (References 4-7).
+
+**סגנון חיים בעידן המודרני: קרם הגנה, מחשבים ומיזוג אוויר**
+- טענה עיקרית: "מדובר במצב מחסור כימי שנוצר כשעוברים פנימה". המעבר לעבודה במבנים סגורים בשנות ה-80 (והלאה) בשילוב קרם הגנה גורם להפחתה חדה בייצור ויטמין D.
+- מחסור כזה עלול לשנות גם את מערכת השינה, אך נטען שזו אינה הסיבה היחידה להפרעות שינה כגון Sleep Apnea, שכן הגורמים כוללים גם כשל במנגנון אנטומי ונוירומוסקלרי.
+
+**כרונוטיפים, גנטיקה ועבודה במשמרות לילה**
+- ישנם מוטציות גנטיות נדירות שמשפיעות ישירות על תזמון השינה (מאוד מוקדם או מאוד מאוחר), וגם שונות גנטית רחבה בדפוסי שינה.
+- ויטמין D מהווה מרכיב מרכזי במערכת ה-SCN (suprachiasmatic nucleus) של המוח, ומשפיע על ייצור melatonin ועל הגנים CLOCK, BMAL1, PER2.
+- ניסויים: במתן 4000 IU/יום ל-4 שבועות לא הודגמה השפעה משמעותית על פרמטרים כרונוטיפיים, למרות שיפור שינה ומצב רוח (Gray et al., 2025).
+- המחסור בויטמין D נקשר להפרעות כרונוטיפ בצפיות (observational) ובמודלים בע"ח, אך אין עדיין הוכחה שקלינית במתן תוסף לאדם ישפיע (References 15-27).
+
+**מחלת כבד שומני לא אלכוהולית (NAFLD) ותיאור ראשון שלה**
+- NAFLD תוארה לראשונה ב-1986 ע"י Schaffner, והגרסה הדלקתית NASH ב-1980 ע"י Ludwig.
+- תיאורים קודמים קיימים כבר במאה ה-19, בעיקר בקרב אנשים הסובלים מהשמנה/סוכרת ולא כתוצאה מצריכת אלכוהול.
+
+**ויטמין D וקולטנים בגזע המוח: עבודות Walter Stumpf**
+- Stumpf מדווח (בעבודות מוקפדות) על נוכחות קולטני ויטמין D ברצועה בגב גזע המוח, אשר אחראית, בין השאר, על "שיתוק" הגוף בשינה.
+- על פי Stumpf, ויטמין D פועל גם בנתיבים אוטונומיים, חושיים, מוטוריים, אנדוקריניים וגזע המוח, ומווסת התנהגות, נוירואנדוקריניות ומקצב עונתי/יומי.
+- יש קשר הדוק לניהול רמות סרוטונין, דופאמין, nerve growth factor ואצטילכולין, למרות שמדובר בפרשנות של(Stumpf), ולא תמיד נתוני מחקר ישיר.
+
+**ויטמין D כהורמון "שנת החורף" (Hibernation Hormone)**
+- Stumpf רואה בויטמין D הורמון אדפטיבי לעונות השנה (soltriol), המסייע לגוף לעבור בין עונתיות, כולל תקופות רעב, האם המשמעות הישירה היא הורמון שנת חורף עדיין נתונה לפרשנות מדעית.
+
+**ויטמין D, קולטנים, ואנזים choline acetyltransferase**
+- וויכוח: האם ויטמין D גורם לביטוי אנזים מסוים שמייצר acetylcholine? ראיות מוקדמות (בעכברים) מצביעות על גידול אנזים ChAT בחלקים ספציפיים של המוח, אך רוב התגובה גנומית תלויה בסוג התא ובמצב הדיפרנציאציה.
+
+**הנחיות American Academy of Pediatrics לחשיפת תינוקות לשמש**
+- המלצה: לא לחשוף תינוקות מתחת לגיל 6 חודשים לשמש ישירה, ולמנוע שימוש בקרם הגנה בגיל הזה (להעדיף ביגוד, צל וכד').
+- העדפה: תינוקות יקבלו ויטמין D מהדיאטה ולא מהשמש, בגלל הסיכון לנזק בעור.
+
+**כוויות שמש והזדקנות מוקדמת של העור**
+- כל כוויה רצינית בילדות (שגורמת לקילוף עור) מובילה להאצת תהליך ההזדקנות, ולעלייה בסיכון לסרטן עור.
+- ילדות היא חלון פגיע במיוחד כי חלק גדול מחשיפת החיים לשמש מתרחש בגיל זה, והעור רגיש יותר מביולוגית לפגיעת UV (References 49-58).
+
+**דו"חות ויטמין D וההשלכות הקליניות**
+- מאז 2004, ההמלצות לרופאים לגבי ויטמין D מבוססות בחלקן על מחקרים שאינם תואמים את המאפיין ההורמונלי האמיתי. המלצות: להימנע מעריכת בדיקות ויטמין D שגרתיות וללא התוויה ברורה.
+
+**נושאים נוספים (לפי רשימת התוכן):**
+- Non-Alcoholic Fatty Liver Disease ראיית מחקרים קליניים על הקשר לוויטמין D במחזור הדם ובתפקוד המטבולי, אין קונצנזוס לגבי ההשפעה המלאה של התוספים בטיפול.
+- Pantothenic Acid, Coenzyme A, Cortisol: חקר ההפרשה של הורמונים והקשר לחסרים תזונתיים בתקופות שונות (כולל ב-1960s).
+- Prednisone ורפואת Rheumatoid Arthritis: השפעות הטיפול ב-RA בעבר, ותפקידים של הורמונים וסטרואידים במחלות דלקתיות.
+- Peanut Allergies: עומק הדיון בגידול המקרים של אלרגיות לפני שנות ה-80, והשפעות שינויים בסביבה ובתזונה.
+- B Vitamins כמוצרים חיידקים: ההקשר לגידול חיידקים טבעיים במעי והפכלת תפקוד הויטמינים.
+- Fecal Microbiota Transplant (FMT) ל-C. diff: טכנולוגיה וטיפול במחלות מעי דרך השתלת מיקרוביום.
+- ארבעת ה-phlya במיקרוביום האנושי: Phyla עיקריים שמרכיבים את המיקרוביום. 
+- קשר בין ויטמין D וחיידקי מעי, כולל השפעות על בריאות, דפוסי שינה, ומחלות מטבוליות נפוצות.
+- נתונים אודות Covid-19: קשר בין חסר ויטמין D לבין שיעורי תמותה גבוהים יותר (References 16).
+- חשיבה לאור, חשיפה לשמש, ועבודה בחללים סגורים: הגברת הסיכון למחלות לב וכלי דם (מחקרים על העבודה indoors בוייטנאם, statistic USA Today).
+- טכנולוגיות UV (UVA Tanning Beds) כחלופה לייצור ויטמין D, ומחקרים על חדירת קרני UV דרך עננים.
+- תיאורי מגפות חסרי B Vitamins: beriberi (עשיר בנפגעים במחנות שבויים יפנים), pellagra בדרום ארה"ב, דיאטות תירס במאה הקודמת.
+- Paleolithic Lifespan: הערכות אורך החיים באדם הפלאוליתי.
+- Nicotine ו-acetylcholine: שימוש בניקוטין בתור תחליף פונקציונאלי באנשים עם נרקולפסיה והשפעת העישון על מחלות נוירולוגיות (Parkinson's).
+- Sleep Disorders והמיקרוביום: קשרים הולמים בין הרכב חיידקי המעי להפרעות שינה, התאמת טיפול, ועבודות מחקר מ-2016 על ההשערה החדשה.
+
+**סטטיסטיקות ומספרים**
+- USA Today: נתונים על הזמן שבני אדם מבלים indoors בארה"ב, השלכות אפידמיולוגיות לויטמין D.
+- ויטמין D במניעה ובתמותה מקורונה: מחקרים סטטיסטיים (References 16).
+- תוספי ויטמין D: מינון 4000 IU/יום, משך טיפול, ומעקב מחקרי.
+- CVEs, מחקרי vulnerabilities: לא צוינו בפרק זה במפורש.
+
+**הקשרים הרחבים והשפעות בינתחומיות**
+- שילוב טכנולוגיה וסביבה באורח החיים שינוי דפוס התחלואה בציון המודרני (החל מה-1980s).
+- מחקרים בקשר למבנה המח החיידקי במינים שונים (כולל דינוזאורים), והשפעות על ביוכימיה המוח.
+- היבטים גנטיים (redhead gene) והשפעתו על ייצור ויטמין D מהשמש.
+- קשרים תרבותיים, תזונתיים והיסטוריים: עבודות מבוססות היסטוריה ברפואה, הגבלת חשיפה, תזונה ותפקוד מטבוליזם.
+
+**סיכום:**
+הדיון בפרק מכסה באופן נרחב את השיח המדעי, הרפואי והסביבתי סביב ויטמין D, ההשפעות השונות של החיים המודרניים על ייצורו, והקשרים החוצה-תחומיים לשינה, מיקרוביום, גנטיקה, מחלות דלקתיות, סוכרת, כבד שומני, חשיפה לשמש ואלרגיות מזון. התמודדות עם המלצות הסוכנויות הרפואיות, טענות מדעיות, ניסויים ומחקרים, לצד השפעות ביולוגיות, קליניות והיסטוריות - מאפשרות קריאה ביקורתית ונקודת מבט סינרגטית על מקום ויטמין D בבריאות הכללית, תוך שמירת שמות, מספרים, טכנולוגיות וקישורים כפי שצוינו בפרק וב-show notes.
+
+
+**Original description:**  
+Nearly 1 in 3 American adults now take vitamin D, but Dr. Stasha Gominak says many of them are taking it wrong, and that done carelessly, supplementing can leave you worse off than before. Dr. Stasha Gominak practiced neurology for over 20 years. She earned her MD from Baylor College of Medicine and completed her neurology residency at the Harvard-affiliated Massachusetts General Hospital. After working with her own patients, she believes that nearly everyone struggling to sleep shares the same hidden deficiency, a conclusion she published in 2 papers and built into RightSleep, the method she 
+
+
+**Links mentioned:**
+• [Vitamin D for the prevention of disease: an Endocrine Society clinical practice guideline (2024) | REPRODUCTIVE ENDOCRIN](https://reproduct-endo.com/article/view/313684)
+• https://link.springer.com/chapter/10.1007/978-3-032-04357-3_2
+• [Redirecting](https://linkinghub.elsevier.com/retrieve/pii/S2212534521001155)
+• [Characteristics of rapid eye movement-related obstructive sleep apnea in Thai patients | Scientific Reports](https://www.nature.com/articles/s41598-022-13382-z)
+• [Clinical Characteristics of Rapid Eye Movement-Related Obstructive Sle | NSS | Dove Medical Press](https://www.dovepress.com/clinical-characteristics-of-rapid-eye-movement-related-obstructive-sle-peer-reviewed-fulltext-article-NSS)
+• [Obstructive sleep apnea: current perspectives | NSS | Dove Medical Press](https://www.dovepress.com/obstructive-sleep-apnea-current-perspectives-peer-reviewed-fulltext-article-NSS)
+• [Alpha-1 antitrypsin deficiency and risk of sleep apnea: a nationwide cohort study | European Archives of Oto-Rhino-Laryn](https://link.springer.com/article/10.1007/s00405-025-09270-7)
+• [Genome-wide association analyses of chronotype in 697,828 individuals provides insights into circadian rhythms | Nature ](https://www.nature.com/articles/s41467-018-08259-7)
+• [Genetics of the human circadian clock and sleep homeostat | Neuropsychopharmacology](https://www.nature.com/articles/s41386-019-0476-7)
+• [Vitamin D and Sleep Regulation: Is there a Role for Vitamin D? | Bentham Science](https://www.eurekaselect.com/article/105130)
+
+---
+
+**Link:**
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KXY3ASSVQ5F7X3DG78RSWFN9.mp3
+
+*Pipeline:*
+  • Transcript: pdf_show_notes (18825 words, lang=en) — No audio download — summary based on PDF show notes
+  • Summary: GitHub Models openai/gpt-4.1 (he)
+
