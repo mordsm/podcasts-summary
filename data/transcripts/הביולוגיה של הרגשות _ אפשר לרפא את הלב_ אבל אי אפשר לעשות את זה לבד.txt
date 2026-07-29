@@ -1,8 +1,8 @@
 Feed: הביולוגיה של הרגשות
 Episode: אפשר לרפא את הלב, אבל אי אפשר לעשות את זה לבד
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 4422
+Words: 4426
 URL: https://podcasters.spotify.com/pod/show/allin-podcasts897/episodes/ep-e3mkudu
 
 --- TRANSCRIPT ---
