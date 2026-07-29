@@ -1,8 +1,8 @@
 Feed: הביולוגיה של הרגשות
 Episode: פרק 32 | אפשר לרפא את הלב, אבל אי אפשר לעשות את זה לבד
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 4418
+Words: 4422
 URL: https://podcasters.spotify.com/pod/show/allin-podcasts897/episodes/32-e3mkudu
 
 --- TRANSCRIPT ---
