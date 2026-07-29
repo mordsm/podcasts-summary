@@ -1,8 +1,8 @@
 Feed: בזמן שעבדתם
 Episode: מפצל מסלול מחדש: איך מתכוננים לתרחישים מנוגדים?
-Method: description
+Method: cached_description
 Language: he
-Words: 95
+Words: 97
 URL: https://omny.fm/shows/program-51/24e649d1-e15c-47f5-a4f4-b49501562f07
 
 --- TRANSCRIPT ---

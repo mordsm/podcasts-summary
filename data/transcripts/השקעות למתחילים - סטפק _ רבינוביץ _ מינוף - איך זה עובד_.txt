@@ -1,6 +1,6 @@
 Feed: השקעות למתחילים - סטפק & רבינוביץ
 Episode: מינוף - איך זה עובד?
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 4237
 URL: https://share.transistor.fm/s/63bd5108
