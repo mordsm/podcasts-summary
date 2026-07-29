@@ -41,5 +41,50 @@ class GitHubModelsTokenTests(unittest.TestCase):
             self.assertEqual(summarize._github_models_token(), "")
 
 
+class TelegramDeliveryTests(unittest.TestCase):
+    def test_send_telegram_treats_missing_config_as_skipped_success(self):
+        with patch.dict(os.environ, {}, clear=True):
+            self.assertTrue(main.send_telegram("hello"))
+
+    def test_send_telegram_returns_false_on_unauthorized_response(self):
+        class Response:
+            ok = False
+            status_code = 401
+            text = '{"ok":false,"error_code":401,"description":"Unauthorized"}'
+
+        with patch.dict(
+            os.environ,
+            {"TELEGRAM_BOT_TOKEN": "bad-token", "TELEGRAM_CHAT_ID": "chat"},
+            clear=True,
+        ), patch("requests.post", return_value=Response()):
+            self.assertFalse(main.send_telegram("hello"))
+
+
+class ResendHistoryTests(unittest.TestCase):
+    def test_result_block_date_reads_generated_date(self):
+        block = "Title\n20/07/2026 10:00 UTC\n26/07/2026 13:59 UTC [Generated]"
+
+        self.assertEqual(main._result_block_date(block).date().isoformat(), "2026-07-26")
+
+    def test_resend_history_since_filters_old_entries(self):
+        content = """----
+old
+19/07/2026 09:00 UTC [Generated]
+----
+new
+20/07/2026 09:00 UTC [Generated]
+"""
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            results_path = Path(tmp_dir) / "results.txt.md"
+            results_path.write_text(content, encoding="utf-8")
+            sent = []
+            with patch.object(main, "RESULTS_PATH", results_path), patch.object(
+                main, "send_telegram", side_effect=lambda text: sent.append(text) or True
+            ):
+                main.resend_history_since(main.datetime(2026, 7, 20, tzinfo=main.timezone.utc))
+
+        self.assertEqual(sent, ["new\n20/07/2026 09:00 UTC [Generated]"])
+
+
 if __name__ == "__main__":
     unittest.main()

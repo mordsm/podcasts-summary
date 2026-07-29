@@ -5,6 +5,7 @@ Usage:
     python main.py                  # normal run: episodes from last 7 days, skip seen
     python main.py --test           # test run: 3 smallest episodes (1 YouTube, 1 RSS-Spotify, 1 other RSS)
     python main.py --write-results  # also append summaries to results.txt.md
+    python main.py --hours 240      # override lookback window for backfill runs
 """
 import sys
 import io
@@ -257,7 +258,7 @@ def _tg_split(text: str, limit: int = _TG_MAX) -> list[str]:
     return chunks
 
 
-def send_telegram(formatted_summary: str):
+def send_telegram(formatted_summary: str) -> bool:
     import os
     import time as _time
     import requests as _req
@@ -266,7 +267,7 @@ def send_telegram(formatted_summary: str):
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
     if not bot_token or not chat_id:
         logger.info("  Telegram: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set — skipping")
-        return
+        return True
 
     md_chunks = _tg_split(formatted_summary)
     api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
@@ -296,29 +297,57 @@ def send_telegram(formatted_summary: str):
                     sent += 1
                 else:
                     logger.warning(f"  Telegram: retry failed {resp.status_code} — {resp.text[:200]}")
-                    break
+                    logger.info(f"  Telegram: {sent}/{len(md_chunks)} message(s) sent")
+                    return False
             else:
                 logger.warning(f"  Telegram: send failed {resp.status_code} — {resp.text[:200]}")
-                break
+                logger.info(f"  Telegram: {sent}/{len(md_chunks)} message(s) sent")
+                return False
         logger.info(f"  Telegram: {sent}/{len(md_chunks)} message(s) sent")
+        return sent == len(md_chunks)
     except Exception as e:
         logger.warning(f"  Telegram: send error — {e}")
+        return False
 
 
 def resend_history():
     """Send every entry already in results.txt.md to Telegram."""
+    resend_history_since(None)
+
+
+def _result_block_date(block: str) -> datetime | None:
+    """Return the generated date from a results.txt.md block, if present."""
+    match = re.search(r"(\d{2})/(\d{2})/(\d{4}) \d{2}:\d{2} UTC \[Generated\]", block)
+    if not match:
+        return None
+    day, month, year = (int(part) for part in match.groups())
+    return datetime(year, month, day, tzinfo=timezone.utc)
+
+
+def resend_history_since(since: datetime | None):
+    """Send existing results.txt.md entries to Telegram, optionally filtered by generated date."""
     import time as _time
     if not RESULTS_PATH.exists():
         logger.info("No results.txt.md found — nothing to resend")
         return
     content = RESULTS_PATH.read_text(encoding="utf-8")
     blocks = [b.strip() for b in content.split("----") if b.strip()]
+    if since is not None:
+        blocks = [
+            block for block in blocks
+            if (block_date := _result_block_date(block)) is not None and block_date >= since
+        ]
     logger.info(f"Resending {len(blocks)} existing entries to Telegram")
+    failures = 0
     for i, block in enumerate(blocks, 1):
         logger.info(f"  Sending entry {i}/{len(blocks)}")
-        send_telegram(block)
+        if not send_telegram(block):
+            failures += 1
         if i < len(blocks):
             _time.sleep(4)  # pause between entries to avoid rate limiting
+    if failures:
+        logger.error(f"Resend completed with {failures} Telegram failure(s).")
+        raise SystemExit(1)
 
 
 # ── Main pipeline ─────────────────────────────────────────────────────────────
@@ -331,14 +360,21 @@ def main():
                         help="Filter feeds by name substring (case-insensitive)")
     parser.add_argument("--resend-history", action="store_true",
                         help="Resend all existing entries in results.txt.md to Telegram")
+    parser.add_argument("--resend-history-since", type=str, default=None,
+                        help="Resend existing results generated on/after YYYY-MM-DD")
     parser.add_argument("--no-pdf", action="store_true",
                         help="Skip PDF show-notes extraction (for before/after comparison tests)")
     parser.add_argument("--write-results", action="store_true",
                         help="Append summaries to results.txt.md (disabled by default)")
+    parser.add_argument("--hours", type=int, default=None,
+                        help="Override lookback window in hours")
     args = parser.parse_args()
 
     if args.resend_history:
-        resend_history()
+        since = None
+        if args.resend_history_since:
+            since = datetime.strptime(args.resend_history_since, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        resend_history_since(since)
         return
 
     lock_acquired = False
@@ -377,7 +413,7 @@ def main():
             logger.info(f"Test episodes selected: {len(episodes)}")
         else:
             from src.fetcher import get_recent_episodes
-            hours = settings.get("hours_lookback", 168)
+            hours = args.hours if args.hours is not None else settings.get("hours_lookback", 168)
             logger.info(f"Normal mode: fetching episodes from last {hours}h")
             all_recent = get_recent_episodes(feed_configs, hours=hours)
             episodes = [e for e in all_recent if not is_seen(seen, e.id)]
@@ -450,11 +486,15 @@ def main():
                 logger.error("  Episode was not marked seen, so a later run can retry.")
                 continue
 
+            if not send_telegram(tg_summary):
+                logger.error("  Telegram delivery failed.")
+                logger.error("  Episode was not written or marked seen, so a later run can retry.")
+                continue
+
             if args.write_results:
                 append_result(summary)
             mark_seen(seen, episode.id)
             save_seen(seen)
-            send_telegram(tg_summary)
             logger.info("  Done.")
 
             # Stop if whisper budget is exhausted (production only; test mode processes all 3)

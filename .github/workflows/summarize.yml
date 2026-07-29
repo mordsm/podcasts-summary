@@ -19,6 +19,10 @@ on:
         required: false
         type: boolean
         default: false
+      resend_history_since:
+        description: 'With resend_history, only resend entries generated on/after YYYY-MM-DD'
+        required: false
+        default: ''
       no_pdf:
         description: 'Skip PDF show-notes extraction (for before/after comparison)'
         required: false
@@ -29,6 +33,10 @@ on:
         required: false
         type: boolean
         default: true
+      hours_lookback:
+        description: 'Override lookback window in hours, e.g. 240 for 10 days'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -84,15 +92,19 @@ jobs:
           INPUT_TEST: ${{ github.event.inputs.test }}
           INPUT_FEED: ${{ github.event.inputs.feed }}
           INPUT_RESEND_HISTORY: ${{ github.event.inputs.resend_history }}
+          INPUT_RESEND_HISTORY_SINCE: ${{ github.event.inputs.resend_history_since }}
           INPUT_NO_PDF: ${{ github.event.inputs.no_pdf }}
           INPUT_WRITE_RESULTS: ${{ github.event.inputs.write_results }}
+          INPUT_HOURS_LOOKBACK: ${{ github.event.inputs.hours_lookback }}
         run: |
           args=()
           [ "$INPUT_TEST" = "true" ] && args+=(--test)
           [ -n "$INPUT_FEED" ] && args+=(--feed "$INPUT_FEED")
           [ "$INPUT_RESEND_HISTORY" = "true" ] && args+=(--resend-history)
+          [ -n "$INPUT_RESEND_HISTORY_SINCE" ] && args+=(--resend-history-since "$INPUT_RESEND_HISTORY_SINCE")
           [ "$INPUT_NO_PDF" = "true" ] && args+=(--no-pdf)
           [ "$INPUT_WRITE_RESULTS" != "false" ] && args+=(--write-results)
+          [ -n "$INPUT_HOURS_LOOKBACK" ] && args+=(--hours "$INPUT_HOURS_LOOKBACK")
           python main.py "${args[@]}"
 
       - name: Commit results
