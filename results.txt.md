@@ -4411,3 +4411,95 @@ https://podcasters.spotify.com/pod/show/allin-podcasts897/episodes/32-e3mkudu
   • Transcript: cached_page_content (4422 words, lang=he) — No audio download — summary based on show notes / description only
   • Summary: GitHub Models openai/gpt-4.1 (he)
 
+----
+**Gardening with the RHS** [ Royal Horticultural Society ]
+
+**Summer SOS: holiday-proof your garden, midsummer planting guide, a giant bug hunt**  
+
+[Podcast]
+30/07/2026 11:45 UTC
+30/07/2026 11:57 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+**יישום RHS Grow: עוזר גננים בקיץ**
+- פודקאסט זה פותח בהמלצה על היישום RHS Grow, שנמצא בכל app store. זהו כלי דיגיטלי מתקדם שמסייע לזהות צמחים במהירות באמצעות צילום (AI מבוסס image recognition), לתכנן מטלות גינון חודשיות, לעקוב אחרי משימות שוטפות ולקרוא עצות מקצועיות של מומחי RHS.
+- האפליקציה מתייחסת לאתגרים עונתיים כמו גלי חום ומבול, ונותנת טיפים פרקטיים להתנהלות נכונה בזמן אמת.
+- ניתן למצוא את המדריך וההוראות דרך חיפוש "RHS grow" בחנות האפליקציות.
+
+**היערכות לגינה לפני חופשת קיץ: עצות מגיא ברטר**
+- גיא ברטר (Guy Barter), Chief Horticulturist ב-Royal Horticultural Society, מתאר את הדאגה הרווחת בקרב גננים בקיץ, במיוחד כשעוזבים לשבועיים – החשש להחזיר לגינה נבולה ונזקי חום.
+- הוא מדגיש שמאז 15 ביולי נמדדו בבריטניה יותר ימים מעל 30°C ("הקיץ הלוהט מאז 1976") עם מעט גשמים ורוחות, תנאים שגורמים למצוקה לצמחים ולגננים.
+- המלצה עיקרית: ליצור קשרים טובים עם השכנים (תוך שימוש בעזרת קהילה) ולבקש מהם להשקות ולדאוג לגינה בזמן ההיעדרות.
+- אם אין שכנים זמינים, אפשר להעסיק נער מקומי עם מוטיבציה תמורת תשלום, או להזמין גנן מן השגרה להשקיית הגינה פעם בכמה ימים.
+- בבית: להוציא צמחי בית מהחלון (לא להשאיר מעל כי השמש חזקה), לשים אותם על מגבת קפילרית או במיכל עם מים באמבטיה/כיור. צמחי פלסטיק סופגים מים מהבד, וכך נשארים רטובים במהלך החופשה.
+- בחוץ: את הצמחים בעציצים על הפטיו אפשר להעביר למקום מוצל, ואם גדולים מדי – לשים מתחתיהם מגש גדול שעליו לשים מים. כיסוי בענפי גיזום יעזור להצללה נוספת.
+- להשקות היטב ערב ההיעדרות, כך יש סיכוי לצמחים להחזיק מעמד עד החזרה.
+- לדבריו, עדיפות לעציצים בקוטר עד 60 ס"מ – כדי שיהיה אפשר להזיז אותם בקלות. עצמיצים גדולים יותר קשה לנייד אך שומרים יותר מים.
+
+**טיפול בעגבניות Tumbling Tom בתקופת החופשה**
+- מנחה הפודקאסט מציין שהוא גידל עגבניות Tumbling Tom בעציצים ובסל תליה – החשש הוא שהפרי יתנבל מהשמש.
+- גיא ממליץ להוציא את הסל והעציצים למקום מוצל, להשקות טוב, לקטוף את כל הפירות הבשלים לפני העזיבה (כך מפחיתים איבוד מים ומונעים ריקבון או מחלות).
+- Tumbling Tom פחות רגישה ל-Blossom End Rot – מחלה שנגרמת מהשקאה לקויה עם כתם שחור בקצה הפרי. עגבניות קטנות יותר חשופות פחות מזה.
+- להחזיר מהחופשה – להשקות היטב, לבדוק את משקל העציצים (לוודא שהם לא התייבשו), לרסס מים על העלים להפחתת סטרס, ואם צריך – לגזום ענפים פגועים.
+
+**טכניקות השקיה אוטומטיות: Drip Irrigation System**
+- לעשבים ועציצים גדולים ניתן לשלב Drip Irrigation System – חשוב לבדוק רגולציה מקומית למגבלות שימוש במי השקיה (hose pipe bans).
+- יש לוודא שהמערכת מוגדרת על טיימר קבוע וכשיש רגולטור לחץ, כדי לא להפעיל יותר מדי ולגרום לנזק, הצפה או בזבוז מים.
+- יש לכייל את הספיקה לפי הצורך – מספיק מים להשאיר אותם בחיים, אך לא להציף בשיא הקיץ כדי לא לגרום לאובדן.
+
+**Deadheading וגיזום עונתי לקיץ**
+- גיא ברטר ממליץ לבצע deadheading (הסרת פרחים נבולים) ערב החופשה. כך משפרים את מראה הגינה ומפחיתים צריכת מים.
+- בסל תליה של פרחים, במקרה של התבלות, לגזום הכל ("Chelsea Chop" – גיזום עמוק שמפחית את צריכת המים), להוציא למקום מוצל ואז להחזיר ללבלוב בסוף הקיץ.
+- עציצים קטנים אפשר להשרות במים לכמה שעות לרטיבות טובה (בכיור או בגיגית) ולחזור על כך לאחר החזרה.
+
+**הכוונת שתילה עונתית: Nick Turrell מ-RHS Wisley**
+- מנחה הפודקאסט ודן מכוונים לשיחה עם Nick Turrell, horticultural advisor, שמפרט מה אפשר לשתול בקיץ, ואילו שתילים יש להמתין איתם לסתיו.
+- לא מומלץ לשתול עצים וגדרות בעונה החמה: "זה בזבוז זמן, כסף ומים – כדאי להמתין עד סתיו".
+- Garden Centers מציגים שלל שתילים, אך זה לא אומר שזה הזמן האופטימלי לנטיעה – יש להבין מה מתאים לעונה ומה לא.
+- במשתלות RHS (כמו Wisley) ניתן לקבל ייעוץ אישי הכולל התאמה לצרכים המקומיים של הגנן והגינה, והדרכה לשתילה עונתי.
+
+**פעילות לילדים: Bug Hunt ו-The People's Trust for Endangered Species**
+- לקראת חופשות הקיץ, הפודקאסט מדגיש פעילות חינוכית – חיפוש חיפושיות בגינה עם ילדים.
+- פופי, אחת מהיוצרות, מדברת עם David Wembridge מ-The People's Trust for Endangered Species על חיפושית סטאג (Stag Beetle) – הגדולה ביותר בבריטניה.
+- הפעילות כוללת זיהוי, תיעוד, ולמידה על פעילות שימור שמוביל הארגון, שלל משימות ביולוגיות וקישור לערכים סביבתיים בקרב הדור הצעיר.
+
+**סטטיסטיקות, שמות ונתונים**
+- גיא ברטר מסביר שבעונת החום הנוכחית (2024) היה יותר מ-15 ימים מעל 30°C (יותר מאשר בקיץ השיא של 1976).
+- מומחי RHS מאזכרים שמרבית הגשמים היו דלים, וזו היתה תקופה מלאה בקרינת שמש ורוחות.
+- השתלבות עם שכנים, מתן תשלום לבני נוער מקומיים, או גננים מקצועיים – כל אלה דרכים מקובלות לתחזוקה.
+- העציצים האופטימליים נעים עד קוטר 60 ס"מ (קל לנייד; מחזיקים מים).
+
+**לינקים ומשאבים**
+- בחנויות האפליקציות: "RHS grow" (יישום שימושי לזיהוי וניהול גינה).
+- People's Trust for Endangered Species – מידע נרחב על חיפושית סטאג והפעילות לקידום שימור https://ptes.org/stagbeetles/
+- עדכון מקצועי ומדרכים RHS זמינים גם באתרים הרשמיים ואפליקציות.
+
+**סיכום**
+- פרק זה מספק גישה טכנולוגית, מקצועית ופרקטית לגידול גינה בקיץ – שילוב בין ידע מקצועי מעשי, כלים דיגיטליים (RHS grow app), שילוב קהילתי, וטיפול מושכל בצמחים ועציצים במהלך חופשות.
+- מענה על האתגרים החמים: חום, מחסור במים, ניהול עציצים והתמודדות עם מחלות כמו Blossom End Rot.
+- עידוד לפעילות סביבתית עם ילדים בגן, זיהוי חיפושיות, ולמידה אקולוגית דרך גנים פרטיים ותכניות שימור.
+- המלצה לקריאה נוספת ושימוש במשאבים דיגיטליים, אפליקציות ואתרים ייעודיים של RHS ושל ארגוני שמירה על מינים נדירים.
+
+
+**Original description:**  
+If you’re going away this summer and are worried about your garden RHS Chief Horticulturist Guy Barter shares some top hacks for ensuring your plants survive the heatwaves while you’re away. But if you’re staying at home and feel inspired to give your garden a revamp for all those summer BBQs, RHS Horticultural Advisor Nick Turrell explains what you can still plant in high summer for maximum impact. If you’re entertaining children this summer – or you’re still full of wonder for the natural world – David Wembridge from The People's Trust for Endangered Species’ talks about a nationwide search 
+
+
+**Links mentioned:**
+• [Take part in the Great Stag Hunt - Stag Beetles](https://stagbeetles.ptes.org/take-part-in-the-great-stag-hunt/)
+• [Powdery mildews: Symptoms & Control | RHS Advice](https://www.rhs.org.uk/disease/powdery-mildews)
+• [13 drought-tolerant plants for pots to reduce watering / RHS](https://www.rhs.org.uk/garden-inspiration/conditions/drought-tolerant-plants-for-pots)
+• [Drought-Resistant Gardening Tips | RHS Advice](https://www.rhs.org.uk/garden-design/drought-resistant-gardening)
+
+---
+
+**Link:**
+https://traffic.megaphone.fm/PIXP4881353558.mp3
+
+*Pipeline:*
+  • Transcript: whisper (5650 words, lang=en) — Full audio file transcribed (Whisper)
+  • Tried and failed: pdf_show_notes, rss_tag, page_content, description
+  • Summary: GitHub Models openai/gpt-4.1 (he)
+
