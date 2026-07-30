@@ -370,7 +370,7 @@ def main():
                         help="Override lookback window in hours")
     args = parser.parse_args()
 
-    if args.resend_history:
+    if args.resend_history or args.resend_history_since:
         since = None
         if args.resend_history_since:
             since = datetime.strptime(args.resend_history_since, "%Y-%m-%d").replace(tzinfo=timezone.utc)

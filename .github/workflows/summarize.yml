@@ -20,7 +20,7 @@ on:
         type: boolean
         default: false
       resend_history_since:
-        description: 'With resend_history, only resend entries generated on/after YYYY-MM-DD'
+        description: 'Resend entries generated on/after YYYY-MM-DD, e.g. 2026-07-20'
         required: false
         default: ''
       no_pdf:

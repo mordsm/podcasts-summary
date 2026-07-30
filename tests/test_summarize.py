@@ -85,6 +85,15 @@ new
 
         self.assertEqual(sent, ["new\n20/07/2026 09:00 UTC [Generated]"])
 
+    def test_resend_history_since_arg_triggers_resend_mode(self):
+        called = []
+        with patch("sys.argv", ["main.py", "--resend-history-since", "2026-07-20"]), patch.object(
+            main, "resend_history_since", side_effect=lambda since: called.append(since)
+        ):
+            main.main()
+
+        self.assertEqual(called[0].date().isoformat(), "2026-07-20")
+
 
 if __name__ == "__main__":
     unittest.main()
