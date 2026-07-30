@@ -4602,3 +4602,112 @@ https://omny.fm/shows/calcalistpodsmenoeyhakesef/3-2026
   • Tried and failed: pdf_show_notes, rss_tag, page_content, description
   • Summary: GitHub Models openai/gpt-4.1 (he)
 
+----
+**Agents of Dev** [ The Futurum Group ]
+
+**Securing AI Agents: Snowflake CSTO Mayank Upadhyay on Cortex AI Gateway Presented by Snowflake | Agents of Dev Episode 31**  
+
+[Podcast]
+30/07/2026 15:00 UTC
+30/07/2026 16:00 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+**הכרות עם האורח: Mayank Upadhyay ודרכו ל-Snowflake**
+- הפרק אירח את Mayank Upadhyay, המשמש Chief Security and Trust Officer (CSTO) ב-Snowflake מאז ינואר השנה.
+- לפני כן, בילה 21 שנה ב-Google, שם התקדם מתפקיד מהנדס עד לתפקיד VP Security Platform ב-Google Cloud, שם בנה מרבית מ-stack האבטחה המודרני.
+- Mayank סיפר כי חיפש שינוי קריירה לאחר תקופה ארוכה ב-Google ובחר ב-Snowflake בשל השילוב המרתק שבין פשטות משתמש, gravitas של נתוני enterprise, והפלטפורמה שמביאה להגדיר מחדש את יחסי הגומלין בין נתונים, AI ואבטחה.
+- מייד עם הצטרפותו ל-Snowflake, איחד את צוות Platform Security Engineering עם ארגון ה-CISO ועומד בראשו כיום.
+
+**שינויים בעולם האבטחה של AI Agents**
+- הנושא המרכזי: כיצד ניתן לאבטח AI Agents, במיוחד בהתפתחות מ-generative AI ל-agentic AI.
+- ראיה מסורתית: אבטחת software הייתה אפשרית כי היה ניתן לצפות את התנהלותו (דטרמיניסטי), הודות להוראות קוד ברורות וממשק משתמש מוגדר.
+- העולם החדש: AI Agent הוא ממש "מוח" עצמאי, לא דטרמיניסטי, יכול לפעול בצורה בלתי צפויה, ולהיות נתון להתקפות כמו prompt injection (זיהום הנחיות).
+- analogy: כמו לתת לאינטרן לא-מאומן גישה אל המערכות הפנימיות—וכך נדרשת חשיבה מחדש על האבטחה.
+- agent ינסה מסלולים לא צפויים בפעולה, וייתכן שיגרום לבעיות כמו דליפת מידע או פגיעה ב-PII (Personally Identifiable Information).
+
+**הבדלים מהותיים בין אבטחת Agents לאבטחת chatbots או מערכות קודמות**
+- טעות נפוצה: להתייחס ל-agent כמערכת קודמת (כמו chatbot) וליישם אותן שיטות אבטחה.
+- Agents מבצעים פעולות אוטונומיות, ולא רק משיבים למשתמש; לכן לא ניתן להחיל אבטחה מסורתית.
+- מבנה agent: מודל, כלי עבודה ו-runtime, כל אחד מהווה נקודת סיכון בפני עצמה.
+- יתכנו orchestrations של multi-agent, shell בסיסי, או frameworks מורכבים (כמו A2A), וכל אלה לא ניתנים לאבטחה במתודות ההיסטוריות.
+
+**המרחב האקוסיסטמי והצרכים באבטחת Agents**
+- קיים מרחב עצום של Agents: agent עצמו, הנתונים שעליהם הוא מופעל, והמוח (המודל).
+- לכל אחד מהם נדרשים properties שונים של אבטחה ו-governance.
+- דגש על:
+    - Zero data retention: לא לשמור נתוני enterprise אצל נותני ה-Model.
+    - הגנות נגד prompt injection ו-jailbreak.
+    - הגנות על PII.
+    - Cost governance: מניעת חריגות תקציב (מאוד רלוונטי למודלים ענקיים כמו GPT).
+- agent platform: Attribution (מי עשה מה), Identity, Permissioning, Delegation.
+- אין פלטפורמה אחת שמנהלת את כל agents; ארגונים חווים אורקסטרציה של כמה פלטפורמות. Snowflake עוסק בשותפויות בתחום זה.
+- data layer: נתוני ה-crown jewels של enterprise, דורשים ARPAC (Attribute-based Role Permission Access Control), ransomware protection, zero-copy architecture (יתרון משמעותי ל-Snowflake), data masking ועוד.
+
+**הצגת Cortex AI Gateway – הכרזה חדשה ותחום חדש**
+- Snowflake הכריזה בפרק זה על Cortex AI Gateway, gateway חדש שמרכז את האבטחה והגוורננס של Agents, Data ו-models.
+    - נועד לשמש "traffic cop" בין tool calls ו-model calls.
+    - ניהול מלא של אבטחה, governance, cost governance ועוד.
+    - מאפשר visibility ו-control במקום אחד לכל layer של ה-AI agent ecosystem.
+- יתרונות:
+    - יכולת לדעת ולתחקר מה קרה—איזה תהליכים הופעלו, איזה כלים בשימוש, עבור debugging, production support וגם governance.
+    - כלי חיוני לחברות שמנהלות מערכי Agents מורכבים.
+
+**ביקורת ושאלות על שיטות אבטחה מסורתיות מול Cortex Gateway**
+- רוב החברות עדיין מיישמות שיטות אבטחה של בני אדם לגבי Agents: API keys, RBAC (Role-Based Access Control), Prompt engineering (הגנה מפני injection attacks).
+- Mayank הסביר מדוע API keys בעייתיים:
+    - אין Attribution: כולם משתמשים באותו key, אין לדעת איזה agent ביצע פעולה מזיקה.
+    - אם agent משתבש, קשה לדעת מי הפסיק אותו; key עשוי להיות בשימוש גם על ידי אנשים וגם agents.
+- RBAC:
+    - מתאים לשליטה על בני אדם, אך פחות אוטונומי ומדויק לאור הגמישות והעצמאות של agents.
+
+**פתרונות מתקדמים – Workload Identity & OAuth Flows**
+- הפתרון הטכנולוגי המתקדם (והמומלץ) בתעשייה הוא Workload Identity:
+    - לכל agent אוטונומי יש זהות ייחודית, קשורה קריפטוגרפית אליו.
+    - מאפשר ייחוס מדויק של פעולות, ושליטה גמישה לפי agent, ולא לפי בני אדם בלבד.
+    - Snowflake מיישמת זאת בפלטפורמה שלה.
+- כאשר בן אדם משיק agent, industry standard: flows מבוססי OAuth ליצירת delegated tokens, עם אפשרות ל-downscope להרשאות מדויקות.
+    - כך מתאפשרת הרשאה מדורגת לפי הצורך (ולא "all-or-nothing").
+    - הגנה נוספת: מותר לתת הרשאה זמנית, מצומצמת, לפי ההקשר של המשימה וה-agent הספציפי.
+
+**הקשר בין Observability לאבטחה של agents**
+- דגש בפרק על החשיבות של observability: מעקב מתמיד אחרי פעולות, logging מלא ודיאגנוסטיקה, בייחוד שבחלק מהפעולות של agents (הנטייה הרנדומלית והexploratory nature) קשה לחזות מה יהיה התוצר.
+- Observability נדרש לא רק עבור debugging אלא גם עבור governance—בקרה על פעולות, ניטור, הפקת lessons למדיניות future.
+
+**מגמות, תחזיות ושותפויות**
+- העולם נע במהירות ל-agentic paradigms, שמציבים אתגר עצום באבטחת enterprise.
+- Snowflake משתפת פעולה עם פלטפורמות אחרות ליצירת ecosystem רחב לאורקסטרציות ופיתוח כלים אבטחתיים ו-governance ב-agents.
+- הפתרון המשולב (כמו Cortex AI Gateway) יהפוך להיות תקן-תעשייה, כשבעלי enterprise צריכים שליטה מלאה ואחידה במקום אחד.
+
+**סטטיסטיקות, כלים ומונחים מדוברים**
+- ישנם מאות ואלפי Agents פעילים במערכות מודרניות, שחלקם מבצעים orchestration דרך frameworks כמו A2A.
+- הביקוש ל-zero-copy architecture ול-ransomware protection עולה, עם דגש על היכולת להפריד בין נתונים ומודלים ולשמור על גמישות, אבטחה ו-compliance.
+- Snowflake מובילה בשוק בעזרת פתרונות מתקדמים ל-data masking, Workload Identity, OAuth flows ו-Cortex AI Gateway.
+
+**לינקים ומשאבים**
+- בפרק צוינה הכרזה והפרסום על Cortex AI Gateway – פרטים זמינים באתר Snowflake (https://www.snowflake.com).
+- לא צוינו URLs נוספים בפרק עצמו.
+
+
+**Original description:**  
+Email your questions and topics to the podcast here . As enterprise AI evolves from simple chatbots into autonomous agents, traditional security methods are no longer enough to protect your company's crown jewels. In this episode of Agents of Dev presented by Snowflake, hosts Mitch Ashley and Brad Shimmin sit down with Mayank Upadhyay , Chief Security and Trust Officer at Snowflake , to dive into the security and governance shift required for agentic workflows. Mayank explains why static API keys fail in non-deterministic environments, how workload identity gives autonomous agents true account
+
+
+**Links mentioned:**
+• https://www.youtube.com/watch?v=Js42BEOHIt4&feature=youtu.be
+• https://linkedin.com/in/mitchellashley%20
+• [Mayank Upadhyay - Menlo Park, California, United States | Professional Profile | LinkedIn](https://www.linkedin.com/in/meetmayank)
+• [Snowflake AI Data Cloud](https://www.snowflake.com/en/)
+• https://www.youtube.com/@TheFuturumGroup
+
+---
+
+**Link:**
+https://agentsofdev.podbean.com/e/securing-ai-agents-snowflake-csto-mayank-upadhyay-on-cortex-ai-gateway-agents-of-dev/
+
+*Pipeline:*
+  • Transcript: whisper (6740 words, lang=en) — Full audio file transcribed (Whisper)
+  • Tried and failed: pdf_show_notes, rss_tag, page_content, description
+  • Summary: GitHub Models openai/gpt-4.1 (he)
+
