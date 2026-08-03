@@ -20,14 +20,14 @@ class RunLockTests(unittest.TestCase):
                 main.release_run_lock()
 
 
-class GitHubModelsTokenTests(unittest.TestCase):
+class OpenAIApiKeyTests(unittest.TestCase):
     def test_ignores_github_token_outside_actions(self):
         with patch.dict(os.environ, {"GITHUB_TOKEN": "actions-token"}, clear=True):
-            self.assertEqual(summarize._github_models_token(), "")
+            self.assertEqual(summarize._openai_api_key(), "")
 
-    def test_uses_models_token_when_present(self):
-        with patch.dict(os.environ, {"MODELS_TOKEN": "models-token"}, clear=True):
-            self.assertEqual(summarize._github_models_token(), "models-token")
+    def test_uses_openai_api_key_when_present(self):
+        with patch.dict(os.environ, {"OPENAI_API_KEY": "openai-key"}, clear=True):
+            self.assertEqual(summarize._openai_api_key(), "openai-key")
 
     def test_ignores_github_token_in_actions(self):
         with patch.dict(
@@ -38,7 +38,7 @@ class GitHubModelsTokenTests(unittest.TestCase):
             },
             clear=True,
         ):
-            self.assertEqual(summarize._github_models_token(), "")
+            self.assertEqual(summarize._openai_api_key(), "")
 
 
 class TelegramDeliveryTests(unittest.TestCase):

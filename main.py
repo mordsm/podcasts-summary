@@ -387,11 +387,16 @@ def main():
         cleanup_old_transcripts()
 
         feed_configs, settings = load_config()
-        if os.environ.get("GITHUB_ACTIONS") and not os.environ.get("MODELS_TOKEN", "").strip():
+        if (
+            os.environ.get("GITHUB_ACTIONS")
+            and not os.environ.get("OPENAI_API_KEY", "").strip()
+            and not settings.get("allow_extractive_fallback", False)
+        ):
             logger.error(
-                "MODELS_TOKEN is not configured. The GitHub Actions GITHUB_TOKEN returned "
-                "403 no_access from GitHub Models. Add a repository secret named "
-                "MODELS_TOKEN with GitHub Models access, then rerun the workflow."
+                "OPENAI_API_KEY is not configured. Add a repository secret named "
+                "OPENAI_API_KEY, then rerun the workflow. Alternatively set "
+                "allow_extractive_fallback: true in config/feeds.yaml to permit "
+                "transcript excerpts when model summarization is unavailable."
             )
             raise SystemExit(1)
 

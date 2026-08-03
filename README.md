@@ -1,6 +1,6 @@
 # Podcast & YouTube Summarizer
 
-An automated pipeline that monitors Hebrew and English podcast RSS feeds and YouTube channels, fetches new episodes, extracts transcripts, and generates detailed bilingual summaries (Hebrew + English). Runs entirely on GitHub Actions — no local setup, no external paid APIs.
+An automated pipeline that monitors Hebrew and English podcast RSS feeds and YouTube channels, fetches new episodes, extracts transcripts, and generates detailed Hebrew summaries. Runs on GitHub Actions with an OpenAI API key.
 Results are delivered automatically to a configured Telegram channel.
 ---
 
@@ -34,8 +34,8 @@ Every hour (GitHub Actions cron)
         ▼
   For each new episode:
     ├─ Try to get transcript (7 methods, cheapest first)
-    ├─ Summarize with GitHub Models (gpt-4o / gpt-4o-mini)
-    ├─ Format bilingual output (Hebrew + English)
+    ├─ Summarize with OpenAI API (gpt-5.6-luna / gpt-5.6-terra)
+    ├─ Format summary output
     ├─ Validate and resolve all links
     └─ Send to Telegram
         │
@@ -50,7 +50,7 @@ The pipeline runs on a free GitHub-hosted Ubuntu runner. All state is stored in 
 ## Features
 
 - **Fully automated** — GitHub Actions cron fires every hour, processes new episodes, and commits results back
-- **Bilingual output** — Long Hebrew summary (800–1200 words) + concise English summary (200–300 words)
+- **Detailed Hebrew output** — Long Hebrew summary (800–1200 words) with optional English fallback output when available
 - **7 transcript methods** — Tries every available source before falling back to Whisper audio transcription
 - **Transcript caching** — Whisper results are saved to `data/transcripts/` and re-used on subsequent runs, avoiding costly re-transcription. Files older than 30 days are deleted automatically on each run.
 - **Whisper budget** — Only 1 audio transcription per run to stay within GitHub Actions runner time limits; remaining episodes are deferred to the next cron run
@@ -59,7 +59,7 @@ The pipeline runs on a free GitHub-hosted Ubuntu runner. All state is stored in 
 - **Test mode** — Process one small episode per feed type to verify the pipeline without long Whisper jobs
 - **Telegram delivery** — Each new summary is sent automatically to a Telegram channel; supports chunked messages for long summaries and respects rate limits
 - **Resend history** — Re-send all existing `results.txt.md` entries to Telegram via a single `workflow_dispatch` toggle (requires `--write-results` to have been used previously)
-- **No external paid APIs** — Uses GitHub's free Models API (`MODELS_TOKEN`) and falls back to local BART + Helsinki models if unavailable
+- **Model-backed summaries** — Uses the OpenAI API (`OPENAI_API_KEY`) and falls back to local BART + Helsinki models if unavailable
 - **SSRF protection** — All outbound HTTP requests validate the target URL against a blocklist of private/loopback/link-local IPs and cloud metadata endpoints before fetching
 - **Download size cap** — RSS transcript and episode-page fetches are capped at 500 MB; link-liveness checks are capped at 1 MB
 
@@ -97,7 +97,7 @@ By default, summaries are sent to Telegram only. To also write them to `results.
 ---
 *Pipeline:*
   • Transcript: <method> (<N> words, lang=<lang>) — <audio analysis note>
-  • Summary: GitHub Models gpt-4o-mini (he+en)
+  • Summary: OpenAI gpt-5.6-luna (he)
 ```
 
 The **Pipeline** section shows:
@@ -127,14 +127,14 @@ Language priority: Hebrew episodes prefer `he/iw` captions first, then `en`. Eng
 
 ## Summarization Pipeline
 
-### Primary: GitHub Models (free API)
+### Primary: OpenAI API
 
-Requires a GitHub Personal Access Token with Models API access stored as `MODELS_TOKEN` secret.
+Requires an OpenAI API key stored as an `OPENAI_API_KEY` secret.
 
-- Tries **gpt-4o** first (2,000 word input limit to stay under free-tier TPM)
-- Falls back to **gpt-4o-mini** (6,000 word input limit)
+- Tries `OPENAI_MODEL` first, defaulting to **gpt-5.6-luna**
+- Falls back to `OPENAI_FALLBACK_MODEL`, defaulting to **gpt-5.6-terra**
 - Prompts the model to produce a structured Hebrew summary with bold headers and bullet points, preserving all English tech terms, product names, and URLs
-- Returns both Hebrew (800–1200 words) and English (200–300 words) summaries
+- Returns a detailed Hebrew summary
 
 ### Fallback: BART + Helsinki (local models)
 
@@ -207,7 +207,7 @@ Language is auto-detected from feed metadata and Hebrew character ratio. Overrid
 
 | Secret | Description |
 |--------|-------------|
-| `MODELS_TOKEN` | GitHub Personal Access Token with Models API access. Create at: GitHub → Settings → Developer settings → Personal access tokens → Fine-grained → Add `models:read` permission. **Do not use the default `GITHUB_TOKEN`** — it doesn't have Models API access. |
+| `OPENAI_API_KEY` | OpenAI API key used for summarization. |
 | `TELEGRAM_BOT_TOKEN` | Token for your Telegram bot (from [@BotFather](https://t.me/BotFather)). Optional — if not set, Telegram delivery is silently skipped. |
 | `TELEGRAM_CHAT_ID` | Target channel or chat ID (e.g. `@MyChannel` or a numeric ID). The bot must be added as an **admin** of the channel. |
 
@@ -288,7 +288,7 @@ URL: <episode URL>
 
 | Package | Version | Purpose |
 |---------|---------|---------|
-| `openai` | ≥1.30.0,<2.0.0 | GitHub Models API client |
+| `openai` | ≥1.30.0,<2.0.0 | OpenAI API client |
 | `feedparser` | 6.0.11 | RSS/Atom feed parsing |
 | `beautifulsoup4` | 4.12.3 | HTML parsing for page content extraction |
 | `lxml` | 5.3.0 | Fast HTML/XML parser backend |

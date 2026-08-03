@@ -1,3 +1,4 @@
+import os
 import re
 import html
 import logging
@@ -280,8 +281,8 @@ Show Notes:
 
 
 _MODEL_WORD_LIMITS = {
-    "openai/gpt-4.1": 2000,       # ~3k tokens input, stays under 8k TPM with 4k output
-    "openai/gpt-4.1-mini": 4000,  # ~6k tokens input, conservative to avoid context refusals
+    "gpt-5.6-terra": 6000,
+    "gpt-5.6-luna": 6000,
 }
 
 _REFUSAL_PHRASES = (
@@ -305,29 +306,34 @@ def _is_refusal(text: str) -> bool:
     )
 
 
-def _summarize_with_github_models(episode, text: str, github_token: str,
-                                   long_summary: bool = False) -> tuple:
-    """Returns (hebrew_summary, english_summary, steps) using GitHub Models free API."""
+def _openai_models() -> tuple[str, ...]:
+    """Return the configured OpenAI model preference order."""
+    primary = os.environ.get("OPENAI_MODEL", "gpt-5.6-luna").strip()
+    fallback = os.environ.get("OPENAI_FALLBACK_MODEL", "gpt-5.6-terra").strip()
+    return tuple(dict.fromkeys(m for m in (primary, fallback) if m))
+
+
+def _word_limit_for_model(model: str) -> int:
+    return _MODEL_WORD_LIMITS.get(model, 6000)
+
+
+def _summarize_with_openai(episode, text: str, api_key: str,
+                           long_summary: bool = False) -> tuple:
+    """Returns (hebrew_summary, english_summary, steps) using the OpenAI API."""
     from openai import OpenAI
 
-    client = OpenAI(
-        base_url="https://models.github.ai/inference",
-        api_key=github_token,
-        default_headers={
-            "Accept": "application/vnd.github+json",
-            "X-GitHub-Api-Version": "2026-03-10",
-        },
-    )
+    client = OpenAI(api_key=api_key)
 
     result = ""
-    used_model = "openai/gpt-4.1-mini"
+    models = _openai_models()
+    used_model = models[0] if models else ""
     last_exc = None
 
-    # Try gpt-4o first, fall back to gpt-4o-mini; each model gets its own word limit.
+    # Try the configured models in order; each model gets its own word limit.
     # For refusals (text too long), retry with progressively smaller chunks.
     # For API exceptions, skip to the next model.
-    for model in ("openai/gpt-4.1", "openai/gpt-4.1-mini"):
-        word_limit = _MODEL_WORD_LIMITS[model]
+    for model in models:
+        word_limit = _word_limit_for_model(model)
         words = text.split()
         got_result = False
 
@@ -348,7 +354,7 @@ def _summarize_with_github_models(episode, text: str, github_token: str,
                 candidate = response.choices[0].message.content or ""
                 if _is_refusal(candidate):
                     logger.warning(
-                        f"  GitHub Models {model} refused (attempt {attempt + 1}, "
+                        f"  OpenAI {model} refused (attempt {attempt + 1}, "
                         f"{len(truncated.split())} words) — retrying with fewer words"
                     )
                     continue  # try smaller chunk for same model
@@ -356,16 +362,16 @@ def _summarize_with_github_models(episode, text: str, github_token: str,
                 parsed_he = candidate.split("HEBREW_SUMMARY:", 1)[1].strip() if "HEBREW_SUMMARY:" in candidate else ""
                 if re.match(r'^\s*\[[^\]]{0,200}\]\s*$', parsed_he) or re.match(r'^\s*<[^>]{0,200}>\s*$', parsed_he):
                     logger.warning(
-                        f"  GitHub Models {model} returned a placeholder — retrying with fewer words"
+                        f"  OpenAI {model} returned a placeholder — retrying with fewer words"
                     )
                     continue
-                logger.info(f"  GitHub Models: used {model} ({len(truncated.split())} words)")
+                logger.info(f"  OpenAI: used {model} ({len(truncated.split())} words)")
                 result = candidate
                 used_model = model
                 got_result = True
                 break
             except Exception as e:
-                logger.warning(f"  GitHub Models {model} failed: {type(e).__name__}: {e}")
+                logger.warning(f"  OpenAI {model} failed: {type(e).__name__}: {e}")
                 last_exc = e
                 break  # API error — skip remaining chunk sizes, try next model
 
@@ -375,30 +381,29 @@ def _summarize_with_github_models(episode, text: str, github_token: str,
     if not result:
         if last_exc:
             raise last_exc
-        raise RuntimeError("All GitHub Models attempts failed")
+        raise RuntimeError("All OpenAI model attempts failed")
 
     if "HEBREW_SUMMARY:" in result:
         hebrew_summary = result.split("HEBREW_SUMMARY:", 1)[1].strip()
     else:
         hebrew_summary = result.strip()
 
-    return hebrew_summary, "", [f"Summary: GitHub Models {used_model} (he)"]
+    return hebrew_summary, "", [f"Summary: OpenAI {used_model} (he)"]
 
 
-def _github_models_token() -> str:
-    """Return an explicit GitHub Models token, if configured."""
-    import os
-    return os.environ.get("MODELS_TOKEN", "").strip()
+def _openai_api_key() -> str:
+    """Return an explicit OpenAI API key, if configured."""
+    return os.environ.get("OPENAI_API_KEY", "").strip()
 
 
 def _summarize_with_models(episode, transcript_text: str, lang: str, settings: dict,
                            long_summary: bool = False) -> tuple:
     """Returns (hebrew_summary, english_summary, pipeline_steps_list).
-    Uses GitHub Models (free, MODELS_TOKEN) if available, else BART+Helsinki fallback."""
-    github_token = _github_models_token()
-    if github_token:
+    Uses OpenAI API if available, else BART+Helsinki fallback."""
+    openai_api_key = _openai_api_key()
+    if openai_api_key:
         text = _clean_text(transcript_text, strip_urls=False)
-        return _summarize_with_github_models(episode, text, github_token, long_summary)
+        return _summarize_with_openai(episode, text, openai_api_key, long_summary)
 
     # ── Fallback: BART + Helsinki (no API key available) ──────────────────────
     steps = []
@@ -520,7 +525,7 @@ def summarize_episode(episode, transcript, settings: dict) -> tuple[str, str]:
         if not settings.get("allow_extractive_fallback", False):
             raise RuntimeError(
                 "Model summarization failed and extractive fallback is disabled. "
-                "Set MODELS_TOKEN with GitHub Models access, or set "
+                "Set OPENAI_API_KEY, or set "
                 "allow_extractive_fallback: true to permit transcript excerpts."
             ) from e
         logger.warning(f"Model pipeline unavailable ({type(e).__name__}: {e}), using extractive fallback")
