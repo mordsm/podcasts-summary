@@ -5687,3 +5687,67 @@ https://www.youtube.com/watch?v=XeehAdLLZN0
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**Andrew Huberman** [ Andrew Huberman ]
+
+**Your Memories & Emotions Impact Immune Status**  
+
+[Youtube Channel]
+03/08/2026 19:32 UTC
+03/08/2026 19:35 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+The episode of the Huberman Lab podcast out now is with Dr. Max Krummel, who is one of the world's top immunologists. We discussed how your immune system works and how to make it work better. Part of the conversation relates to exciting new findings that memories of particular events involving strong emotions — either negative or positive — can re-create the immune status you held at the time the emotion and memory occurred. With each passing year, we learn more about how the immune system and nervous system interact, and indeed how our thoughts and memories impact immune status. Max is a phenomenal biologist and teacher, and one of the people who developed immunotherapies. He's very candid about multiple issues in public health, very nuanced, and I'm certain this episode will both educate and inform action for many people.
+
+
+**Original description:**  
+The episode of the Huberman Lab podcast out now is with Dr. Max Krummel, who is one of the world's top immunologists. We discussed how your immune system works and how to make it work better. Part of the conversation relates to exciting new findings that memories of particular events involving strong emotions — either negative or positive — can re-create the immune status you held at the time the emotion and memory occurred. With each passing year, we learn more about how the immune system and nervous system interact, and indeed how our thoughts and memories impact immune status. Max is a phen
+
+
+---
+
+**Link:**
+https://www.youtube.com/shorts/PensChQQKg4
+
+*Pipeline:*
+  • Transcript: description (140 words, lang=en) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag, youtube_captions, page_content, description, youtube_whisper_skipped_ci, rss_tag, page_content
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**DoiT** [ DoiT ]
+
+**Flooid powers the future of retail with Google Cloud and DoiT**  
+
+[Youtube Channel]
+03/08/2026 17:13 UTC
+03/08/2026 19:35 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+DoiT helps Flooid maximize the value of Google Cloud through cloud intelligence, continuous optimization, and hands-on FinOps expertise. Read the full Flooid customer story: [ARTICLE URL] Flooid’s Unified Commerce platform supports complex, always-on retail experiences for global customers. As the company expanded its use of Google Cloud, it needed greater visibility into cloud expenditure, stronger governance, and a more efficient way to align infrastructure with customer demand. Through DoiT Cloud Intelligence and an ongoing partnership with DoiT’s cloud architects, FinOps specialists, and customer success team, Flooid has embedded cloud analytics, reporting, and optimization into its operating processes. DoiT helps Flooid: • Improve visibility into Google Cloud costs and utilisation • Identify infrastructure and compute optimization opportunities • Manage committed use discounts more effectively • Simplify complex cloud decisions • Build more mature FinOps and cloud governance practices • Stay ahead of new Google Cloud capabilities • Connect cloud investment more closely with customer consumption Google Cloud provides the secure, scalable infrastructure behind Flooid’s Unified Commerce platform. DoiT helps ensure that infrastructure remains efficient, cost-conscious, and aligned with Flooid’s business priorities. What began as a commercial relationship in 2021 has developed into a strategic partnership focused on helping Flooid continuously improve performance, control cloud expenditure, and innovate at scale. CHAPTERS Meet Flooid Building a Unified Commerce platform Moving from data centers to Google Cloud How DoiT unlocks greater Google Cloud value Supporting secure and scalable retail technology Embedding DoiT Cloud Intelligence and FinOps From commercial support to strategic partnership Preparing retailers for future disruption Optimizing Flooid’s Google Cloud environment AI and the future of retail Supporting always-on commerce Scaling confidently with Google Cloud and DoiT #DoiT #GoogleCloud #FinOps
+
+
+**Original description:**  
+DoiT helps Flooid maximize the value of Google Cloud through cloud intelligence, continuous optimization, and hands-on FinOps expertise. Read the full Flooid customer story: [ARTICLE URL] Flooid’s Unified Commerce platform supports complex, always-on retail experiences for global customers. As the company expanded its use of Google Cloud, it needed greater visibility into cloud expenditure, stronger governance, and a more efficient way to align infrastructure with customer demand. Through DoiT Cloud Intelligence and an ongoing partnership with DoiT’s cloud architects, FinOps specialists, and c
+
+
+---
+
+**Link:**
+https://www.youtube.com/watch?v=zwVkKju5FlU
+
+*Pipeline:*
+  • Transcript: description (289 words, lang=en) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag, youtube_captions, page_content
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
