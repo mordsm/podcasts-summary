@@ -39,6 +39,36 @@ TRANSCRIPT_RETENTION_DAYS = 30
 
 MAX_SEEN_ENTRIES = 1000
 
+PROJECT_ENV_LOADED_KEYS: set[str] = set()
+
+
+def load_project_env(env_path: Path = ROOT / ".env") -> set[str]:
+    """Load KEY=VALUE pairs from the project .env without overriding real env vars."""
+    loaded_keys: set[str] = set()
+    if not env_path.exists():
+        return loaded_keys
+    try:
+        for line in env_path.read_text(encoding="utf-8-sig").splitlines():
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, value = line.split("=", 1)
+            key = key.strip()
+            if not re.match(r"^[A-Za-z_][A-Za-z0-9_]*$", key):
+                continue
+            value = value.strip()
+            if len(value) >= 2 and value[0] == value[-1] and value[0] in {"'", '"'}:
+                value = value[1:-1]
+            if key not in os.environ:
+                os.environ[key] = value
+                loaded_keys.add(key)
+    except Exception as e:
+        logger.warning(f"Could not load {env_path}: {e}")
+    return loaded_keys
+
+
+PROJECT_ENV_LOADED_KEYS = load_project_env()
+
 
 # ── Config & State ────────────────────────────────────────────────────────────
 
@@ -387,6 +417,15 @@ def main():
         cleanup_old_transcripts()
 
         feed_configs, settings = load_config()
+        logger.info(f"Runtime root: {ROOT.resolve()}")
+        logger.info(f"Config: {CONFIG_PATH.resolve()} (allow_extractive_fallback={settings.get('allow_extractive_fallback', False)})")
+        logger.info(
+            "OpenAI config: "
+            f"OPENAI_API_KEY present={bool(os.environ.get('OPENAI_API_KEY', '').strip())}, "
+            f".env exists={(ROOT / '.env').exists()}, "
+            f".env supplied key={'OPENAI_API_KEY' in PROJECT_ENV_LOADED_KEYS}, "
+            f"GITHUB_ACTIONS={bool(os.environ.get('GITHUB_ACTIONS'))}"
+        )
         if (
             os.environ.get("GITHUB_ACTIONS")
             and not os.environ.get("OPENAI_API_KEY", "").strip()

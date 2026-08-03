@@ -1,6 +1,7 @@
 import os
 import tempfile
 import unittest
+from types import SimpleNamespace
 from pathlib import Path
 from unittest.mock import patch
 
@@ -20,10 +21,59 @@ class RunLockTests(unittest.TestCase):
                 main.release_run_lock()
 
 
+class ProjectEnvTests(unittest.TestCase):
+    def test_load_project_env_reads_openai_api_key(self):
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            env_path = Path(tmp_dir) / ".env"
+            env_path.write_text('OPENAI_API_KEY="env-file-key"\n', encoding="utf-8")
+
+            with patch.dict(os.environ, {}, clear=True):
+                loaded_keys = main.load_project_env(env_path)
+                self.assertEqual(os.environ["OPENAI_API_KEY"], "env-file-key")
+                self.assertEqual(loaded_keys, {"OPENAI_API_KEY"})
+
+    def test_load_project_env_does_not_override_existing_env(self):
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            env_path = Path(tmp_dir) / ".env"
+            env_path.write_text("OPENAI_API_KEY=env-file-key\n", encoding="utf-8")
+
+            with patch.dict(os.environ, {"OPENAI_API_KEY": "shell-key"}, clear=True):
+                loaded_keys = main.load_project_env(env_path)
+                self.assertEqual(os.environ["OPENAI_API_KEY"], "shell-key")
+                self.assertEqual(loaded_keys, set())
+
+
 class OpenAIApiKeyTests(unittest.TestCase):
     def test_ignores_github_token_outside_actions(self):
         with patch.dict(os.environ, {"GITHUB_TOKEN": "actions-token"}, clear=True):
             self.assertEqual(summarize._openai_api_key(), "")
+
+    def test_model_error_says_key_is_present_when_openai_fails(self):
+        episode = SimpleNamespace(
+            id="ep",
+            title="Episode",
+            url="https://example.com/ep",
+            published=main.datetime(2026, 8, 3, tzinfo=main.timezone.utc),
+            feed_name="Feed",
+            feed_type="rss",
+            description="",
+            audio_url=None,
+            transcript_url=None,
+            youtube_video_id=None,
+            language="en",
+            author="",
+        )
+        transcript = SimpleNamespace(
+            text="This is a transcript. " * 20,
+            language="en",
+            method="rss_tag",
+            word_count=80,
+        )
+        with patch.dict(os.environ, {"OPENAI_API_KEY": "openai-key"}, clear=True), patch.object(
+            summarize, "_summarize_with_models", side_effect=RuntimeError("bad model")
+        ):
+            with self.assertRaisesRegex(RuntimeError, "OPENAI_API_KEY is present"):
+                summarize.summarize_episode(episode, transcript, {"allow_extractive_fallback": False})
 
     def test_uses_openai_api_key_when_present(self):
         with patch.dict(os.environ, {"OPENAI_API_KEY": "openai-key"}, clear=True):

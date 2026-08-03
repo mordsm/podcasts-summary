@@ -523,6 +523,11 @@ def summarize_episode(episode, transcript, settings: dict) -> tuple[str, str]:
         pipeline_steps.extend(model_steps)
     except Exception as e:
         if not settings.get("allow_extractive_fallback", False):
+            if _openai_api_key():
+                raise RuntimeError(
+                    "Model summarization failed while OPENAI_API_KEY is present. "
+                    f"Underlying error: {type(e).__name__}: {e}"
+                ) from e
             raise RuntimeError(
                 "Model summarization failed and extractive fallback is disabled. "
                 "Set OPENAI_API_KEY, or set "
