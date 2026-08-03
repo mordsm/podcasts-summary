@@ -473,7 +473,14 @@ def get_transcript(episode, settings: dict, whisper_count: int = 0,
             return _return(result)
         attempted.append("description")
 
-    if skip_whisper:
+    if (
+        episode.youtube_video_id
+        and os.environ.get("GITHUB_ACTIONS")
+        and not settings.get("youtube_whisper_on_ci", False)
+    ):
+        logger.info("  YouTube Whisper skipped on GitHub Actions")
+        attempted.append("youtube_whisper_skipped_ci")
+    elif skip_whisper:
         logger.info("  Whisper skipped (test mode)")
         attempted.append("whisper_skipped")
     else:
@@ -498,7 +505,7 @@ def get_transcript(episode, settings: dict, whisper_count: int = 0,
         return _return(result)
     attempted.append("rss_tag")
 
-    if episode.youtube_video_id:
+    if episode.youtube_video_id and "youtube_captions" not in attempted:
         result = try_youtube_captions(episode.youtube_video_id, episode.language)
         if result:
             logger.info(f"  Transcript via youtube_captions fallback ({result.word_count} words)")

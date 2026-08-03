@@ -422,6 +422,7 @@ def main():
             logger.info(f"Normal mode: fetching episodes from last {hours}h")
             all_recent = get_recent_episodes(feed_configs, hours=hours)
             episodes = [e for e in all_recent if not is_seen(seen, e.id)]
+            episodes.sort(key=lambda e: (e.feed_type == "youtube_rss", -e.published.timestamp()))
             logger.info(f"Recent episodes fetched: {len(all_recent)}")
             logger.info(f"Already seen in recent window: {len(all_recent) - len(episodes)}")
             logger.info(f"New episodes after seen filter: {len(episodes)}")

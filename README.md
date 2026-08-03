@@ -169,6 +169,7 @@ settings:
   description_min_length: 1500 # Min word count to treat RSS description as transcript
   whisper_model: small         # faster-whisper model size (tiny/base/small/medium/large)
   max_whisper_per_run: 1       # Max Whisper jobs per cron run (defers the rest)
+  youtube_whisper_on_ci: false # Keep false to avoid YouTube bot checks stalling GitHub Actions
   bart_chunk_words: 800        # BART input chunk size in words
   allow_extractive_fallback: false # Keep false to fail/retry instead of sending transcript excerpts
   extractive_max_sentences: 15 # Sentences to keep only when extractive fallback is explicitly enabled
