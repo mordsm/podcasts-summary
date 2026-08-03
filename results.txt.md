@@ -5243,3 +5243,175 @@ https://bonimbayit.podbean.com/e/%d7%a4%d7%95%d7%93%d7%a7%d7%90%d7%a1%d7%98-%d7%
   • Tried and failed: pdf_show_notes, rss_tag, page_content
   • Summary: GitHub Models openai/gpt-4.1 (he)
 
+----
+**How I AI** [ Claire Vo ]
+
+**ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)**  
+
+[Podcast]
+03/08/2026 11:00 UTC
+03/08/2026 14:19 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+System Card: Claude Opus 4.8 May 28, 2026 anthropic.com Executive summary This system card reports results from a wide variety of pre-deployment evaluations run on Claude Opus 4.8. It includes the following sections: Responsible Scaling Policy evaluations. We ran a set of evaluations under our Responsible Scaling Policy that assessed Opus 4.8’s capabilities in the areas of chemical and biological weapons, automated AI research and development (R&D), and high-stakes misalignment risks. Our overall conclusion is that Opus 4.8 does not advance the capability frontier beyond our most capable model (Claude Mythos Preview), and that catastrophic risks from the deployment of this model remain low given our current mitigations. We tested the model on a set of cybersecurity benchmarks, some of which we used for the ﬁrst time in a system card. When operating without safeguards, Opus 4.8 is somewhat more capable on most of our cyber evaluations than its predecessor, Claude Opus 4.7; with safeguards it performs comparably. It remains substantially behind Mythos Preview on cyber capabilities. Safeguards and harmlessness. In evaluations across the domains of harmful requests, mental health, child safety, and bias & integrity, Opus 4.8 generally performs as well as, or better than, Opus 4.7. For example, the model is substantially more likely than Opus 4.7 to acknowledge opposing perspectives during political discussions. We discuss some notable qualitative patterns, such as a tendency towards over-elaborate refusals. Although it shows improvements in some areas (such as refusing malicious requests), we found Opus 4.8 to be somewhat less robust than Opus 4.7 in several agentic contexts (such as vulnerability to prompt injection attacks). However, the application of our safeguards closes the gap between the models in practice. [...] In addition to the URL blocklist, for BrowseComp we apply a content-level ﬁlter: any search result or fetched page whose page content contains the string “browsecomp” (case-insensitive substring match) is also blocked. Our blocklist contains the following patterns: browsecomp openaipublic.blob.core.windows.net/simple-evals github.com/openai/simple-evals openailive.com huggingface.co hf.co 2504.12516 2508.06600 2510.07861 2508.13167 zdnet.com/article/openais-deep-research-has-more-fact-finding-stamina-than-you-but -its-still-wrong-half-the-time aman.ai/recsys/search openreview.net/pdf/c6dcd5f3b250378e5b8283ef1ee5b16ead6615d1.pdf openreview.net/pdf/10c39467b7f1356121d2e937298acf09641e8c62.pdf 244
+
+
+**Original description:**  
+Nick Baumann is on the Developer Experience team at OpenAI, where he spends his days building with, testing, and communicating the capabilities of ChatGPT Codex and ChatGPT Work. In this episode, Nick walks me through several features that have launched or evolved recently: the new voice interface with its screen-reading orb, the Heartbeats automation system in ChatGPT Work on mobile, the live ChatGPT Sites deployment feature, and his personal use case for AI-assisted UGC video editing. What you’ll learn: How two-person voice chat works How Heartbeats work How to build and deploy a live websit
+
+
+**Links mentioned:**
+• [[2110.08193] BBQ: A Hand-Built Bias Benchmark for Question Answering](https://arxiv.org/abs/2110.08193)
+• [[2507.20526] Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition](https://arxiv.org/abs/2507.20526)
+• [[2510.09023] The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against Llm Jailbreaks and Prompt Inje](https://arxiv.org/abs/2510.09023)
+• [[2307.13702] Measuring Faithfulness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2307.13702)
+• [[2411.00986] Taking AI Welfare Seriously](https://arxiv.org/abs/2411.00986)
+• [[2509.16941] SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?](https://arxiv.org/abs/2509.16941)
+• [[2310.06770] SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770)
+• [[2601.11868] Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868)
+• [[2410.03859] SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?](https://arxiv.org/abs/2410.03859)
+• [[2605.03546] ProgramBench: Can Language Models Rebuild Programs From Scratch?](https://arxiv.org/abs/2605.03546)
+• [FrontierSWE: Blog](https://www.frontierswe.com/blog)
+• [[2311.12022] GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022)
+• [[2505.23281] MathArena: Evaluating LLMs on Uncontaminated Math Competitions](https://arxiv.org/abs/2505.23281)
+• https://openai.com/index/introducing-gpt-5-5/
+• https://openai.com/index/gpt-4-1/
+• [[2501.14249] Humanity's Last Exam](https://arxiv.org/abs/2501.14249)
+• [[2504.12516] BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
+• [[2601.20975] DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents](https://arxiv.org/abs/2601.20975)
+• [[2602.11685] DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity](https://arxiv.org/abs/2602.11685)
+• [[2407.11691] VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models](https://arxiv.org/abs/2407.11691)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/pen-name/episodes/ChatGPT-Codex-Voice--browser--Sites-an-experts-AI-workflow--Nick-Baumann-OpenAI-e3mq3n0
+
+*Pipeline:*
+  • Transcript: pdf_show_notes (61922 words, lang=en) — No audio download — summary based on PDF show notes
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**Brain Story** [ ד"ר ליאת יקיר ועומר שריר ]
+
+**פרק 61: אני זוכר את העתיד**  
+
+[Podcast]
+03/08/2026 07:23 UTC
+03/08/2026 14:19 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+פרק 61: אני זוכר את העתיד by Brain Story Brain Story By ד"ר ליאת יקיר ועומר שריר כשהמוח ההישרדותי כבר לא שולט- הסיפור החדש מתחיל. עונה ראשונה- ד"ר ליאת יקיר ועומר שריר חוקרים את המוח, הנוירונים, הגנים ההורמונים ולומדים כיצד כל זה משפיע עלינו בכל יום עונה שנייה- זה לא עוד פודקאסט. חמישה פורמטים קבועים – שכל אחד מהם פוגש אותך במקום אחר במסע: ב־Brain Loops, נצלול בכל פרק ללופ אחר – ונבין איך יוצאים ממנו. ב־Brain Mirror, נקשיב לסיפור של מישהו אחר – ונפגוש את עצמנו. ב־Brain Relief, נעצור את החרדה. ב־Brain Process, נזקק עיקרון תודעתי לחיזוק דרך הצמיחה. וב־The Creator’s Brain – ניפגש בעומק השיטה לשינוי זהות. מגיש: עומר שריר הבעלים של המרכז לפירוק סטרס וחרדה Listen on Spotify Report content on Spotify פרק 61: אני זוכר את העתיד Brain Story Aug 03, 2026 Share פרק 61: אני זוכר את העתיד רוב האנשים עסוקים בלפתור את הבעיות של היום, ומקווים שמחר ייראה אחרת. אפשר לעבוד 12 שעות ביממה, לשתות שייק ירוק ולהתאמן, ועדיין להישאר עכבר בתוך מבוך של דחיפות. אפשר לחיות אחרת, ויש לזה חוקים- חזון בלי מספרים הוא פנטזיה. מספרים בלי חזון הם בית סוהר. המציאות לא מחכה לך בחוץ, היא קורסת לתוך מי שאתה בוחר להיות ברגע זה. בפרק הזה עמור חושף למה המוח שלנו מעדיף את הסטרס המוכר על פני העתיד החדש, ואיך להפסיק להגיב למציאות ולהתחיל ליצור אותה. [...] אם סטרס או חרדה הם חלק מהיומיום שלך, ואתם מרגישים שהגיע הזמן לעשות שינוי אמיתי- זו הזדמנות להבין מה באמת עוצר אותך, לשמוע על הדרך שעובדת לאנשים כמוך, ולגלות איך מתחילים לצאת מהלופ. אפשר לתאם כאן שיחה עם הצוות המקצועי שלנו- May 21, 2024 Show more episodes
+
+
+**Original description:**  
+רוב האנשים עסוקים בלפתור את הבעיות של היום, ומקווים שמחר ייראה אחרת. זו טעות. אפשר לעבוד 12 שעות ביממה, לשתות שייק ירוק ולהתאמן, ועדיין להישאר עכבר בתוך מבוך של דחיפות. אפשר לחיות אחרת, ויש לזה חוקים- חזון בלי מספרים הוא פנטזיה. מספרים בלי חזון הם בית סוהר. המציאות לא מחכה לך בחוץ, היא קורסת לתוך מי שאתה בוחר להיות ברגע זה. בפרק הזה עמור חושף למה המוח שלנו מעדיף את הסטרס המוכר על פני העתיד החדש, ואיך להפסיק להגיב למציאות ולהתחיל ליצור אותה. הפרק הזה מיועד למי שמתפקד מצוין אבל מרגיש שהזהות שלו נבלעה בתוך העשייה.
+
+
+**Links mentioned:**
+• https://mentaldna.co.il/call-me-2/
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fsharir.omer%2F%25D7%2593&is_from_rle
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fdr_liatyakir%2F%25D7%259E%25D7%2595%25D7%2596%25D7%259E%25D7%25A0%25D7%2599%25D7%259D&is_from_rle
+• [ד"ר ליאת יקיר | הביולוגיה של הרגשות, קורסים דיגיטליים ופודקאסט](https://liatyakir.com/)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/-34652/episodes/61-e3mt1um
+
+*Pipeline:*
+  • Transcript: page_content (8593 words, lang=he) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**The Diary of a CEO** [ FlightStory ]
+
+**Secretary Pete Buttigieg: The American Dream Is DEAD. We're Running Out Of Time To Fix It!**  
+
+[Podcast]
+03/08/2026 05:00 UTC
+03/08/2026 14:19 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+{"text":" I'm really worried about where we're headed as a country. Right now, America's system is so out of whack that if you are a multi-billionaire, you probably pay a lower percentage in taxes than if you're a school teacher or a firefighter. You have levels of inequality that we've almost never seen. There's a rise in political violence, the collapse in trust, and the biggest thing at all that we're facing right now is this massive debt. But it's now escalated to a level that no one can ignore. How do you think this plays out? I mean, we're on the brink of losing our democracy, and we're running out of time to do something about it. Secretary Pete Buttigieg. Trump made a lot of promises when he came into power. Keen to get your perspective on the Iran war. So the president can't explain why we're there. There's a lot of reasons to suspect that we're just at war because he wanted us to. And now he can't figure out how to get us out of it. [...] Check this video out. I bet you, you might love it.\n","transcription_info":{"language":"en","language_probability":1,"duration":6873.269,"duration_after_vad":6873.269}}
+
+
+**Original description:**  
+Former US Secretary of Transportation Pete Buttigieg says the American experiment is on the brink. He argues that the country is at risk of losing its democracy, the problems Americans feel every day are not accidents, and that fixing it will mean doing the hard things almost no one wants to do. Pete Buttigieg is the former United States Secretary of Transportation, the former mayor of South Bend, Indiana, a Rhodes Scholar, and a Navy veteran who served in Afghanistan. He ran for president in 2020 and is now widely regarded as one of the frontrunners for the Democratic nomination for President
+
+
+**Links mentioned:**
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fpetebuttigieg&is_from_rle
+• https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpetebuttigieg
+• [TikTok - Make Your Day](https://www.tiktok.com/@petebuttigieg)
+• [Pete Buttigieg (@PeteButtigieg) / X](https://x.com/PeteButtigieg)
+• [@petebuttigieg.bsky.social on Bluesky](https://bsky.app/profile/petebuttigieg.bsky.social)
+• https://www.threads.com/@pete.buttigieg
+• [DOAC Circle – Join the Inner Circle of The Diary of a CEO](https://doaccircle.com/)
+• [The Diary of a CEO](https://smarturl.it/DOACbook)
+• https://thediary.com/products/one-percent-diary?srsltid=AfmBOooqI3JwlwBXTsWpVaK5OJ4LbvVolHlvdpAZZXKeI7xRwDxoWUwV
+• [https://linkly.link/2hm7r](https://linkly.link/2hm7r)
+• [Consent Pages](https://manage.kmail-lists.com/subscriptions/subscribe?a=QSijwy&g=UmhJ8p&utm_source=youtube&utm_medium=links&utm_campaign=static)
+• https://g2ul0.app.link/gnGqL4IsKKb
+• [Steven Bartlett - Diary of a CEO | Wispr Flow](https://wisprflow.ai/steven-bartlett-diary-of-a-ceo?promo_code=STEVEN-BARTLETT&utm_medium=audio&utm_campaign=doac_flightcast_audio&utm_source=doac&dub_id=gXiFZ0lY58XdlGEI)
+• [The Diary Of A CEO doac | Function Health](https://www.functionhealth.com/tcm/doac)
+• [Stanley Instagram: Your Instagram Growth Partner](https://coach.stan.store/?ref=stevenbartlett&amp;utm_source=youtube&amp;utm_medium=podcast&amp;utm_campaign=episode11)
+
+---
+
+**Link:**
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMPYHGYNJKKR9DNDTHTH7TD.mp3
+
+*Pipeline:*
+  • Transcript: rss_tag (66164 words, lang=auto) — No audio download — transcript from RSS feed
+  • Tried and failed: pdf_show_notes
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**עושים תוכנה** [ רשת עושים היסטוריה ]
+
+**Second Brain ו- LLM wiki | דנה ממן  [עושים תוכנה]**  
+
+[Podcast]
+03/08/2026 03:15 UTC
+03/08/2026 14:44 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+רשת עושים סטוריה עושים תוכנעה. שלום ותודה שחזרתם לעוד פרק של עושים תוכנעה אני אמית באמדור אז אם גם אתם הגעתם לשלב הזה שאתם מרגישים שאתם מצליחים לשלוט באלה אליהם בצורה באמת טובה אבל רוצים לעלות לאיזשהו שלב שלב הבא. אז אני לפני כמה זמן לקחתי ליום וחלטתי שאני רוצה לעלות לשלב הבא וחלטתי לבנות לו בעצם איזושהי סוג של נוליג' ביס שמחיל את כל הידע שאני רוצה שיהיה לי זמין בן אם זה איך אני אוהב שדברים קוראים בס פרקטיסט שלמדתי לאורך הדרך יד העסקי יד הטכני על דברים שאני עושה בעבודה שלי איזה מחלקות קיימות איך דברים עובדים וכל מיני דברים שבעצם אני צריך למשימות וגם כן מקום שאני יכול לקחת תיעודים של שיחות גישות או כל מיני דברים כאלו ולהכניס פנימה באמת ששמש ויעזור לי אז התחלתי לבנות את הדבר הזה וזה היה סופר כיף וסופר מגניב ואז התחילו לעלות לכל מיני שאלות איך אני מחלק את הקבצים איך אני גורם לו למצות את הדברים הנכונים בזמן נכון האם להשתמש ברג לא להשתמש ברג שאיזשהו מבנה או איך אני כותב כותרות או נותן שמות לדברים וזה בדיוק מה שאנחנו הולכים לדבר על הוויום אז היום הנושא שלנו זה באמת הסקן בריין אל אלן וויקי שזה בעצם משהו שעולך מאוד חזק אנחנו שומעים עליו כל הזמן וזמנתי אורחת ויוחדת שהיא לא מפתח התוכנה נכון נכון דנה רוחה הבאה כיף להיות כאן אז כיף גם לי ואני אגיד שבעצם בניתת אחד דברים המשימים אנחנו נפגשנו לפני כמה זמן ואיזשהו קונטרול פאנל מטורף אבל רגע לפני שצפרי לנו קצת על זה דנה וממנתם יסדת של סולטד מיין מוחית להסטרטגיה מוצרית איי איי ובילדרית הכל נכון כל מדויק ממש מדויק מגניב טוב אז אני רוצה שכזה צפרי דנה איך הגעת בכלל לעולם הזה של סקן בריין ומה זה סקן בריין למי שרק שמה זה בפעם הראשונה אז בעצם העולם של סקן בריין עניין אותי בדרבה לפני שאיי יגיח לעולם הנושא של סקן בריין זה בעצם האפשרות לנהל איזושהי מערכת קבצים מערכת שמנהלת את כל המידה שלי לא בתוכמוך שלי ואז מה זה משחרר אותי לעשות לחשוב זאת אומרת בהנחה שהדבר שאני רוצה לעשות בעולם זה לחשוב ולהיות בחלק שאני מאוד מאוד חזקה בו אז מתי שמישהו אחר מערכת אחרת מנהלת את הקבצים אני יכול להשתחרר מזה אני אגיד שזה נושא שהם מניסיוני אנשים נחשלים בו שוב ושוב לאורך החיים גם אנשים פרטיים וגם ארגונים נחשלים כל הזמן בלנהלת הידע ויכול להיות שאנחנו כבני אדם פשוט לא נועדנו להיות מתחזקי ידע כן בכל ארגון ישר זה שהוא קונפלואנס כזה שמעלה עדים של ריקבון מלפרות באזורים מסוימים נכון משהו שקשה ובאמת אני גם לא מכיר כל כך הרבה אנשים לפני עידן היהי שהיום זה באמת דבר שקורה הרבה יותר שניהלו משהו כזה לעצמם בצורה שהיא טובה אפקטיבית קריאה נכון זה דרה שזה שהוא סוג של טיפוסים מאוד מסוימים אנשי הקרטיסיות שהם מתייגים וגם אז התקיעה בעצם גם ריקב אז אנחנו באמת הרבה פעמים רוצים לעשות כל הדברים משימותTop כל מיני משימות היראה יודע לרוץ ואנחנו דברים על loop engineering, כל הדברים מהסוב איזה, אנחנו נותנים לו לעשות המון המון דברים, והתסכול, כאילו אני חושב שכל בן אדם שעובדים אל אלמים וקודינג איג'נץ, זה שבאמת יש דברים שאנחנו זרים עליהם שוב ושוב, ויש לנו סקילים, יש לנו כלוד md וכל, אבל משהו עדיין הוא לא בדיוק שם, נכון? נכון, בעצם הדבר שמובדיל בין תוצר של AI שוק הזה גנרי ורגיל זה לא משפט חדש, לבין משהו שהוא ממש זכב, זה הקונטקסט, זה גם כאן בתכונית הזאת דיברו לא פעם, אבל בעצם ההחלטה מה לשים בתחוק הקונטקסט הזה, ואיך לא לנפח אותו מצד אחד, איך שהוא יהיה איל ואפקטיבי, ואיך הוא ילקוד את הדברים הנכונים, ואיך הוא ידע לשלוף ברגע הנכון, את הדבר הנכון, אני רואה את זה ממש כאומנות. ואני אגיד שגם לי יש איזושהי אופססיה מסוימת כזאתי כזה, שהדברים האלו יקרו בצורה טובה ויהילה, ותמיד שהקונטקסט יהיה בול, לא כן אם מתכמצן על תוקנים, כי באמת אני רואה כמה זה ממשמע אותי. אז מה הייתה הנקודה שבעצם היא בחינתך כאילו גרמה לחלבים, או כי אני צריכה לעשות את הדבר הזה? אז בעצם כל הזמן אני, אני חושבת שהסוג פרוויר שלי זה ללמוד. אז אני כל הזמן לומדת עוד דברים חדשים, אבל מאוד מאוד קשה לתחזק את כל הדבר הזה. ואז התחלתי ללמוד על כל הנושא שליי, ויצרתי תיקיות, ושמרתי דברים באיזשהו אופן היה לי כזה כל מיני תיקיות, כפי איזה מבנה אינטואיטיבי שבניתי. אבל הרגשי שהוא שולף דברים בצורה שאני לא שמחת עליה. לפעמים הוא שולף את זה, ולפעמים הוא לא. דיברנו על זה, למה עכשיו לא שאלה אף תה את זה? וככה הבנתי שבעצם יש איזשהו מערך כזה של חוקיות מסוימת. [...] דנה תודה רבה שמחתי מאוד ואני כיף. יופי תודה רבה ואחור נתראה בפרק הבא.
+
+
+**Original description:**  
+מה קורה כשאתם שולטים טוב בLLM, אבל רוצים לעלות לשלב הבא וללמוד איך להטמיע במודל את כל הידע, ה־Best Practices וההקשר שלכם, בלי להסביר את עצמכם מחדש בכל שיחה? אירחתי היום את דנה ממן, מייסדת Salted Mind, לשיחה על Second Brain, LLM Wiki ואיך הופכים את מודלי השפה למערכת הפעלה אישית ועסקית. איך פורמטים כמו OKF של גוגל שומרים על סדר ואחידות? איך מונעים ממידע להירקב, מוודאים שהמודל מתבסס על עובדות ולא על ניחושים, ומתי מגיע הרגע שבו חייבים לעבור ל־RAG? בפרק נגענו בכל אלה, וגם באיך רותמים את המערכת לרפלקציה עצמית ולזיהוי פערים בלמידה בזמן אמת.
+
+
+---
+
+**Link:**
+https://www.spreaker.com/episode/second-brain-w-llm-wiki-dnh-mmn-wsym-twknh--73336395
+
+*Pipeline:*
+  • Transcript: whisper (8268 words, lang=he) — Full audio file transcribed (Whisper)
+  • Tried and failed: pdf_show_notes, rss_tag, page_content, description
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
