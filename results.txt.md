@@ -5415,3 +5415,275 @@ https://www.spreaker.com/episode/second-brain-w-llm-wiki-dnh-mmn-wsym-twknh--733
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**הפודקאסט של גיא קצוביץ'** [ גיא קצוביץ' ]
+
+**הישראלי שעבד 4 שנים ללא שכר וגייס 220 מיליון דולר: "יזמים שכחו שסטארט-אפ הוא עסק" #119**  
+
+[Podcast]
+03/08/2026 03:15 UTC
+03/08/2026 15:06 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+הישראלי שעבד 4 שנים ללא שכר וגייס 220 מיליון דולר: "יזמים שכחו שסטארט-אפ הוא עסק" #119 by הפודקאסט של גיא קצוביץ' הפודקאסט של גיא קצוביץ' By גיא קצוביץ' שיחות עם האנשים המעניינים בישראל. Listen on Spotify Report content on Spotify הישראלי שעבד 4 שנים ללא שכר וגייס 220 מיליון דולר: "יזמים שכחו שסטארט-אפ הוא עסק" #119 הפודקאסט של גיא קצוביץ' Aug 03, 2026 Share הישראלי שעבד 4 שנים ללא שכר וגייס 220 מיליון דולר: "יזמים שכחו שסטארט-אפ הוא עסק" #119 אמיר נחמיה, מייסד ומנכ"ל Connecteam, מתארח בפעם השנייה בפודקאסט של גיא קצוביץ' - והפעם חושף את המסע המורכב מאחורי בניית אחת החברות המובילות בתחום העובדים ללא כלים דיגיטליים. נחמיה מספר בכנות על התקופה שבה "כמעט הרגו את החברה" בגלל גיוסים וצמיחה מהירים מדי, ואיך הם הצליחו לא רק להתאושש אלא להפוך לחברה בינלאומית עם 1.7 מיליון לקוחות קצה פעילים העושים שימוש במוצר החברה. בשיחה עמוקה ומרתקת, נחמיה חולק תובנות מעשיות על בניית עסק בריא בעידן של אי-ודאות, מסביר איך החברה התמודדה עם משברי קורונה ומלחמות, ומגלה מה באמת קורה מאחורי הקלעים ביחסים עם משקיעים שגייסו 220 מיליון דולר. זה הפרק שכל יזם צריך לשמוע - ללא פילטרים, עם הכנות מרעננה על המציאות האמיתית של בניית חברת טכנולוגיה מוצלחת. מבוא והכרות מחדש - הסבר על קונקטים והמוצר - המסע מהתחלה - פיבוטים ושנים קשות - הפריצה והגורמים להצלחה - התמודדות עם צמיחה מהירה וטעויות - האתגרים של ניהול חברה גדולה - יחסים עם משקיעים ופרויקטים אסטרטגיים - עצות ליזמים בעידן הנוכחי - השפעת בינה מלאכותית על החברה - Aug 03, 2026 מהדורת מוסף: טירוף עסקאות הסייבר, מודל של OpenAI שהראה יכולות פריצה מרשימות, ומה זה עושה למשקיעים וליזמים? #118 גיא קצוביץ' מארח את עמית קרפ (Bessemer Venture Partners), ברק שוסטר (Battery Ventures) וינאי אורון (Vertex Ventures Israel) למהדורת מוסף בה נצלול לטירוף החדש של עולם הסייבר - המודל האוטונומי שפרץ ל-Hugging Face, והסיבה שסטארטאפים בתחום מגייסים סכומי עתק כבר בשלבי הסיד. ניתחנו את דוח ה-AI של Iconiq, שוחחנו על המעבר ההיסטורי של התעשייה משלב אימון המודלים (Training) לשלב השימוש (Inference), והבנו איך סולו פאונדרס מנצלים את כלי הבינה המלאכותית כדי לבנות חברות עם הכנסות של מאות אלפי דולרים ללא גיוס הון כלל. ולסיום - הצצה למרוץ החימוש בתשתיות הענן ולעתיד המפחיד והמרתק של רובוטיקה מבוססת AI. Jul 31, 2026 בגיל 16 - העובד הצעיר ביותר בצ'ק פוינט ומיקרוסופט; בגיל 26 - מגייס 71 מיליון דולר בסיבוב ראשון כדי לבנות מעבדת AI מישראל - יונתן יעקובי #116 האם חברת הרובוטיקה הגדולה הבאה בעולם תצמח דווקא מישראל? יונתן יעקובי השיק את "אניגמה" - חברת Physical AI ישראלית שנחשפת עם גיוס Seed של 71 מיליון דולר. את הסבב הובילו Index Ventures ו-Ribbit Capital, ובהשתתפות Conviction, אסף רפפורט ומשקיעים ובכירים מחברות AI מובילות ובהן OpenAI, Anthropic, xAI, Thinking Machines, Cognition ו-Mercor. יעקובי החל ללמוד מדעי המחשב כבר בגיל 13 ובהמשך הפך לעובד הצעיר ביותר בתולדות Microsoft ו-Check Point. [...] עם שני דוקטורטים במתמטיקה ומדעי המחשב, רקע ב-8200 ופוסט-דוקטורט ב-MIT, הוא מוביל חברה שמעסיקה כמעט 200 עובדים ועוסקת באחד התחומים המורכבים ביותר: מיפוי מערכת החיסון באמצעות בינה מלאכותית. מבוא לנועם סולומון ואמיוני איי - הרקע האקדמי והמסלול הלא שגרתי של נועם - מהאוניברסיטה בגיל צעיר לצבא ויחידה מיוחדת - המעבר מהאקדמיה ליזמות - המסלול לא היה מתוכנן - האתגרים והמגבלות של האקדמיה המודרנית - יתרונות וחסרונות של הדוקטורט מול התעשייה - החשיבות של מחקר בסיסי לעומת מחקר יישומי - מה זה אמיוני איי ומה ההבדל מחברות אפליקציה - הסבר על מערכת החיסון ולמה חשוב למפות אותה - הטכנולוגיות שמאפשרות מיפוי מערכת החיסון - איך עובדת המטריצה של תאים מול גנים וחלבונים - מהפכת האימונותרפיה בטיפול בסרטן - העבודה עם חברות תרופות כלקוחות משלמים - דוגמאות קונקרטיות לפריצות דרך ותובנות מהמחקר - האתגר של מציאת המינון והקומבינציות האופטימליות - העבודה כיועצים אסטרטגיים לתעשיית התרופות - החזון העתידי - מלונג'ביטי ועד מיליון דגימות - הקשר בין אוזמפיק מערכת החיסון ואריכות ימים - Jan 26, 2026 Show more episodes
+
+
+**Original description:**  
+אמיר נחמיה, מייסד ומנכ"ל Connecteam, מתארח בפעם השנייה בפודקאסט של גיא קצוביץ' - והפעם חושף את המסע המורכב מאחורי בניית אחת החברות המובילות בתחום העובדים ללא כלים דיגיטליים. נחמיה מספר בכנות על התקופה שבה "כמעט הרגו את החברה" בגלל גיוסים וצמיחה מהירים מדי, ואיך הם הצליחו לא רק להתאושש אלא להפוך לחברה בינלאומית עם 1.7 מיליון לקוחות קצה פעילים העושים שימוש במוצר החברה. בשיחה עמוקה ומרתקת, נחמיה חולק תובנות מעשיות על בניית עסק בריא בעידן של אי-ודאות, מסביר איך החברה התמודדה עם משברי קורונה ומלחמות, ומגלה מה באמת קורה מאחורי הקלעים ביחסים עם משקיעים שגייסו 220 מיליון דולר. זה הפרק שכל יזם צריך לשמ
+
+
+**Links mentioned:**
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fguykatsovich%2F&is_from_rle
+• [הפודקאסט של גיא קצוביץ' - Podcast - Apple Podcasts](https://podcasts.apple.com/us/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%9C-%D7%92%D7%99%D7%90-%D7%A7%D7%A6%D7%95%D7%91%D7%99%D7%A5/id1252035397)
+• [Digital Health Track with A-Squared](https://www.fusion-vc.com/digital-health-track-with-a-squared)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fguykatsovich%2F&is_from_rle
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fguy_katsovich_podcast%2F&is_from_rle
+• [הפודקאסט של גיא קצוביץ' | Podcast on Spotify](https://open.spotify.com/show/0dTqS27ynvNmMnA5x4ObKQ)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/guy-katsovich/episodes/4-----220---------119-e3lmj04
+
+*Pipeline:*
+  • Transcript: page_content (12213 words, lang=he) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**פשוט AI** [ Benny Farber ]
+
+**עד כמה בתי ספר רלוונטיים לדור שגדל עם בינה מלאכותית 👩‍🏫 | פרק 178 עם נסטיה אוצ'קובסקי, אליסקוד**  
+
+[Podcast]
+02/08/2026 02:30 UTC
+03/08/2026 15:06 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+עד כמה בתי ספר רלוונטיים לדור שגדל עם בינה מלאכותית 👩‍🏫 | פרק 178 עם נסטיה אוצ'קובסקי, אליסקוד by פשוט AI פשוט AI By Benny Farber הנה פודקאסט על הבום הגדול בעולם הבינה מלאכותית - אבל אחד כזה במילים פשוטות, שגם אנשים רגילים יכולים להבין Listen on Spotify Available on Report content on Spotify עד כמה בתי ספר רלוונטיים לדור שגדל עם בינה מלאכותית 👩‍🏫 | פרק 178 עם נסטיה אוצ'קובסקי, אליסקוד פשוט AI Aug 02, 2026 Share עד כמה בתי ספר רלוונטיים לדור שגדל עם בינה מלאכותית 👩‍🏫 | פרק 178 עם נסטיה אוצ'קובסקי, אליסקוד עד כמה בתי הספר עדיין רלוונטיים לדור שגדל עם בינה מלאכותית? בשיחה עם נסטיה אוצ׳קובסקי מאליסקוד, מרכז למידת קוד ופיתוח לבנות, אנחנו צוללים לעומק הפער בין מערכת החינוך המסורתית לבין המציאות החדשה שנבנית סביב AI, טכנולוגיה ויזמות. נדבר על הדרך שבה אליסקוד הפכה הרבה מעבר לחוג לבנות, על הרצף שמוביל מכיתה ד׳ ועד לתעשייה, על הפערים שעוד קיימים בין בנות לטכנולוגיה, ועל השאלה הגדולה: האם בינה מלאכותית באמת מורידה חסמים - או רק יוצרת חדשים? :) פרטים והרשמה לכנס בזום על סוכני AI ב10.8!⁠ ⁠ לאתר של אליסקוד ⁠לסדנה המעשית על אופןקלואו!⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠לקורס דיגיטלי על קלוד קוד (14 שעות מוקלטות(!))⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠לרכישת הספר שלי "אסיר תודה"⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לערוץ היוטיוב של בני פרבר⁠⁠⁠ מוזמנים לקהילת הפייסבוק ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ישראל - ChatGPT⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠להרשמה לניוזלטר השווה בתבל⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לקבוצת העדכונים בווצאפ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לאינסטגרם של בני⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ דוברים: בני פרבר ונסטיה אוצ'קובסקי Aug 02, 2026 שוק התעסוקה ומיסוי על סוכני בינה מלאכותית(?) 📠 | פרק 177 עם אפרת בכר-נתנאל, מכון מוזאיק בפרק הזה דיברתי עם אפרת ממכון מוזאיק על אחת השאלות הכי בוערות של התקופה: איך שוק התעסוקה הולך להיראות בעידן ה-AI, ומה באמת יקרה כשסוכני בינה מלאכותית יתחילו להיכנס יותר ויותר למקומות העבודה. דיברנו על פיטורים, על משרות שייעלמו ועל משרות חדשות שיווצרו, על ההשפעה של המהפכה הזו על הכלכלה כולה, וגם על השאלה הפרובוקטיבית במעט: האם צריך למַסות סוכני AI. לבסוף, נכנסנו לדיון על מס שלילי ו-UBI, על הסיכונים והאתגרים שהשינוי הזה מביא איתו, ועל מה כל אחד מאיתנו יכול לעשות כדי להישאר רלוונטי בעולם החדש. פרק מרתק תהנו :) פרטים והרשמה לכנס בזום על סוכני AI ב10.8! לאתר של מכון מוזאיק לסדנה המעשית על אופןקלואו!⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠לקורס דיגיטלי על קלוד קוד (14 שעות מוקלטות(!))⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠לרכישת הספר שלי "אסיר תודה"⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לערוץ היוטיוב של בני פרבר⁠⁠ מוזמנים לקהילת הפייסבוק ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ישראל - ChatGPT⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠להרשמה לניוזלטר השווה בתבל⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לקבוצת העדכונים בווצאפ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לאינסטגרם של בני⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ דוברים: בני פרבר ואפרת בכר-נתנאל Jul 26, 2026 הגיאופוליטיקה מאחורי מהפכת הבינה המלאכותית: הכלכלן הראשי ברשות לניירות ערך לשעבר עושה סדר 📊 | פרק 176 עם אילן גילדין פרק על הגיאופוליטיקה המרתקת מאחורי מהפכת ה-AI. בשיחה שלי עם ד"ר אילן גילדין, הכלכלן הראשי ברשות לניירות ערך לשעבר, נכנסנו לעומק של המאבק בין סין לארה״ב, ניסינו להבין איפה באמת עומדת סין מול OpenAI וגוגל, עד כמה המלחמה על השבבים וההגבלות האמריקאיות באמת משנות את המשחק ומה המשמעות של כל זה לשוק ההון, לפיננסים ולחברות כמו אנבידיה. דיברנו גם על השאלה הגדולה יותר: האם זו בועה, מהפכה, או פשוט התעשייה החדשה שנולדת מול העיניים שלנו - ואיך כלכלה שלמה, בישראל ובעולם, הולכת להיראות כשה-AI יהפוך מחידוש טכנולוגי לכוח שמקבל החלטות אמיתיות. פרק מעורר מחשבה - תהנו :) לסדנה המעשית על אופןקלואו!⁠⁠⁠⁠⁠⁠⁠ ⁠לקורס דיגיטלי על קלוד קוד (14 שעות מוקלטות(!))⁠⁠⁠ ⁠⁠⁠⁠⁠⁠לרכישת הספר שלי "אסיר תודה"⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לערוץ היוטיוב של בני פרבר⁠ מוזמנים לקהילת הפייסבוק ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+
+**Original description:**  
+עד כמה בתי הספר עדיין רלוונטיים לדור שגדל עם בינה מלאכותית? בשיחה עם נסטיה אוצ׳קובסקי מאליסקוד, מרכז למידת קוד ופיתוח לבנות, אנחנו צוללים לעומק הפער בין מערכת החינוך המסורתית לבין המציאות החדשה שנבנית סביב AI, טכנולוגיה ויזמות. נדבר על הדרך שבה אליסקוד הפכה הרבה מעבר לחוג לבנות, על הרצף שמוביל מכיתה ד׳ ועד לתעשייה, על הפערים שעוד קיימים בין בנות לטכנולוגיה, ועל השאלה הגדולה: האם בינה מלאכותית באמת מורידה חסמים - או רק יוצרת חדשים? :) פרטים והרשמה לכנס בזום על סוכני AI ב10.8!⁠ ⁠ לאתר של אליסקוד ⁠לסדנה המעשית על אופןקלואו!⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠לקורס דיגיטלי על קלוד קוד (14 שעות מוקלטות(!))⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ל
+
+
+**Links mentioned:**
+• [One moment, please...](https://www.hrportal.co.il/aionline2026/)
+• [אליסקוד - מנהיגות טכנולוגית לנערות ונשים ונערות](https://alicecode.org/)
+• [סדנת קלוד קוד מעשית · 24.2.2026 · OpenClaw בעברית](https://hi.switchy.io/OpenclawPOD)
+• [חבילת Claude Code המלאה | 2 סדנאות + קורס 4 מפגשים — 297 ₪ | דניאל נחמיה ובני פרבר](https://claude.danielai.co.il/claudecodecourse)
+• [אסיר תודה - בני פרבר | עברית - חנות ספרים](https://hi.switchy.io/IvritBook)
+• https://www.youtube.com/@BennyFarber-AIPashut
+• https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F715153780127233
+• [הרשמה לרשימת דיוור AI](https://ai-israel.minisite.ms/AI-newsletter)
+• [WAgroup Podcast](https://hi.switchy.io/g-eK)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fbennyfarber%3Figshid%3DOGQ5ZDc2ODk2ZA%253D%253D%26utm_source%3Dqr&is_from_rle
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/benny-farber/episodes/178-e3mo9se
+
+*Pipeline:*
+  • Transcript: page_content (7417 words, lang=he) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**30 דקות או פחות** [ אביב פרנקל ]
+
+**יאיר גרינדלינגר - מה מייסדים סדרתיים יודעים שאחרים לא**  
+
+[Podcast]
+01/08/2026 17:00 UTC
+03/08/2026 15:06 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+יאיר גרינדלינגר - מה מייסדים סדרתיים יודעים שאחרים לא by דקות או פחות ‎30 דקות או פחות ‎30 By אביב פרנקל אביב פרנקל מארח בפודקאסט שבועי יזמים ,מנכ״לים ואנשים מעניינים מתעשית הייטק שבאים לספר איזה סיפור מעניין או על עצמם או על החברה שלהם על הצלחות וגם על כשלונות. Listen on Spotify Available on Report content on Spotify יאיר גרינדלינגר - מה מייסדים סדרתיים יודעים שאחרים לא דקות או פחות ‎30 Aug 01, 2026 Share יאיר גרינדלינגר - מה מייסדים סדרתיים יודעים שאחרים לא יאיר גרינדלינגר הוא יזם סדרתי, יוצא ממר״מ, ואחד האנשים הכי מעניינים לדבר איתם היום על עתיד הסייבר בעידן הבינה המלאכותית. בשיחה נדבר על המסלול שלו, מהשירות הצבאי, דרך העבודה הראשונה במכירות תוכנה שבה הבין שהוא רוצה לבנות חברות, ועד להקמה ומכירה של חברות סייבר לאורך שני עשורים של יזמות. יאיר מספר איך בנה את החברה הראשונה שלו, מה השתנה בפעם השנייה, ואיך נראית היום הקמה של סטארטאפ סייבר בעולם שבו סוכני בינה מלאכותית משנים את כללי המשחק. נדבר גם על החברה החדשה שלו, סרף איי־איי, שפועלת כבר עם ארגונים מהגדולים בעולם וגייסה 57 מיליון דולר, על גיוס הענק שביצע בשיא המלחמה, ועל למה צוותי אבטחה יצטרכו לעבוד אחרת לגמרי בשנים הקרובות. פרק על יזמות, סייבר, בניית חברות, והעתיד של העבודה בין בני אדם לסוכני בינה מלאכותית. Aug 01, 2026 ליאור פרושאור - זה הזמן להשקיע בדיפ טק ישראלי השבוע מתארח בפודקאסט ליאור פרושאור, שותף מנהל בקרן דיפ33. בעיצומה של תקופה מאתגרת מאוד בשוק ההון סיכון, דיפ33 הצליחה לגייס קרן חדשה בהיקף של 150 מיליון דולר, המתמקדת בהשקעות דיפ-טק ישראליות. בשיחה אנחנו צוללים לתזה של הקרן: איך חדשנות ישראלית בתחומים כמו בינה מלאכותית, תשתיות וטכנולוגיות עומק יכולה להשפיע על המאזן הגלובלי, במיוחד במאבק בין מעצמות על עליונות טכנולוגית. לפני דיפ33, ליאור היה ממייסדי הנאקו, אחת מקרנות ההון סיכון הוותיקות והמובילות בישראל, והיה בין המשקיעים הראשונים בחברות כמו ויה וקארביין, לצד עוד חברות מצליחות. דיברנו על מצב האקוסיסטם הישראלי, למה דווקא עכשיו דיפ-טק הופך להזדמנות מרכזית, איך משקיעים חושבים על הימורים ארוכי טווח בעידן של לחץ לתוצאות מהירות, ואילו תחומים צפויים להוביל את העשור הקרוב. פרק על השקעות, גיאופוליטיקה, בינה מלאכותית, על המקום הייחודי של ישראל במרוץ הטכנולוגי העולמי, וגם על אבא שלו השגריר רון פרושאור. Jul 25, 2026 אייל אלבכרי - הגולנצ׳יק שדואג לאנשי המכירות אייל אלבכרי גדל באור יהודה של שנות השמונים והתגייס לגולני בימים של רצועת הביטחון המדממת של שנות התשעים. [...] דיברנו על החברות המובילות שבהן היה מעורב – כמו AI21, Finout, ExtremeIO ו־Appsflyer – וגם על ההייטק הישראלי בעידן החדש: בין ציונות למלחמה, בין אנטישמיות גוברת ליזמים שנעים בין ישראל לחו״ל. Sep 06, 2025 Show more episodes
+
+
+**Original description:**  
+יאיר גרינדלינגר הוא יזם סדרתי, יוצא ממר״מ, ואחד האנשים הכי מעניינים לדבר איתם היום על עתיד הסייבר בעידן הבינה המלאכותית. בשיחה נדבר על המסלול שלו, מהשירות הצבאי, דרך העבודה הראשונה במכירות תוכנה שבה הבין שהוא רוצה לבנות חברות, ועד להקמה ומכירה של חברות סייבר לאורך שני עשורים של יזמות. יאיר מספר איך בנה את החברה הראשונה שלו, מה השתנה בפעם השנייה, ואיך נראית היום הקמה של סטארטאפ סייבר בעולם שבו סוכני בינה מלאכותית משנים את כללי המשחק. נדבר גם על החברה החדשה שלו, סרף איי־איי, שפועלת כבר עם ארגונים מהגדולים בעולם וגייסה 57 מיליון דולר, על גיוס הענק שביצע בשיא המלחמה, ועל למה צוותי אבטחה יצטרכו לעב
+
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/30minutesorless/episodes/--e3jrutr
+
+*Pipeline:*
+  • Transcript: page_content (6977 words, lang=he) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**The Diary of a CEO** [ FlightStory ]
+
+**Most Replayed Moment: Ex-CIA Reveals What Spies Know About Human Nature**  
+
+[Podcast]
+31/07/2026 05:00 UTC
+03/08/2026 15:06 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+{"text":" John, how did you come to be a CIA spy? When I was nine years old, I told my parents that I wanted to be a spy when I grew up. It came time to apply for college, and I only applied at one university, George Washington University in Washington, because it was two blocks from the White House, and it was one of only three schools in America that offered a Middle Eastern studies program. I was one of only four people in that brand new Middle Eastern Studies program. I stayed for a master's degree in Legislative Affairs with a focus on foreign policy analysis. I was taking a class in that program called the Psychology of Leadership. It was taught by an eminent psychiatrist named Dr. And he gave us an assignment one day where we had to shadow our bosses. We had to just follow our bosses for a week. I worked at a labor union called the United Food and Commercial Workers Union. And so we were just supposed to follow our boss around for a week and then write a psychological profile. I used dozens of, you know, footnotes from psychological, you know, psychology texts. And I ended up saying that he was a sociopath with psychopathic and possibly violent tendencies. [...] Check the description. Thank you.\n","transcription_info":{"language":"en","language_probability":1,"duration":1961.902,"duration_after_vad":1961.902}}
+
+
+**Original description:**  
+What do spies understand about people that most of us miss? John Kiriakou is a former CIA officer, whistleblower, and intelligence expert who spent years working inside the world of espionage and national security. In this Moment, John Kiriakou reveals the lessons the intelligence world teaches about human behaviour, how people can be read through subtle signals, and what years of studying others taught him about trust, deception, and understanding those around you. Listen to the full episode here! Spotify: https://g2ul0.app.link/9k4pMiF564b Apple: https://g2ul0.app.link/eAG8tCJ564b Watch the 
+
+
+**Links mentioned:**
+• https://g2ul0.app.link/9k4pMiF564b
+• https://g2ul0.app.link/eAG8tCJ564b
+• https://www.youtube.com/c/%20TheDiaryOfACEO/videos
+
+---
+
+**Link:**
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KY8EX4JD3ASYFKPWTHQ2NCVR.mp3
+
+*Pipeline:*
+  • Transcript: rss_tag (16446 words, lang=auto) — No audio download — transcript from RSS feed
+  • Tried and failed: pdf_show_notes
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**הפודקאסט של גיא קצוביץ'** [ גיא קצוביץ' ]
+
+**מהדורת מוסף: טירוף עסקאות הסייבר, מודל של OpenAI שהראה יכולות פריצה מרשימות, ומה זה עושה למשקיעים וליזמים? #118**  
+
+[Podcast]
+31/07/2026 03:00 UTC
+03/08/2026 15:06 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+מהדורת מוסף: טירוף עסקאות הסייבר, מודל של OpenAI שהראה יכולות פריצה מרשימות, ומה זה עושה למשקיעים וליזמים? #118 by הפודקאסט של גיא קצוביץ' הפודקאסט של גיא קצוביץ' By גיא קצוביץ' שיחות עם האנשים המעניינים בישראל. Listen on Spotify Report content on Spotify מהדורת מוסף: טירוף עסקאות הסייבר, מודל של OpenAI שהראה יכולות פריצה מרשימות, ומה זה עושה למשקיעים וליזמים? #118 הפודקאסט של גיא קצוביץ' Jul 31, 2026 Share הישראלי שעבד 4 שנים ללא שכר וגייס 220 מיליון דולר: "יזמים שכחו שסטארט-אפ הוא עסק" #119 אמיר נחמיה, מייסד ומנכ"ל Connecteam, מתארח בפעם השנייה בפודקאסט של גיא קצוביץ' - והפעם חושף את המסע המורכב מאחורי בניית אחת החברות המובילות בתחום העובדים ללא כלים דיגיטליים. נחמיה מספר בכנות על התקופה שבה "כמעט הרגו את החברה" בגלל גיוסים וצמיחה מהירים מדי, ואיך הם הצליחו לא רק להתאושש אלא להפוך לחברה בינלאומית עם 1.7 מיליון לקוחות קצה פעילים העושים שימוש במוצר החברה. בשיחה עמוקה ומרתקת, נחמיה חולק תובנות מעשיות על בניית עסק בריא בעידן של אי-ודאות, מסביר איך החברה התמודדה עם משברי קורונה ומלחמות, ומגלה מה באמת קורה מאחורי הקלעים ביחסים עם משקיעים שגייסו 220 מיליון דולר. זה הפרק שכל יזם צריך לשמוע - ללא פילטרים, עם הכנות מרעננה על המציאות האמיתית של בניית חברת טכנולוגיה מוצלחת. מבוא והכרות מחדש - הסבר על קונקטים והמוצר - המסע מהתחלה - פיבוטים ושנים קשות - הפריצה והגורמים להצלחה - התמודדות עם צמיחה מהירה וטעויות - האתגרים של ניהול חברה גדולה - יחסים עם משקיעים ופרויקטים אסטרטגיים - עצות ליזמים בעידן הנוכחי - השפעת בינה מלאכותית על החברה - Aug 03, 2026 מהדורת מוסף: טירוף עסקאות הסייבר, מודל של OpenAI שהראה יכולות פריצה מרשימות, ומה זה עושה למשקיעים וליזמים? #118 גיא קצוביץ' מארח את עמית קרפ (Bessemer Venture Partners), ברק שוסטר (Battery Ventures) וינאי אורון (Vertex Ventures Israel) למהדורת מוסף בה נצלול לטירוף החדש של עולם הסייבר - המודל האוטונומי שפרץ ל-Hugging Face, והסיבה שסטארטאפים בתחום מגייסים סכומי עתק כבר בשלבי הסיד. ניתחנו את דוח ה-AI של Iconiq, שוחחנו על המעבר ההיסטורי של התעשייה משלב אימון המודלים (Training) לשלב השימוש (Inference), והבנו איך סולו פאונדרס מנצלים את כלי הבינה המלאכותית כדי לבנות חברות עם הכנסות של מאות אלפי דולרים ללא גיוס הון כלל. ולסיום - הצצה למרוץ החימוש בתשתיות הענן ולעתיד המפחיד והמרתק של רובוטיקה מבוססת AI. Jul 31, 2026 בגיל 16 - העובד הצעיר ביותר בצ'ק פוינט ומיקרוסופט; בגיל 26 - מגייס 71 מיליון דולר בסיבוב ראשון כדי לבנות מעבדת AI מישראל - יונתן יעקובי #116 האם חברת הרובוטיקה הגדולה הבאה בעולם תצמח דווקא מישראל? יונתן יעקובי השיק את "אניגמה" - חברת Physical AI ישראלית שנחשפת עם גיוס Seed של 71 מיליון דולר. [...] עם שני דוקטורטים במתמטיקה ומדעי המחשב, רקע ב-8200 ופוסט-דוקטורט ב-MIT, הוא מוביל חברה שמעסיקה כמעט 200 עובדים ועוסקת באחד התחומים המורכבים ביותר: מיפוי מערכת החיסון באמצעות בינה מלאכותית. מבוא לנועם סולומון ואמיוני איי - הרקע האקדמי והמסלול הלא שגרתי של נועם - מהאוניברסיטה בגיל צעיר לצבא ויחידה מיוחדת - המעבר מהאקדמיה ליזמות - המסלול לא היה מתוכנן - האתגרים והמגבלות של האקדמיה המודרנית - יתרונות וחסרונות של הדוקטורט מול התעשייה - החשיבות של מחקר בסיסי לעומת מחקר יישומי - מה זה אמיוני איי ומה ההבדל מחברות אפליקציה - הסבר על מערכת החיסון ולמה חשוב למפות אותה - הטכנולוגיות שמאפשרות מיפוי מערכת החיסון - איך עובדת המטריצה של תאים מול גנים וחלבונים - מהפכת האימונותרפיה בטיפול בסרטן - העבודה עם חברות תרופות כלקוחות משלמים - דוגמאות קונקרטיות לפריצות דרך ותובנות מהמחקר - האתגר של מציאת המינון והקומבינציות האופטימליות - העבודה כיועצים אסטרטגיים לתעשיית התרופות - החזון העתידי - מלונג'ביטי ועד מיליון דגימות - הקשר בין אוזמפיק מערכת החיסון ואריכות ימים - Jan 26, 2026 Show more episodes
+
+
+**Original description:**  
+גיא קצוביץ' מארח את עמית קרפ (Bessemer Venture Partners), ברק שוסטר (Battery Ventures) וינאי אורון (Vertex Ventures Israel) למהדורת מוסף בה נצלול לטירוף החדש של עולם הסייבר - המודל האוטונומי שפרץ ל-Hugging Face, והסיבה שסטארטאפים בתחום מגייסים סכומי עתק כבר בשלבי הסיד. ניתחנו את דוח ה-AI של Iconiq, שוחחנו על המעבר ההיסטורי של התעשייה משלב אימון המודלים (Training) לשלב השימוש (Inference), והבנו איך סולו פאונדרס מנצלים את כלי הבינה המלאכותית כדי לבנות חברות עם הכנסות של מאות אלפי דולרים ללא גיוס הון כלל. ולסיום - הצצה למרוץ החימוש בתשתיות הענן ולעתיד המפחיד והמרתק של רובוטיקה מבוססת AI.
+
+
+**Links mentioned:**
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fguykatsovich%2F&is_from_rle
+• [הפודקאסט של גיא קצוביץ' - Podcast - Apple Podcasts](https://podcasts.apple.com/us/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%9C-%D7%92%D7%99%D7%90-%D7%A7%D7%A6%D7%95%D7%91%D7%99%D7%A5/id1252035397)
+• [Digital Health Track with A-Squared](https://www.fusion-vc.com/digital-health-track-with-a-squared)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fguykatsovich%2F&is_from_rle
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fguy_katsovich_podcast%2F&is_from_rle
+• [הפודקאסט של גיא קצוביץ' | Podcast on Spotify](https://open.spotify.com/show/0dTqS27ynvNmMnA5x4ObKQ)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/guy-katsovich/episodes/OpenAI------------118-e3mo5m8
+
+*Pipeline:*
+  • Transcript: page_content (12217 words, lang=he) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**Andrew Huberman** [ Andrew Huberman ]
+
+**How Your Immune System Works & How to Improve It | Dr. Max Krummel**  
+
+[Youtube Channel]
+03/08/2026 12:00 UTC
+03/08/2026 15:06 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+Matthew (Max) Krummel, PhD, professor at UCSF and one of the world’s leading immunologists. We discuss how your immune system works and how sleep, emotions, and even memories shape immune function. We also explore thymus function, its role in autoimmunity, and its potential role in combating cancer. And we discuss how the type and timing of immunization can impact health. This episode provides an actionable framework for understanding how your immune system works, which ought to benefit people of all ages and health statuses. Show notes: Pre-order Protocols: Thank you to our sponsors AG1: Eight Sleep: Function: Joovv: Follow Huberman Lab Website: Instagram: Threads: X: Facebook: TikTok: LinkedIn: Timestamps Max Krummel Immune System, Immunotherapy Illness, Childhood & Immune System Aging & Immunity, DNA Mutations Sponsors: Joovv & Eight Sleep Self vs Non-Self Recognition, Aging, Cancer; Immune Surveillance Cancer, Immune System, Age & Measuring Change Thymus, T Cells; Aging & Cancer Reproduction, Aging & Immune System; Basic Research Sleep & Illness Susceptibility Sponsor: AG1 Umbilical Cord Banking; Organoids, CAR T Cells, Thymus Scientific Curiosity, Failures, & Discovery Spatial Biology & Immune Cells; Memory & Immune State; Stress, Meditation Sponsor: Function Mindset; Tissue Engineering, Peptides, Systems Biology Immunizations in Childhood and Beyond Pharmaceutical Companies, Public Distrust Disease Risk, Immunity; Autism, Flu, Biological Resilience, Cancer; Computational Research Autoimmune Conditions, Asthma, IBD Autoimmunity & Genetic Diversity Benefits Science Communication, Max's Substack Zero-Cost Support, YouTube, Spotify & Apple Follow, Reviews & Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter #hubermanlab #hubermanlabpodcast Disclaimer & Disclosures:
+
+
+**Original description:**  
+My guest is Dr. Matthew (Max) Krummel, PhD, professor at UCSF and one of the world’s leading immunologists. We discuss how your immune system works and how sleep, emotions, and even memories shape immune function. We also explore thymus function, its role in autoimmunity, and its potential role in combating cancer. And we discuss how the type and timing of immunization can impact health. This episode provides an actionable framework for understanding how your immune system works, which ought to benefit people of all ages and health statuses. Show notes: https://go.hubermanlab.com/zKNruC3 Pre-o
+
+
+**Links mentioned:**
+• [How Your Immune System Works & How to Improve It | Dr. Max Krummel](https://www.hubermanlab.com/episode/how-your-immune-system-works-and-how-to-improve-it-max-krummel?utm_source=youtube&utm_medium=social&utm_content=description+link)
+• [Protocols: An Operating Manual for the Human Body](https://www.hubermanlab.com/protocols-book)
+• https://www.eightsleep.com/huberman
+• [Andrew Huberman | Function Health](https://www.functionhealth.com/asp/andrew-huberman)
+• https://joovv.com/pages/andrew-huberman?afmc=1g1&utm_campaign=1g1&utm_medium=affiliate&utm_source=leaddyno
+• [Huberman Lab | Science-Based Tools for Everyday Life](https://www.hubermanlab.com/)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fhubermanlab&is_from_rle
+• https://www.threads.com/@hubermanlab
+• [Andrew D. Huberman, Ph.D. (@hubermanlab) / X](https://x.com/hubermanlab)
+• https://www.facebook.com/hubermanlab
+• [TikTok - Make Your Day](https://www.tiktok.com/@hubermanlab)
+• [Andrew Huberman - Professor and Neuroscientist at Stanford & Host of Huberman Lab | LinkedIn](https://www.linkedin.com/in/andrew-huberman)
+• [Disclaimer and Disclosures](https://www.hubermanlab.com/disclaimer)
+
+---
+
+**Link:**
+https://www.youtube.com/watch?v=s_tkMm5U9aY
+
+*Pipeline:*
+  • Transcript: description (292 words, lang=en) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag, youtube_captions, page_content
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**Creative Channel** [ Creative Channel ]
+
+**DIY AI Xiaozhi Wire Robot - Part 2 | Adding TOF050C VL6180 Anti-Fall Distance Sensor**  
+
+[Youtube Channel]
+02/08/2026 12:49 UTC
+03/08/2026 15:06 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgrade the robot by installing a TOF050C VL6180 Time-of-Flight distance sensor to detect edges and prevent the robot from falling off tables or other elevated surfaces. This sensor measures distance in real time, allowing the robot to recognize dangerous edges and improve autonomous navigation. In this video: Soldering the TOF050C VL6180 sensor Wiring the sensor to the ESP32-S3 Installing the anti-fall sensor on the robot Testing edge detection Preparing for future autonomous navigation features This is Part 2 of an open-source AI robot series built around ESP32-S3 and Xiaozhi AI. If you enjoy DIY robotics, AI projects, and ESP32 development, don't forget to Like, Subscribe, and follow the next episodes! Components Used ESP32-S3 N16R8 Development Board TOF050C VL6180 Time-of-Flight Distance Sensor INMP441 I2S MEMS Microphone MAX98357A I2S Audio Amplifier 0.96" OLED Display Mini L298N Motor Driver 2× 5V 60RPM DC Gear Motors 3W 4Ω Speaker TTP223 Touch Sensor 2× ICR14250 Li-ion Batteries Brass Wire Robot Chassis #Xiaozhi #ESP32 #ESP32S3 #Robot #AIRobot #DIYRobot #OpenSource #Robotics #VL6180 #TOF050C #DistanceSensor #AI #Maker #Electronics #Arduino
+
+
+**Original description:**  
+Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgrade the robot by installing a TOF050C VL6180 Time-of-Flight distance sensor to detect edges and prevent the robot from falling off tables or other elevated surfaces. This sensor measures distance in real time, allowing the robot to recognize dangerous edges and improve autonomous navigation. In this video: Soldering the TOF050C VL6180 sensor Wiring the sensor to the ESP32-S3 Installing the anti-fall sensor on the robot Testing edge detection Preparing for future autonomous navigation features This is Part 2 of an o
+
+
+---
+
+**Link:**
+https://www.youtube.com/watch?v=XeehAdLLZN0
+
+*Pipeline:*
+  • Transcript: description (187 words, lang=en) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag, youtube_captions, page_content, description, youtube_whisper_skipped_ci, rss_tag, page_content
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
