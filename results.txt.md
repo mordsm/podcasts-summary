@@ -5788,3 +5788,56 @@ https://omny.fm/shows/program-51/ad51db29-4530-40db-870e-b49d008b2764
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**How I AI** [ Claire Vo ]
+
+**Build an AI code review bot in 30 minutes with Vercel Eve**  
+
+[Podcast]
+05/08/2026 11:00 UTC
+05/08/2026 11:57 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+System Card: Claude Opus 4.8 May 28, 2026 anthropic.com Executive summary This system card reports results from a wide variety of pre-deployment evaluations run on Claude Opus 4.8. It includes the following sections: Responsible Scaling Policy evaluations. We ran a set of evaluations under our Responsible Scaling Policy that assessed Opus 4.8’s capabilities in the areas of chemical and biological weapons, automated AI research and development (R&D), and high-stakes misalignment risks. Our overall conclusion is that Opus 4.8 does not advance the capability frontier beyond our most capable model (Claude Mythos Preview), and that catastrophic risks from the deployment of this model remain low given our current mitigations. We tested the model on a set of cybersecurity benchmarks, some of which we used for the ﬁrst time in a system card. When operating without safeguards, Opus 4.8 is somewhat more capable on most of our cyber evaluations than its predecessor, Claude Opus 4.7; with safeguards it performs comparably. It remains substantially behind Mythos Preview on cyber capabilities. Safeguards and harmlessness. In evaluations across the domains of harmful requests, mental health, child safety, and bias & integrity, Opus 4.8 generally performs as well as, or better than, Opus 4.7. For example, the model is substantially more likely than Opus 4.7 to acknowledge opposing perspectives during political discussions. We discuss some notable qualitative patterns, such as a tendency towards over-elaborate refusals. Although it shows improvements in some areas (such as refusing malicious requests), we found Opus 4.8 to be somewhat less robust than Opus 4.7 in several agentic contexts (such as vulnerability to prompt injection attacks). However, the application of our safeguards closes the gap between the models in practice. [...] In addition to the URL blocklist, for BrowseComp we apply a content-level ﬁlter: any search result or fetched page whose page content contains the string “browsecomp” (case-insensitive substring match) is also blocked. Our blocklist contains the following patterns: browsecomp openaipublic.blob.core.windows.net/simple-evals github.com/openai/simple-evals openailive.com huggingface.co hf.co 2504.12516 2508.06600 2510.07861 2508.13167 zdnet.com/article/openais-deep-research-has-more-fact-finding-stamina-than-you-but -its-still-wrong-half-the-time aman.ai/recsys/search openreview.net/pdf/c6dcd5f3b250378e5b8283ef1ee5b16ead6615d1.pdf openreview.net/pdf/10c39467b7f1356121d2e937298acf09641e8c62.pdf 244
+
+
+**Original description:**  
+AI writes most of my code now, and that created a new problem: a PR queue I couldn’t keep up with. In this episode, I walk through how I built Merge Mommy, a Vercel Eve agent that reads every PR after checks pass, scores it across six risk dimensions, auto-approves the low-risk ones, and pings me in Slack for anything that needs a human. I built the whole thing in one Codex session, it’s SOC 2 compatible, and it’s already cleared my backlog. What you’ll learn: Why AI-generated PRs create a review bottleneck and why the answer isn’t reviewing all of them How Intercom 5x’d PR approval speed and 
+
+
+**Links mentioned:**
+• [[2110.08193] BBQ: A Hand-Built Bias Benchmark for Question Answering](https://arxiv.org/abs/2110.08193)
+• [[2507.20526] Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition](https://arxiv.org/abs/2507.20526)
+• [[2510.09023] The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against Llm Jailbreaks and Prompt Inje](https://arxiv.org/abs/2510.09023)
+• [[2307.13702] Measuring Faithfulness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2307.13702)
+• [[2411.00986] Taking AI Welfare Seriously](https://arxiv.org/abs/2411.00986)
+• [[2509.16941] SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?](https://arxiv.org/abs/2509.16941)
+• [[2310.06770] SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770)
+• [[2601.11868] Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868)
+• [[2410.03859] SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?](https://arxiv.org/abs/2410.03859)
+• [[2605.03546] ProgramBench: Can Language Models Rebuild Programs From Scratch?](https://arxiv.org/abs/2605.03546)
+• [FrontierSWE: Blog](https://www.frontierswe.com/blog)
+• [[2311.12022] GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022)
+• [[2505.23281] MathArena: Evaluating LLMs on Uncontaminated Math Competitions](https://arxiv.org/abs/2505.23281)
+• https://openai.com/index/introducing-gpt-5-5/
+• https://openai.com/index/gpt-4-1/
+• [[2501.14249] Humanity's Last Exam](https://arxiv.org/abs/2501.14249)
+• [[2504.12516] BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
+• [[2601.20975] DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents](https://arxiv.org/abs/2601.20975)
+• [[2602.11685] DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity](https://arxiv.org/abs/2602.11685)
+• [[2407.11691] VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models](https://arxiv.org/abs/2407.11691)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/pen-name/episodes/Build-an-AI-code-review-bot-in-30-minutes-with-Vercel-Eve-e3muer1
+
+*Pipeline:*
+  • Transcript: pdf_show_notes (61922 words, lang=en) — No audio download — summary based on PDF show notes
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
