@@ -5885,3 +5885,45 @@ https://podcasters.spotify.com/pod/show/-316679/episodes/95---------90-e3n1akq
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**The Diary of a CEO** [ FlightStory ]
+
+**Top Bitcoin Holder: Ask AI To Do THIS, Stop Trying To Out-Work The Robots! | Michael Saylor**  
+
+[Podcast]
+06/08/2026 05:00 UTC
+06/08/2026 05:45 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+{"text":" I used AI to make $15 billion last year. Because the AI gave us a solution to the problem that no one had ever encountered before in the history of the world. And so my advice is don't try to outwork the robots. What you want to do is ask the AI to do something that's never been done before. And if you want to create these incredible success things, you want to locate the magic opportunity. I know this because I'm a technology entrepreneur. And we're the biggest buyer of Bitcoin in the world, so what is my mission? I'm preaching the gospel of digital empowerment, and Bitcoin is digital money, and it's gonna be the best long-term capital asset. And you can actually own something, and someone more powerful than you can't take it away from you. What do you mean they can't take Bitcoin from you? So this is a stack of currency. You walk through an airport on this. They ask you if you have cash. [...] It's a pleasure to be on the journey together. Thank you, my friend.\n","transcription_info":{"language":"en","language_probability":1,"duration":5955.86,"duration_after_vad":5955.86}}
+
+
+**Original description:**  
+The Diary Of A CEO: ◼Join DOAC circle here - https://doaccircle.com/ ◼Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK ◼The 1% Diary is back - limited time only: https://thediary.com/products/one-percent-diary ◼The Diary Of A CEO Conversation Cards (Second Edition): https://thediary.com/products/the-conversation-cards-2nd-edition ◼Get email updates - https://link.thediaryofaceo.com/5IB1H6E ◼Follow Steven - https://link.thediaryofaceo.com/AGU9QP4 Sponsors: Cometeer - https://cometeer.com/DOAC use code DOAC for $20 off Pipedrive - https://pipedrive.com/CEO
+
+
+**Links mentioned:**
+• [DOAC Circle – Join the Inner Circle of The Diary of a CEO](https://doaccircle.com/)
+• [https://link.thediaryofaceo.com/BWjLTZK](https://link.thediaryofaceo.com/BWjLTZK)
+• https://thediary.com/products/one-percent-diary
+• https://thediary.com/products/the-conversation-cards-2nd-edition
+• [https://link.thediaryofaceo.com/5IB1H6E](https://link.thediaryofaceo.com/5IB1H6E)
+• [https://link.thediaryofaceo.com/AGU9QP4](https://link.thediaryofaceo.com/AGU9QP4)
+• [Cometeer x Steven Bartlett — World Mug](https://get.cometeer.com/lps/steven-bartlett-wm?utm_source=podcast&utm_medium=paid-audio&utm_campaign=steven)
+• [Pipedrive gets your sales organized | Pipedrive](https://www.pipedrive.com/en/programlp?utm_source=influencers&utm_medium=podcast&utm_campaign=ceo)
+
+---
+
+**Link:**
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3
+
+*Pipeline:*
+  • Transcript: rss_tag (53479 words, lang=auto) — No audio download — transcript from RSS feed
+  • Tried and failed: pdf_show_notes
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
