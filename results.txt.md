@@ -6237,3 +6237,51 @@ https://www.youtube.com/watch?v=xKvlK7OqZso
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**הביולוגיה של הווינרים** [ איתן עזריה I אימון מנטלי להישגים ]
+
+**פרק 287: הדבר שאתם עושים כל יום שחוסם לכם את השפע**  
+
+[Podcast]
+07/08/2026 06:11 UTC
+07/08/2026 09:58 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+פרק 287: הדבר שאתם עושים כל יום שחוסם לכם את השפע by הביולוגיה של הווינרים הביולוגיה של הווינרים By איתן עזריה I אימון מנטלי להישגים "הביולוגיה של הווינרים" היא תוכנית רדיו אינטרנטית העוסקת בצד המנטלי של הצלחה בעולם תחרותי ובהנגשת כלים למיקסום הפוטנציאל האנושי. התוכנית מיועדת לאנשים הישגיים מקשת תעשייה: ספורטאים, מנהלים, יזמים, אנשי עסקים, הורים, מנהיגים השואפים להישגים בלתי רגילים בדרך מאוזנת, תוך שמירה על ערכם וזהותם כבני אדם שלמים. בכל פרק תקבלו הצצה נדירה לעולמם המנטלי והרגשי של מספרי 1# בתחומם במסעם רצוף הלחצים לתוצאות, ומפרק לפרק נחשוף, מה נדרש כדי להפוך לבני אדם שלמים במסע להישגים, לווינרים! לא רק על סמך תוצאה או תחרות אחת – אלא במשחק החיים. התוכנית עשויה בסגנון 'קליל' ומועברת ״בגובה העיניים״ ובאיכות הפקה גבוהה במיוחד. הפרקים זמינים להורדה בחינם בקבצי mp3 הניתנים להאזנה בטלפון הנייד, רדיו-דיסק ברכב או כל נגן נייד אחר.משך כל פרק בין 20-60 דקותשלכם,איתן Listen on Spotify Available on Report content on Spotify פרק 287: הדבר שאתם עושים כל יום שחוסם לכם את השפע הביולוגיה של הווינרים Aug 07, 2026 Share פרק 287: הדבר שאתם עושים כל יום שחוסם לכם את השפע הכוונה שממנה אנחנו פועלים קובעת לא רק אילו תוצאות נשיג, אלא גם כמה שפע וברכה נוכל להכיל בחיינו. בפרק מיוחד זה, איתן עזריה, מאמן מנטלי העובד עם ספורטאים, יזמים ומנהלים בכירים, חושף את ארבע הדרגות של המשכת השפע על פי מאמר של הרבי מליובאוויטש — ומסביר למה עבודה קשה לבדה לא תמיד מספיקה כדי לייצר קפיצת מדרגה אמיתית. בסרטון תלמדו מה ההבדל בין פעולה מתוך מאמץ, פעולה מתוך אמונה ופעולה מתוך ביטול, למה דווקא הצורך לשלוט בתוצאה שוחק אותנו ומצמצם את הכלי שלנו, ואיך אפשר להמשיך לפעול במלוא העוצמה — בלי לחשוב שאנחנו המקור הבלעדי של ההצלחה. הירשמו לוובינר לקראת הכשרת המאמנים הקרובה! אל תפספסו: ━━━━━━━━━━━━━━━━━━━━━━ 🔍 מה מחכה לכם בסרטון? ━━━━━━━━━━━━━━━━━━━━━━ 🎁 ארבע הדרגות של משיכת השפע מה ההבדל בין חסד חינם, שפע שמגיע בהתאם לעבודה, שפע שמגיע בדרך של מתנה ושפע שנמשך באמצעות ביטול — ואיך כל דרגה משנה את כמות הברכה שאנחנו מסוגלים לקבל. 📈 למה עבודה קשה עלולה להגביל את התוצאות איך תפיסת העולם שלפיה שעות העבודה והמאמץ שלנו קובעים בדיוק כמה נקבל עלולה לגרום לנו לחשוב רק במונחים של “אחד ועוד אחד שווה שתיים” — ולפספס הזדמנויות גדולות בהרבה. 🤲 לעשות את ההשתדלות ולשחרר את התוצאה למה התפקיד שלנו הוא לפעול, להתאמץ ולבנות כלי ראוי — אבל לא להחליט מאיפה, מתי ובאיזו דרך תגיע הברכה, ואיך שחרור האחיזה מאפשר לתוצאות מפתיעות להיכנס. [...] בפרק אציע גישה של עבודה מקבילה על שניהם, תוך שימוש במטאפורות של החלמה מפציעה של ספ... Nov 30, 2024 Show more episodes
+
+
+**Original description:**  
+הכוונה שממנה אנחנו פועלים קובעת לא רק אילו תוצאות נשיג, אלא גם כמה שפע וברכה נוכל להכיל בחיינו. בפרק מיוחד זה, איתן עזריה, מאמן מנטלי העובד עם ספורטאים, יזמים ומנהלים בכירים, חושף את ארבע הדרגות של המשכת השפע על פי מאמר של הרבי מליובאוויטש — ומסביר למה עבודה קשה לבדה לא תמיד מספיקה כדי לייצר קפיצת מדרגה אמיתית. בסרטון תלמדו מה ההבדל בין פעולה מתוך מאמץ, פעולה מתוך אמונה ופעולה מתוך ביטול, למה דווקא הצורך לשלוט בתוצאה שוחק אותנו ומצמצם את הכלי שלנו, ואיך אפשר להמשיך לפעול במלוא העוצמה — בלי לחשוב שאנחנו המקור הבלעדי של ההצלחה. הירשמו לוובינר לקראת הכשרת המאמנים הקרובה! אל תפספסו: https://did.li
+
+
+**Links mentioned:**
+• [וובינר חשיפה — בית הספר לאימון מנטלי | איתן עזריה](https://schoolwebinar.eitanazaria.co.il/?utm_campaign=school18&utm_source=youtube&utm_medium=social&utm_content=youtube)
+• [וובינר חשיפה — בית הספר לאימון מנטלי | איתן עזריה](https://schoolwebinar.eitanazaria.co.il/?utm_campaign=school18&utm_source=podcast&utm_medium=social&utm_content=podcast)
+• [הבית המנטלי | קורסים לאימון מנטלי וצמיחה אישית](https://store.eitanazaria.co.il/tanya)
+• [איתן עזריה, ‎מוביל אנשים להישגים מהירים באמצעות אימון מנטאלי](https://eitanazaria.co.il/)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Feitanazaria&is_from_rle
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Feitanazaria%2F&is_from_rle
+• [הבית המנטלי | קורסים לאימון מנטלי וצמיחה אישית](https://store.eitanazaria.co.il/tanya?utm_source=youtube&utm_medium=video&utm_campaign=tanya_course&utm_content=chaos_principles%D7%90%D7%9D)
+• https://events.davidghiyam.com/tel-aviv-october-24-2025-manifesting-your-souls-destiny-creating-limitless-abundance
+• [10 תובנות מרכזיות מפרק יום הולדת 42 של איתן עזריה I ביולוגיה של הווינרים.pdf - Google Drive](https://drive.google.com/file/d/1Gzqn3YIw0_Rr_zWa_0aHyrcTP7df4pMg/view?usp=sharing)
+• https://www.instagram.com/p/DH9HDofICzi/?igsh=Z2YzNnNydzV2YzJl
+• [WhatsApp Group Invite](https://chat.whatsapp.com/CdLdW5KxbjU8BDozabhEQL%E2%81%A0%E2%81%A0%E2%81%A0)
+• [WhatsApp Group Invite](https://chat.whatsapp.com/CdLdW5KxbjU8BDozabhEQL%E2%81%A0%E2%81%A0)
+• [WhatsApp Group Invite](https://chat.whatsapp.com/CdLdW5KxbjU8BDozabhEQL)
+• [מועדון הביולוגיה של הווינרים I מסלול אימון מנטלי מקיף ליזמים ובעלי עסקים שרוצים ״לשרוף את המסלול״ בלי לשרוף את עצמם כבני](https://eitanazaria.co.il/moadon/)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/eitanazaria/episodes/287-e3n3eld
+
+*Pipeline:*
+  • Transcript: page_content (9227 words, lang=he) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
