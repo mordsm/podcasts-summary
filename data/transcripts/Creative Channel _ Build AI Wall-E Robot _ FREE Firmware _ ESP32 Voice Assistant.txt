@@ -1,0 +1,99 @@
+Feed: Creative Channel
+Episode: Build AI Wall-E Robot | FREE Firmware | ESP32 Voice Assistant Robot Project
+Method: description
+Language: en
+Words: 261
+URL: https://www.youtube.com/watch?v=KsrUED3ajTQ
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+Meet the new KST AI Wall-E Robot!
+
+This project is built on the CyberBrick chassis shown in my previous video.
+
+⚠ If this is your first time building it, PLEASE WATCH PART 1 FIRST.
+The previous video covers:
+✅ CyberBrick chassis assembly
+✅ 3D printed parts
+✅ Converting a standard servo into a 360° continuous rotation servo
+✅ Complete mechanical assembly
+
+👉 Previous video:
+https://youtu.be/E-MoTiJDM6Y
+------------------------------------------------
+
+🔥 Download the FREE firmware here:
+https://ai.kenhsangtao.com/
+
+Simply:
+✔ Connect your ESP32-S3
+✔ Select the firmware
+✔ Click Install Firmware
+
+No Arduino IDE required.
+No compiling.
+------------------------------------------------
+📦 Component List
+
+🧠 Main Controller:
+https://s.shopee.vn/1gHbk7am4m
+• ESP32-S3 N16R8 (16MB Flash / 8MB PSRAM)
+
+🖥 Display:
+https://s.shopee.vn/7KvyUYqOxM
+• ST7735 128×160 SPI TFT Display
+
+🎤 Audio:
+https://s.shopee.vn/19Nl6iS1d
+• INMP441 I2S Microphone
+• MAX98357A Audio Amplifier
+• 3W 4Ω Speaker:
+https://s.shopee.vn/AKZa4APUmJ
+
+📏 Sensors:
+https://s.shopee.vn/3g2g7rijOS
+• VL6180X or TOF050C ToF Anti-Fall Sensor
+• TTP223 Touch Sensor:
+https://s.shopee.vn/5ArTudsqCE
+
+⚙ Motion:
+https://s.shopee.vn/5ArTunP1Pe
+• 2× 360° Continuous Rotation Servos (Left & Right Wheels)
+• 2× Servos for Arm and Neck
+
+💡 Lighting : https://s.shopee.vn/LmEXKyoto
+• 2× Edison LEDs
+
+🔋 Power
+• 3.7V Li-ion / LiPo Battery (~2000mAh)
+https://s.shopee.vn/qiUklc2yf
+• TP4056 USB Type-C Charging Module with 5V Boost Converter:
+https://s.shopee.vn/4AywirA0fO
+
+• Power Switch
+------------------------------------------------
+
+Features
+✔ AI voice assistant
+✔ Wake word
+✔ Wi-Fi
+✔ ST7735 display
+✔ ToF anti-fall sensor
+✔ Servo control
+✔ Free firmware updates
+------------------------------------------------
+
+If you don't already have 360° servos, be sure to watch the previous video showing how to convert standard servos into continuous rotation servos.
+
+Happy building!
+
+#KSTRobot
+#WallE
+#ESP32
+#RobotAI
+#CyberBrick
+#DIYRobot
+#Maker
+#ST7735
+#3DPrinting
