@@ -5994,3 +5994,46 @@ https://share.transistor.fm/s/6b6fa401
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**בונים בית** [ bonimbayit ]
+
+**פודקאסט פרק 112 - כמה קבלן מפתח מרוויח ומה תפקידו ?**  
+
+[Podcast]
+06/08/2026 18:30 UTC
+07/08/2026 00:41 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+מה אם השקרות לדבר שליטה היא עוד רכדת ככה? אפלונרו בואה למדבר שלטה, סילט, ובמפריעי לך, לדבר שלטה ככה כך. So you can fall asleep faster, sleep deeper, and wake up actually feeling rested. This isn't just tracking sleep. אפלונרו תלך את שליטה חלטת כתובילה. Try Apollonurrisk Free for 30 days at Apollo. A-P-O-L-L-O, Neuro, N-E-U-R-O, dot com. That's Apollo Neuro at Apollo, A-P-O-L-L-O, Neuro, N-E-U-R-O, dot com.
+
+
+**Original description:**  
+📌 מתכננים לבנות בית? קבעו עכשיו פגישת ייעוץ חינמית לתכנון תקציב הבנייה שלכם » https://tinyurl.com/mry7yanj 🎥 כאן תומר חן ריחאנה מ"בונים בית" – ואתם בערוץ שמלווה אתכם לבנות חכם, לחסוך כסף, ולשמור על השפיות לאורך כל הדרך. בין אם אתם רק בהתחלה או כבר עם היתר ביד – בערוץ מחכה לכם תוכן שמבוסס על שטח אמיתי, פרויקטים אמיתיים, ואינספור תובנות שיכולות לשנות לכם את כל התהליך. 🔗 קישורים חשובים לבונים ולמשפצים: 📌 לתיאום פגישת ייעוץ תקציב בניה חינם » https://tinyurl.com/mry7yanj 📌 הכירו את תוכניות הניהול של בונים בית » https://tinyurl.com/mry7yanj 📌 הטבות והנחות מיוחדות לקהילת בונים בית » https://tinyurl.c
+
+
+**Links mentioned:**
+• [תכניות הניהול פרוייקטים של בונים בית - בונים בית](https://bonimbayit.co.il/membership-tiers/?utm_source=youtube&utm_medium=description&utm_campaign=&utm_term=&utm_content=)
+• https://bonimbayit.co.il/%d7%94%d7%98%d7%91%d7%95%d7%aa-%d7%9c%d7%a7%d7%94%d7%99%d7%9c%d7%94/?utm_source=youtube&utm_medium=description&utm_campaign=&utm_term=&utm_content=
+• https://bonimbayit.co.il/join-us/?utm_source=youtube&utm_medium=description&utm_campaign=&utm_term=&utm_content=
+• https://bonimbayit.co.il/recommended/?utm_source=youtube&utm_medium=description&utm_campaign=&utm_term=&utm_content=
+• https://bonimbayit.co.il/%d7%94%d7%a6%d7%98%d7%a8%d7%a4%d7%95-%d7%9c%d7%a7%d7%91%d7%95%d7%a6%d7%95%d7%aa-%d7%94%d7%95%d7%95%d7%98%d7%a1%d7%90%d7%a4/?utm_source=youtube&utm_medium=description&utm_campaign=&utm_term=&utm_content=
+• https://www.youtube.com/channel/UCCehs0A1gUmOUtZIhvkXVJQ?sub_confirmation=1?utm_source=&utm_medium=&utm_campaign=&utm_term=&utm_content=
+• https://www.facebook.com/bonimbayit
+• [פודקאסט בונים בית | Podcast on Spotify](https://open.spotify.com/show/54ad9OeT6XsRf8ZtUtC4Su)
+• [TikTok - Make Your Day](https://www.tiktok.com/@tomer.chen.rihana)
+
+---
+
+**Link:**
+https://bonimbayit.podbean.com/e/%d7%a4%d7%95%d7%93%d7%a7%d7%90%d7%a1%d7%98-%d7%a4%d7%a8%d7%a7-112%d7%9b%d7%9e%d7%94-%d7%a7%d7%91%d7%9c%d7%9f-%d7%9e%d7%a4%d7%aa/
+
+*Pipeline:*
+  • Transcript: whisper (68 words, lang=he) — Full audio file transcribed (Whisper)
+  • Tried and failed: pdf_show_notes, rss_tag, page_content, description
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
