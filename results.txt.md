@@ -6074,3 +6074,75 @@ https://agentsofdev.podbean.com/e/unifying-data-stacks-open-weight-controversies
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**The Diary of a CEO** [ FlightStory ]
+
+**Most Replayed Moment: Alzheimer's Starts 20 Years Before Symptoms! How To Protect Your Brain Now**  
+
+[Podcast]
+07/08/2026 05:00 UTC
+07/08/2026 05:38 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+{"text":" What's the most compelling study you've ever encountered that proves that exercise is central to Alzheimer's prevention and brain health? When we look at all of the data, we can see that the biggest amount of return on investment is from resistance training. Resistance training being? One of the most compelling studies was probably the SMART trial where they took a group of people with mild cognitive impairment and gave them two to three times per week of resistance training. And they not only preserved their cognitive functions, they enhanced their processing speed, they enhanced their fluid intelligence, and they had slowing of the gray matter. So your brain consists of both grey and white matter. So grey matter are the cell bodies that lives on the outer side, outer portions of your brain. And the white matter is deep within the brain, and that's where all of our myelinated neurons live. And over time we see that we can have little lesions in the white matter of the brain. So a lot of the times people will ask me, Stephen, I'm scared. My mother had Alzheimer's disease. I'm scared I'm going to get it. And we were talking about genetics before. [...] Check the description. Thank you.\n","transcription_info":{"language":"en","language_probability":1,"duration":1828.083,"duration_after_vad":1828.083}}
+
+
+**Original description:**  
+How do I best protect my brain from cognitive decline? Louisa Nicola is a neurophysiologist and the founder of Neuro Athletics, specialising in brain health, human performance, and longevity. In this Moment, Louisa Nicola reveals how the right kind of exercise can help protect the ageing brain, why one often-overlooked measure of physical strength may be a powerful marker of cognitive health, and the training approach linked to remarkable changes in the middle-aged heart. Listen to the full episode here! Spotify: https://g2ul0.app.link/FCjUBa95n5b Apple: https://g2ul0.app.link/jJOy01c6n5b Watc
+
+
+**Links mentioned:**
+• https://g2ul0.app.link/FCjUBa95n5b
+• https://g2ul0.app.link/jJOy01c6n5b
+• https://www.youtube.com/c/%20TheDiaryOfACEO/videos
+
+---
+
+**Link:**
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZB7YVD59TCDB7A3V1ZND76F.mp3
+
+*Pipeline:*
+  • Transcript: rss_tag (14824 words, lang=auto) — No audio download — transcript from RSS feed
+  • Tried and failed: pdf_show_notes
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**מנועי הכסף** [ כלכליסט ]
+
+**המירוץ הטכנולוגי בין ארה״ב לסין יקבע את העתיד של כולנו**  
+
+[Podcast]
+06/08/2026 12:32 UTC
+07/08/2026 06:01 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+מלחמה אחת מסתימת והשנייה רק מתחילה. אז כן, הנפט נחלש, השקל מתחזק, המדדים בסביב ואפילו המתוסים ההפורים האלו בלי החלונות, שממלים את נדבג כבר מתחילים לעשות קולות של עוזבים את הארץ. אבל במגביל מלחמה אחרת רק יצאה לדרך המלחמה על הדתה, על השוווים, על הזיכרון, על האנרגיה שתקרר את כל זה, ועל האיי. ומתחת לכל המספרים האלו, מסתתר מרוץ חימוש של ממש בין ארצות הבריתלסין על השליטה הזו, בטכנולוגיה שתכתיב את מאזן הכוחות. וכל זה קורה בדיוק שאני נקיות הטכנולוגיה מדפחות ממש בימים אלו, על הרבחים שלהן בשלושת החודשים האחרונים, והתמונה האמת, לא נראית רעה, למעשה די טובה. אבל מה עם המנהיות, זה כבר סיפור אחר. אנחנו בעולם אחר, אמר השבוע, אחד האנליסטים שהתארך בסין ב-C אחרי פרסום הדוחות של SpaceX. השוק רק מנסה לאניש, ואתה רק צריך לקוות שלא יסמנו את החברה שלך. אז שלום, מוברוחים הבאים לפרק נוסף של פוטקסמנוי, הכסף של כלכליסטים, הכלכלן והסטרטג הראשי שלה גם לידרים אורי גרינפלד, על הנורי. אני שייסדין עשוק חדי לעשות סדר בכל הרעש הזה. ודוקטור אילן גילדין, מנהל כרן גידור בקרני פמליופיס, שלום אילן, תודה רבה שהצטרף את השוב. תראה, אפשר לדבר בהתחלה על השוק, באמת על הרבחים של החברות, כי אנחנו כרגע לא... אתה יודע, יש חלק מהחברות, ראינו שבאמת דוחות לא ראים בכלל, אבל השוק מעניש אותם. [...] די מדהימה אחוזים האלה. זהו, תודה רבה שזנתם לנו נשתמיה בשבוע הבא.
+
+
+**Original description:**  
+מלחמה אחת מסתיימת ואחרת רק מתחילה - המלחמה על הדאטה, השבבים והאנרגיה שמאחורי ה-AI. בפרק הזה שי סלין ואורי גרינפלד מארחים את דוקטור אילן גילדין, מנהל קרן גידור בקרני פמילי אופיס, כדי להבין את המרוץ התעשייתי בין ארצות הברית לסין על השליטה ב-AI - ולמה ענקיות הטק שבשיא הדוחות דווקא נענשות בשוק. צ'פטרים: 0:00 פתיח ומצב השוק - דוחות חזקים אבל השוק מעניש 3:48 תמחור מחדש של ההשקעות ב-AI 10:56 המרוץ התעשייתי מול סין 16:20 וול סטריט, מלחמת מחירים ושני אינטרנטים 22:35 כוח רך, בריחת מוחות והסקטור הפיננסי הסיני 43:27 פינת האסקפיזם 🎧 מנועי הכסף בכל האפליקציות: https://youtube.com/@money_engines?si=nTk-o2JEv
+
+
+**Links mentioned:**
+• https://www.youtube.com/@money_engines?si=nTk-o2JEviEli5Y3
+
+---
+
+**Link:**
+https://omny.fm/shows/calcalistpodsmenoeyhakesef/b1d6202c-b9ed-47f5-a0d6-b49e00bdab6a
+
+*Pipeline:*
+  • Transcript: whisper (6309 words, lang=he) — Full audio file transcribed (Whisper)
+  • Tried and failed: pdf_show_notes, rss_tag, page_content, description
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
