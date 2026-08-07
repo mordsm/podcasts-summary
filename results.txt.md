@@ -6146,3 +6146,94 @@ https://omny.fm/shows/calcalistpodsmenoeyhakesef/b1d6202c-b9ed-47f5-a0d6-b49e00b
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**Gardening with the RHS** [ Royal Horticultural Society ]
+
+**Garden wildlife care for heatwaves: dahlias, cinnabar moths, and more**  
+
+[Podcast]
+06/08/2026 11:45 UTC
+07/08/2026 07:09 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+As we experience one of the most extreme summers on record, how can we help our garden wildlife cope with the heat? RHS Science and Horticulture Editor Olivia Drake explains why ornamental dahlias can be an excellent late summer food source for pollinators, while RHS entomologist Josie Stuart introduces us to the striking cinnabar moth and its close relationship with drought-resistant ragwort. We also visit Where Magic Grows, a new family-friendly immersive exhibition at Leeds’ Thackeray Museum of Medicine, exploring the connections between plants, folklore and medicine, in collaboration with the RHS. Plus, we answer some of your top gardening questions of the week. Host: Gareth Richards Producers: Dan Cocker, Poppy Waring Contributors: Olivia Drake, Josie Stuart, Jack Gann, Holly Tomlinson Links: Dahlias for pollinators Exhibition: Where Magic Grows Lavendars Plums Grey Water Plants mentioned: Dahlia merckii Dahlia 'Tangerine Gem' Dahlia australis Dahlia Pretty Woman Veronicastrum virginicum 'Lavendelturm' Achillea millefolium 'Cerise Queen' Email your questions to podcasts@rhs.org.uk
+
+
+**Original description:**  
+As we experience one of the most extreme summers on record, how can we help our garden wildlife cope with the heat? RHS Science and Horticulture Editor Olivia Drake explains why ornamental dahlias can be an excellent late summer food source for pollinators, while RHS entomologist Josie Stuart introduces us to the striking cinnabar moth and its close relationship with drought-resistant ragwort. We also visit Where Magic Grows, a new family-friendly immersive exhibition at Leeds’ Thackeray Museum of Medicine, exploring the connections between plants, folklore and medicine, in collaboration with 
+
+
+**Links mentioned:**
+• [Dahlia merckii (B) | Merck dahlia](https://www.rhs.org.uk/plants/5296/dahlia-merckii-b/details)
+• [Dahlia 'Tangerine Gem' (Sin) | dahlia 'Tangerine Gem'](https://www.rhs.org.uk/plants/510690/dahlia-tangerine-gem-sin/details)
+• [Dahlia australis | southern dahlia](https://www.rhs.org.uk/plants/181404/dahlia-australis/details)
+• [Dahlia Pretty Woman ('Vdtg43'PBR) (Dark Angel Series) (Sin) | dahlia [Pretty Woman]](https://www.rhs.org.uk/plants/282403/dahlia-pretty-woman-vdtg43-pbr-dark-angel-series-sin/details)
+• [Veronicastrum virginicum 'Lavendelturm' | Culver's root 'Lavendelturm'](https://www.rhs.org.uk/plants/111539/veronicastrum-virginicum-lavendelturm/details)
+• [Achillea millefolium 'Cerise Queen' | yarrow 'Cerise Queen'](https://www.rhs.org.uk/plants/97048/achillea-millefolium-cerise-queen/details)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fthegrrdener%2F&is_from_rle
+• [5 top-performing dahlias to plant for pollinators / RHS](https://www.rhs.org.uk/garden-inspiration/plants-we-love/five-top-dahlias-for-pollinators)
+• [Exhibition: Where Magic Grows - Thackray Museum of Medicine](https://thackraymuseum.co.uk/event/where-magic-grows/)
+• [Lavender (Lavandula) / RHS Plant Guide](https://www.rhs.org.uk/plants/lavender)
+• [How to grow plums | RHS Guide](https://www.rhs.org.uk/fruit/plums/grow-your-own)
+• [what is grey water: expert RHS advice on using grey water in gardens / RHS](https://www.rhs.org.uk/science/gardening-in-a-changing-world/water-use-in-gardens/using-grey-water)
+
+---
+
+**Link:**
+https://traffic.megaphone.fm/PIXP9776013459.mp3
+
+*Pipeline:*
+  • Transcript: description (163 words, lang=en) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag, page_content
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**Andrew Huberman** [ Andrew Huberman ]
+
+**Control Your Brain Chemistry for Focus, Motivation & Well-Being | Huberman Lab Essentials**  
+
+[Youtube Channel]
+06/08/2026 12:00 UTC
+07/08/2026 07:09 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+In this ⁠Huberman Lab Essentials⁠ episode, I explain how key neuromodulators shape motivation, energy, focus and mood throughout the day. I also describe a toolkit of science-supported behavioral, nutritional and supplement-based strategies to increase baseline levels for each neuromodulator, which can be modified to support your specific health and performance goals. Show notes: Watch more Huberman Lab Essentials: Huberman Lab Website: Instagram: Threads: X: Facebook: TikTok: LinkedIn: Timestamps Optimize Neurochemicals for Health Neuromodulator Levels & 3 Daily Phases Hormones Modulate Neuromodulators Effects of Key Neuromodulators Increase Motivation & Dopamine, Tools: Morning Sunlight; Caffeine Dopamine Supplements: Mucuna Pruriens, L-Tyrosine, Phenethylamine (PEA) Increase Dopamine, Tool: Deliberate Cold Exposure Increase Epinephrine (Adrenaline) & Energy, Tools: Exercise, Cyclic Hyperventilation Enhance Focus & Acetylcholine: Choline-Rich Foods, Nicotine Acetylcholine Supplements: Alpha-GPC, Huperzine Serotonin & Mood, Tools: Gratitude, Tryptophan-Rich Foods Serotonin Supplement: Myo-inositol Using the Neurochemical Toolkit for Your Goals #hubermanlab Disclaimer & Disclosures:
+
+
+**Original description:**  
+In this ⁠Huberman Lab Essentials⁠ episode, I explain how key neuromodulators shape motivation, energy, focus and mood throughout the day. I also describe a toolkit of science-supported behavioral, nutritional and supplement-based strategies to increase baseline levels for each neuromodulator, which can be modified to support your specific health and performance goals. Show notes: https://go.hubermanlab.com/vqRTSoT Watch more Huberman Lab Essentials: https://youtube.com/playlist?list=PLPNW_gerXa4OGNy1yE-W9IX-tPu-tJa7S&amp;si=a1_sA7rUT-fE0OM5 Huberman Lab Website: https://www.hubermanlab.com Ins
+
+
+**Links mentioned:**
+• [Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being](https://www.hubermanlab.com/episode/essentials-control-brain-chemistry-for-focus-motivation-and-well-being?utm_source=youtube&utm_medium=social&utm_content=description+link)
+• https://www.youtube.com/playlist?list=PLPNW_gerXa4OGNy1yE-W9IX-tPu-tJa7S&si=a1_sA7rUT-fE0OM5
+• [Huberman Lab | Science-Based Tools for Everyday Life](https://www.hubermanlab.com/)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fhubermanlab&is_from_rle
+• https://www.threads.com/@hubermanlab
+• [Andrew D. Huberman, Ph.D. (@hubermanlab) / X](https://x.com/hubermanlab)
+• https://www.facebook.com/hubermanlab
+• [TikTok - Make Your Day](https://www.tiktok.com/@hubermanlab)
+• [Andrew Huberman - Professor and Neuroscientist at Stanford & Host of Huberman Lab | LinkedIn](https://www.linkedin.com/in/andrew-huberman)
+• [Disclaimer and Disclosures](https://www.hubermanlab.com/disclaimer)
+• https://www.youtube.com/playlist?list=PLPNW_gerXa4OGNy1yE-W9IX-tPu-tJa7S&amp%3Bsi=a1_sA7rUT-fE0OM5
+
+---
+
+**Link:**
+https://www.youtube.com/watch?v=xKvlK7OqZso
+
+*Pipeline:*
+  • Transcript: description (170 words, lang=en) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag, youtube_captions, page_content
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
