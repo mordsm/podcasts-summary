@@ -6037,3 +6037,40 @@ https://bonimbayit.podbean.com/e/%d7%a4%d7%95%d7%93%d7%a7%d7%90%d7%a1%d7%98-%d7%
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**Agents of Dev** [ The Futurum Group ]
+
+**Unifying Data Stacks, Open-Weight Controversies & Google's Anti-Gravity CLI | Agents of Dev Episode 32**  
+
+[Podcast]
+06/08/2026 15:00 UTC
+07/08/2026 03:59 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+Welcome to another episode of Agents of Dev. My name is Mitch Ashley with the Futurum Group, and I'm joined by my podcasting and analyst partner, Brad Schimman. I just, you know, just enjoying the heat wave of Denver, just our 100-degree heat. Oh my God, it's hot here. We had that same feature in the New England area a couple of weeks ago, and I highly recommend it. Boy, thanks for sharing. So, you know, at least we're not on airplanes waiting, you know, getting away from the air conditioning to kick in. That's, that's always an enjoyable thing to do. I hope the two cents, you know, the board appreciates the two cents that are gained by not cooling the cabin before takeoff. Yes, that's making your customer sweat, but not for good reasons. Well, we've got a lot to talk about. You wanted to talk a little bit about RegattaDB. So, I want to hear what you do about it. [...] Brad, take care, my friend. Yeah, you too, Mitch.
+
+
+**Original description:**  
+Email your questions and topics to the podcast here . As enterprise AI stacks grow increasingly complex, the race is on to simplify data pipelines, unify developer work surfaces, and tame ballooning token costs. In this episode of Agents of Dev , hosts Mitch Ashley and Brad Shimmin break down the biggest shifts across database architecture, agentic tools, and AI infrastructure. They explore RegattaDB's unified engine for OLTP, analytical, and vector workloads, Atlassian's expanding AI lifecycle strategy, and Mitch's eight-layer AI Stack framework highlighting why "presence is not completeness.
+
+
+**Links mentioned:**
+• https://www.youtube.com/watch?v=qH_FnYFeKZY&feature=youtu.be
+• https://linkedin.com/in/mitchellashley%20
+• https://www.youtube.com/@TheFuturumGroup
+
+---
+
+**Link:**
+https://agentsofdev.podbean.com/e/unifying-data-stacks-open-weight-controversies-googles-anti-gravity-cli-agents-of-dev-episode-32/
+
+*Pipeline:*
+  • Transcript: whisper (7197 words, lang=en) — Full audio file transcribed (Whisper)
+  • Tried and failed: pdf_show_notes, rss_tag, page_content, description
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
