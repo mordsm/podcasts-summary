@@ -1,8 +1,8 @@
 Feed: How I AI
 Episode: Claude Code for normal people: skills, voice mode, and how to collaborate with AI
-Method: pdf_show_notes
+Method: cached_pdf_show_notes
 Language: en
-Words: 61922
+Words: 61926
 URL: https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-normal-people-skills--voice-mode--and-how-to-collaborate-with-AI-e3n48ci
 
 --- TRANSCRIPT ---
