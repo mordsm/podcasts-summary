@@ -6598,3 +6598,93 @@ https://podcasters.spotify.com/pod/show/guy-katsovich/episodes/40---------------
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**The Diary of a CEO** [ FlightStory ]
+
+**The Quitting Expert: Sunk Costs Are Keeping You TRAPPED, Quit Before AI Comes! | Seth Godin**  
+
+[Podcast]
+10/08/2026 05:00 UTC
+10/08/2026 05:23 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+{"text":" How do I know when to quit something? When I went to the gym this morning, there was a Michael Jordan quote. If you quit once, it becomes a habit. And it's very clear that he's wrong. And I've failed more times than most people who listen to this. And the simple secret for the power of quitting is the dip. And the dip describes something in the world that no one talks about. And so one of the things I try to do is help people understand it. Because my whole career is about how can I help people do better? Find why they're stuck, realize what's holding them back, or solve the problem. Because problems are opportunity. And I believe all problems can be solved. But what we're wrestling now with is people are afraid, people are lonely, people are disconnected. [...] Clarke in my first real job.\n\n1540\n .175 --> .078\nSo I've been a science fiction person thinking about AI my whole life.\n\n1541\n .859 --> .820\n And so when it finally showed up, I was like, yes, it's finally here.\n\n1542\n .362 --> .122\nAnd I'd been writing about it for a while.\n\n1543\n .162 --> .743\nI did some AI-related products.\n\n1544\n .384 --> .145\nHere's my two big ideas.\n\n1545\n .305 --> .208\nNumber one, this is the biggest change in our world since electricity.\n\n1546\n .390 --> .472\nAnd number two, either you work for AI or AI works for you.\n\n1547\n .512 --> .134\n And what do I mean by those two things?\n\n1548\n .694 --> .378\nThere were companies and workers in 1890 who said, I'll wait for electricity to go away.\n\n1549\n .519 --> .720\nI'm just going to keep being a blacksmith or whatever it is.\n\n1550\n .119 --> .480\nThat did not work out very well.\n\n1551\n .862 --> .042\nThis is like that, but much, much faster.\n\n1552\n .524 --> .769\n And then the AI thing is, if you work for an AI, it's not going to treat you very well, it's not going to be secure, and it's not going to make you happy.\n\n1553\n .350 --> .775\nBecause bosses are going to keep pushing the AI to do all the good parts and you to be a gig worker for all the parts that the AI can't do yet.\n\n1554\n .256 --> .841\nBut if you can say, I use AI to connect humans, I use AI to build a network of people, I'm\n\n1555\n .621 --> .462\n We don't know how to replace networks of people.\n\n1556\n .782 --> .143\nAnd AI is never going to be able to replace networks of people.\n\n1557\n .162 --> .886\nIf you are trusted and connecting and leading using whatever AI tools you want, you're never going to have trouble making a living.\n\n1558\n .993 --> .738\n And so that's what you say, okay, if I have these tools, how do I use them not to be a junior, smaller version of open AI, but use them the same way that the movie theater used electricity, right?\n\n1559\n .099 --> .323\nThat the electric company brought electricity to lots of businesses, but it took a movie theater to figure out how to get you to pay $5 to see the movie.\n\n1560\n .882 --> .386\n You used the word people and humans within that answer, and it made me sort of think that actually maybe the great opportunity in a world of artificial intelligence is not to try and be the world's best accountant, because maybe the intelligence is going to be great at that, but all the human stuff.\n\n1561\n .666 --> .945\nCorrect.\n\n1562\n .985 --> .146\nAll the human and the people stuff.\n\n1563\n .367 --> .827\nYes, exactly right.\n\n1564\n .287 --> .927\nGood taste, understanding who trusts you and why.\n\n1565\n .957 --> .539\n There are very few jobs where if I can write down what you do all day, I can't find an AI to do it faster and cheaper than you.\n\n1566\n .899 --> .520\nInteresting.\n\n1567\n .520 --> .621\nSo you want a job where I can't write down what you do all day, and then you'll be fine.\n\n1568\n .301 --> .101\nWhat the quiet quit is.\n\n1569\n .042 --> .484\nWell, I mean, so if you think about what does a bookkeeper do, I can write down all the rules of bookkeeping and hire a different bookkeeper tomorrow, and my business isn't going to fail.\n\n1570\n .378 --> .920\n That's something AI is going to get really good at really fast.\n\n1571\n .341 --> .601\nBecause once we can write down rules, AI knows how to follow them.\n\n1572\n .542 --> .528\nOn the other hand, somebody, the way you were talking about your good taste about who the next guest should be, you can't write down the algorithm for how to do that.\n\n1573\n .390 --> .841\n Your awareness of the world you're in, the fact that you have read so many books, met so many people, talked to so many listeners, I can't write all that down with instructions to get Claude to do that for me.\n\n1574\n .042 --> .304\nI was thinking about my fiancée, actually.\n\n1575\n .323 --> .106\nShe runs a business called Bali Breathwork, and what she does is she takes...\n\n1576\n .627 --> .948\n women away on these retreats for seven days.\n\n1577\n .408 --> .091\nAnd I see the sort of feedback and the testimonials and the videos that t
+
+
+**Original description:**  
+Bestselling author Seth Godin reveals why perfectionism is keeping you stuck, the hidden psychology behind success, when to quit, when to keep going, and why AI will reward the most HUMAN people! Seth Godin is one of the world’s most influential business thinkers and the author of more than 20 bestselling books. He is host of the podcast Akimbo, author of a daily blog read by 1 million people, and coordinator of The Carbon Almanac project, a tool that helps people understand the climate crisis. His upcoming book, The Knot, will be published in September.&nbsp; He explains: ◼️ Why being "good e
+
+
+**Links mentioned:**
+• [https://link.thediaryofaceo.com/HZ9q021](https://link.thediaryofaceo.com/HZ9q021)
+• [https://link.thediaryofaceo.com/8s8qM2H](https://link.thediaryofaceo.com/8s8qM2H)
+• [https://link.thediaryofaceo.com/Ali5dha](https://link.thediaryofaceo.com/Ali5dha)
+• [https://link.thediaryofaceo.com/2pHaSZN](https://link.thediaryofaceo.com/2pHaSZN)
+• [https://link.thediaryofaceo.com/CFL3JLf](https://link.thediaryofaceo.com/CFL3JLf)
+• [https://link.thediaryofaceo.com/uLn5a7](https://link.thediaryofaceo.com/uLn5a7)
+• [https://link.thediaryofaceo.com/F3Rq726](https://link.thediaryofaceo.com/F3Rq726)
+• [https://link.thediaryofaceo.com/FogovP0](https://link.thediaryofaceo.com/FogovP0)
+• [DOAC Circle – Join the Inner Circle of The Diary of a CEO](https://doaccircle.com/)
+• [https://link.thediaryofaceo.com/BWjLTZK](https://link.thediaryofaceo.com/BWjLTZK)
+• https://thediary.com/products/one-percent-diary
+• https://thediary.com/products/the-conversation-cards-2nd-edition
+• [https://link.thediaryofaceo.com/5IB1H6E](https://link.thediaryofaceo.com/5IB1H6E)
+• [https://link.thediaryofaceo.com/AGU9QP4](https://link.thediaryofaceo.com/AGU9QP4)
+• [Steven Bartlett - Diary of a CEO | Wispr Flow](https://wisprflow.ai/steven-bartlett-diary-of-a-ceo?promo_code=STEVEN-BARTLETT&utm_medium=audio&utm_campaign=doac_flightcast_audio&utm_source=doac&dub_id=zxvTGhnsHxS6OCOj)
+• [LinkedIn Podcast Offer - $250 USD Credit Claim for Startups](https://business.linkedin.com/advertise/cx/25/08/marketing-solutions-podcast-b-sxgy?src=re-pod&trk=diary&mcid=7472318773992075265&veh=diary)
+
+---
+
+**Link:**
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZEMW7JETYCD3GX1WXDACSYJ.mp3?fcv=xs4idca2e94t0ldpcape15e6
+
+*Pipeline:*
+  • Transcript: rss_tag (65098 words, lang=auto) — No audio download — transcript from RSS feed
+  • Tried and failed: pdf_show_notes
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**Brain Story** [ ד"ר ליאת יקיר ועומר שריר ]
+
+**פרק 62: היום שבו מפסיקים להבין ומתחילים להשתנות**  
+
+[Podcast]
+10/08/2026 05:00 UTC
+10/08/2026 05:23 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+פרק 62: היום שבו מפסיקים להבין ומתחילים להשתנות by Brain Story Brain Story By ד"ר ליאת יקיר ועומר שריר כשהמוח ההישרדותי כבר לא שולט- הסיפור החדש מתחיל. עונה ראשונה- ד"ר ליאת יקיר ועומר שריר חוקרים את המוח, הנוירונים, הגנים ההורמונים ולומדים כיצד כל זה משפיע עלינו בכל יום עונה שנייה- זה לא עוד פודקאסט. חמישה פורמטים קבועים – שכל אחד מהם פוגש אותך במקום אחר במסע: ב־Brain Loops, נצלול בכל פרק ללופ אחר – ונבין איך יוצאים ממנו. ב־Brain Mirror, נקשיב לסיפור של מישהו אחר – ונפגוש את עצמנו. ב־Brain Relief, נעצור את החרדה. ב־Brain Process, נזקק עיקרון תודעתי לחיזוק דרך הצמיחה. וב־The Creator’s Brain – ניפגש בעומק השיטה לשינוי זהות. מגיש: עומר שריר הבעלים של המרכז לפירוק סטרס וחרדה Listen on Spotify Report content on Spotify פרק 62: היום שבו מפסיקים להבין ומתחילים להשתנות Brain Story Aug 10, 2026 Share פרק 62: היום שבו מפסיקים להבין ומתחילים להשתנות הודעה קשוחה אחת. מבט קטן שלא הבנתם עד הסוף. ופתאום הבטן מתכווצת, הגוף נדרך, והדחף לענות, להתגונן או להוכיח שאתם צודקים משתלט על הכל. רוב האנשים מנסים להשתיק את הרעש הזה. לנשום, להירגע, לעבור הלאה. אבל בפרק הזה עומר מציע הסתכלות אחרת: הרעש הוא לא הבעיה. [...] אם סטרס או חרדה הם חלק מהיומיום שלך, ואתם מרגישים שהגיע הזמן לעשות שינוי אמיתי- זו הזדמנות להבין מה באמת עוצר אותך, לשמוע על הדרך שעובדת לאנשים כמוך, ולגלות איך מתחילים לצאת מהלופ. אפשר לתאם כאן שיחה עם הצוות המקצועי שלנו- Jun 04, 2024 Show more episodes
+
+
+**Original description:**  
+הודעה קשוחה אחת. מייל ביקורתי מהבוס. מבט קטן שלא הבנתם עד הסוף. ופתאום הבטן מתכווצת, הגוף נדרך, והדחף לענות, להתגונן או להוכיח שאתם צודקים משתלט על הכל. רוב האנשים מנסים להשתיק את הרעש הזה. לנשום, להירגע, לעבור הלאה. אבל בפרק הזה עומר מציע הסתכלות אחרת: הרעש הוא לא הבעיה. הוא השליח. בפרק 62 של Brain Story, עומר מחבר את חלקי שיטת להיות היוצר למפה אחת ברורה: איך מזהים את הגולם, איך מבינים איזה פחד מנהל אותנו, איך מתחילים לבחור אחרת, ואיך עוברים מתובנה לשינוי אמיתי. פרק למי שמתפקד נהדר בחוץ, אבל מרגיש שבפנים התגובות האוטומטיות עדיין מנהלות אותו. מעוניינים להפוך את הידע למציאות, את המה לאיך? כנסו 
+
+
+**Links mentioned:**
+• https://mentaldna.co.il/call-me-2/
+• [BRAIN STORY- הפודקאסט](https://thecreator.co.il/brain-story)
+• https://mentaldna.co.il/call-me-2/
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fsharir.omer%2F%25D7%2593&is_from_rle
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fdr_liatyakir%2F%25D7%259E%25D7%2595%25D7%2596%25D7%259E%25D7%25A0%25D7%2599%25D7%259D&is_from_rle
+• [ד"ר ליאת יקיר | הביולוגיה של הרגשות, קורסים דיגיטליים ופודקאסט](https://liatyakir.com/)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/-34652/episodes/62-e3n4qb2
+
+*Pipeline:*
+  • Transcript: page_content (8663 words, lang=he) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
