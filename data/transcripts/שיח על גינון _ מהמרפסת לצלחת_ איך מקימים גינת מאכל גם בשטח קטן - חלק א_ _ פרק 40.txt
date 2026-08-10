@@ -1,8 +1,8 @@
 Feed: שיח על גינון
 Episode: מהמרפסת לצלחת: איך מקימים גינת מאכל גם בשטח קטן - חלק א׳ | פרק 40 עם אייל אנגלמאיר
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 4828
+Words: 4832
 URL: https://podcasters.spotify.com/pod/show/----9671/episodes/------40-e3n79ti
 
 --- TRANSCRIPT ---
