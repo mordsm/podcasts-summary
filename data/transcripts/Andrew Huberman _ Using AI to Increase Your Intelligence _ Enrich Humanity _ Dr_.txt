@@ -1,8 +1,8 @@
 Feed: Andrew Huberman
 Episode: Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li
-Method: description
+Method: cached_description
 Language: en
-Words: 564
+Words: 566
 URL: https://www.youtube.com/watch?v=N5AQFYtqx8Q
 
 --- TRANSCRIPT ---
