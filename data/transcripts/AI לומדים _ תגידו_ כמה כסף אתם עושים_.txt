@@ -1,8 +1,8 @@
 Feed: AI לומדים
 Episode: תגידו, כמה כסף אתם עושים?
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 14073
+Words: 14077
 URL: https://podcasters.spotify.com/pod/show/-316679/episodes/ep-e3n9ehu
 
 --- TRANSCRIPT ---
