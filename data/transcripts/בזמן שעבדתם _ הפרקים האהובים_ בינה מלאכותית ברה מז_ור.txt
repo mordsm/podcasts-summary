@@ -1,6 +1,6 @@
 Feed: בזמן שעבדתם
 Episode: הפרקים האהובים: בינה מלאכותית ברה מז'ור
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 6473
 URL: https://omny.fm/shows/program-51/a4ba2e07-7ed3-4fb0-880e-b4a4009432f4
