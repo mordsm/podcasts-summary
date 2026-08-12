@@ -1,6 +1,6 @@
 Feed: השקעות למתחילים - סטפק & רבינוביץ
 Episode: מדדי המניות והאג"ח של ישראל
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 3716
 URL: https://share.transistor.fm/s/4f537951
