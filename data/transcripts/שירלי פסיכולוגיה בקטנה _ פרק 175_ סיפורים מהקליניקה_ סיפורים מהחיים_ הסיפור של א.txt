@@ -1,6 +1,6 @@
 Feed: שירלי פסיכולוגיה בקטנה
 Episode: פרק 175: סיפורים מהקליניקה/ סיפורים מהחיים: הסיפור של אייל - אני מתווכח משמע אני קיים
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 1004
 URL: https://shirleyyair.podbean.com/e/%d7%a4%d7%a8%d7%a7-175-%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%9e%d7%94%d7%a7%d7%9c%d7%99%d7%a0%d7%99%d7%a7%d7%94-%d7%a1%d7%99/
