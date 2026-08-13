@@ -1,8 +1,8 @@
 Feed: The Diary of a CEO
 Episode: Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin
-Method: pdf_show_notes
+Method: cached_pdf_show_notes
 Language: en
-Words: 18127
+Words: 18131
 URL: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZERQ8T6SQ7V8928XZ3VC6MR.mp3?fcv=ckqo4l78mt4hifezvs66fb0q
 
 --- TRANSCRIPT ---
