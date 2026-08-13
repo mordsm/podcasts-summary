@@ -1,6 +1,6 @@
 Feed: Agents of Dev
 Episode: Stop Reviewing Agent Code? Anthropic, DynamoDB & AI Tech Debt | Agents of Dev Episode 33
-Method: whisper
+Method: cached_whisper
 Language: en
 Words: 6746
 URL: https://agentsofdev.podbean.com/e/stop-reviewing-agent-code-anthropic-dynamodb-ai-tech-debt-agents-of-dev-episode-33/
