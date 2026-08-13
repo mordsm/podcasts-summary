@@ -1,6 +1,6 @@
 Feed: Gardening with the RHS
 Episode: Heatwave survival guide for pots and powdery mildew mayhem
-Method: whisper
+Method: cached_whisper
 Language: en
 Words: 6084
 URL: https://traffic.megaphone.fm/PIXP4582327844.mp3

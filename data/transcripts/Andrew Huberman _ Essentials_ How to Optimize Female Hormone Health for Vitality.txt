@@ -1,8 +1,8 @@
 Feed: Andrew Huberman
 Episode: Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried
-Method: description
+Method: cached_description
 Language: en
-Words: 302
+Words: 304
 URL: https://www.youtube.com/watch?v=wbuPQPu-03Y
 
 --- TRANSCRIPT ---
