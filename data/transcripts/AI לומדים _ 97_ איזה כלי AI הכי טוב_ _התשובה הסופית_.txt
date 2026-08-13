@@ -1,8 +1,8 @@
 Feed: AI לומדים
 Episode: 97. איזה כלי AI הכי טוב? (התשובה הסופית)
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 14186
+Words: 14190
 URL: https://podcasters.spotify.com/pod/show/-316679/episodes/97----AI-e3nbq9l
 
 --- TRANSCRIPT ---

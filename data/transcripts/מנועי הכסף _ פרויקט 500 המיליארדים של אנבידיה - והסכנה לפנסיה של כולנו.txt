@@ -1,6 +1,6 @@
 Feed: מנועי הכסף
 Episode: פרויקט 500 המיליארדים של אנבידיה - והסכנה לפנסיה של כולנו
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 6644
 URL: https://omny.fm/shows/calcalistpodsmenoeyhakesef/500-1
