@@ -1,8 +1,8 @@
 Feed: הפודקאסט של גיא קצוביץ'
 Episode: מהדורת מוסף: מכפילים מתרסקים ו-AI מזנק: מה קורה לשוק התוכנה? #121
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 12031
+Words: 12035
 URL: https://podcasters.spotify.com/pod/show/guy-katsovich/episodes/-AI-------121-e3nbn5d
 
 --- TRANSCRIPT ---
