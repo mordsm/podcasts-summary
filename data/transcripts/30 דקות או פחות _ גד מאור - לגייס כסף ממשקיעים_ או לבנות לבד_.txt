@@ -1,8 +1,8 @@
 Feed: 30 דקות או פחות
 Episode: גד מאור - לגייס כסף ממשקיעים, או לבנות לבד?
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 6968
+Words: 6972
 URL: https://podcasters.spotify.com/pod/show/30minutesorless/episodes/--e3kv13s
 
 --- TRANSCRIPT ---
