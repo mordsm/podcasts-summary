@@ -1,8 +1,8 @@
 Feed: פשוט AI
 Episode: תהליכי השיווק החדשים בעזרת סוכני בינה מלאכותית 🌊 | פרק 180 עם טל אקרלינג
-Method: page_content
+Method: cached_page_content
 Language: he
-Words: 7496
+Words: 7500
 URL: https://podcasters.spotify.com/pod/show/benny-farber/episodes/180-e3nee8k
 
 --- TRANSCRIPT ---
