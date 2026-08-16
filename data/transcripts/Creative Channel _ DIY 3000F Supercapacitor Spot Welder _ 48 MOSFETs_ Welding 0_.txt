@@ -1,8 +1,8 @@
 Feed: Creative Channel
 Episode: DIY 3000F Supercapacitor Spot Welder | 48 MOSFETs, Welding 0.3mm Nickel
-Method: description
+Method: cached_description
 Language: en
-Words: 160
+Words: 162
 URL: https://www.youtube.com/watch?v=Lors-FYt6Eg
 
 --- TRANSCRIPT ---
