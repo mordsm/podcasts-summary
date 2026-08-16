@@ -7521,3 +7521,35 @@ https://www.youtube.com/watch?v=N5AQFYtqx8Q
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**LangTalks** [ LangTalks ]
+
+**72 - Personal Assistant Agent**  
+
+[Youtube Channel]
+16/08/2026 21:22 UTC
+16/08/2026 22:17 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+Automating meetings end-to-end with agents - calendar tagging, prep briefings, learning loops, skill sharing, and self-closing feedback cycles.
+
+
+**Original description:**  
+Automating meetings end-to-end with agents - calendar tagging, prep briefings, learning loops, skill sharing, and self-closing feedback cycles.
+
+
+---
+
+**Link:**
+https://www.youtube.com/watch?v=TDf88vC0w9Y
+
+*Pipeline:*
+  • Transcript: description (18 words, lang=en) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag, youtube_captions, page_content, description, youtube_whisper_skipped_ci, rss_tag, page_content
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+

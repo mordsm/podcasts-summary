@@ -1,0 +1,11 @@
+Feed: LangTalks
+Episode: 72 - Personal Assistant Agent
+Method: description
+Language: en
+Words: 18
+URL: https://www.youtube.com/watch?v=TDf88vC0w9Y
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+Automating meetings end-to-end with agents - calendar tagging, prep briefings, learning loops, skill sharing, and self-closing feedback cycles.
