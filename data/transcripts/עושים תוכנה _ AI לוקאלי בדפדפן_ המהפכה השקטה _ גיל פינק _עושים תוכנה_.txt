@@ -1,6 +1,6 @@
 Feed: עושים תוכנה
 Episode: AI לוקאלי בדפדפן: המהפכה השקטה | גיל פינק [עושים תוכנה]
-Method: whisper
+Method: cached_whisper
 Language: he
 Words: 4104
 URL: https://www.spreaker.com/episode/ai-lwq-ly-bdpdpn-hmhpkh-hsqth-gyl-pynq-wsym-twknh--74048814
