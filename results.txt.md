@@ -6723,3 +6723,801 @@ https://podcasters.spotify.com/pod/show/allin-podcasts897/episodes/ep-e3n6qrk
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**פשוט AI** [ Benny Farber ]
+
+**תהליכי השיווק החדשים בעזרת סוכני בינה מלאכותית 🌊 | פרק 180 עם טל אקרלינג**  
+
+[Podcast]
+16/08/2026 02:30 UTC
+16/08/2026 15:36 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+תהליכי השיווק החדשים בעזרת סוכני בינה מלאכותית 🌊 | פרק 180 עם טל אקרלינג by פשוט AI פשוט AI By Benny Farber הנה פודקאסט על הבום הגדול בעולם הבינה מלאכותית - אבל אחד כזה במילים פשוטות, שגם אנשים רגילים יכולים להבין Listen on Spotify Available on Report content on Spotify תהליכי השיווק החדשים בעזרת סוכני בינה מלאכותית 🌊 | פרק 180 עם טל אקרלינג פשוט AI Aug 16, 2026 Share תהליכי השיווק החדשים בעזרת סוכני בינה מלאכותית 🌊 | פרק 180 עם טל אקרלינג בפרק הזה של AI פשוט אני מארח את טל אקרלינג, אשת שיווק מזה שני עשורים, לשיחה על שיווק חדש בעידן סוכני ה-AI. דיברנו על איך עסקים יכולים לשווק היום בצורה חכמה ויעילה יותר, האם כל אחד יכול להשתמש בסוכנים, כמה באמת אפשר לסמוך עליהם, ומה האתגרים שמגיעים עם הטכנולוגיה הזאת. טל שיתפה גם על הפלאגינים שלה, על החשש של אנשי שיווק ממהפכת ה-AI, על העתיד של התחום - ונתנה לא מעט טיפים פרקטיים למי שרוצה להתחיל לשווק נכון עם סוכני AI כבר עכשיו. תהנו :) ⁠⁠ לכל הערוצים והפלאגינים של טל ⁠⁠לסדנה המעשית על אופןקלואו!⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠לקורס דיגיטלי על קלוד קוד (14 שעות מוקלטות(!))⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠לרכישת הספר שלי "אסיר תודה"⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לערוץ היוטיוב של בני פרבר⁠⁠⁠⁠ מוזמנים לקהילת הפייסבוק ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ישראל - ChatGPT⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠להרשמה לניוזלטר השווה בתבל⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לקבוצת העדכונים בווצאפ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לאינסטגרם של בני⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ דוברים: בני פרבר וטל אקרלינג Aug 16, 2026 מה קרה כשחיברתי את חשבון הבנק לסוכן שלי 💳 | פרק 179 עם שי בדיחי, ידע שווה כסף מה יקרה כשה-AI שלכם יכיר את חשבון הבנק שלכם טוב יותר מכם? הבינה המלאכותית כבר לא רק עונה על שאלות - היא מתחילה לעבוד בשבילכם. בפרק הזה מדברים על סוכני AI שמנהלים כסף, מכינים אתכם לשיחת שכר, ומחליפים תפקידים שלמים בעסק. שי בדיחי, יזם ומתכנן פיננסי, מארח את בני פרבר, מנהל קהילת ה-AI הגדולה בישראל, לשיחה מעשית על הדרכים שבהן בינה מלאכותית עוזרת להרוויח יותר, לחסוך יותר ולנהל את הכסף בצורה חכמה יותר - עם כלים שכבר זמינים היום לכל אחד, בלי ידע טכני. ━━━━━━━━━━━━━━━━━━━━━ 📌 מה תיקחו מהפרק ━━━━━━━━━━━━━━━━━━━━━ ✅ למה "מהפכת הסוכנים" שונה מכל מה שהכרתם ב-AI עד היום ✅ איך להיכנס לשיחת שכר עם נתונים שאתם אף פעם לא זוכרים לאסוף ✅ Claude Code - מה זה, איך מתקינים וכמה זה באמת עולה ✅ לחבר סוכן לבנק, לאשראי ולחשבוניות - ולחסוך משרה שלמה ✅ המחקר שגילה שחשבונות של אנשים שמתו הרוויחו יותר - ומה זה אומר עליכם פרטים והרשמה לכנס בזום על סוכני AI ב10.8!⁠⁠ ⁠⁠לסדנה המעשית על אופןקלואו!⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠לקורס דיגיטלי על קלוד קוד (14 שעות מוקלטות(!))⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠לרכישת הספר שלי "אסיר תודה"⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לערוץ היוטיוב של בני פרבר⁠⁠⁠⁠ מוזמנים לקהילת הפייסבוק ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ישראל - ChatGPT⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠להרשמה לניוזלטר השווה בתבל⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לקבוצת העדכונים בווצאפ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לאינסטגרם של בני⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ דוברים: בני פרבר ושי בדיחי Aug 09, 2026 עד כמה בתי ספר רלוונטיים לדור שגדל עם בינה מלאכותית 👩‍🏫 | פרק 178 עם נסטיה אוצ'קובסקי, אליסקוד עד כמה בתי הספר עדיין רלוונטיים לדור שגדל עם בינה מלאכותית? בשיחה עם נסטיה אוצ׳קובסקי מאליסקוד, מרכז למידת קוד ופיתוח לבנות, אנחנו צוללים לעומק הפער בין מערכת החינוך המסורתית לבין המציאות החדשה שנבנית סביב AI, טכנולוגיה ויזמות. נדבר על הדרך שבה אליסקוד הפכה הרבה מעבר לחוג לבנות, על הרצף שמוביל מכיתה ד׳ ועד לתעשייה, על הפערים שעוד קיימים בין בנות לטכנולוגיה, ועל השאלה הגדולה: האם בינה מלאכותית באמת מורידה חסמים - או רק יוצרת חדשים? :) פרטים והרשמה לכנס בזום על סוכני AI ב10.8!⁠ ⁠ לאתר של אליסקוד ⁠לסדנה המעשית על אופןקלואו!⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠לקורס דיגיטלי על קלוד קוד (14 שעות מוקלטות(!))⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠לרכישת הספר שלי "אסיר תודה"⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠לע
+
+
+**Original description:**  
+בפרק הזה של AI פשוט אני מארח את טל אקרלינג, אשת שיווק מזה שני עשורים, לשיחה על שיווק חדש בעידן סוכני ה-AI. דיברנו על איך עסקים יכולים לשווק היום בצורה חכמה ויעילה יותר, האם כל אחד יכול להשתמש בסוכנים, כמה באמת אפשר לסמוך עליהם, ומה האתגרים שמגיעים עם הטכנולוגיה הזאת. טל שיתפה גם על הפלאגינים שלה, על החשש של אנשי שיווק ממהפכת ה-AI, על העתיד של התחום - ונתנה לא מעט טיפים פרקטיים למי שרוצה להתחיל לשווק נכון עם סוכני AI כבר עכשיו. תהנו :) ⁠⁠ לכל הערוצים והפלאגינים של טל ⁠⁠לסדנה המעשית על אופןקלואו!⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠לקורס דיגיטלי על קלוד קוד (14 שעות מוקלטות(!))⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠לרכישת הספר שלי &quot;אס
+
+
+**Links mentioned:**
+• [Links | טל אקרלינג | אסטרטגיית שיווק ו-AI לעסקים](https://taleckerling.com/Links)
+• [סדנת קלוד קוד מעשית · 24.2.2026 · OpenClaw בעברית](https://hi.switchy.io/OpenclawPOD)
+• [חבילת Claude Code המלאה | 2 סדנאות + קורס 4 מפגשים — 297 ₪ | דניאל נחמיה ובני פרבר](https://claude.danielai.co.il/claudecodecourse)
+• [אסיר תודה - בני פרבר | עברית - חנות ספרים](https://hi.switchy.io/IvritBook)
+• https://www.youtube.com/@BennyFarber-AIPashut
+• https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F715153780127233
+• [הרשמה לרשימת דיוור AI](https://ai-israel.minisite.ms/AI-newsletter)
+• [WAgroup Podcast](https://hi.switchy.io/g-eK)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fbennyfarber%3Figshid%3DOGQ5ZDc2ODk2ZA%253D%253D%26utm_source%3Dqr&is_from_rle
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/benny-farber/episodes/180-e3nee8k
+
+*Pipeline:*
+  • Transcript: cached_page_content (7500 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**30 דקות או פחות** [ אביב פרנקל ]
+
+**גד מאור - לגייס כסף ממשקיעים, או לבנות לבד?**  
+
+[Podcast]
+15/08/2026 17:00 UTC
+16/08/2026 15:36 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+גד מאור - לגייס כסף ממשקיעים, או לבנות לבד? by דקות או פחות ‎30 דקות או פחות ‎30 By אביב פרנקל אביב פרנקל מארח בפודקאסט שבועי יזמים ,מנכ״לים ואנשים מעניינים מתעשית הייטק שבאים לספר איזה סיפור מעניין או על עצמם או על החברה שלהם על הצלחות וגם על כשלונות. Listen on Spotify Available on Report content on Spotify גד מאור - לגייס כסף ממשקיעים, או לבנות לבד? דקות או פחות ‎30 Aug 15, 2026 Share גד מאור - לגייס כסף ממשקיעים, או לבנות לבד? גד מאור נכנס לעולם הייטק בעקבות אחיו הגדול כבר בגיל 16, כשהצטרף לסטרטאפ במשרת ג'וניור. את החברה הראשונה שלו, שייקר, הוא הקים בקפיטריה של המרכז הבינתחומי עם לא פחות משמונה חברים, הם גייסו 22 מיליון דולר, בין היתר מליידי גאגא וג'סטין ביבר, עשו פיווט וחוו את רכבת ההרים ששמה סטרטאפ, עד שנמכרו לחברת משחקים גדולה. הטראומה מההתנהלות עם חלק מהמשקיעים הובילה אותו להקים את מייבנס שפיתחה כלי שיווק דיגיטליים לחברות גדולות בלי לגייס כסף. הם גדלו בשיא ל-50 עובדים ולהכנסות שנתיות חוזרות של כ-10 מיליון דולר עד שב-2022 הם נמכרו לענקית המשחקים זינגה. על ההבדל בין מודל ההון סיכון לבוטסטראפ, על עולם הגיימינג ואיך זה לחזור לבנות בידיים בעידן הבינה המלאכותית ולמה דווקא עכשיו זו התקופה הכי מרגשת לבנות משהו חדש. Aug 15, 2026 עמית מגידו - מה הקריירה באמזון לימדה אותי עמית מגידו הה ילד משרד החוץ, בן של דיפלומט שמצא את עצמו כל כמה שנים אומר שלום לחברים וממשיך ליעד הבא בעקבות השליחות של אבא. לקראת חטיבת הביניים הוא חזר ארצה, עשה בישראל תיכון ואחרי זה התגייס ל-8200 לתפקידים בתפר שבין טכנולוגיה ומודיעין. אחרי 13 שנים בסדיר ובקבע הוא החליט לא לבזבז זמן ויצא ללמוד מנהל עסקים באוניברסיטת הרווארד משם גוייס על ידי אמזון לבנות את מוצרי הסייבר שלהם לשוק האנטרפרייז. את נייטיב חברת הסייבר בעולמות הענן הוא הקים בעיצומה של המלחמה וגייס תוך כמה חודשים שני סבבי גיוס וסה״כ 42 מיליון דולר. [...] מבחינתו, זו רק ההתחלה. Sep 20, 2025 Show more episodes
+
+
+**Original description:**  
+גד מאור נכנס לעולם הייטק בעקבות אחיו הגדול כבר בגיל 16, כשהצטרף לסטרטאפ במשרת ג'וניור. את החברה הראשונה שלו, שייקר, הוא הקים בקפיטריה של המרכז הבינתחומי עם לא פחות משמונה חברים, הם גייסו 22 מיליון דולר, בין היתר מליידי גאגא וג'סטין ביבר, עשו פיווט וחוו את רכבת ההרים ששמה סטרטאפ, עד שנמכרו לחברת משחקים גדולה. הטראומה מההתנהלות עם חלק מהמשקיעים הובילה אותו להקים את מייבנס שפיתחה כלי שיווק דיגיטליים לחברות גדולות בלי לגייס כסף. הם גדלו בשיא ל-50 עובדים ולהכנסות שנתיות חוזרות של כ-10 מיליון דולר עד שב-2022 הם נמכרו לענקית המשחקים זינגה. על ההבדל בין מודל ההון סיכון לבוטסטראפ, על עולם הגיימינג ואיך
+
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/30minutesorless/episodes/--e3kv13s
+
+*Pipeline:*
+  • Transcript: cached_page_content (6972 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**AI לומדים** [ (Aimprove) אִימפּרוּב ]
+
+**98. שישה כללים שמנבאים הצלחה או כישלון של סטרטאפים**  
+
+[Podcast]
+15/08/2026 02:02 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+שישה כללים שמנבאים הצלחה או כישלון של סטרטאפים by AI לומדים AI לומדים By (Aimprove) אִימפּרוּב הפודקאסט שעוזר לכם לנווט בתוך עולם טכנולוגי מבלי להרגיש הצפה טוטאלית 🤖 Listen on Spotify Available on Report content on Spotify 98. שישה כללים שמנבאים הצלחה או כישלון של סטרטאפים AI לומדים Aug 15, 2026 Share 98. שישה כללים שמנבאים הצלחה או כישלון של סטרטאפים בפרק הזה אני נותנת לכם את ששת הכללים שאני מריצה על כל רעיון למוצר טכנולוגי חדש. תצאו מהפרק עם שאלה אחת ברורה לשאול לפני שאתם פותחים את קלוד קוד - איך יודעים תוך שתי דקות אם רעיון שלכם אכן שווה מאמץ. ────────────────────────── רוצים לבנות "סוכנים" שיעבדו במקומכם? לטירונות סוכנים רוצים להתייעץ עם בוגרי הטירונות? לבוגרי הטירונות ────────────────────────── אתם מתחילים שרוצים ללמוד AI בצורה מסודרת? 📚 קורס ׳לומדים AI׳ ────────────────────────── רוצים 7 ימים של טיפים סודיים ל-AI? היכנסו לקישור ושלחו את המילה "הצלחה" 🎯 ────────────────────────── להכניס AI לשגרה 👇🏼 🥇 הכשרות AI לארגונים 📚 קורס ׳לומדים AI׳ 📌 ׳אימפרוב פלוס׳ - מנוי בתשלום ────────────────────────── בסושיאל שלנו אפשר ללמוד עוד המון על AI 🤖 📱 טיקטוק 💖 אינסטגרם 💙 פייסבוק ───────────────────────── היי, אני שלהבת 👋🏼 ב-2022 הקמתי את אִימפּרוּב עם מטרה אחת פשוטה: ללמד אנשים לעבוד עם AI בלי להסתבך. בלי מילים גדולות, בלי תיאוריה מיותרת - רק איך להשתמש בכלים האלה בפועל. בעבודה, בעסק, ביום-יום. ───────────────────────── איך יוצרים קשר? אם יש לך שאלה, הצעה עסקית פשוט לוחצים כאן לווטסאפ , אפשר גם לפנות אלינו דרך האינסטגרם או במייל . [...] ───────────────────────── בפרקים הבאים נמשיך לפרק את הכלים - מה באמת עובד , מה אפשר לשכוח , ואיך להפוך את ה-AI לחלק קבוע מהעבודה שלכם. ───────────────────────── נתראה בפרק הבא, שלהבת ───────────────────────── Jan 22, 2026 Show more episodes
+
+
+**Original description:**  
+בפרק הזה אני נותנת לכם את ששת הכללים שאני מריצה על כל רעיון למוצר טכנולוגי חדש. תצאו מהפרק עם שאלה אחת ברורה לשאול לפני שאתם פותחים את קלוד קוד - איך יודעים תוך שתי דקות אם רעיון שלכם אכן שווה מאמץ. ────────────────────────── רוצים לבנות &quot;סוכנים&quot; שיעבדו במקומכם? לטירונות סוכנים רוצים להתייעץ עם בוגרי הטירונות? לבוגרי הטירונות ────────────────────────── אתם מתחילים שרוצים ללמוד AI בצורה מסודרת? 📚 קורס ׳לומדים AI׳ ────────────────────────── רוצים 7 ימים של טיפים סודיים ל-AI? היכנסו לקישור ושלחו את המילה &quot;הצלחה&quot; 🎯 ────────────────────────── להכניס AI לשגרה 👇🏼 🥇 הכשרות AI לארגו
+
+
+**Links mentioned:**
+• [טירונות סוכנים — בונים צוות AI שעובד בשבילכם](https://agent-course.aimprove.co.il/?src=p98)
+• [הבוגרים של טירונות סוכנים - מחכים לדבר איתך](https://agent-course.aimprove.co.il/bogrim/?src=p98)
+• [קורס ״לומדים AI״ | אִימפּרוּב](https://shalhevetvardi.github.io/Storyteling/lomdim-ai.html)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fm%2Faimprove.ai%3F__coig_login%3D1
+• [Share on WhatsApp](https://api.whatsapp.com/send/?phone=972515079762&text=%D7%9C%D7%A7%D7%91%D7%99%D7%A2%D7%AA+%D7%A9%D7%99%D7%97%D7%AA+%D7%99%D7%99%D7%A2%D7%95%D7%A5+%D7%A2%D7%9D+%D7%A9%D7%9C%D7%94%D7%91%D7%AA+%D7%91%D7%A0%D7%95%D7%92%D7%A2+%D7%9C%D7%94%D7%93%D7%A8%D7%9B%D7%94+%D7%A4%D7%A8%D7%98%D7%99%D7%AA+%D7%9C%D7%90%D7%A8%D7%92%D7%95%D7%9F&type=phone_number&app_absent=0)
+• [TikTok - Make Your Day](https://www.tiktok.com/@aimprove?lang=en)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Faimprove.ai%2F&is_from_rle
+• https://www.facebook.com/people/Aimprove-%D7%90%D7%99%D7%9E%D7%A4%D7%A8%D7%95%D7%91-%D7%91%D7%99%D7%A0%D7%94-%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99%D7%AA/100090960200806/
+• [Share on WhatsApp](https://api.whatsapp.com/send/?phone=972515079762&text&type=phone_number&app_absent=0)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/-316679/episodes/98-e3ne47o
+
+*Pipeline:*
+  • Transcript: cached_page_content (14308 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**The Diary of a CEO** [ FlightStory ]
+
+**Most Replayed Moment: Fear Is A Skill You Can Train! Lessons From The World's Greatest Climber**  
+
+[Podcast]
+14/08/2026 05:00 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+{"text":" If your kids came to you, you have two girls, right? If they came to you and said, Dad, like, give me advice on what I should aim at in life, would you tell them? I wouldn't give them advice. I'd be like, you do you. You find the thing you love to do, go hard, you know, basically, like, learn some skills, get good at something. Like, what do you like to do? I mean, that's kind of the thing for me, especially with climbing, is, like, if someone had told me, like, you're going to train climbing for the rest of your life, people are like, oh, that sounds like kind of a grind, you know? Because, I mean, it is hard work. You're, like, hiking uphill with a heavy backpack, and it's cold and it's windy. It's, like, it's basically physically uncomfortable. I mean, being a professional rock climber means that you're physically uncomfortable all the time. Like, often, you know? Like, it's, you know, it's hard. [...] Check the description. Thank you.","word_count":6295,"segments":[{"start":4.158,"end":5.819,"text":" If your kids came to you, you have two girls, right?","temperature":0,"avg_logprob":-0.1300205328525641,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":5.919,"end":6.099,"text":"Yeah.","temperature":0,"avg_logprob":-0.1300205328525641,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":6.34,"end":11.083,"text":"If they came to you and said, Dad, like, give me advice on what I should aim at in life, would you tell them?","temperature":0,"avg_logprob":-0.1300205328525641,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":11.223,"end":12.284,"text":"I wouldn't give them advice.","temperature":0,"avg_logprob":-0.1300205328525641,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":12.304,"end":13.104,"text":"I'd be like, you do you.","temperature":0,"avg_logprob":-0.1300205328525641,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":13.345,"end":17.928,"text":"You find the thing you love to do, go hard, you know, basically, like, learn some skills, get good at something.","temperature":0,"avg_logprob":-0.1300205328525641,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":17.948,"end":18.728,"text":"Like, what do you like to do?","temperature":0,"avg_logprob":-0.1300205328525641,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":18.748,"end":24.733,"text":"I mean, that's kind of the thing for me, especially with climbing, is, like, if someone had told me, like, you're going to train climbing for the rest of your life,","temperature":0,"avg_logprob":-0.1300205328525641,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":25.546,"end":27.367,"text":" people are like, oh, that sounds like kind of a grind, you know?","temperature":0,"avg_logprob":-0.1322798639215449,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":27.387,"end":29.029,"text":"Because, I mean, it is hard work.","temperature":0,"avg_logprob":-0.1322798639215449,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":29.049,"end":31.731,"text":"You're, like, hiking uphill with a heavy backpack, and it's cold and it's windy.","temperature":0,"avg_logprob":-0.1322798639215449,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":31.751,"end":33.432,"text":"It's, like, it's basically physically uncomfortable.","temperature":0,"avg_logprob":-0.1322798639215449,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":33.772,"end":38.296,"text":"I mean, being a professional rock climber means that you're physically uncomfortable all the time.","temperature":0,"avg_logprob":-0.1322798639215449,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":38.316,"end":39.317,"text":"Like, often, you know?","temperature":0,"avg_logprob":-0.1322798639215449,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":39.337,"end":40.858,"text":"Like, it's, you know, it's hard.","temperature":0,"avg_logprob":-0.1322798639215449,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":41.078,"end":41.258,"text":"Yeah.","temperature":0,"avg_logprob":-0.1322798639215449,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":41.659,"end":44.981,"text":"But if you're doing it because you freaking love doing it, it doesn't feel very hard.","temperature":0,"avg_logprob":-0.1322798639215449,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":45.402,"end":49.485,"text":"And so, I mean, I think the key for a kid is find the thing that doesn't feel like hard work.","temperature":0,"avg_logprob":-0.1322798639215449,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":49.825,"end":54.509,"text":"And when you started, were you scared of big, tall rock faces and stuff like that?","temperature":0,"avg_logprob":-0.1322798639215449,"compression_ratio":0,"no_speech_prob":0,"words":[]},{"start":55.843,"end":58.084,"text":" I mean, yeah, I had like a healthy intimidation of things.","temperature":0,"avg_logprob":-0.168115615438
+
+
+**Original description:**  
+What if fear isn’t something you need to overcome? Alex Honnold is the legendary professional rock climber behind Free Solo, best known for becoming the first person to free solo Yosemite’s 3,000-foot El Capitan without ropes or safety equipment. In this moment, Alex explains why he still feels fear, and how decades of repeatedly confronting it have changed the way he responds to it. He reveals how to make seemingly impossible challenges feel manageable, and shares a provocative perspective on modern life and what it means to feel free. Listen to the full episode here! Spotify: https://g2ul0.a
+
+
+**Links mentioned:**
+• https://g2ul0.app.link/ZkT5tn2Wz5b
+• https://g2ul0.app.link/abbjfEaXz5b
+• https://www.youtube.com/c/%20TheDiaryOfACEO/videos
+• [Alex Honnold](https://www.alexhonnold.com/)
+
+---
+
+**Link:**
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZX9EY9AKSB1F728SSAR3SCP.mp3
+
+*Pipeline:*
+  • Transcript: cached_rss_tag (18817 words, lang=auto) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**הפודקאסט של גיא קצוביץ'** [ גיא קצוביץ' ]
+
+**מהדורת מוסף: מכפילים מתרסקים ו-AI מזנק: מה קורה לשוק התוכנה? #121**  
+
+[Podcast]
+14/08/2026 03:30 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+מהדורת מוסף: מכפילים מתרסקים ו-AI מזנק: מה קורה לשוק התוכנה? #121 by הפודקאסט של גיא קצוביץ' הפודקאסט של גיא קצוביץ' By גיא קצוביץ' שיחות עם האנשים המעניינים בישראל. Listen on Spotify Report content on Spotify מהדורת מוסף: מכפילים מתרסקים ו-AI מזנק: מה קורה לשוק התוכנה? #121 הפודקאסט של גיא קצוביץ' Aug 14, 2026 Share מהדורת מוסף: מכפילים מתרסקים ו-AI מזנק: מה קורה לשוק התוכנה? #121 גיא קצוביץ' מארח את עמית קרפ (Bessemer Venture Partners), ברק שוסטר (Battery Ventures) וינאי אורון (Vertex Ventures Israel) למהדורת מוסף בה ננתח את טלטלות השוק המשמעותיות ביותר של התקופה האחרונה. התחלנו עם הדרמה ב- Monday סביב חבילות התגמול של המנכ"לים, והמשכנו לסטארטאפ הישראלי Decart שגייס במאי האחרון 300 מיליון דולר, מה עומד מאחורי השמועות על הרכישה של ב-$6? השוונו את צמיחת הענק הזו להתרסקות השווי הכואבת של חברת Airtable, כדוגמה מובהקת לאיך מהפכת ה-AI פוגעת במכפילים של חברות תוכנה שלא מסתגלות מהר למציאות. לסיום, צללנו אל המגמה בה חברות משתמשות בשבבי אנבידיה כעירבון לקבלת הלוואות ענק להקמת חוות שרתים, והסברנו מדוע מחירי השכירות של כרטיסי מסך ישנים של החברה ממשיכים לזנק מעלה. פתיחה ועדכונים התגמולים בחברת מאנדיי איך מתוגמלים מנכ"לים לקראת הנפקה? מה עומד מאחורי השמועות על הרכישה של דקארט ב-$6 התרסקות השווי של Airtable אפוקליפסת ה-SaaS ושינוי המכפילים בוול סטריט שימוש בשבבי אנבידיה כעירבון להלוואות לחוות שרתים שוק השבבים המשומשים: למה ה-GPU הוא הרולקס החדש? Aug 14, 2026 ​מלוחם קרבי לגיוס 40 מיליון דולר: החברה שמשנה את האופן בו עושים בדיקות אבטחה - שחר פלד #120 בפרק הזה אנחנו מארחים את שחר פלד, מנכ"ל ומייסד-שותף של חברת Terra Security, לשיחה מרתקת על העתיד של עולם הסייבר ההתקפי (Offensive Security). שחר משתף כיצד סוכני AI אוטונומיים מחליפים את בדיקות החדירות (Pen Testing) המסורתיות, מאפשרים לארגונים לזהות חולשות בזמן אמת, וכיצד מונעים מרובוטים לגרום נזק ולהפיל מערכות ייצור רגישות. בנוסף, שוחחנו על שירותו הצבאי והמילואים, המעבר שלו לניו יורק כדי להוביל את הצמיחה של החברה, על האתגרים הכלכליים של סטארטאפים ישראלים כיום, ומה נדרש באמת כדי לבנות חברת סייבר שמכוונת להנפקה ציבורית ענקית. [...] שוחחנו כמובן גם על "הדעות הלא פופולריות" שלו ביחס להתאגדות בישראל, גיוס, הערכת שווי, ועוד. פתיחה והכרות עם אלון מטס - הסיפור האישי של אלון ומעבר לארצות הברית - הקמת Better Help ופיתוח פלטפורמת הטיפול המקוונת - המעבר מ-Better Help לסטראברי והחזון החדש - גיוס הכסף לסטראברי ושיתוף עם אורן זאב - הסיפור האישי של ירידה במשקל והשימוש בזריקות GLP1 - הפילוסופיה של שיתוף אישי ויתרונותיו - המעבר לעולם הקואוצ'ינג והבדלים מתרפיה - הגישה של מרקטפלייס ותעדוף הקונסומר על הפרובייד - השינוי שחולל קוביד על תעשיית הטיפול המקוון - הטכנולוגיה של AI בקואוצ'ינג וה-Augmented Intelligence - דעות לא פופולריות על התאגדות בישראל מול ארצות הברית - גיוס כסף - למה כדאי לגייס כמה שיותר בסיד - הבעיה עם פאונדר פיינדרס והאם זה לגיטימי - הטעות הגדולה של יזמים - התאהבות בבעיה אישית - Feb 02, 2026 Show more episodes
+
+
+**Original description:**  
+גיא קצוביץ' מארח את עמית קרפ (Bessemer Venture Partners), ברק שוסטר (Battery Ventures) וינאי אורון (Vertex Ventures Israel) למהדורת מוסף בה ננתח את טלטלות השוק המשמעותיות ביותר של התקופה האחרונה. התחלנו עם הדרמה ב- Monday סביב חבילות התגמול של המנכ&quot;לים, והמשכנו לסטארטאפ הישראלי Decart שגייס במאי האחרון 300 מיליון דולר, מה עומד מאחורי השמועות על הרכישה של ב-$6? השוונו את צמיחת הענק הזו להתרסקות השווי הכואבת של חברת Airtable, כדוגמה מובהקת לאיך מהפכת ה-AI פוגעת במכפילים של חברות תוכנה שלא מסתגלות מהר למציאות. לסיום, צללנו אל המגמה בה חברות משתמשות בשבבי אנבידיה כעירבון לקבלת הלוואות ענק להק
+
+
+**Links mentioned:**
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fguykatsovich%2F&is_from_rle
+• [הפודקאסט של גיא קצוביץ' - Podcast - Apple Podcasts](https://podcasts.apple.com/us/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%9C-%D7%92%D7%99%D7%90-%D7%A7%D7%A6%D7%95%D7%91%D7%99%D7%A5/id1252035397)
+• [Digital Health Track with A-Squared](https://www.fusion-vc.com/digital-health-track-with-a-squared)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fguykatsovich%2F&is_from_rle
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fguy_katsovich_podcast%2F&is_from_rle
+• [הפודקאסט של גיא קצוביץ' | Podcast on Spotify](https://open.spotify.com/show/0dTqS27ynvNmMnA5x4ObKQ)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/guy-katsovich/episodes/-AI-------121-e3nbn5d
+
+*Pipeline:*
+  • Transcript: cached_page_content (12035 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**Agents of Dev** [ The Futurum Group ]
+
+**Stop Reviewing Agent Code? Anthropic, DynamoDB & AI Tech Debt | Agents of Dev Episode 33**  
+
+[Podcast]
+13/08/2026 15:00 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+You've joined another episode of Agents of Dev. My name is Mitch Ashley with the Futurum Group, and I'm joined by my co-host Brad Shemin. You only two hours different. I'm not in the middle of the Atlantic. So, you know, we've been fortunate to be able to do some recording while we're at home, so I'm really enjoying this, though. I go on the road next week. Probably when this is published, I'll be at Black Hat. We should talk about security stuff today. You know, let's bring that up. How about we do some security stuff today? So, why don't we go ahead and jump to our opener if you want to start things out? Yeah, I want to talk about security. Yeah, well, you were kind of like giving us the lead. [...] The Corian team and everybody helps with the show together. And of course, Brad, we'll be back with another episode.
+
+
+**Original description:**  
+Email your questions and topics to the podcast here . Are your AI agents creating more technical debt than they actually solve? In this episode of Agents of Dev , hosts Mitch Ashley and Brad Shimmin break down the fast-moving world of modern AI development, starting with AWS DynamoDB adding native vector support to optimize query latency. They dig into Black Hat insights like "Shift Zero" intent governance, why Anthropic is telling developers to strip down their prompt instructions, and how human alarm fatigue makes reviewing agent tool calls almost pointless. Finally, they wrap up with "The D
+
+
+**Links mentioned:**
+• https://www.youtube.com/watch?v=WuR_Sk8JUjs&feature=youtu.be
+• https://linkedin.com/in/mitchellashley%20
+• https://www.youtube.com/@TheFuturumGroup
+
+---
+
+**Link:**
+https://agentsofdev.podbean.com/e/stop-reviewing-agent-code-anthropic-dynamodb-ai-tech-debt-agents-of-dev-episode-33/
+
+*Pipeline:*
+  • Transcript: cached_whisper (6746 words, lang=en) — Full audio file transcribed (Whisper)
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**מנועי הכסף** [ כלכליסט ]
+
+**פרויקט 500 המיליארדים של אנבידיה - והסכנה לפנסיה של כולנו**  
+
+[Podcast]
+13/08/2026 13:30 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+שבוע עלה לשידור בסי-אנ-בי-סי-ג'נס-אנ-ג'מנ-קל-אנ-ווידיה ולצבדו ישבו ראשי 6 מחברות ניהול לנחסים הגדולות בעולם, אפולו, בלקרו, בלקסטון, ברוקפיל, גולדמן, זאקס וקיי-קיי-אר, הם לא הגיעו לדבר על שווים, הם הגיעו להכחיס על מנגנון חדש של גיוסון. הרעיון של וואנג ואינביידיה די פשוט, אבל חדשני, להפוך את השוווה AI למשהו שאפשר לשעבד, לא כציות שנרשם ונשחק אלא תשתית שאפשר לממן איתה נכנחסים. אז שלום, וברוכים הבאים לפרק נוסף של פוטקסט מנועה הכסף של כלכליסטים, הכלכלן והסטרטגה ראשי של אגם לידרים, אורי גרינפל, לאלנורי. אני שייסלין, אז אנחנו נדבר על המהלך הזה של אינביידיה, נסביר בדיוק מה המחפשות כל הקרנות הכי גדולות בעולם, שם, הכשר לכסף שלנו, לכסף של החוסכים, נדבר גם על הנתוני את העסוקה שפורסמו בארצות הברית בשבוע שעבר והייתה שם הפתעה לרעה, נחבר את הכל זה גם לנתוני האינפלציה בארצות הברית, וכמובן ההחלטה תפד שאו טוב, אני נדבר על זה, אבל שאפשר לדעת מה קורה שם בפד, לפי השווקים לפחות, לא עכשיו, ולא חודש הבא, ולא תחודשיים, הכל פי פי פי פנייה, הכי טוב, כן, הכי מעניין. זה רואו שבי דיוק, אני חושב שאתה משהו רוצה שקרה. כן, טוב, בסדר גמור, בלי לדבר הרבה רק כי מעניין הוא אומר, זה המטרה אתה אומר, טוב, בוא נדבר רגע על אינביידיה ובאמת על המהלך הזה, אתה יודע מה, לפני שנסביר מה הם עושים, תסביר איך הוועד המנגנון הזה קודם, זאת אומרת, אני חברה, לא יודע מה, יש לי איזה פטנט חדש לכירור השוווים, יש לי רעיון, אבל אני צריך, אני התרחבתי, הפטנט שלי טוב, יש ביקוש, יש, זה אני רוצה עכשיו להשקיע בדת הסנטר, ואני צריך ברזלים. איך זה היה, מה הייתי עושה קודם? למי הייתי בא, הייתי מלוקח כסף שלי, מה הייתי עושה? בוא נעשה סדר, בהערכיה הברטיקלית פחות או יותר, כן, אנחנו לא נעבור על כל השלב, אבל בגדול, יש לך את המודל עם עצמם, נכון, אנטרופי כאופן איי וכן הלאה, הם המודל, המודל הזה צריך לרוץ על דת הסנטר, על הדת הסנטר שאת מרכז ענק של שרתים, זה יכול להיות Amazon, Google או חברה אחרת, חברות שרתים בעיקר, שבונים את הדבר הזה שנקרא דת הסנטר, הדת הסנטר הזה גם משתמש בשירותים, של תשתיות, של קירור, של אנרגיה מן הסתם, וכן הלאה שזה חברות נוספות, זאת אומרת יש לנו פה איזה פירמידה, מהמודל, יש, שרשרת הספקה כדי לבנות את הדת הסנטר האלה. בתחילת הדרך, הכסף בעיקר הגיע מהחברות האנן, Amazon, Google, Microsoft, שלחו ובנו, יש להם קשפלא עדיר, חברות שהמקניסות המון המון המון כסף, השתמשו בקסף של החברה עצמה, כדי לבנות, החברות שמסביב או שקיבלו עלוואות מאותן חברות, או שקיבלו עלוואות גם איןווידיה, איןוידיה היא בסוף של התהליך הזה, היא בעצם יצרת תשבבים, שנכנסים לשרתים, שנכנסים לדת הסנטר. אז איןוידיה, ודיברנו על זה לא מעט פעמים, וזה הדבר שהתחילת אחר התהליך של החששות, שקצת יצר חוסר נוחות בעולם הזה, התחלנו לראות תהליך שבו איןוידיה בקסף שלה מלווה לכל מיני חברות, כדי שיוכלו לבנות את מה שהן רוצות לבנות, לא משנה בעצם סדר של התהליך, אנחנו לא מדברים על השרתים עצמם, איןוידיה לא אלוותה, למרות שכן, היה גם על בעלי לאורכל בזמנו, כדי שבתהליך הבנייה הם יקנו את השווים של איןוידיה, אוקיי, זאת אומרת יש פה תהליך בעצם, נכנס לכל כל זה, מעגל כזה, איןוידיה מלווה קסף לחברה, כשמתחייבת לקנות לווים של איןוידיה, זו איןוידיה יודעת שהקסף הזה יחזור כהכנסות בסופו של דבר, היא יכולה לרשום את הכנסות האלה כבר בספרים, כי זה בעצם, הכנסות שהם יודעות יש חוזה, חוזה אומר, הכנסות שלנו בשנים הבאות יהיו כאלה וכאלה, הכל נרשם, הכל בסדר. זה בהענחה שבאמת הטכנולוגיות העבוד, ותמכור לי בעוד שנה, בעוד שנתיים, בעוד צ'רוש. אנחנו צבירות האלה גם רע? [...] אולי הוא לקח ילווה מזה קרן, כשלבנות הבייק. תודה רבה שהזנתם, אנחנו בחופשה ששבוע, ונחזור אחר כך.
+
+
+**Original description:**  
+מנכ״ל אנבידיה ישב לצד ראשי שש מחברות ניהול הנכסים הגדולות בעולם - אפולו, בלק רוק, בלקסטון, ברוקפילד, גולדמן זאקס ו-KKR - כדי להכריז על מנגנון מימון בהיקף של 500 מיליארד דולר לבניית דאטה סנטרים. בפרק אנחנו מסבירים איך מומן התחום עד היום, למה התזרים החופשי של ענקיות הענן החל להצטמק, מה בדיוק מחפשות הקרנות הגדולות בעולם - ולמה בסוף השרשרת עומד הכסף של קרנות הפנסיה. בהמשך: דוח התעסוקה האמריקאי החלש, אינפלציה שנתית של 3.4% שכבר חמש שנים מעל היעד של הפד, והפער שנפתח בין התשואות הקצרות לארוכות בארה״ב - ומה המשמעות לשוק האג״ח בישראל. עם אורי גרינפלד, הכלכלן והאסטרטג הראשי של אגם לידרים, ושי סלינס 0:00
+
+
+---
+
+**Link:**
+https://omny.fm/shows/calcalistpodsmenoeyhakesef/500-1
+
+*Pipeline:*
+  • Transcript: cached_whisper (6644 words, lang=he) — Full audio file transcribed (Whisper)
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**AI לומדים** [ (Aimprove) אִימפּרוּב ]
+
+**97. איזה כלי AI הכי טוב? (התשובה הסופית)**  
+
+[Podcast]
+13/08/2026 11:56 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+(התשובה הסופית) by AI לומדים AI לומדים By (Aimprove) אִימפּרוּב הפודקאסט שעוזר לכם לנווט בתוך עולם טכנולוגי מבלי להרגיש הצפה טוטאלית 🤖 Listen on Spotify Available on Report content on Spotify 97. (התשובה הסופית) AI לומדים Aug 13, 2026 Share 97. (התשובה הסופית) כל שבוע שואלים אותי איזה כלי AI הכי טוב. בפרק הזה אני עונה על השאלה הזאת פעם אחת ולתמיד. ────────────────────────── רוצים לבנות "סוכנים" שיעבדו במקומכם? לטירונות סוכנים רוצים להתייעץ עם בוגרי הטירונות? לבוגרי הטירונות ────────────────────────── אתם מתחילים שרוצים ללמוד AI בצורה מסודרת? 📚 קורס ׳לומדים AI׳ ────────────────────────── רוצים 7 ימים של טיפים סודיים ל-AI? היכנסו לקישור ושלחו את המילה "הצלחה" 🎯 ────────────────────────── להכניס AI לשגרה 👇🏼 🥇 הכשרות AI לארגונים 📚 קורס ׳לומדים AI׳ 📌 ׳אימפרוב פלוס׳ - מנוי בתשלום ────────────────────────── בסושיאל שלנו אפשר ללמוד עוד המון על AI 🤖 📱 טיקטוק 💖 אינסטגרם 💙 פייסבוק ───────────────────────── היי, אני שלהבת 👋🏼 ב-2022 הקמתי את אִימפּרוּב עם מטרה אחת פשוטה: ללמד אנשים לעבוד עם AI בלי להסתבך. בלי מילים גדולות, בלי תיאוריה מיותרת - רק איך להשתמש בכלים האלה בפועל. בעבודה, בעסק, ביום-יום. ───────────────────────── איך יוצרים קשר? אם יש לך שאלה, הצעה עסקית פשוט לוחצים כאן לווטסאפ , אפשר גם לפנות אלינו דרך האינסטגרם או במייל . [...] ───────────────────────── בפרקים הבאים נמשיך לפרק את הכלים - מה באמת עובד , מה אפשר לשכוח , ואיך להפוך את ה-AI לחלק קבוע מהעבודה שלכם. ───────────────────────── נתראה בפרק הבא, שלהבת ───────────────────────── Jan 17, 2026 Show more episodes
+
+
+**Original description:**  
+כל שבוע שואלים אותי איזה כלי AI הכי טוב. בפרק הזה אני עונה על השאלה הזאת פעם אחת ולתמיד. והתשובה תפתיע אתכם. ────────────────────────── רוצים לבנות &quot;סוכנים&quot; שיעבדו במקומכם? לטירונות סוכנים רוצים להתייעץ עם בוגרי הטירונות? לבוגרי הטירונות ────────────────────────── אתם מתחילים שרוצים ללמוד AI בצורה מסודרת? 📚 קורס ׳לומדים AI׳ ────────────────────────── רוצים 7 ימים של טיפים סודיים ל-AI? היכנסו לקישור ושלחו את המילה &quot;הצלחה&quot; 🎯 ────────────────────────── להכניס AI לשגרה 👇🏼 🥇 הכשרות AI לארגונים 📚 קורס ׳לומדים AI׳ 📌 ׳אימפרוב פלוס׳ - מנוי בתשלום ────────────────────────── בסושיאל ש
+
+
+**Links mentioned:**
+• [טירונות סוכנים — בונים צוות AI שעובד בשבילכם](https://agent-course.aimprove.co.il/?src=p97)
+• [הבוגרים של טירונות סוכנים - מחכים לדבר איתך](https://agent-course.aimprove.co.il/bogrim/?src=p97)
+• [קורס ״לומדים AI״ | אִימפּרוּב](https://shalhevetvardi.github.io/Storyteling/lomdim-ai.html)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fm%2Faimprove.ai%3F__coig_login%3D1
+• [Share on WhatsApp](https://api.whatsapp.com/send/?phone=972515079762&text=%D7%9C%D7%A7%D7%91%D7%99%D7%A2%D7%AA+%D7%A9%D7%99%D7%97%D7%AA+%D7%99%D7%99%D7%A2%D7%95%D7%A5+%D7%A2%D7%9D+%D7%A9%D7%9C%D7%94%D7%91%D7%AA+%D7%91%D7%A0%D7%95%D7%92%D7%A2+%D7%9C%D7%94%D7%93%D7%A8%D7%9B%D7%94+%D7%A4%D7%A8%D7%98%D7%99%D7%AA+%D7%9C%D7%90%D7%A8%D7%92%D7%95%D7%9F&type=phone_number&app_absent=0)
+• [TikTok - Make Your Day](https://www.tiktok.com/@aimprove?lang=en)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Faimprove.ai%2F&is_from_rle
+• https://www.facebook.com/people/Aimprove-%D7%90%D7%99%D7%9E%D7%A4%D7%A8%D7%95%D7%91-%D7%91%D7%99%D7%A0%D7%94-%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99%D7%AA/100090960200806/
+• [Share on WhatsApp](https://api.whatsapp.com/send/?phone=972515079762&text&type=phone_number&app_absent=0)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/-316679/episodes/97----AI-e3nbq9l
+
+*Pipeline:*
+  • Transcript: cached_page_content (14190 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**Gardening with the RHS** [ Royal Horticultural Society ]
+
+**Heatwave survival guide for pots and powdery mildew mayhem**  
+
+[Podcast]
+13/08/2026 11:13 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+This summer, discover local RHS partner gardens, each with their own story to tell. From award-winning rose gardens to world-famous landscapes steeped in history, there are 240 to explore. Browse the Partner Garden map at rhs.org.uk to find gardens to visit near you. And if you're an RHS member, enjoy free entry to all partner gardens at selected times, for inspiring days out all year round. For joint members, free entry is for the main member only. Please refer to our website for details. Last week we looked at how to help out our wildlife, whereas this week we're focusing on what to do with our parched plants. These times are called with me, my garden at the moment is a bit of a mixed bag. There's some good, there's some bad, there's some downright ugly and there's some areas of concern. Things that are doing really well at the moment for me are things like the small leaf, shrubby salveas, things like royal bumble, which is wonderful in its colour, its wildlife value. It's thrumming with hummingbird hawk moss and bumblebees. Allium millenium, which is a perennial allium, so it keeps its foliage over the summer. It's got these gorgeous drumstick pink flowers that have been going for months. [...] well one of the things that happens in a drought is the organic matter in the soil rots and releases nutrients any fertiliser you use may well have not been taken up by plants as a drought stressed so after a downpour the soil is suddenly full of nutrients we don't want that water to run off into drains where it can cause pollution and we'd like to keep it for next year if we possibly can so it's a good time where there's scope like vegetable gardens to start thinking about sowing green manures so you can sow things like rye and ryegrass and that'll soak up the nutrients and hold them till next year prevent pollution and improve your soil it's quite interesting that if you've got a clay soil because they're widely, they've got great big cracks in them the cracks of the clay soil essentially is digging itself to some extent they might damage roots but mostly these cracks open up dig the soil and then rain runs straight down the cracks and wets the soil deeply so it's a good thing well guy, fingers crossed we get a downpour soon I know we're all parched how's your rain dance these days? I've rather lost faith in my rain dance just by looking around here but like most gardeners I spend a lot of time looking at the weather forecast rain is just a week away but sooner or later it will rain and I'll be much happier Thanks to Dan and Guy there now joining me just before we go is producer Poppy, hiya Poppy Hi Gareth, thanks for having me back on the show I've got a couple of questions for you and these are inquiries that have been submitted to our inbox which is podcast at rhs.org.uk I'll pop a link to it in the show notes but the first question I have for you is when do I cut my wildflower meadow Oh well good question ok so what plant life say and plant life are the kind of the authority on this is that you can start cutting in late July and cut right through until September time so generally the thing to use as a guidance has it stopped flowering so if it's all kind of looking a little bit rough and a bit knackered time to get going now the best thing to do is to flush and long is to stream it or side it do this gradually so that wildlife can escape but for most of us we don't have a eekers of meadow and we don't have a streamer or a side so the easiest thing to do is use a mower on its highest setting take the collection bag off it's important to leave the clippings on the grass just for a bit so that any seeds from the wildflowers can fall out and go back into the turf but then critically you can use them to make habitat towers you can put them on your compost heap but get them off your meadow because otherwise they'll rot down and they will fertilise it and that fertilising effect just encourages lots of long lush grass at the expense of wildflowers that's a good point about leaving it on there for a bit to let the seeds fall out and creatures to scamper away that have been caught up ok so my next question for you Gareth is what can I plant in the shade well do you know what this is probably the number one problem I've noticed in my many decades in the gardening industry people want to plant in shade but they think the shade is moist and quite often it isn't we've actually got a great web page on the rhs.org.uk site which is just called shade planting and it has some wonderful suggestions things like periwinkle now if you go for the lesser periwinkle vinker miner garden plant it will make these mattes of lovely evergreen leaves it has flowers in the spring it's good wildlife habitat avoid greater periwinkle vinker major because that can just go absolutely everywhere and be a bit of a weed Mahonias can be good in shade some ferns as well but one of my top tips is to actually include some colourful carex these are the 
+
+
+**Original description:**  
+In a summer of rolling heatwaves, we look at what we can do to help out one of the garden areas most vulnerable to parching - plants in pots. RHS Horticultural Advisor Nick Turrell explains what you can do to keep them alive and thriving as temperatures soar. The heat and high humidity this summer have provided the perfect conditions for fungal plant diseases to spread like wildfire. RHS Plant Pathologist Dr Jassy Drakulic tells us about powdery mildew, and shares what you can do if your plants have succumbed. And finally, our Chief Horticulturist Guy Barter sheds some light on how we can make
+
+
+**Links mentioned:**
+• [Drought-resistant plants | RHS Advice](https://www.rhs.org.uk/plants/for-places/drought-resistant)
+• [Powdery mildews: Symptoms & Control | RHS Advice](https://www.rhs.org.uk/disease/powdery-mildews)
+
+---
+
+**Link:**
+https://traffic.megaphone.fm/PIXP4582327844.mp3
+
+*Pipeline:*
+  • Transcript: cached_whisper (6084 words, lang=en) — Full audio file transcribed (Whisper)
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**שירלי פסיכולוגיה בקטנה** [ shirleyyair ]
+
+**פרק 175: סיפורים מהקליניקה/ סיפורים מהחיים: הסיפור של אייל - אני מתווכח משמע אני קיים**  
+
+[Podcast]
+13/08/2026 09:37 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+סיפורים מהקליניקה, סיפורים מהחיים, והפעם, הסיפור של אייל, אני מתבקח, משמע, אני קיים. ילד כזה שכשאימא שלו יושבת לקפה עם השכנה, היא מתגעה. הוא היה שני מבין ארבעה בנים שנולדו בצפיפות, אחד אחרי השני. האח הגדול היה מרדן, הטראבלמייקר, זה שעושה את הדרם עוד בבית ומכניס את ההורים לחרדה וכונינות תמידית. והוא, הילד האמצעי, ידע את זה. הוא הגיש של ההורים שלו יש מספיק ממליד או גבוב אחר, לא להמיס יותר. בתוך המשפחה ההיא לא היה הרבה מקום להתפרצויות זה, אמר, דאח הגדול רמשך את כל התקציב המשפחתי לזה. נוסף על זה גם אבדו מיננטי מאוד באישיות שלו מנהל בחיר, איש עם חוקים נוקשים, ואמא שהייתה אישה כלותית וילדותית, שנהגה להעניש באמצעות זה שהייתה נעלבת. אלבונות שנפשחו כמה ימים עם רק אמרתא או עשית משהו שלא יתאים להג'נדה שלה. בקיצור בבית, הוא היה יותר נוח לרצות מאשר לרצות. ובסך הכל הייתה לו ילדות מאושרת למדי. הוא שחק אדורסל חמש פעם בשבוע, היה שחקן קבוצה. הוא ידע ממש טוב להתאים את עצמו גם לחוקים של המשפחה על המגרש. [...] האם הוא אוכל להביע את האני רוצה או את האני לא רוצה שלו בדרכים אחרות? הוא מגלה שכשהוא פחות מביר למה הוא מתנגד ויותר מסביר מה הוא מבקש, מה קוק, מה מפחיד אותו הוא כבר לא צריך לצעוק את זה אחר כך דרך וכוחים על פירורי לכם או קניות בעיקע או איפה עושים את הרוחד שישי הוא לומד להרפות קצת ממאבקי הכוח על רצונות מהארגשה כאילו רצון אחד חייב מתי שהוא לעשות איפון לרצון של השני בבית הזה הוא לומד שהם יכולים לגור ביחד אחד ליד השני שני רצונות עצמיים נפרדים שכנים טובים על אותו מגרש משפחתי סיפורים מהקליניקה סיפורים מהחיים מעזינים יקרים אם אהפתם את הפרק הזה ומצאתם אותו משמעותי לחיים שלכם כתבו לי, ספרו וגם תעביר וואלה תשלכו אותו לעוד מישהו או מישהי שיכולים להרוויח מזה אני מועדת אתכם גם לעשות אוקיי וחייפות קסלנות מהדרך בעולם האמיתי, מחוץ להוזניות מזמינה אתכם להכיר את הסדנה שלי שנקראת איך ממריא מכאן ותיתן לכם בוס של כוחות ואופטימיות, מחזור חדש מתחיל בספטמבר הנוכחי והרשמה בעיצומה מוזמנים להכיר גם את התודוליסט, כלי תרגול אימון ומשחק שפיתחתי לינקים לכל הפעילויות האלה וגם לקבוצת וואצב שקטה של התמצאו ולינק של תיאור הפרק ובעתר שלי אין מידע על ההרצאות ולפעילויות מוזמנים שיר לי יובל יעיר
+
+
+**Original description:**  
+מזמינה אתכם להיות לרגע פרפר על הקיר בקליניקה שלי. לא זבוב – אלא פרפר. כזה שמתבונן ברגעים העדינים, בסדקים שדרכם נכנס האור, ובאומץ הנדרש כדי להשיל קליפות ישנות. מה קורה שם בחדר הזה הפרטי של הטיפול הפסיכולוגי? והפעם - הסיפור של אייל, שהיה ״ילד טוב״ - נוח להוריו, ונוח למשפחתו, ונוח ל״שבט״, ונוח למסגרות. ואז הכיר את אהבת חייו, אישה שאיתה הקים בית ומצא את המקום הבטוח שלו. דווקא שם, בתוך החיק הבטוח, הוא מרשה לעצמו להפעיל שריר חדש - את שריר היכולת להגיד ״לא״! אבל הויכוחים, ההתנגדויות, ההתנצחות - מכסה את האהבה באבק, כשהבית מתמלא במאבקי כוח על רצונות. בטיפול הוא מגלה מה מעניקה לו הווכחנות, אבל איזה מחיר
+
+
+**Links mentioned:**
+• [WhatsApp Group Invite](https://chat.whatsapp.com/GIwA7iVwNk0IkHNzWiTAtl)
+• [בית - שירלי יובל יאיר](https://shirley-yuval.com/)
+• [איך ממריאים מכאן? סדנה חוויתית בפסיכולוגיה חיובית - ספטמבר 2026 - שירלי יובל יאיר](https://shirley-yuval.com/product/positive-psychology-workshop/)
+• [תּוֹדוּ לִיסְט - המארז השלם - שירלי יובל יאיר](https://shirley-yuval.com/product/%D7%AA%D7%95%D7%93%D7%95-%D7%9C%D7%99%D7%A1%D7%98-%D7%94%D7%9E%D7%90%D7%A8%D7%96-%D7%94%D7%A9%D7%9C%D7%9D/)
+
+---
+
+**Link:**
+https://shirleyyair.podbean.com/e/%d7%a4%d7%a8%d7%a7-175-%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%9e%d7%94%d7%a7%d7%9c%d7%99%d7%a0%d7%99%d7%a7%d7%94-%d7%a1%d7%99/
+
+*Pipeline:*
+  • Transcript: cached_whisper (1004 words, lang=he) — Full audio file transcribed (Whisper)
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**The Diary of a CEO** [ FlightStory ]
+
+**Sleep Apnea Expert: 1 Billion People Have This And Most Go UNDIAGNOSED! | Dr Andy Galpin**  
+
+[Podcast]
+13/08/2026 05:00 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+Independent Research & Further Reading Guest : Dr Andy Galpin Disclaimer 1: The sources presented here, directly (or as closely as possible), look at statements made by the guest in this episode. To report on each topic thoroughly, an extensive search and review (beyond the scope of this document) would be required. Disclaimer 2: The views expressed are those of the guest, and this conversation is intended for general informational purposes only. This podcast and its associated materials should not be used as a substitute for professional medical advice, diagnosis, or treatment. For any medical concerns, please consult a qualified healthcare professional. Contents Undiagnosed Sleep Apnea Prevalence 3 Sleep Apnea Prevalence by Demographic Group 4 Central and Peripheral Apnea Subtypes 5 Wearables' Unreliability for Deep and REM Sleep 6 Global Decline in Sleep Duration Despite Rising Spend on Sleep 8 NASA Satellite Data on Global Light Pollution 9 Urbanisation Linked to Higher Rates of Anxiety and Depression 10 Recommended Ambient Noise Levels for Sleep 11 Resting Heart Rate and Sleep Duration (Case Example) 12 Lavender and Sleep Onset 12 Optimal Bedroom Temperature for Sleep 13 Melatonin: Dosage and Accuracy of Labelling 14 Evidence-Based Sleep Supplements (Tart Cherry, Chamomile, Kiwi, Magnesium) 15 Caffeine, Sleep Deprivation, and Performance (Meta-Analysis) 16 University of Sussex 2009 Study on Sounds That Wake Sleepers 17 Postpartum Sleep Disruption Persisting Into Later Life 17 Vitamin D and Ethnic Background 18 Cholesterol Reduction Through Lifestyle Change: A Case Example 19 Fibre Intake Guidance Relative to Caloric Intake 20 CRP as an Acute-Phase Inflammatory Marker Linked to Cholesterol 21 Asymptomatic Coronary Artery Blockage in a Young, Fit Individual 22 Widespread Underconsumption of Potassium 23 Testosterone’s Relationship With Age 23 Testosterone’s Limited Role in Exercise-Induced Muscle Growth 24 Omega-3 Intake and Mercury Exposure 25 Exercise-Induced Increases in Blood Volume 26 Historical Novelty of Structured Exercise 26 Cardiovascular Fitness as a Predictor of Mortality 27 Grip Strength Asymmetry as an Emerging Research Area 28 Sarcopenia and the Emerging Concept of ‘Powerpenia’ 30 Muscle Growth: Training Frequency Versus Weekly Training Volume 31 Rest Interval Length Between Sets and Muscle Growth 31 Adaptive Thermogenesis and Exercise-Induced Weight Loss 32 Intermittent Fasting Versus Calorie Control for Fat Loss 33 References 35 Undiagnosed Sleep Apnea Prevalence “Somewhere in the neighborhood of 70 to 80% of people who have clinical sleep apnea will go undiagnosed. … 50%, depending on which study you look at, of athletes have a clinical sleep disorder. For women, it’s somewhere in the neighborhood of 90 to 95% of women that have clinical sleep apnea will go undiagnosed.” The original estimate comes from the Wisconsin Sleep Cohort. A 1993 NEJM population study used overnight polysomnography in a random sample of middle-aged employed adults to show undiagnosed sleep-disordered breathing was common, including in women. The follow-up 1997 analysis combined questionnaire data from 4,925 adults with in-lab polysomnography in 1,090 participants and estimated that 82% of men and 93% of women with moderate-to-severe sleep apnea syndrome had not been clinically diagnosed . Later reviews and epidemiology papers largely treat that cohort as the baseline evidence. Reviews in 2002, 2020, and 2021 all restate that undiagnosed obstructive sleep apnea (OSA) is common and that >80% or 80–90% of cases remain unrecognised, especially for moderate-to-severe disease. modelling estimated 83.7–85.6 million adults with OSA and about 68.5 million undiagnosed. [...] Hypercaloric 16:8 time-restricted eating during 8 weeks of resistance exercise in well-trained men and women. Journal of the International Society of Sports Nutrition, 22.
+
+
+**Original description:**  
+Performance Scientist Dr Andy Galpin reveals the BIGGEST sleep mistakes ruining your health, how to build better energy every day, why your sleep tracker could be making things worse, and whether health optimisation can actually backfire! Dr. Andy Galpin is a Professor of Kinesiology and Executive Director of the Human Performance Center at Parker University. He has spent over 2 decades working with Olympic gold medallists, world champions, professional athletes, military special forces, and also hosts the Perform with Dr Andy Galpin podcast.&nbsp; He explains:&nbsp; ◼ Why millions unknowingly
+
+
+**Links mentioned:**
+• [Picturing Earth in a New Light - NASA Science](https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/)
+• https://stevenbartlett.com/wp-content/uploads/2026/08/DOAC-Andy-Galpin-Independent-Research-Further-Reading.pdf
+• [https://link.thediaryofaceo.com/E41eW4P](https://link.thediaryofaceo.com/E41eW4P)
+• [https://link.thediaryofaceo.com/3yDF4PF](https://link.thediaryofaceo.com/3yDF4PF)
+• [https://link.thediaryofaceo.com/9RKtDoZ](https://link.thediaryofaceo.com/9RKtDoZ)
+• [https://link.thediaryofaceo.com/7UxNsxH](https://link.thediaryofaceo.com/7UxNsxH)
+• [https://link.thediaryofaceo.com/4mgzHRs](https://link.thediaryofaceo.com/4mgzHRs)
+• [https://link.thediaryofaceo.com/CQDR1q8](https://link.thediaryofaceo.com/CQDR1q8)
+• [https://link.thediaryofaceo.com/5Squ4wN](https://link.thediaryofaceo.com/5Squ4wN)
+• [https://link.thediaryofaceo.com/1Fw5A7k](https://link.thediaryofaceo.com/1Fw5A7k)
+• [https://link.thediaryofaceo.com/Fu8uPd7](https://link.thediaryofaceo.com/Fu8uPd7)
+• [https://link.thediaryofaceo.com/5ykmlog](https://link.thediaryofaceo.com/5ykmlog)
+• [https://link.thediaryofaceo.com/8T6M9KJ](https://link.thediaryofaceo.com/8T6M9KJ)
+• [https://link.thediaryofaceo.com/8QLLu9w](https://link.thediaryofaceo.com/8QLLu9w)
+• [DOAC Circle – Join the Inner Circle of The Diary of a CEO](https://doaccircle.com/)
+
+---
+
+**Link:**
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZERQ8T6SQ7V8928XZ3VC6MR.mp3?fcv=m54qckzxb3t7nyyjn5u05ojh
+
+*Pipeline:*
+  • Transcript: cached_pdf_show_notes (18131 words, lang=en) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**השקעות למתחילים - סטפק & רבינוביץ** [ רשת אינווסטור 360 ]
+
+**מדדי המניות והאג"ח של ישראל**  
+
+[Podcast]
+12/08/2026 10:48 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+היי כנומה רבינוביץ מייסד אינבאסטו של 360 אנחנו פיר מטפה מיופס המתמךה בליווי של משקיעים קשירים ומזמינים אתכם מאגלנו לפגישה תקרות אנחנו מציעים מעטפת רכבה לניהולו שיר יהודית המשקיעה קשיר שכולל את אופטימיזציה תמאס ניהול תזרים גישה וקרנות סכירות ודו סכירות של מטב המנהלים בעולם העברת נכסים בן דורי תיקון מאה תשעים איירי קרן השתלמות מבר התקרא ועוד. במהלך פגישה תקרות נבנה תוכנית פיננסית אמותם את הצלחים ולמטרות שלכם ושהם משפחתכם מוזומנים נקבוע איתנו פגישה בלינק שבטיור הפרק ולהצטרף לקהילת המשקיעים הקשירים הגדולה של אינבאסטו. השוק הלא השוק ירד כל הזמן אומרים לנו את זה אבל מה זה השוק. כשאומרים השוק מתכוונים בעצם למדדים אבל מה זה מדדים יש הרבה מדדים הרבה סוגי מדדים גם בארץ גם בכל היום מתמקד. המדדים המרכזים בארץ ואז. נבין יותר טוב למה מתכוונים איזה מדדים יש מה הפדלים ביניהם מה יותר מעניין מפחות מעניין מוזומנים להצטרף. אבנר סטי פאק ואומר הבינוביץ עוזרים לכם בצעדים הראשונים בעולם השקעות. אוקיי אז ערב טוב לכולם בבוקר טוב וצהריים טוב עם הוקושר טוב היום אנחנו נדבר על מדדים הפורסה בתל אביב בידי בבורסה בתל אביב ואבנר ידעתי אתם. מתב החברה השנייה בקודה ראשונה בקודה במעולם המדדים בארץ עוד שנייה נדחרית ותחריך את הכל אחד מה שתיים הקדודות אבנר איתן ככה. בעיקר את עטון אצל באינבאסטו אוריין יש קרנות נאמנות אין כל כך תעודות. קרנות נאמנות המטרי זה הכות את המדדים אבל גם זה תמיד משתמשים במושג מדדים אז בוא נתחיל עם איזה מדדים מרכזים יש לנו כבר יגיד רק שבאישראל המדד שעשה הכי טוב. בחמש שנים האחרונות הוא תל אביב 35 מהותו מדעת 35 אבנר תסביר. אז זה תחלת עם שוק אמניות תל אביבי כי יש לנו גם מדדים בשוקי גורת חוב נגיע להם בהמשך אבל בוא נתחיל ממשיך באמת עם שוק אמניות השוק אמניות בתל אביב. [...] הפרק בחסות רשת אינבסטור שלוש מאות שישים רשת הפוטקסטים המובילה בישראל בתחום הפיננסים והשקעות מוזמנים להזין לפוטקסטים הנוספים שלנו המשקיינים השקעות למתחילים אינבסטור לב והשקעות להייטקיסטים. ופאק ונערך על ידי שמה, פוטקסטים ויצירות סאונד.
+
+
+**Original description:**  
+לתיאום בדיקת צ'ק אפ פיננסית ללא עלות הצטרפות למיטב טרייד כשנכנסים לעולם ההשקעות בישראל, צמד המילים "מדד תל אביב" או "מדדי תל בונד" עף באוויר בכל כותרת פיננסית. עבור משקיע בתחילת הדרך, ההבנה של המדדים הללו אינה רק עניין תיאורטי - היא המפתח לבניית תיק השקעות מפוזר, חכם ומאוזן דרך קרנות סל וקרנות מחקות. הערב, עומר רבינוביץ' ואבנר סטפק מפרקים את עולם המדדים הישראלי לגובה העיניים, ומסבירים מה בדיוק מרכיב את תיק ההשקעות הלאומי. נלמד את ההבדלים המרכזיים בין מדדי המניות המובילים, כמו מדד ת"א 35 שנסחר כעת סביב 4,156 נקודות ומאגד את החברות הגדולות במשק, לבין מדד ת"א 125 הנסחר כעת סביב 4,038 נקודות ומעני
+
+
+**Links mentioned:**
+
+
+---
+
+**Link:**
+https://share.transistor.fm/s/4f537951
+
+*Pipeline:*
+  • Transcript: cached_whisper (3716 words, lang=he) — Full audio file transcribed (Whisper)
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**בזמן שעבדתם** [ mako מאקו ]
+
+**הפרקים האהובים: בינה מלאכותית ברה מז'ור**  
+
+[Podcast]
+12/08/2026 09:10 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+בזמן שעבד אתם 244 דני פלט שלום שלום דרור מה נשמע האמת שבועום רגש אנחנו תכף ורוזים את כל אלה דוות וממש יורדים דרומה לעיני נגב שסוף סוף חוזר אחרי שנתיים עוד עצובות של האדרות בשבילנו כי אנחנו כל שנה משתדים לי עוד שם הייתי בראשון אני חושב עם סוף אבידן וגבע לון והיה וואו היה מדהים בעיני זה הפסטיבל שלי סיבלים זה זה כיף זה הדבר ותודה גם חיינוך טוב לילדות כאילו מוזיקה חייה נגנים ומות זה כל הבא לגן אני רוצה דווקא לדבר לך על מוזיקה שעולכת ונעלמת מעולם או יותר ספציפית לדבר על הרוץ שעולך ונעלם מעולם אני כמובן דבר על mtv שהשנה ב-31 עד עצמבר הולך להסגר לא יהיה mtv יותר ו mtv זה אולי אני לא חושב שהיה שום הרוץ או שום אייקון תרבות שישפיע על החיים שלי כמו ש mtv אבל אתה יודע כנראה שהדור הולך ומתחלף והיא טועה מדיום והתרוכה וקראתי גם בעצם מקום עצוב שהם tv זה מאוד דומה לדור ה-x כאילו ותודה הדיחתו של mtv זה דיחת דור ה-x שזה המצב אין מה לעשות אתה זוכרת הנשיקה מפורסמת של מדונה ובריטניה ספירס ב-2003 בעיקר אני התרשמתי מהמירה התרבותית הבינדורית אתה מבין של כאילו פרגון הדדי בינדורות שונים של מוזיקה נכון לזה אתה חושב שאתה רואה את הנשיקה הזאת על החיבור הבינדורי והעברת אני דווקא הסתכלתי על אופנה שזה שחור ולבן וכמה זה כן אבל לא אני דווקא דיברתי עלה כמה זה היה אז סנסציוני ואז באותה שנה זה קרה ב-mtv music awards שזה הטקסט הזה כמו האוסקר של mtv שהוא היה אז בפיק כמעט בפיק לכל הזמנים או באחד משנה פיק עם הכי גדולים ואם הם היו מתנשקות היום אז אף אחד לא יעדה אף אחד לא יעדה כי אף אחד לא היה רואה את זה זה פשוט היה הרייטינג אתה יכול לראות הרייטינג בשנים האחרונות הוא קרוב ל-0 ואף אחד לא צופה סיבה יקרית שאף אחד לא צופה זה כי אנחנו צופים בקליפים במקום אחר אני כמובן דבר על יוטיוב או טיקטוק או זה אבל כן נכון אבל יוטיוב סימנה התחילת המהפכה ביקר בכל משקשור במוזיקה כי ב-2005 שנתיים אחרי אותה נשיקה מפורסמת אתר הזה הלאה וכל המוזיקה הוא הביר אליו ואני תוהה בנילה ונצמי ואנחנו נדבר הזה גם בפרק האם האם בכלל יהיה קליפים יש סיבה לעשות קליפים מי שרוצה לראות קליפים או שהמוזיקה התוכן השתנה ולכן גם הרוצה הפצה השתנה ואני כבר לא צריך אתה ונטומני אני צריך משהו מסוג אחרי לגמרי נכון אולי מוזיקה שאתה תיצור באמצעות אי-איי או שמי שיצור עבורך באמצעות אי-איי כבר יש כוכבות אי-איי חדשות שקופשות את העולם המובילה שבהם זו אני לא יודע אם נקור לזה רובוט או על מתכן או מה שזה לא יהיה שקוראים לה קסניה של פיקסלים כן קסניה מונה שהיא חתמה על סכם הפצת מוזיקה בגובה של כמה מיליוני דולרים ונראה כאילו השבוע קרה אירוע באמת דרמטי והאי-איי הביס עוד פעם אתה יודע מחדש את האדם אבל הפעם בתחום שלא ציפינו שזה יקראה כל כך מהר ובמקום הראשון במצד הבילבורד האמריקאי בקטגוריה קנטרי נמצא לא אחר מי אומן אי-איי וזה לא זמר אמיתי זהו הבילבורד נכבש סופית מצד אמריקאי נכבש סופית שמה זה רגע מדהים זה לא שנכבשה לא שתכבש הבילבורד של הדאנס או אלקטרוני או מה שאתה אומר אוקיי אני מבין לא הקנטרי המקום שבו מה שמנצח זה האוטנטי קנטרי זאת המילה הכי אוטנטי מה אתה שוצא לשמוע אדמה אתה צריך לשמוע גיטרה עץ חום נכון מילים של אדם שוצאות מהלב דברים כאלה שם אי-איי נצח כבר נצח ולכן כל השיחה שלנו על מוזיקה ואי-איי נתהנת במשמעות אחרת לגמרי כי הכל יכול לקרות עם זה קרה אני חושב שזה ילך עוד הרבה יותר רחוק אך הוא מדבר על זה אבל אתה שאתה אוהב מוזיקה מאוד מאוד מסוימת בוא נגיד דעצור במוזיקה מאוד מאוד מסוימת יכול מאוד להיות שאתה תרצה לשמוע רק את המוזיקה מאוד מאוד מסוימת שאתה תכין לעצמך את האיי מיקס טייפ שלך כמו שפעם היינו בחינימים אם אתה זוכר את טייפ דאב קסט היינו בחינימים עצמנו קלטות ואתה תצאו לצלחר רק את המוזיקה שאתה אוהב אתה תתנתק לגמרי מהמצדים וממה שקורה כי אתה יודע בדיוק מה אתה אוהב ומה אתה רוצה לשמוע ומה מרגש אותך וזה מה שיקרה כן רגע כבני לא שאני בוחר מתוך מוזיקה שאחרים יצרו את השירים שרק אני אוהב נולדת רק בשבילי מוזיקה שרק אני אוהב ורק אני מכיר כי רק בשביל לי אף אחד בעולם לא יודע מה אני שומר לא שמה את זה נכון אף אחד גם לא רוצה לשמוע את זה כי כל אחד מה קרה לך אתה יודע איזה טעם יש לי לא אתה זה ברור אני ספציפי תדם תשלח לי בוא נצלח לי אבל בגדול זה לא יהיה משהו שיהיה עניין כנראה את הצופים כי למטמה או מטמה פשוט להם ירצו ליצור לעצמם את המוזיקה שהם אוהבים כבר 60 מיליון איש ב2024 יצרו מוזיקה באמצעות היה וזה רק אלך והתגבר אז נדבר על עלייתו ונפילתו של הערוץ הכל כך חשוב אז עבורנו mtv נדבר על ההשתלטות של האלגורית מי נדבר על המעפכה הבאה שבמוזיקה שכבר עומדת בלפתכנו ואולי נגלה כעולם שוב סרובב במעגלים כלומר כלומר יש משהו בעבר המוזיקלי שעדיין מאוד אפקטיבי ואטרקטיבי למרות ובגלל אני מאוד מקווה נתחיל במינרת הזמן ניסה אחורה לאחת באוגוסט 1881 אז ערוץ נדח וקטן שבסך הכל בספרייה שלו יש 150 קליפים מעולה להעביר אני מקווה נדבר על mtv והשיר הראשון לפתח היה זה קצור אותו קליפ של טרבר הום שהיה מפיק מוזיקלי מאוד מאוד מוכשר והוא היה בעצם הדמות החיים מאחורי הסקספיסטול זה הידועים הבוטים של הפאנק אבל הוא החליט להולך למקומות אחרים והצר את הקליפ הזה זה הקליפ שפתחת לדורי mtv כשעלון חרוץ, ערוץ נדח, אף אחד לא רואה אותו, נותרו להם שני מיליון דולר רק צריך להגיד הטקסט למי שלא שם לב video kill the radio star אחד כן זה כל האמירה של mtv בעצם ושתיים הקליפ עצמו למי שלא רואה שעבר לכם לרוץ ל youtube לזכר מנסה להיות מאוד מאוד התידני לאותו רגע מלא מסכים וואו מסך נכון היה שם מן רובוטית כזאת שהיום אנחנו רואים אותה באינסטגרם כאילו דומה לה מנסה לתמוד התידני באמצעי איך נאמר טלוויזיה חינוכית של 70 נותרו להם שני מיליון דולר בקופה ל-MTV כשאלון טוטלי ואז הם פנו לבחור שהוא בעצם הדמות שלו אתה ראית על הסדרה מדמ
+
+
+**Original description:**  
+מאז שהפרק עלה לראשונה בסוף 2025, הרעיון של "אמן אי-איי" כבר הפך מגימיק לאחד האיומים הגדולים (והרווחיים) על תעשיית המוזיקה. בין תביעות ענק של חברות התקליטים נגד פלטפורמות הג'נרוט, לבין הסכמי מיליארדים שנחתמים מאחורי הקלעים - הגבול בין מוזיקה אנושית לאלגוריתם הולך ומשטשט בקצב מסחרר. המציאות מוכיחה שכל מה שדיברנו עליו בפרק לא רק עדיין רלוונטי, אלא קורה עכשיו בווליום גבוה בהרבה. פרק 244: האומן "בּרייקינג רָאסְט" כבש לאחרונה את אחד ממצעדי המוזיקה האמריקאיים אבל להופעה שלו לא תוכלו להגיע כי הוא ג'ונרט בכלי בינה מלאכותית. בו בזמן ערוץ אם־טי־וי המיתולוגי, שבזכותו להקות כמו נירוונה עלו לגדולה &ndash; נ
+
+
+**Links mentioned:**
+
+
+---
+
+**Link:**
+https://omny.fm/shows/program-51/a4ba2e07-7ed3-4fb0-880e-b4a4009432f4
+
+*Pipeline:*
+  • Transcript: cached_whisper (6473 words, lang=he) — Full audio file transcribed (Whisper)
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**AI לומדים** [ (Aimprove) אִימפּרוּב ]
+
+**96. כמה עולה ״להעסיק״ צוות של סוכני AI?**  
+
+[Podcast]
+11/08/2026 20:21 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+כמה עולה ״להעסיק״ צוות של סוכני AI? by AI לומדים AI לומדים By (Aimprove) אִימפּרוּב הפודקאסט שעוזר לכם לנווט בתוך עולם טכנולוגי מבלי להרגיש הצפה טוטאלית 🤖 Listen on Spotify Available on Report content on Spotify 96. כמה עולה ״להעסיק״ צוות של סוכני AI? AI לומדים Aug 11, 2026 Share 96. כמה עולה ״להעסיק״ צוות של סוכני AI? מנהל הבנק שלי התקשר לשאול מה זה כל החיובים מאנתרופיק (קלוד), אז בפרק הזה אני פותחת את החשבוניות ומראה לכם בדיוק מה הכסף הזה קונה לי כל חודש. ────────────────────────── רוצים לבנות "סוכנים" שיעבדו במקומכם? לטירונות סוכנים רוצים להתייעץ עם בוגרי הטירונות? לבוגרי הטירונות ────────────────────────── אתם מתחילים שרוצים ללמוד AI בצורה מסודרת? 📚 קורס ׳לומדים AI׳ ────────────────────────── רוצים 7 ימים של טיפים סודיים ל-AI? היכנסו לקישור ושלחו את המילה "הצלחה" 🎯 ────────────────────────── להכניס AI לשגרה 👇🏼 🥇 הכשרות AI לארגונים 📚 קורס ׳לומדים AI׳ 📌 ׳אימפרוב פלוס׳ - מנוי בתשלום ────────────────────────── בסושיאל שלנו אפשר ללמוד עוד המון על AI 🤖 📱 טיקטוק 💖 אינסטגרם 💙 פייסבוק ───────────────────────── היי, אני שלהבת 👋🏼 ב-2022 הקמתי את אִימפּרוּב עם מטרה אחת פשוטה: ללמד אנשים לעבוד עם AI בלי להסתבך. בלי מילים גדולות, בלי תיאוריה מיותרת - רק איך להשתמש בכלים האלה בפועל. בעבודה, בעסק, ביום-יום. [...] ───────────────────────── בפרקים הבאים נמשיך לפרק את הכלים - מה באמת עובד , מה אפשר לשכוח , ואיך להפוך את ה-AI לחלק קבוע מהעבודה שלכם. ───────────────────────── נתראה בפרק הבא, שלהבת ───────────────────────── Jan 12, 2026 Show more episodes
+
+
+**Original description:**  
+מנהל הבנק שלי התקשר לשאול מה זה כל החיובים מאנתרופיק (קלוד), אז בפרק הזה אני פותחת את החשבוניות ומראה לכם בדיוק מה הכסף הזה קונה לי כל חודש. ────────────────────────── רוצים לבנות &quot;סוכנים&quot; שיעבדו במקומכם? לטירונות סוכנים רוצים להתייעץ עם בוגרי הטירונות? לבוגרי הטירונות ────────────────────────── אתם מתחילים שרוצים ללמוד AI בצורה מסודרת? 📚 קורס ׳לומדים AI׳ ────────────────────────── רוצים 7 ימים של טיפים סודיים ל-AI? היכנסו לקישור ושלחו את המילה &quot;הצלחה&quot; 🎯 ────────────────────────── להכניס AI לשגרה 👇🏼 🥇 הכשרות AI לארגונים 📚 קורס ׳לומדים AI׳ 📌 ׳אימפרוב פלוס׳ - מנוי בתשלום ────
+
+
+**Links mentioned:**
+• [טירונות סוכנים — בונים צוות AI שעובד בשבילכם](https://agent-course.aimprove.co.il/?src=p96)
+• [הבוגרים של טירונות סוכנים - מחכים לדבר איתך](https://agent-course.aimprove.co.il/bogrim/?src=p96)
+• [קורס ״לומדים AI״ | אִימפּרוּב](https://shalhevetvardi.github.io/Storyteling/lomdim-ai.html)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fm%2Faimprove.ai%3F__coig_login%3D1
+• [Share on WhatsApp](https://api.whatsapp.com/send/?phone=972515079762&text=%D7%9C%D7%A7%D7%91%D7%99%D7%A2%D7%AA+%D7%A9%D7%99%D7%97%D7%AA+%D7%99%D7%99%D7%A2%D7%95%D7%A5+%D7%A2%D7%9D+%D7%A9%D7%9C%D7%94%D7%91%D7%AA+%D7%91%D7%A0%D7%95%D7%92%D7%A2+%D7%9C%D7%94%D7%93%D7%A8%D7%9B%D7%94+%D7%A4%D7%A8%D7%98%D7%99%D7%AA+%D7%9C%D7%90%D7%A8%D7%92%D7%95%D7%9F&type=phone_number&app_absent=0)
+• [TikTok - Make Your Day](https://www.tiktok.com/@aimprove?lang=en)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Faimprove.ai%2F&is_from_rle
+• https://www.facebook.com/people/Aimprove-%D7%90%D7%99%D7%9E%D7%A4%D7%A8%D7%95%D7%91-%D7%91%D7%99%D7%A0%D7%94-%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99%D7%AA/100090960200806/
+• [Share on WhatsApp](https://api.whatsapp.com/send/?phone=972515079762&text&type=phone_number&app_absent=0)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/-316679/episodes/96--------AI-e3n9fi7
+
+*Pipeline:*
+  • Transcript: cached_page_content (14083 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**AI לומדים** [ (Aimprove) אִימפּרוּב ]
+
+**תגידו, כמה כסף אתם עושים?**  
+
+[Podcast]
+11/08/2026 20:16 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+תגידו, כמה כסף אתם עושים? by AI לומדים AI לומדים By (Aimprove) אִימפּרוּב הפודקאסט שעוזר לכם לנווט בתוך עולם טכנולוגי מבלי להרגיש הצפה טוטאלית 🤖 Listen on Spotify Available on Report content on Spotify תגידו, כמה כסף אתם עושים? AI לומדים Aug 11, 2026 Share 96. כמה עולה ״להעסיק״ צוות של סוכני AI? מנהל הבנק שלי התקשר לשאול מה זה כל החיובים מאנתרופיק (קלוד), אז בפרק הזה אני פותחת את החשבוניות ומראה לכם בדיוק מה הכסף הזה קונה לי כל חודש. ────────────────────────── רוצים לבנות "סוכנים" שיעבדו במקומכם? לטירונות סוכנים רוצים להתייעץ עם בוגרי הטירונות? לבוגרי הטירונות ────────────────────────── אתם מתחילים שרוצים ללמוד AI בצורה מסודרת? 📚 קורס ׳לומדים AI׳ ────────────────────────── רוצים 7 ימים של טיפים סודיים ל-AI? היכנסו לקישור ושלחו את המילה "הצלחה" 🎯 ────────────────────────── להכניס AI לשגרה 👇🏼 🥇 הכשרות AI לארגונים 📚 קורס ׳לומדים AI׳ 📌 ׳אימפרוב פלוס׳ - מנוי בתשלום ────────────────────────── בסושיאל שלנו אפשר ללמוד עוד המון על AI 🤖 📱 טיקטוק 💖 אינסטגרם 💙 פייסבוק ───────────────────────── היי, אני שלהבת 👋🏼 ב-2022 הקמתי את אִימפּרוּב עם מטרה אחת פשוטה: ללמד אנשים לעבוד עם AI בלי להסתבך. בלי מילים גדולות, בלי תיאוריה מיותרת - רק איך להשתמש בכלים האלה בפועל. בעבודה, בעסק, ביום-יום. ───────────────────────── איך יוצרים קשר? [...] ───────────────────────── בפרקים הבאים נמשיך לפרק את הכלים - מה באמת עובד , מה אפשר לשכוח , ואיך להפוך את ה-AI לחלק קבוע מהעבודה שלכם. ───────────────────────── נתראה בפרק הבא, שלהבת ───────────────────────── Jan 12, 2026 Show more episodes
+
+
+**Original description:**  
+עוקבת כתבה לי שאני גובה מחיר מוגזם - נעלבתי, ואז הבנתי שזה בכלל לא קשור אלי.. בפרק הזה תגלו איך מודדים מה שווה לכם את הכסף, ומה לא. לפרק על כסף שהזכרתי בפודקאסט ────────────────────────── רוצים לבנות &quot;סוכנים&quot; שיעבדו במקומכם? לטירונות סוכנים רוצים להתייעץ עם בוגרי הטירונות? לבוגרי הטירונות ────────────────────────── אתם מתחילים שרוצים ללמוד AI בצורה מסודרת? 📚 קורס ׳לומדים AI׳ ────────────────────────── רוצים 7 ימים של טיפים סודיים ל-AI? היכנסו לקישור ושלחו את המילה &quot;הצלחה&quot; 🎯 ────────────────────────── להכניס AI לשגרה 👇🏼 🥇 הכשרות AI לארגונים 📚 קורס ׳לומדים AI׳ 📌 ׳אימפרוב פלוס
+
+
+**Links mentioned:**
+• [54. איך להפסיק להילחץ מכסף ולהתחיל לעשות אותו - זן נדיר | Podcast on Spotify](https://open.spotify.com/episode/1GInPVLaXFO8ewz8Ie4Uap?si=3bGu3WqkST6j0tYIhlO6jA)
+• [טירונות סוכנים — בונים צוות AI שעובד בשבילכם](https://agent-course.aimprove.co.il/)
+• [הבוגרים של טירונות סוכנים - מחכים לדבר איתך](https://agent-course.aimprove.co.il/bogrim/)
+• [קורס ״לומדים AI״ | אִימפּרוּב](https://shalhevetvardi.github.io/Storyteling/lomdim-ai.html)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fm%2Faimprove.ai%3F__coig_login%3D1
+• [Share on WhatsApp](https://api.whatsapp.com/send/?phone=972515079762&text=%D7%9C%D7%A7%D7%91%D7%99%D7%A2%D7%AA+%D7%A9%D7%99%D7%97%D7%AA+%D7%99%D7%99%D7%A2%D7%95%D7%A5+%D7%A2%D7%9D+%D7%A9%D7%9C%D7%94%D7%91%D7%AA+%D7%91%D7%A0%D7%95%D7%92%D7%A2+%D7%9C%D7%94%D7%93%D7%A8%D7%9B%D7%94+%D7%A4%D7%A8%D7%98%D7%99%D7%AA+%D7%9C%D7%90%D7%A8%D7%92%D7%95%D7%9F&type=phone_number&app_absent=0)
+• [TikTok - Make Your Day](https://www.tiktok.com/@aimprove?lang=en)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Faimprove.ai%2F&is_from_rle
+• https://www.facebook.com/people/Aimprove-%D7%90%D7%99%D7%9E%D7%A4%D7%A8%D7%95%D7%91-%D7%91%D7%99%D7%A0%D7%94-%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99%D7%AA/100090960200806/
+• [Share on WhatsApp](https://api.whatsapp.com/send/?phone=972515079762&text&type=phone_number&app_absent=0)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/-316679/episodes/ep-e3n9ehu
+
+*Pipeline:*
+  • Transcript: cached_page_content (14077 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**שיח על גינון** [ עמית שמר - ש.ונציה ]
+
+**מהמרפסת לצלחת: איך מקימים גינת מאכל גם בשטח קטן - חלק א׳ | פרק 40 עם אייל אנגלמאיר**  
+
+[Podcast]
+10/08/2026 14:00 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+מהמרפסת לצלחת: איך מקימים גינת מאכל גם בשטח קטן - חלק א׳ | פרק 40 עם אייל אנגלמאיר by שיח על גינון שיח על גינון By עמית שמר - ש.ונציה מה הופך גינה פשוטה לפינת חמד מושלמת? איך בוחרים את כלי גינון הנכונים? ומה הסודות שכל חובב גינון חייב להכיר? בפודקאסט "שיח על גינון" עם עמית שמר, תגלו את כל מה שרציתם לדעת על עולם הגינון המודרני. בכל פרק, עמית מארח מומחים מובילים בתחום, חושף טיפים מקצועיים, ומעניק תובנות מעשיות שיעזרו לכם להפוך את הגינה שלכם למרחב פורח ומשגשג. מחרמשים ביתיים ועד טכניקות גיזום מתקדמות, מכלים ידניים ועד פתרונות טכנולוגיים חדשניים-כדוגמא כלים מקצועיים נטענים -כאן תמצאו את כל הידע והכלים להצלחה.הפודקאסט מיועד הן לגננים חובבים והן לאנשי מקצוע, ומשלב בתוכו את הניסיון העשיר של חברת ש.ונציה, מהחברות הוותיקות והמובילות Listen on Spotify Report content on Spotify מהמרפסת לצלחת: איך מקימים גינת מאכל גם בשטח קטן - חלק א׳ | פרק 40 עם אייל אנגלמאיר שיח על גינון Aug 10, 2026 Share מהמרפסת לצלחת: איך מקימים גינת מאכל גם בשטח קטן - חלק א׳ | פרק 40 עם אייל אנגלמאיר כמה מקום באמת צריך בשביל לגדל עגבניות, תבלינים, מטפסים ואפילו עצי פרי? מסתבר שהרבה פחות ממה שחושבים. בפרק הזה של ״שיח על גינון״ עם עמית שמר, אייל אנגלמאיר מ"בוסטניקה" מסביר איך הופכים מרפסת או גג קטן לגינת מאכל יפה, שימושית ומניבה בלי להפוך את הבית לחווה חקלאית. נדבר על בחירת מיכלים, שילוב נכון בין נוי למאכל, השקיה במרפסת, גיזום, שמש ורוח, ובעיקר על השאלה שמעניינת את כולנו: מה באמת שווה לגדל כשאין הרבה מקום? עגבניות שרי, שעועית תאילנדית, ברוקולי, אפונת שלג ואפילו תפוח נכנסים לרשימה ולעומתם יש כמה גידולים שאייל מציע לחשוב עליהם פעמיים. זהו החלק הראשון מתוך שניים. בחלק הבא ניכנס לצד הטכני של מצעי השתילה, הדישון, ההשקיה והקונסטרוקציות. Aug 10, 2026 השקיה במרחב הציבורי: התכנון הקטן שחוסך אלפי שקלים - חלק ב׳ | פרק 39 עם עדי לובל בפרק השטח השני בסדרת ההשקיה של ׳שיח על גינון׳ בהנחיית עמית שמר, אנחנו ממשיכים את השיחה עם עדי לובל - גנן, מנהל פרויקטים בגינון ציבורי ואיש שטח עם שנים של ניסיון. [...] במהלך השיחה נחשפים הטיפים החשובים ביותר להקמת גינה, הטעויות הנפוצות שכדאי להימנע מהן, וההתפתחות המרתקת של כלי עבודה נטענים בעולם הגינון. פרק חובה לכל חובב גינון, מקצוען או חובבן.
+
+
+**Original description:**  
+כמה מקום באמת צריך בשביל לגדל עגבניות, תבלינים, מטפסים ואפילו עצי פרי? מסתבר שהרבה פחות ממה שחושבים. בפרק הזה של ״שיח על גינון״ עם עמית שמר, אייל אנגלמאיר מ&quot;בוסטניקה&quot; מסביר איך הופכים מרפסת או גג קטן לגינת מאכל יפה, שימושית ומניבה בלי להפוך את הבית לחווה חקלאית. נדבר על בחירת מיכלים, שילוב נכון בין נוי למאכל, השקיה במרפסת, גיזום, שמש ורוח, ובעיקר על השאלה שמעניינת את כולנו: מה באמת שווה לגדל כשאין הרבה מקום? עגבניות שרי, שעועית תאילנדית, ברוקולי, אפונת שלג ואפילו תפוח נכנסים לרשימה ולעומתם יש כמה גידולים שאייל מציע לחשוב עליהם פעמיים. זהו החלק הראשון מתוך שניים. בחלק הבא ניכנס לצד הט
+
+
+**Links mentioned:**
+• https://livingreen.co.il/
+• https://www.succulina.com/
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fhorti.culture.school%2F&is_from_rle
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Furbanretrogardenil%2F%3Ffbclid%3DIwAR0CEyHQWoxKK_X2oUb_gwJe9HJkC0SC0K9v1KyHopONhDyNHGHSh2BFOFg&is_from_rle
+• https://www.facebook.com/UrbanRetroGarden
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/----9671/episodes/------40-e3n79ti
+
+*Pipeline:*
+  • Transcript: cached_page_content (4832 words, lang=he) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**How I AI** [ Claire Vo ]
+
+**Claude Code for normal people: skills, voice mode, and how to collaborate with AI**  
+
+[Podcast]
+10/08/2026 11:00 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+System Card: Claude Opus 4.8 May 28, 2026 anthropic.com Executive summary This system card reports results from a wide variety of pre-deployment evaluations run on Claude Opus 4.8. It includes the following sections: Responsible Scaling Policy evaluations. We ran a set of evaluations under our Responsible Scaling Policy that assessed Opus 4.8’s capabilities in the areas of chemical and biological weapons, automated AI research and development (R&D), and high-stakes misalignment risks. Our overall conclusion is that Opus 4.8 does not advance the capability frontier beyond our most capable model (Claude Mythos Preview), and that catastrophic risks from the deployment of this model remain low given our current mitigations. We tested the model on a set of cybersecurity benchmarks, some of which we used for the ﬁrst time in a system card. When operating without safeguards, Opus 4.8 is somewhat more capable on most of our cyber evaluations than its predecessor, Claude Opus 4.7; with safeguards it performs comparably. It remains substantially behind Mythos Preview on cyber capabilities. Safeguards and harmlessness. In evaluations across the domains of harmful requests, mental health, child safety, and bias & integrity, Opus 4.8 generally performs as well as, or better than, Opus 4.7. For example, the model is substantially more likely than Opus 4.7 to acknowledge opposing perspectives during political discussions. We discuss some notable qualitative patterns, such as a tendency towards over-elaborate refusals. Although it shows improvements in some areas (such as refusing malicious requests), we found Opus 4.8 to be somewhat less robust than Opus 4.7 in several agentic contexts (such as vulnerability to prompt injection attacks). However, the application of our safeguards closes the gap between the models in practice. [...] In addition to the URL blocklist, for BrowseComp we apply a content-level ﬁlter: any search result or fetched page whose page content contains the string “browsecomp” (case-insensitive substring match) is also blocked. Our blocklist contains the following patterns: browsecomp openaipublic.blob.core.windows.net/simple-evals github.com/openai/simple-evals openailive.com huggingface.co hf.co 2504.12516 2508.06600 2510.07861 2508.13167 zdnet.com/article/openais-deep-research-has-more-fact-finding-stamina-than-you-but -its-still-wrong-half-the-time aman.ai/recsys/search openreview.net/pdf/c6dcd5f3b250378e5b8283ef1ee5b16ead6615d1.pdf openreview.net/pdf/10c39467b7f1356121d2e937298acf09641e8c62.pdf 244
+
+
+**Original description:**  
+Grace Clarke is an AI educator and former marketing consultant who taught herself Claude Code earlier this year and built a curriculum out of the process. She now runs her entire service business on tools she’s built with Claude, including a pipeline operator, a proposal maker, and a Gmail replacement she created in under 30 minutes, and teaches individuals and teams to do the same. What you’ll learn: How to build an hourly pipeline in Claude that moves clients through your process automatically Why Grace ditched traditional proposals for password-protected, interactive HTML documents built in
+
+
+**Links mentioned:**
+• [[2110.08193] BBQ: A Hand-Built Bias Benchmark for Question Answering](https://arxiv.org/abs/2110.08193)
+• [[2507.20526] Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition](https://arxiv.org/abs/2507.20526)
+• [[2510.09023] The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against Llm Jailbreaks and Prompt Inje](https://arxiv.org/abs/2510.09023)
+• [[2307.13702] Measuring Faithfulness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2307.13702)
+• [[2411.00986] Taking AI Welfare Seriously](https://arxiv.org/abs/2411.00986)
+• [[2509.16941] SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?](https://arxiv.org/abs/2509.16941)
+• [[2310.06770] SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770)
+• [[2601.11868] Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868)
+• [[2410.03859] SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?](https://arxiv.org/abs/2410.03859)
+• [[2605.03546] ProgramBench: Can Language Models Rebuild Programs From Scratch?](https://arxiv.org/abs/2605.03546)
+• [FrontierSWE: Blog](https://www.frontierswe.com/blog)
+• [[2311.12022] GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022)
+• [[2505.23281] MathArena: Evaluating LLMs on Uncontaminated Math Competitions](https://arxiv.org/abs/2505.23281)
+• https://openai.com/index/introducing-gpt-5-5/
+• https://openai.com/index/gpt-4-1/
+• [[2501.14249] Humanity's Last Exam](https://arxiv.org/abs/2501.14249)
+• [[2504.12516] BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
+• [[2601.20975] DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents](https://arxiv.org/abs/2601.20975)
+• [[2602.11685] DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity](https://arxiv.org/abs/2602.11685)
+• [[2407.11691] VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models](https://arxiv.org/abs/2407.11691)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/pen-name/episodes/Claude-Code-for-normal-people-skills--voice-mode--and-how-to-collaborate-with-AI-e3n48ci
+
+*Pipeline:*
+  • Transcript: cached_pdf_show_notes (61926 words, lang=en) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**Creative Channel** [ Creative Channel ]
+
+**DIY 3000F Supercapacitor Spot Welder | 48 MOSFETs, Welding 0.3mm Nickel**  
+
+[Youtube Channel]
+16/08/2026 03:37 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+In this video, I show my newly completed **DIY supercapacitor battery spot welder**, designed for EV battery packs, power tool batteries, and other high-current battery projects. 3D file : - Specifications * 4 × **2.7V 3000F supercapacitors * Supercapacitor configuration: 2S2P * Capacitor bank: **5.4V – 3000F** * Heavy-duty aluminum 48-MOSFET power board * Independent dual-pulse welding control * Powered by a common Makita battery or an external DC adapter * Compact and portable design - Welding Performance: * Stable welding of 0.25–0.30 mm nickel strips for EV battery packs * 0.18–0.20 mm nickel strips for power tool battery packs * Supports 0.15 mm copper under nickel for high-current battery connections * Thousands of amps of instantaneous welding current * Adjustable Pulse 1, Pulse 2 and pulse interval In this video, I'll show the internal construction, 2S2P supercapacitor bank, 48-MOSFET power stage, controller settings, and real-world welding tests. #SupercapacitorSpotWelder #DIYSpotWelder #BatterySpotWelder #3000F #48MOSFET #BatteryPack #EVBattery #PowerToolBattery #NickelStrip #CopperNickel #DIYElectronics
+
+
+**Original description:**  
+In this video, I show my newly completed **DIY supercapacitor battery spot welder**, designed for EV battery packs, power tool batteries, and other high-current battery projects. 3D file : https://makerworld.com/en/models/3177538-diy-supercapacitor-battery-spot-welder#profileId-3593434 - Specifications * 4 × **2.7V 3000F supercapacitors * Supercapacitor configuration: 2S2P * Capacitor bank: **5.4V – 3000F** * Heavy-duty aluminum 48-MOSFET power board * Independent dual-pulse welding control * Powered by a common Makita battery or an external DC adapter * Compact and portable design - Welding P
+
+
+**Links mentioned:**
+
+
+---
+
+**Link:**
+https://www.youtube.com/watch?v=Lors-FYt6Eg
+
+*Pipeline:*
+  • Transcript: cached_description (162 words, lang=en) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**Andrew Huberman** [ Andrew Huberman ]
+
+**Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried**  
+
+[Youtube Channel]
+13/08/2026 12:00 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+In this Huberman Lab Essentials episode, my guest is Dr. Sara Gottfried, M.D., a Harvard-trained, board-certified gynecologist and expert in female hormone health. We discuss the key biomarkers women should track at each stage of life and how cortisol, thyroid hormone, estrogen, progesterone, and testosterone shape energy, mood, metabolism, and long-term disease risk. We also discuss PCOS, the risks and benefits of oral contraceptives, and the shift in brain metabolism that begins in perimenopause. Gottfried explains actionable tools for hormone and micronutrient testing, nutrition, stress management, and cardiometabolic screening that women can use at any age. Show notes: Watch more Huberman Lab Essentials: Huberman Lab Website: Instagram: Threads: X: Facebook: TikTok: LinkedIn: Dr. Sara Gottfried: Website: Academic profile: Instagram: X: Timestamps Female Hormone Health Family History, Intergenerational Trauma; Endometriosis, Fibroids, PCOS Biomarkers by Decade; Teens & Cortisol; 20s & Sex Hormones Tool: Hormone Test Timing; Micronutrient Testing, Magnesium Tool: Smoothies, Greens Powders & Microbiome Nutrient Panels, Antioxidants, B Vitamins, Glutathione Constipation, Thyroid Dysfunction; Trauma & Female Physiology Tools: Reduce Perceived Stress, Meditation, Yoga, Breathwork Opportunities by Decade; Androgens & Testosterone Decline PCOS, Diagnostic Criteria, Hirsutism, Cardiometabolic Risk Insulin & Glucose; Tool: Continuous Glucose Monitors Democratizing Health Data Longevity "Don’ts"; Chronic Cardio & Cortisol; Tool: Adaptive Exercise Oral Contraceptives, Benefits & Ovarian Cancer Risk Ovarian Cancer Symptoms, Bloating, CA-125 Oral Contraceptive Risks, Progestins, Inflammation; SHBG & Testosterone Clitoral Shrinkage; Tools: Alternatives for Painful Periods Menopause & Perimenopause; 30s Hormonal Baseline Female Brain, Cerebral Hypometabolism & Alzheimer’s Risk Slow Brain Energy, Hormone Therapy; Hot Flashes as Biomarkers Tool: Coronary Artery Calcium Score #hubermanlab #hubermanlabpodcast #health Disclaimer & Disclosures:
+
+
+**Original description:**  
+In this Huberman Lab Essentials episode, my guest is Dr. Sara Gottfried, M.D., a Harvard-trained, board-certified gynecologist and expert in female hormone health. We discuss the key biomarkers women should track at each stage of life and how cortisol, thyroid hormone, estrogen, progesterone, and testosterone shape energy, mood, metabolism, and long-term disease risk. We also discuss PCOS, the risks and benefits of oral contraceptives, and the shift in brain metabolism that begins in perimenopause. Dr. Gottfried explains actionable tools for hormone and micronutrient testing, nutrition, stress
+
+
+**Links mentioned:**
+• [Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](https://www.hubermanlab.com/episode/essentials-how-to-optimize-female-hormone-health-for-vitality-and-longevity-sara-gottfried?utm_source=youtube&utm_medium=social&utm_content=description+link)
+• https://www.youtube.com/playlist?list=PLPNW_gerXa4OGNy1yE-W9IX-tPu-tJa7S&si=a1_sA7rUT-fE0OM5
+• [Huberman Lab | Science-Based Tools for Everyday Life](https://www.hubermanlab.com/)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fhubermanlab&is_from_rle
+• https://www.threads.com/@hubermanlab
+• [Andrew D. Huberman, Ph.D. (@hubermanlab) / X](https://x.com/hubermanlab)
+• https://www.facebook.com/hubermanlab
+• [TikTok - Make Your Day](https://www.tiktok.com/@hubermanlab)
+• [Andrew Huberman - Professor and Neuroscientist at Stanford & Host of Huberman Lab | LinkedIn](https://www.linkedin.com/in/andrew-huberman)
+• [Home Dr. Sara Gottfried New - Dr. Sara Szal Gottfried MD](https://www.saragottfriedmd.com/)
+• [Gottfried, Sara](https://www.jefferson.edu/academics/colleges-schools-institutes/health-professions/emerging-health-professions/faculty-staff/faculty/gottfried.html)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fsaragottfriedmd&is_from_rle
+• [@SaraSzalMD (@DrGottfried) / X](https://x.com/drgottfried)
+• [Disclaimer and Disclosures](https://www.hubermanlab.com/disclaimer)
+• https://www.youtube.com/playlist?list=PLPNW_gerXa4OGNy1yE-W9IX-tPu-tJa7S&amp%3Bsi=a1_sA7rUT-fE0OM5
+
+---
+
+**Link:**
+https://www.youtube.com/watch?v=wbuPQPu-03Y
+
+*Pipeline:*
+  • Transcript: cached_description (304 words, lang=en) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
+----
+**Andrew Huberman** [ Andrew Huberman ]
+
+**Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li**  
+
+[Youtube Channel]
+10/08/2026 12:00 UTC
+16/08/2026 15:37 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity. We also discuss how humans collaborating with AI and robots stand to positively transform human health and one’s experience of life. And we cover what makes AI fundamentally different from human cognition, and why your intuition and unique experiences are not replicable by AI or machines. Both AI enthusiasts and skeptics are sure to benefit from the information and tools Dr. Fei-Fei Li shares in this episode. Show notes: Pre-order Protocols: Huberman Lab live events: Thank you to our sponsors AG1: ⁠ David: ⁠ Lingo: ⁠ LMNT: ⁠ Wealthfront*: ⁠ Huberman Lab Website: Instagram: Threads: X: Facebook: TikTok: LinkedIn: Dr. Fei-Fei Li Academic profile: The Worlds I See (book): Lab: Stanford HAI: World Labs: X: LinkedIn: Timestamps Fei-Fei Li Vision & Intelligence; Human Vision & Contribution to AI Computer Vision & the AI Revolution Sponsors: Lingo & Wealthfront Speech, Sound & AI Development AI & Contextual Learning, Human Intelligence Current AI Gaps, Emotion & Creativity Computers Enhancing Humanity; Tool: Personal Agency & Learning about AI Sponsors: AG1 & LMNT Public Discourse about AI AI to Enhance Scientific Discovery & Healthcare; Human Collaboration Intuition, Motivation & Human States Beyond AI Sponsor: David Social & Ethical Considerations for AI Kids, Development & AI Tools; Tool: Prompt AI Effectively Next Frontier for Robotics & AI; Human Agency Human-Centered AI Future World Labs, Spatial Intelligence Concerns about AI & Creativity; Movies, Art, Storytelling Younger Generation & AI, Teachers Zero-Cost Support, YouTube, Spotify & Apple Follow, Reviews & Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter _*This experience may not be representative of other Wealthfront clients, and there is no guarantee of future performance or success. Experiences will vary. Andrew Huberman receives cash compensation from Wealthfront Brokerage for paid testimonials in his podcast, creating a conflict of interest. The Cash Account, which is not a deposit account, is offered by Wealthfront Brokerage LLC, member FINRA/SIPC. Wealthfront Brokerage is not a bank. The base APY is 3.30% on cash deposits as of January 30, 2026, is representative, subject to change, and requires no minimum. [...] Investment advisory services are provided by Wealthfront Advisers LLC, an SEC-registered investment adviser. Securities investments: not bank deposits, bank-guaranteed or FDIC-insured, and may lose value._ Disclaimer & Disclosures:
+
+
+**Original description:**  
+Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity. We also discuss how humans collaborating with AI and robots stand to positively transform human health and one’s experience of life. And we cover what makes AI fundamentally different from human cognition, and why your intuition and unique experiences are not replicable by AI or 
+
+
+**Links mentioned:**
+• [Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li](https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li?utm_source=youtube&utm_medium=social&utm_content=description+link)
+• [Protocols: An Operating Manual for the Human Body](https://www.hubermanlab.com/protocols-book)
+• [Events - Huberman Lab](https://www.hubermanlab.com/events)
+• https://davidprotein.com/pages/huberman
+• https://www.hellolingo.com/huberman
+• [Free LMNT Gift With Purchase](https://partners.drinklmnt.com/free-gift-with-purchase?utm_campaign=agwp&rfsn=6327528.ecaabe8&utm_medium=sponsor&utm_source=andrewhuberman&utm_content=&utm_term=&rfsn_cn=EXCLUSIVE+GIFT+FOR+THE+HUBERMAN+LAB+COMMUNITY)
+• [Money works better here | Wealthfront](https://www.wealthfront.com/cash/huberman?utm_medium=podcast&utm_source=hubermanlab&utm_campaign=podcast_cash_50incentive)
+• [Huberman Lab | Science-Based Tools for Everyday Life](https://www.hubermanlab.com/)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fhubermanlab&is_from_rle
+• https://www.threads.com/@hubermanlab
+• [Andrew D. Huberman, Ph.D. (@hubermanlab) / X](https://x.com/hubermanlab)
+• https://www.facebook.com/hubermanlab
+• [TikTok - Make Your Day](https://www.tiktok.com/@hubermanlab)
+• [Andrew Huberman - Professor and Neuroscientist at Stanford & Host of Huberman Lab | LinkedIn](https://www.linkedin.com/in/andrew-huberman)
+• [Fei-Fei Li's Profile | Stanford Profiles](https://profiles.stanford.edu/fei-fei-li)
+• [Amazon.com](https://www.amazon.com/dp/1250897939?tag=hubermanlab-20&th=1&psc=1&geniuslink=true)
+• [Stanford Vision and Learning Lab (SVL)](https://svl.stanford.edu/)
+• https://hai.stanford.edu/
+• https://www.worldlabs.ai/
+
+---
+
+**Link:**
+https://www.youtube.com/watch?v=N5AQFYtqx8Q
+
+*Pipeline:*
+  • Transcript: cached_description (566 words, lang=en) — No audio download — summary based on show notes / description only
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
