@@ -7657,3 +7657,50 @@ https://www.youtube.com/shorts/XmUVbu5BgiI
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**The Diary of a CEO** [ FlightStory ]
+
+**Top Scientist REVEALS: A Kid In The 29th Century Could Have Made This World! | Prof Brian Greene**  
+
+[Podcast]
+17/08/2026 05:00 UTC
+17/08/2026 05:32 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+{"text":" I can't convince you that we're not in the matrix. Am I a simulation sitting inside some computer? On 29th century Earth, and they happen to allow you and I to exist sitting at this table. And here's a big assumption. Can you create a computer program that has consciousness? Nobody knows the answer to that, but I've spoken to some of today's AI researchers who think that chat GPT is conscious. And in the back of my mind, I do think it's possible. But if we considered robots to be conscious, would they then get rights? I think that's something we should think about now, actually. Professor Brian Green, what is the ultimate question that you're seeking to answer? We find ourselves thrust on this planet. We're trying to figure out why we're here. Is there some ultimate purpose? [...] Could easily have taken much earlier.\n\n1618\n .354 --> .975\nOn the 11th floor.\n\n1619\n .994 --> .815\nOn the 11th floor.\n\n1620\n .376 --> .198\nIf we go up to about the 30th floor, what will happen here is that the stars...\n\n1621\n .199 --> .686\n themselves will spiral into the black hole at the center of most galaxies.\n\n1622\n .108 --> .708\nSo most galaxies have a black hole.\n\n1623\n .729 --> .990\nWe have one in the center of our Milky Way galaxy.\n\n1624\n .068 --> .738\n And the stars themselves, much like the Earth, will spiral into the sun, the stars will spiral into the black hole, which means there'll be only kind of black holes as the remaining macroscopic structure in the universe.\n\n1625\n .917 --> .859\nHas that happened elsewhere?\n\n1626\n .279 --> .859\nOh, certainly.\n\n1627\n .920 --> .181\nWe see things that can spiral into black holes.\n\n1628\n .643 --> .326\nAnd certainly even in the center of our galaxy, there's evidence that there's activity there.\n\n1629\n .606 --> .970\nAnd that activity in part is stars being ripped apart as they fall into a black hole.\n\n1630\n .251 --> .252\n So this is pretty clear that this will happen.\n\n1631\n .511 --> .893\nIs this the end of all galaxies as they spiral into the black hole?\n\n1632\n .012 --> .353\nYeah.\n\n1633\n .453 --> .876\nSo after 10 to the 30, 10 to the 35 years, it's hard to imagine that galaxies as we know them will persist.\n\n1634\n .916 --> .216\nThe stars will have burned out.\n\n1635\n .237 --> .158\nI could have even mentioned another milestone around the 14th floor.\n\n1636\n .158 --> .960\nAlmost all stars will have used up their nuclear fuel.\n\n1637\n .960 --> .261\n All of them... Just about all of them will fade to black.\n\n1638\n .341 --> .761\nAll of them in the whole universe.\n\n1639\n .021 --> .262\nYeah.\n\n1640\n .283 --> .844\nOr at least the observable universe.\n\n1641\n .904 --> .545\nI can only really speak to the part that we have direct access to.\n\n1642\n .564 --> .845\nYeah.\n\n1643\n .506 --> .868\nAnd so by the 30th floor, those dark stars will spiral into black holes.\n\n1644\n .189 --> .649\nSo there could be no life anywhere.\n\n1645\n .810 --> .690\nIt's hard to imagine.\n\n1646\n .110 --> .953\nBut let's be optimistic and imagine that somehow...\n\n1647\n .472 --> .797\n There is some life floating in the darkness because I want to get to something interesting on two more milestones.\n\n1648\n .858 --> .824\nBy the 38th floor, wherever that is, we believe that protons, which are the heart of matter, will likely themselves disintegrate, fall apart.\n\n1649\n .756 --> .841\n And so if there is any remaining organized matter of the sort that we're familiar with somehow persisting somewhere, it itself will disintegrate by the 38th floor.\n\n1650\n .002 --> .104\nThat's our belief based on our laws of physics.\n\n1651\n .264 --> .344\nThere'll be no matter anywhere.\n\n1652\n .684 --> .028\nThere will be fine particulate constituents because when a proton falls apart, it doesn't disappear.\n\n1653\n .488 --> .930\nIt falls apart into other more refined particles.\n\n1654\n .590 --> .301\n And so they will continue to persist, but the aggregate called the proton will not.\n\n1655\n .091 --> .413\n If we keep on going to roughly, say, the 50th floor, this is an interesting point.\n\n1656\n .253 --> .056\nBecause imagine that somehow some conscious being still exists in the darkness of space.\n\n1657\n .157 --> .957\nI don't know how it is.\n\n1658\n .377 --> .320\nDark clouds of particles somehow are having electrical signals, allowing them some kind of conscious self-awareness.\n\n1659\n .100 --> .682\nAfter the 50th floor, that conscious being will likely think its final thought.\n\n1660\n .063 --> .425\nThe reason is when you think it generates heat.\n\n1661\n .125 --> .786\n That heat has to be carried away.\n\n1662\n .805 --> .289\nIt's very easy for that heat to leave us in a room like here because there's a lot of room for that so-called heat or entropy to be absorbed.\n\n1663\n .949 --> .972\nBy the 50th floor, the universe won't be able to absorb the heat generated by the process of thoug
+
+
+**Original description:**  
+Professor Brian Greene reveals the biggest questions science still can’t answer, whether we’re living in a simulation, why AI may deserve human rights, and what happens at the end of the universe!&nbsp; Professor Brian Greene is a theoretical physicist, mathematician, and Professor of Physics and Mathematics at Columbia University, where he also directs the Center for Theoretical Physics. He is a leading researcher in string theory, the co-founder of the World Science Festival, and the bestselling author of several books, including ‘Until the End of Time: Mind, Matter, and Our Search for Meani
+
+
+**Links mentioned:**
+• [https://link.thediaryofaceo.com/3UrBK3y](https://link.thediaryofaceo.com/3UrBK3y)
+• [https://link.thediaryofaceo.com/7ah5tbw](https://link.thediaryofaceo.com/7ah5tbw)
+• [https://link.thediaryofaceo.com/4GQfbDy](https://link.thediaryofaceo.com/4GQfbDy)
+• [https://link.thediaryofaceo.com/4ltduUF](https://link.thediaryofaceo.com/4ltduUF)
+• [https://link.thediaryofaceo.com/GQngff0](https://link.thediaryofaceo.com/GQngff0)
+• [DOAC Circle – Join the Inner Circle of The Diary of a CEO](https://doaccircle.com/)
+• [https://link.thediaryofaceo.com/BWjLTZK](https://link.thediaryofaceo.com/BWjLTZK)
+• https://thediary.com/products/one-percent-diary
+• https://thediary.com/products/the-conversation-cards-2nd-edition
+• [https://link.thediaryofaceo.com/5IB1H6E](https://link.thediaryofaceo.com/5IB1H6E)
+• [https://link.thediaryofaceo.com/AGU9QP4](https://link.thediaryofaceo.com/AGU9QP4)
+• [Stanley Instagram: Your Instagram Growth Partner](https://coach.stan.store/?ref=stevenbartlett&amp;utm_source=youtube&amp;utm_medium=podcast&amp;utm_campaign=episode11)
+• http://linkedin.com/DOAC
+
+---
+
+**Link:**
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M011QCMPBSF2QR5A3W08K1JF.mp3?fcv=gde3wxliaty6ic043gs866t1
+
+*Pipeline:*
+  • Transcript: rss_tag (67007 words, lang=auto) — No audio download — transcript from RSS feed
+  • Tried and failed: pdf_show_notes
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
