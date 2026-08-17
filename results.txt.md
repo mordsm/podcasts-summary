@@ -7795,3 +7795,54 @@ https://podcasters.spotify.com/pod/show/pen-name/episodes/How-a-solo-founder-use
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**Andrew Huberman** [ Andrew Huberman ]
+
+**Episode 294   Ralph Adolphs**  
+
+[Youtube Channel]
+17/08/2026 12:00 UTC
+17/08/2026 12:36 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+Ralph Adolphs, PhD, is a Professor of Psychology, Neuroscience, and Biology at Caltech and a leading expert on the science of human emotions. We discuss how emotions shape our attention and decision-making, whether emotions are truly “stored” in the body, and whether facial expressions are truly reliable signals of emotion. We also cover tools for improving emotional regulation, including cognitive reappraisal and deliberate cold exposure. This episode provides a modern scientific explanation of how emotions are created and regulated in the brain and body, their many impacts on other aspects of brain function, and practical tools for improving emotional wellbeing and processing. Show notes: Get tickets to Huberman Lab live events: ⁠ Pre-order Andrew's book Protocols: ⁠ Thank you to our sponsors AG1: Function: Helix Sleep: LMNT: Rorra: Huberman Lab Instagram: Threads: X: Facebook: TikTok: LinkedIn: Website: Newsletter: Dr. Ralph Adolphs Academic Profile: Lab Website: Books & Recent Publications: Publications: Timestamps Ralph Adolphs Emotions; Qualities of Emotions: Priority, Valence Qualities of Emotions: Scalability, Persistence Sponsors: Helix Sleep & Rorra Do Animals Have Emotions?, Conscious Experience Monitoring & Regulating Emotions; Emotional Granularity Emotional Regulation, Tools: Situational Avoidance, Ice Baths Ultramarathons, Perseverance, Adversity; Awe Sponsor: AG1 Perception of Emotions, Amygdala & Fear, Facial Expressions Interpreting Others' Emotions, Prediction Emotions as Adaptations to the Environment, Types of Fear Feeling Emotions in the Body, Pain, Insula Brain & Body Connection; Marketing & Emotion Sponsor: Function Art, Music & Emotion Interpreting Facial Expressions, Developing Emotions, Flexibility vs Reflexes Emotional Intelligence, Context-Dependent Social Intelligence; Autism Sponsor: LMNT Autism & Social Dynamics, Eye Contact Change Your Personality?, Body Movement & Thought, Social Interaction Emotion Regulation, Tool: Training Mental Stillness Task Switching, Tool: Meditation, Breathing Techniques Illness, Diagnosis & Emotions, Gratitude & Awe Zero-Cost Support, YouTube, Spotify & Apple Follow, Reviews & Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter #hubermanlab #hubermanlabpodcast Disclaimer & Disclosures:
+
+
+**Original description:**  
+Dr. Ralph Adolphs, PhD, is a Professor of Psychology, Neuroscience, and Biology at Caltech and a leading expert on the science of human emotions. We discuss how emotions shape our attention and decision-making, whether emotions are truly “stored” in the body, and whether facial expressions are truly reliable signals of emotion. We also cover tools for improving emotional regulation, including cognitive reappraisal and deliberate cold exposure. This episode provides a modern scientific explanation of how emotions are created and regulated in the brain and body, their many impacts on other aspec
+
+
+**Links mentioned:**
+• [Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs](https://www.hubermanlab.com/episode/neuroscience-of-emotions-and-tools-for-improving-emotion-regulation-ralph-adolphs?utm_source=youtube&utm_medium=social&utm_content=description+link)
+• [Events - Huberman Lab](https://www.hubermanlab.com/events)
+• [Protocols: An Operating Manual for the Human Body](https://www.hubermanlab.com/protocols-book)
+• [Andrew Huberman | Function Health](https://www.functionhealth.com/asp/andrew-huberman)
+• [Free LMNT Gift With Purchase](https://partners.drinklmnt.com/free-gift-with-purchase?utm_campaign=agwp&rfsn=6327528.ecaabe8&utm_medium=sponsor&utm_source=andrewhuberman&utm_content=&utm_term=&rfsn_cn=EXCLUSIVE+GIFT+FOR+THE+HUBERMAN+LAB+COMMUNITY)
+• https://rorra.com/pages/huberman?snowball=Huberman&utm_source=snowball&utm_medium=huberman&utm_campaign=Huberman
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fhubermanlab&is_from_rle
+• https://www.threads.com/@hubermanlab
+• [Andrew D. Huberman, Ph.D. (@hubermanlab) / X](https://x.com/hubermanlab)
+• https://www.facebook.com/hubermanlab
+• [TikTok - Make Your Day](https://www.tiktok.com/@hubermanlab)
+• [Andrew Huberman - Professor and Neuroscientist at Stanford & Host of Huberman Lab | LinkedIn](https://www.linkedin.com/in/andrew-huberman)
+• [Huberman Lab | Science-Based Tools for Everyday Life](https://www.hubermanlab.com/)
+• [Neural Network Newsletter - Huberman Lab](https://www.hubermanlab.com/newsletter)
+• [Ralph Adolphs - Division of the Humanities and Social Sciences](https://www.hss.caltech.edu/people/ralph-adolphs)
+• [Adolphs Lab](https://emotion.caltech.edu/)
+• [Publications - Adolphs Lab](https://emotion.caltech.edu/publications)
+
+---
+
+**Link:**
+https://www.youtube.com/watch?v=P-h5WSQG1Sw
+
+*Pipeline:*
+  • Transcript: description (353 words, lang=en) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag, youtube_captions, page_content
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
