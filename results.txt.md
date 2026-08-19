@@ -7988,3 +7988,43 @@ https://podcasters.spotify.com/pod/show/eitanazaria/episodes/288-e3njjhk
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**Creative Channel** [ Creative Channel ]
+
+**DIY Makita Battery Error Reset & Unlock Tool | ESP32-S3 Touchscreen**  
+
+[Youtube Channel]
+19/08/2026 12:11 UTC
+19/08/2026 12:38 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+In this video I build the KST Makita Tool – a standalone diagnostic, error reset and unlock tool for Makita LXT 18V battery packs, including packs showing the common two blinking LED error. FREE FIRMWARE + WIRING DIAGRAM + GUIDE The firmware is completely FREE for Creative Channel fans: The tool runs on the correct diymore ESP32-S3 ES3C28P / ES3N28P board with a 2.8-inch ILI9341V + FT6336G capacitive touchscreen, 16MB Flash and 8MB PSRAM. 🔧 MAIN FEATURES • Read battery Model and ROM ID • Read manufacture date • Read charge cycle count • Read individual cell voltages • Read temperature • Check battery error / lock status • Clear Error • Unlock battery pack • Control the battery pack LED • Vietnamese / English interface • Touchscreen control • Wi-Fi control 📦 PARTS LIST 1. diymore ESP32-S3 ES3C28P / ES3N28P + 2.8" Touch Display ILI9341V 240×320 + FT6336G 16MB Flash / 8MB PSRAM Buy here: 2. Makita Battery Connector Cable 3. Makita LXT 14.4V / 18V Battery Base 4. 4.7kΩ Resistor Used to pull the DATA line up to 3.3V 5. 3.7V Li-Po Battery For standalone operation 6. 3D-Printed Enclosure The 3D model download : 🔌 WIRING DATA → GPIO2 ENABLE → GPIO3 B- → GND Use a 4.7kΩ resistor to pull DATA up to 3.3V. ⚠️ Never pull the DATA line up to 5V and never connect ESP32 GPIO directly to the battery B+ / B- terminals. On this website you can: • Flash the firmware directly using desktop Chrome / Edge • Download the .BIN firmware • View Vietnamese / English wiring diagrams • Open the wiring diagram full screen • View the complete parts list • Read the setup and usage guide The firmware is provided as a merged image containing the bootloader, partition table and application, and is flashed directly at offset 0x0. Kênh Sáng Tạo .COM × Creative Channel #Makita #MakitaBattery #MakitaLXT #BatteryRepair #BatteryUnlock #BatteryReset #ESP32S3 #DIYElectronics #KSTMakitaTool #CreativeChannel
+
+
+**Original description:**  
+In this video I build the KST Makita Tool – a standalone diagnostic, error reset and unlock tool for Makita LXT 18V battery packs, including packs showing the common two blinking LED error. FREE FIRMWARE + WIRING DIAGRAM + GUIDE The firmware is completely FREE for Creative Channel fans: https://ai.kenhsangtao.com/makita/ The tool runs on the correct diymore ESP32-S3 ES3C28P / ES3N28P board with a 2.8-inch ILI9341V + FT6336G capacitive touchscreen, 16MB Flash and 8MB PSRAM. 🔧 MAIN FEATURES • Read battery Model and ROM ID • Read manufacture date • Read charge cycle count • Read individual cell v
+
+
+**Links mentioned:**
+• [KST Makita Tool — Firmware Center](https://ai.kenhsangtao.com/makita/)
+• https://shopee.vn/opaanlp/208062055/47000755021?__mobile__=1&credential_token=8wEwiDL7Z2fMcgystdp5i1ZiETLnfofghTGFrYFB6e&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTEkwAAAAyxZ7X3j76SATMLXiWaAmRlvq2fnMeNEgEwGYyXZGr5LT3GN9QB9R_1FLmLKrn4A_11DaXc0mXkyejxXWTmUx0BgE3WEoDOaSTq8BNRJJXIo79SWkzgA0ngivqPHWNhcNDbq8owfJPY9uQ2k5quySd7-x23R9T2llJ-wwpyOiejGOWw3flgWA7yIbCcPcJsvw&mmp_pid=an_17338570104&uls_trackid=56e3810m01ma&utm_campaign=id_7zqByzAiATx&utm_content=----&utm_medium=affiliates&utm_source=an_17338570104&utm_term=fecaqqpvj16o
+• https://shopee.vn/opaanlp/366000034/53560759858?__mobile__=1&credential_token=8wEwiDL7ZRduv4n9KTVg1EwPmdzhLiszuLTVNEpHg7&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTEkwAAAAwOYjizc0rhxVhYibbTap_MpUjF6ftJlS7deIdWkhsSfqdwnRJrQPLNOgfwD6dQ25VCqC2omWEmhlWJd2_lnVxsK0-3oVtpwsnRIOyt3Zzys_uh9LbBmYaStX1m_bOQx0eIbTKjCdFOXs2p78nCTc97t4yk85GnKvbD6ptQaT5ZvWrs1mZhEIbnU5YwlNAnGg&mmp_pid=an_17338570104&uls_trackid=56e3810l00rq&utm_campaign=id_A3UMNqnVzzt&utm_content=----&utm_medium=affiliates&utm_source=an_17338570104&utm_term=fecaqqngwwwd
+• https://shopee.vn/opaanlp/1427783833/29441601950?__mobile__=1&credential_token=8wEwiDL7YEAoosJsDBvgk5Jp9NfymCsbfdg7Rd6reY&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTElQAAAAwEjYpCD03pB2G4cDw4IB06qU-PPDoJUy1IXxkskCuSK5CxxwooQbTjy-6gSbZZQSAiLEXp5t4-FK6AqqUuj3P291ljdmMwuiNZyifitQPiF0DxJSEVwNklFMcO--HLMM5nRHMZO6BrbEe-u8H3VjcSdT6324gSQF1jVHOFs34co6zesGxHLfIJA12x3b0QuOxJ&mmp_pid=an_17338570104&uls_trackid=56e3810l01ma&utm_campaign=id_2juLxzXIYaf&utm_content=----&utm_medium=affiliates&utm_source=an_17338570104&utm_term=fecaqqn4dw3m
+• https://shopee.vn/opaanlp/1098096220/21485779673?__mobile__=1&credential_token=8wEwiDL7YDSWRRWiKFCHNLTxKj3pdZKyKLimCSUq6j&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTElQAAAAw-YEbvstNwOt_b_UvT45WjNUFG2tafTdyQexxqAY6-yLZiUwrkN5QX-boLZRJqwLSbsdU1eU74mVaZtClYtzjtzsF5K9PNB59fNX1XUKTx9i5BZj7hnPaUjZ8d3mBp8LPhzEn15L4qjnrc-pcvflBg7yAj8Jtc_-uYpXzkcUgXG9Qoudq8yg39R3r7B0NcMqvr&mmp_pid=an_17338570104&uls_trackid=56e3810m00hu&utm_campaign=id_AMenEyiQblZ&utm_content=----&utm_medium=affiliates&utm_source=an_17338570104&utm_term=fecaqqnk39g4
+• https://shopee.vn/opaanlp/221151104/27486940240?__mobile__=1&credential_token=8wEwiDL7YDzEUaLDHDpAG5J2X5FSCK8pyEqGKFxej2&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTEkwAAAAwdwsF7dAAFvFowMAAj_PHVIJZDYQz2TMo0eE-ePFJ0FqTXxRi_cnvJsKsNVjO9d7SrQA3SJMl6TmD6HHdfyuOVHf-lwzwPKXAjYeVsbjSZexnWhAHQtFQDmU-Pwjrjjd55veGe9mbA--nmaGyJoCxi5nBSepfw2T56k-By7kotKMIlCc6u3DsmpEJSHp_IzQ&mmp_pid=an_17338570104&uls_trackid=56e3810m02r2&utm_campaign=id_7Wi1ZBNyD2f&utm_content=----&utm_medium=affiliates&utm_source=an_17338570104&utm_term=fecaqqpbp7q1
+
+---
+
+**Link:**
+https://www.youtube.com/watch?v=mSKKcPt2vXo
+
+*Pipeline:*
+  • Transcript: description (335 words, lang=en) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag, youtube_captions, page_content
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
