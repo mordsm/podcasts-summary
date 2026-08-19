@@ -7899,3 +7899,46 @@ https://podcasters.spotify.com/pod/show/pen-name/episodes/I-tested-Grok-Bot--Gro
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**AI לומדים** [ (Aimprove) אִימפּרוּב ]
+
+**99. טעויות של מתחילים בקלוד קוד (שכנראה עשיתם)**  
+
+[Podcast]
+18/08/2026 23:01 UTC
+19/08/2026 02:23 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+טעויות של מתחילים בקלוד קוד (שכנראה עשיתם) by AI לומדים AI לומדים By (Aimprove) אִימפּרוּב הפודקאסט שעוזר לכם לנווט בתוך עולם טכנולוגי מבלי להרגיש הצפה טוטאלית 🤖 Listen on Spotify Available on Report content on Spotify 99. טעויות של מתחילים בקלוד קוד (שכנראה עשיתם) AI לומדים Aug 18, 2026 Share 99. טעויות של מתחילים בקלוד קוד (שכנראה עשיתם) בפרק הזה אני עוברת על 11 הטעויות שאני רואה הכי הרבה אצל אנשים שמתחילים עם קלוד קוד. וככל שהפרק מתקדם, הן הולכות ונהיות חמורות יותר. ────────────────────────── רוצים לבנות "סוכנים" שיעבדו במקומכם? לטירונות סוכנים רוצים להתייעץ עם בוגרי הטירונות? לבוגרי הטירונות ────────────────────────── אתם מתחילים שרוצים ללמוד AI בצורה מסודרת? 📚 קורס ׳לומדים AI׳ ────────────────────────── רוצים 7 ימים של טיפים סודיים ל-AI? היכנסו לקישור ושלחו את המילה "הצלחה" 🎯 ────────────────────────── להכניס AI לשגרה 👇🏼 🥇 הכשרות AI לארגונים 📚 קורס ׳לומדים AI׳ 📌 ׳אימפרוב פלוס׳ - מנוי בתשלום ────────────────────────── בסושיאל שלנו אפשר ללמוד עוד המון על AI 🤖 📱 טיקטוק 💖 אינסטגרם 💙 פייסבוק ───────────────────────── היי, אני שלהבת 👋🏼 ב-2022 הקמתי את אִימפּרוּב עם מטרה אחת פשוטה: ללמד אנשים לעבוד עם AI בלי להסתבך. בלי מילים גדולות, בלי תיאוריה מיותרת - רק איך להשתמש בכלים האלה בפועל. בעבודה, בעסק, ביום-יום. ───────────────────────── איך יוצרים קשר? אם יש לך שאלה, הצעה עסקית פשוט לוחצים כאן לווטסאפ , אפשר גם לפנות אלינו דרך האינסטגרם או במייל . [...] ───────────────────────── בפרקים הבאים נמשיך לפרק את הכלים - מה באמת עובד , מה אפשר לשכוח , ואיך להפוך את ה-AI לחלק קבוע מהעבודה שלכם. ───────────────────────── נתראה בפרק הבא, שלהבת Jan 26, 2026 Show more episodes
+
+
+**Original description:**  
+בפרק הזה אני עוברת על 11 הטעויות שאני רואה הכי הרבה אצל אנשים שמתחילים עם קלוד קוד. וככל שהפרק מתקדם, הן הולכות ונהיות חמורות יותר. ────────────────────────── רוצים לבנות "סוכנים" שיעבדו במקומכם? לטירונות סוכנים רוצים להתייעץ עם בוגרי הטירונות? לבוגרי הטירונות ────────────────────────── אתם מתחילים שרוצים ללמוד AI בצורה מסודרת? 📚 קורס ׳לומדים AI׳ ────────────────────────── רוצים 7 ימים של טיפים סודיים ל-AI? היכנסו לקישור ושלחו את המילה "הצלחה" 🎯 ────────────────────────── להכניס AI לשגרה 👇🏼 🥇 הכשרות AI לארגונים 📚 קורס ׳לומדים AI׳ 📌 ׳אימפרוב פלוס׳ - מנוי בתשלום ────────────────────────── בסושיא
+
+
+**Links mentioned:**
+• [טירונות סוכנים — בונים צוות AI שעובד בשבילכם](https://agent-course.aimprove.co.il/?src=p99)
+• [הבוגרים של טירונות סוכנים - מחכים לדבר איתך](https://agent-course.aimprove.co.il/bogrim/?src=p99)
+• [קורס ״לומדים AI״ | אִימפּרוּב](https://shalhevetvardi.github.io/Storyteling/lomdim-ai.html)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fm%2Faimprove.ai%3F__coig_login%3D1
+• [Share on WhatsApp](https://api.whatsapp.com/send/?phone=972515079762&text=%D7%9C%D7%A7%D7%91%D7%99%D7%A2%D7%AA+%D7%A9%D7%99%D7%97%D7%AA+%D7%99%D7%99%D7%A2%D7%95%D7%A5+%D7%A2%D7%9D+%D7%A9%D7%9C%D7%94%D7%91%D7%AA+%D7%91%D7%A0%D7%95%D7%92%D7%A2+%D7%9C%D7%94%D7%93%D7%A8%D7%9B%D7%94+%D7%A4%D7%A8%D7%98%D7%99%D7%AA+%D7%9C%D7%90%D7%A8%D7%92%D7%95%D7%9F&type=phone_number&app_absent=0)
+• [TikTok - Make Your Day](https://www.tiktok.com/@aimprove?lang=en)
+• https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Faimprove.ai%2F&is_from_rle
+• https://www.facebook.com/people/Aimprove-%D7%90%D7%99%D7%9E%D7%A4%D7%A8%D7%95%D7%91-%D7%91%D7%99%D7%A0%D7%94-%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99%D7%AA/100090960200806/
+• [Share on WhatsApp](https://api.whatsapp.com/send/?phone=972515079762&text&type=phone_number&app_absent=0)
+
+---
+
+**Link:**
+https://podcasters.spotify.com/pod/show/-316679/episodes/99-e3nj7bp
+
+*Pipeline:*
+  • Transcript: page_content (14410 words, lang=he) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
