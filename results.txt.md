@@ -8150,3 +8150,39 @@ https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podder
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**רברס עם פלטפורמה** [ רברס עם פלטפורמה ]
+
+**519 - The Agentic Awakening with Liran Eshel**  
+
+[Podcast]
+20/08/2026 00:00 UTC
+20/08/2026 09:30 UTC [Generated]  
+
+---
+
+**Hebrew Summary:**  
+[Extractive summary]
+
+בפרק 519 של רברס עם פלטפורמה, רן ואורי מארחים את לירן אשל (יזם ולשעבר מנכ"ל CTERA) לשיחה מרתקת על העידן החדש של פיתוח תוכנה. לירן משתף בתובנות מתוך הספר שכתב, החוקר כיצד חברות צריכות לבנות את עצמן מחדש בעידן ה-AI-Native, ואיך הופכים מפתחים לסוכנים עצמאיים. הצלילה למחילת הארנב של ה-AI לירן מספר על הרקע שלו כיזם, ואיך אחרי 20 שנה כמנכ"ל שלא נגע בקוד, הוא מצא את עצמו נשאב חזרה לפיתוח בעקבות מהפכת ה-AI. המעבר המהיר מעולם של Assisted engineering (השלמות טאבים) לעולם של Autonomous ו-Agentic engineering. הספר שעליו מבוסס הפרק, ומהווה למעשה מדריך פעולה לארגונים, זמין אונליין בחינם: The Agentic Awakening . המחקר וארגונים שנולדו ל-AI איך נולד הרעיון לספר מתוך שיחות עם אדם פישר, שותף בקרן ההון סיכון Bessemer Venture Partners . ראיונות עם בכירי פיתוח בחברות מובילות (כמו Lemonade, Ramp, DriveNets) וזיהוי דפוסים חוזרים באופן שבו הן מטמיעות כלי AI. מטאפורת ה"התעוררות" התאולוגית: אי אפשר באמת להבין את האירוע עד שחווים אותו בידיים (או במרתף עם הקוד). תעלומת הפרודוקטיביות: למה הארגון לא עף קדימה? הדילמה הגדולה של הנהלות היום: אם המפתח הבודד פרודוקטיבי פי 10, למה תפוקת החברה לא עולה אפילו פי 1.5? אנלוגיית הפרארי ברמזורים: יש לנו כלי רכב מטורף ומהיר (AI), אבל אנחנו מסיעים אותו ברחוב עירוני עם רמזור כל 200 מטר. הרמזורים הם למעשה מתודולוגיות הפיתוח הישנות (Design reviews, Architecture reviews, Handoffs). תהליכים שנבנו מתוך הנחה שכתיבת קוד היא הדבר הכי יקר ואיטי, ולכן חובה לתכנן הכל מראש מול ועדות. [...] המשמעות היא שצוות של שני מתכנתי-על יכול למחוץ כיום ארגון פיתוח איטי בן 50 עובדים שעדיין לא עשה את הטרנזקציה. הקצב משתנה, ומי שמתמהמה מסתכן בהישארות מאחור.
+
+
+**Original description:**  
+בפרק 519 של רברס עם פלטפורמה, רן ואורי מארחים את לירן אשל (יזם ולשעבר מנכ"ל CTERA) לשיחה מרתקת על העידן החדש של פיתוח תוכנה. לירן משתף בתובנות מתוך הספר שכתב, החוקר כיצד חברות צריכות לבנות את עצמן מחדש בעידן ה-AI-Native, ואיך הופכים מפתחים לסוכנים עצמאיים. [00:30] הצלילה למחילת הארנב של ה-AI לירן מספר על הרקע שלו כיזם, ואיך אחרי 20 שנה כמנכ"ל שלא נגע בקוד, הוא מצא את עצמו נשאב חזרה לפיתוח בעקבות מהפכת ה-AI. המעבר המהיר מעולם של Assisted engineering (השלמות טאבים) לעולם של Autonomous ו-Agentic engineering. הספר שעליו מבוסס הפרק, ומהווה למעשה מדריך פעולה לארגונים, זמין אונליין בחינם: The Agentic
+
+
+**Links mentioned:**
+• [The Agentic Awakening · An AI-Native Engineering Playbook](https://theagenticawakening.com/)
+• [Home - Bessemer Venture Partners](https://www.bvp.com/)
+
+---
+
+**Link:**
+https://www.reversim.com/2026/08/2026-08-519-agentic-awakening.html
+
+*Pipeline:*
+  • Transcript: description (706 words, lang=he) — No audio download — summary based on show notes / description only
+  • Tried and failed: pdf_show_notes, rss_tag, page_content
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
