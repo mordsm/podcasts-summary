@@ -8186,3 +8186,39 @@ https://www.reversim.com/2026/08/2026-08-519-agentic-awakening.html
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**Gardening with the RHS** [ Royal Horticultural Society ]
+
+**Seed collecting, apple pruning, and wildflowers**  
+
+[Podcast]
+20/08/2026 11:00 UTC
+20/08/2026 11:32 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+This summer, discover local RHS partner gardens each with their own story to tell. From award-winning rose gardens to world-famous landscapes steeped in history, there are 240 to explore. Browse the Partner Garden map at rhs.org.uk to find gardens to visit near you. And if you're an RHS member, enjoy free entry to all partner gardens at selected times for inspiring days out all year round. For joint members, free entry is for the main member only. Please refer to our website for details. Lots of us will notice that leaves are turning reds and oranges and yellows and actually falling off the trees quite often. Berries are ripening early and it's actually something called the false autumn. This is basically just because of the stress of the long hot summer. Because of this, plants are also going seed sooner. Seed collecting is an absolutely great thing to do. It just feels like one of those joyful moments of the year. It's great for your garden. [...] For joint members, free entry is for the main member only. Please refer to our website for details.
+
+
+**Original description:**  
+Even though it's still August, the signs of autumn are starting to show. False autumn is a survival-driven stress response where trees shed leaves and change colour prematurely due to extreme heat and drought, and you may find yourself doing the autumn jobs a little early this year.&nbsp; We dive headlong into seed collecting with RHS horticulturist Lucie Rudnicka, plus find out how best to prune your trained apple and pear trees with RHS Garden Wisley’s fruit tree expert Jim Arbury. And finally, we relish in the joy of wildflowers with our very own Gareth Richards, as today sees the publicati
+
+
+**Links mentioned:**
+• [Seed: collecting and storing | RHS Advice](https://www.rhs.org.uk/propagation/seed-collecting-storing)
+• [Apples and pears: summer pruning | RHS Advice](https://www.rhs.org.uk/fruit/apples/summer-pruning)
+
+---
+
+**Link:**
+https://traffic.megaphone.fm/PIXP7441804922.mp3
+
+*Pipeline:*
+  • Transcript: whisper (5659 words, lang=en) — Full audio file transcribed (Whisper)
+  • Tried and failed: pdf_show_notes, rss_tag, page_content, description
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
