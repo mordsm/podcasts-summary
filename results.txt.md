@@ -8100,3 +8100,53 @@ https://www.reversim.com/2026/08/2026-08-518-carburetor42.html
   • Summary: extractive (15 sentences, model unavailable: RuntimeError)
   • תרגום: — (לא בוצע)
 
+----
+**The Diary of a CEO** [ FlightStory ]
+
+**Financial Crash Expert: He Predicted The 2008 Crash, Now He Says Capitalism Failed, It’s Too Late!**  
+
+[Podcast]
+20/08/2026 05:00 UTC
+20/08/2026 05:27 UTC [Generated]  
+
+---
+
+**English Summary:**  
+[Extractive summary]
+
+{"text":" Our political class has lost control. The right is getting more right than ever. And any time you have a combination of economic problems and social and stability and cultural problems, you put all those things together, it's not a good time. It's a time when conflict, violence, civil unrest, all of these things are much more likely. Civil unrest is absolutely guaranteed. And what you are now seeing is, I fear, the beginnings of a totally new level of separation between people. We are on the road to civil unrest and violence. But I'm glad we're having this conversation because these are difficult things to talk about. And that's why China is outperforming the rest of the world. There are so many freedoms you don't get in America that you do get in China. Would you prefer a Chinese system? If you were to America? What about political freedom, freedom of the individual, freedom of speech? [...] will have to deal with this reality.\n\n757\n .400 --> .541\nSo I think it's been a catastrophic mistake.\n\n758\n .722 --> .744\nAnd do you think Iran is actually going to be stronger on the other side of this?\n\n759\n .126 --> .606\nNobody knows exactly.\n\n760\n .746 --> .648\nThey're definitely stronger now than they were.\n\n761\n .048 --> .532\nBut look, all of this is very unpredictable.\n\n762\n .552 --> .494\nI think we should be very careful about it.\n\n763\n .114 --> .536\n making predictions about the future of countries that we understand very little in the West from the outside.\n\n764\n .556 --> .197\nThis is very difficult for anyone outside of Iran today to understand what's happening in Iran.\n\n765\n .297 --> .521\nThe example I like to give is Nicolas Ceausescu, the Romanian dictator.\n\n766\n .541 --> .802\nHe had a 92% approval rating the day before he was seized with his wife and summarily executed.\n\n767\n .242 --> .503\n The predictability of how long a regime survives in these countries is difficult to judge from the outside.\n\n768\n .985 --> .925\nCurrently, Iran has a chokehold on the global economy, and they're leveraging it very powerfully.\n\n769\n .826 --> .106\nYou predicted a famine, Steve.\n\n770\n .646 --> .887\nYeah, I think it's still going to happen.\n\n771\n .206 --> .907\nBut the thing is, again, it's a question of what the stocks are.\n\n772\n .927 --> .528\nLike, for example, we know this story about the US strategic oil reserve.\n\n773\n .989 --> .050\nWe also know that China had a huge reserve, and they've run that reserve down.\n\n774\n .530 --> .932\n from about one and a half years of supply of oil for them to, I don't know what amount, but they're going back in the opposite direction now.\n\n775\n .393 --> .577\nSo we didn't need to know what the stocks of all these products were around the globe beforehand.\n\n776\n .137 --> .579\nSo when you make an estimate, yes, there's going to be a running out of oil.\n\n777\n .938 --> .541\nWell, China reduced its oil consumption.\n\n778\n .880 --> .181\nAmerica's running its stock down.\n\n779\n .481 --> .864\nAt some point though, because the flow is still blocked through this straight,\n\n780\n .103 --> .786\n then there won't be the oil, there won't be the fertilizer, there won't be the sulfuric acid.\n\n781\n .806 --> .731\nAll these things will not be available, and then we'll have a physical hit coming out of all that.\n\n782\n .012 --> .253\nAnd I completely agree.\n\n783\n .532 --> .516\nTrump was sold a pup, it's the old expression, and we're paying the price.\n\n784\n .217 --> .818\n Is there any way out of this in your view, Steve?\n\n785\n .257 --> .298\nI think America has to leave the Middle East.\n\n786\n .798 --> .699\nThat's about the only long-term resolution.\n\n787\n .280 --> .501\nAmerica stops interfering in the Middle East.\n\n788\n .601 --> .702\nIf they were to leave now, the issue that they face is they've now given Iran.\n\n789\n .902 --> .487\nThey've sort of established a precedence where Iran can use the Strait of Hormuz, which is like a proxy for the global economy, as a bargaining chip.\n\n790\n .847 --> .889\nAnd so if you're Iran, you now can proceed potentially with your nuclear program.\n\n791\n .628 --> .309\n And if they come back, you shut down the global economy via the Strait of Hormuz.\n\n792\n .710 --> .130\nYeah.\n\n793\n .170 --> .469\nOr you sort of kneecap it.\n\n794\n .510 --> .110\nWhich is why it was a catastrophically bad decision to provoke them in the first place.\n\n795\n .130 --> .413\nThe thing that no one really talks about, and it's an issue close to my heart with the Ukrainian family and the conflict there is something that's very important to me.\n\n796\n .932 --> .054\nOne of the hopes I had for the Trump presidency was that he would find a way to bring that conflict to a close.\n\n797\n .634 --> .594\nThis has only made things better for Russia.\n\n798\n .054 --> .597\n The fact that they've had to lift sanctions on Russian oil, for example, in order to c
+
+
+**Original description:**  
+Is the West collapsing, or is the planet? Political commentator Konstantin Kisin and rebel economist Steve Keen go head-to-head on the biggest questions facing the West: immigration, the debt crisis, climate change, Trump, China and the future of AI. Konstantin Kisin is a satirist, social commentator and author, best known as the co-host of the Triggernometry podcast and the author of ‘An Immigrant’s Love Letter to the West’. Born in the Soviet Union and now based in Britain, he has become one of the most prominent voices on free speech, culture and the rise of populism. Steve Keen is an econo
+
+
+**Links mentioned:**
+• [https://link.thediaryofaceo.com/7KlmjlK](https://link.thediaryofaceo.com/7KlmjlK)
+• [https://link.thediaryofaceo.com/8RYFKgr](https://link.thediaryofaceo.com/8RYFKgr)
+• [https://link.thediaryofaceo.com/97WXGH2](https://link.thediaryofaceo.com/97WXGH2)
+• [https://link.thediaryofaceo.com/3HXCj1o](https://link.thediaryofaceo.com/3HXCj1o)
+• [https://link.thediaryofaceo.com/nYvGJg](https://link.thediaryofaceo.com/nYvGJg)
+• [https://link.thediaryofaceo.com/C3jTPoD](https://link.thediaryofaceo.com/C3jTPoD)
+• [Amazon.com](https://www.amazon.com/dp/1848139926)
+• [https://link.thediaryofaceo.com/CaG0mQJ](https://link.thediaryofaceo.com/CaG0mQJ)
+• [DOAC Circle – Join the Inner Circle of The Diary of a CEO](https://doaccircle.com/)
+• [https://link.thediaryofaceo.com/BWjLTZK](https://link.thediaryofaceo.com/BWjLTZK)
+• [The 1% Diary](https://thediary.com/products/one-percent-diary)
+• [The Conversation Cards: 2nd Edition](https://thediary.com/products/the-conversation-cards-2nd-edition)
+• [https://link.thediaryofaceo.com/5IB1H6E](https://link.thediaryofaceo.com/5IB1H6E)
+• [https://link.thediaryofaceo.com/AGU9QP4](https://link.thediaryofaceo.com/AGU9QP4)
+• https://boncharge.com/pages/doac?bchref=doac
+• https://ketone.com/pages/steven-bartlett?utm_source=partners&utm_medium=referral&utm_campaign=STEVEN
+
+---
+
+**Link:**
+https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M011YXPMDDJ8TWA1RB7X36R7.mp3?fcv=zvf5r7i63yvx7ohhgxyiv4jz
+
+*Pipeline:*
+  • Transcript: rss_tag (56873 words, lang=auto) — No audio download — transcript from RSS feed
+  • Tried and failed: pdf_show_notes
+  • Summary: extractive (15 sentences, model unavailable: RuntimeError)
+  • תרגום: — (לא בוצע)
+
