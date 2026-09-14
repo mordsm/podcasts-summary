@@ -1,0 +1,57 @@
+Feed: Creative Channel
+Episode: I Turned a $5 USB-C Charger Into an Adjustable Bench Power Supply 100W ESP32-C3 5–20V
+Method: description
+Language: en
+Words: 213
+URL: https://www.youtube.com/watch?v=zVwirXaxa08
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+In this video, I build a compact 100W USB-C PD bench power supply powered by an ESP32-C3 SuperMini.
+
+The supply cycles through five output voltage levels: 5V, 9V, 12V, 15V, and 20V, all controlled with a single push button.
+
+An INA226 measures the output voltage, current, and power in real time, while a 0.96-inch SSD1306 OLED display shows the readings. I also added Wi-Fi, so the voltage, current, and power can be monitored from a phone, and the output voltage can be changed directly from the web interface.
+
+I replaced the INA226 shunt resistor from R100 0.1Ω to R010 0.01Ω, increasing the current measurement range from about 0.8A to around 8A, which is more than enough for this 100W power supply.
+
+All of the electronics are mounted on perfboard and installed inside a custom enclosure that I designed and 3D printed. Two 5V cooling fans provide airflow through the enclosure.
+
+🌐 Firmware, wiring diagrams and parts list:
+https://ai.kenhsangtao.com/pd/
+
+🖨️ Free 3D enclosure files on MakerWorld:
+https://makerworld.com/en/models/3305787-usb-c-pd-bench-supply-one-button-voltage-control#profileId-3752365
+
+Main components:
+
+ESP32-C3 SuperMini:
+https://s.shopee.vn/BTna5af4x
+
+USB-C PD/QC trigger board:
+https://s.shopee.vn/3LQpM4ye49
+
+INA226 current monitor:
+https://s.shopee.vn/50Z3L1PzD0
+
+0.96" SSD1306 OLED:
+https://s.shopee.vn/2gB8YuLpfy
+
+5V power module:
+https://s.shopee.vn/9fKstVSiyV
+
+
+#CreativeChannel #USBCPD #BenchPowerSupply #ESP32C3 #DIYElectronics #PowerSupply #INA226 #USBC #OLED #3DPrinting
+
+2N7000 MOSFET:
+https://s.shopee.vn/1LfkyG1zNA
+
+Resistor kit:
+https://s.shopee.vn/7AdEXHpFA7
+
+5V active buzzer:
+https://s.shopee.vn/LmuOnnST8
+
+32mm 5V cooling fans:
+https://s.shopee.vn/7ptEhONDEC
