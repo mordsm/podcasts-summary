@@ -1,0 +1,11 @@
+Feed: Agents of Dev
+Episode: Beyond AGI Hype: Demystifying AI Harnesses, Context Economics, and Agentic Workflows | Agents of Dev Episode 39
+Method: description
+Language: en
+Words: 134
+URL: https://agentsofdev.podbean.com/e/beyond-agi-hype-demystifying-ai-harnesses-context-economics-and-agentic-workflows-agents-of-dev-episode-39/
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+Email your questions and topics to the podcast here . Is the fear of world-ending AGI a genuine existential threat, or just aggressive marketing designed to protect a massive AI investment bubble? In this episode of Agents of Dev , Mitch Ashley and Brad Shimmin cut through the industry noise to examine how software development is actually evolving on the ground. They unpack key market moves from Cloudera’s partnership with Mistral to Atlassian’s agentic workflow ecosystem, before diving into a technical breakdown of developer harnesses like Pi and Maki. From managing token economics and context bloat to tackling AI’s "Memento-like" short-term memory struggles, Mitch and Brad share practical insights on how developers can maintain control over their AI toolchains. This and more on Agents of Dev , part of The Futurum Podcast Network .
