@@ -1,0 +1,36 @@
+Feed: Creative Channel
+Episode: What Can a Thermal Camera See in Total Darkness? Thermal Master THOR002 Real-World Test
+Method: description
+Language: en
+Words: 222
+URL: https://www.youtube.com/watch?v=Wfjkj8XXvGk
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+Today I'm testing the Thermal Master THOR002 handheld thermal camera in real-world situations.
+
+Instead of only testing electronics, I also took the THOR002 outside at night to see what a thermal camera can actually detect in complete darkness.
+
+In this video I test:
+- Finding birds and mice in the garden at night
+- Detecting heat signatures in complete darkness
+- Inspecting heat distribution around a refrigerator
+- Finding hot-water pipes hidden inside a wall
+- Checking PCBs, power supplies and electronic components
+- Testing thermal viewing modes and color palettes
+- Finding hot spots, cold spots and temperature differences
+
+One of the most interesting things about a thermal camera is that it does not rely on visible light like a normal camera. It detects differences in thermal radiation, allowing us to see warm objects, animals, pipes and equipment even in darkness.
+
+The Thermal Master THOR002 features a 256×192 thermal sensor, image enhancement up to 512×384, a 25Hz thermal frame rate and a measurement range from -20°C to 550°C.
+
+Thermal Master provided the THOR002 for me to test. They did not pay for this video, and all opinions are based on my actual experience with the product.
+
+Thermal Master THOR002
+https://thermalmaster.com/products/thermal-master-thors-12-edges-expert-thermal-camera
+
+Thanks for watching!
+Please Like, Subscribe and share if you enjoyed the video.
+
+#ThermalMaster #THOR002 #ThermalCamera #ThermalImaging #InfraredCamera #Electronics #DIY #PCB
