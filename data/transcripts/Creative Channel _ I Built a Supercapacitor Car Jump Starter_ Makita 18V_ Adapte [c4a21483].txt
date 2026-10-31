@@ -1,0 +1,78 @@
+Feed: Creative Channel
+Episode: I Built a Supercapacitor Car Jump Starter| Makita 18V, Adapter or 4S LiPo
+Method: description
+Language: en
+Words: 470
+URL: https://www.youtube.com/watch?v=Qf56zBRZO5I
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+DIY Supercapacitor Car Jump Starter with a Custom 3D-Printed Case
+
+In this video, I build a complete supercapacitor jump starter to help start a car when its 12V battery is too weak to crank the engine.
+
+I test the jump starter on a Toyota Hilux with a 2.8L diesel engine and a depleted battery.
+
+I designed and 3D-printed the enclosure, assembled the charging and switching circuits, and added two cable sets with alligator clips.
+
+PARTS AND SPECIFICATIONS
+
+• 6 × 2.5V 2300F supercapacitors
+Connected in series to form the energy-storage bank.
+
+• 300W 20A adjustable DC-DC CC/CV buck converter module
+Input: 6–40V DC.
+Configured for 12V charging with a 6A current limit.
+The 300W/20A figures are the module’s advertised ratings; actual operation depends on input power and cooling.
+
+• MOSFET electronic switch module
+Board marking: 10–80V, 280A.
+Installed in series with the negative input wire and activated through its positive trigger terminal. The printed current rating is not a measured rating for this build.
+
+• 12mm metal self-locking pushbutton with an LED ring
+Controls the MOSFET trigger. The switched positive output also powers the button’s LED.
+
+• Five-wire DC digital voltage/current panel meter
+Red display for voltage and blue display for current.
+Used to monitor the supercapacitor voltage and charging current.
+
+• Makita 18V 5.0Ah lithium-ion battery
+One of the charging power sources, mounted on the front of the enclosure.
+
+• 24V 10A DC power adapter
+An alternative charging power source.
+
+• 4S LiPo battery
+Another charging option: 14.8V nominal, 16.8V fully charged.
+
+• Custom 3D-printed enclosure
+Includes a removable lid, carrying handle, ventilation openings, panel-meter mount and Makita battery mounting interface.
+
+• Positive and negative bolted power terminals
+Mounted on the lid and clearly marked + and −.
+
+• 2 cable sets with alligator clips
+Including the heavy copper jump-start leads shown in the video.
+
+• Additional assembly materials
+Power wires, control wires, connectors, cable lugs, heat-shrink tubing, screws and nuts.
+
+HOW THE CONTROL CIRCUIT WORKS
+
+The 12mm latching switch sends positive voltage to the MOSFET trigger. The MOSFET switches the negative supply to the charging circuit.
+
+The LED positive terminal shares the switched positive output, while LED negative connects to source negative before the MOSFET.
+
+The CC/CV converter charges the supercapacitor bank at a 12V voltage setting, with charging current limited to 6A. Actual current depends on the source and operating conditions.
+
+Use only one charging source at a time: the Makita battery, the DC adapter or the 4S LiPo battery.
+
+3D PRINT FILES
+https://makerworld.com/en/models/3523974-supercapacitor-jump-starter#profileId-4028467
+
+Supercapacitors can deliver extremely high current. Check polarity, insulate exposed connections and avoid short circuits. Match the pushbutton LED voltage rating to the selected source, and follow the vehicle manufacturer’s jump-starting instructions.
+
+Subscribe for more DIY electronics, 3D printing and practical homemade tools!
+
+#Supercapacitor #JumpStarter #DIY #CarJumpStarter #3DPrinting #Electronics #Makita #MOSFET #DIYElectronics #HomemadeTools
