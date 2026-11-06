@@ -1,0 +1,32 @@
+Feed: Creative Channel
+Episode: Reviving My 2018 PC With a Custom 3D-Printed Open Frame Case!
+Method: description
+Language: en
+Words: 148
+URL: https://www.youtube.com/watch?v=CbVEY78ABJc
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+Hey everyone! Today, I'm bringing my old 2018 PC back to life after years in storage!
+
+Instead of throwing it away, I'm reusing the original components, installing a new power supply and a 240mm AIO liquid cooler, and giving it a completely new look with a 3D-printed Open Frame PC Case!
+
+**PC Specifications:**
+- CPU: Intel Core i7-8700
+- Motherboard: Gigabyte Z390 UD
+- RAM: 32GB DDR4
+- GPU: MSI GTX 1050 Ti Gaming X 4GB
+- PSU: VSP MEGAMAX 650W
+- AIO Cooler: Antec Omni Matrix 240 ARGB
+- Case: 3D-Printed Open Frame
+
+Let's see how this old PC transforms into something new!
+
+3D file : https://makerworld.com/vi/models/2150464-open-frame-pc-case#profileId-2359744
+
+I downloaded the original 3D model from MakerWorld and modified several parts to fit my hardware. I also redesigned the radiator mounting brackets to accommodate the 240mm AIO cooler.
+
+Thanks for watching!
+
+#OpenFramePC #3DPrinting #DIYPC #PCBuild #OldPCRestoration #CustomPCCase #PCMakeover #CreativeChannel
