@@ -1,0 +1,39 @@
+Feed: Creative Channel
+Episode: I Converted My Bicycle Into an E-Bike ! 250W E-Kit | 35 km/h Test
+Method: description
+Language: en
+Words: 217
+URL: https://www.youtube.com/watch?v=F7rbcGQytgM
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+In today's video, I'm converting my regular bicycle into an electric bike using the Ponyzo 250W E-Bike Conversion Kit!
+
+This compact conversion kit allows me to upgrade my traditional bicycle into an electric bike while keeping most of its original appearance.
+
+⚡ **My E-Bike Setup:**
+- Ponyzo E-Kit Conversion System
+- 250W Hub Motor
+- 36V 5Ah Lithium Battery
+- Integrated Motor Controller
+- Thumb Throttle
+- Pedal Assist Sensor (PAS)
+- KT-TF04 Display
+
+🚴 **Real-World Test Results:**
+- Top speed: Approximately 35 km/h (22 mph)
+- Throttle-only range: Around 10–12 km (6–7.5 miles)
+- Range with pedal assist: Around 20–25 km (12–15.5 miles)
+
+The Ponyzo E-Kit is available for several wheel sizes, including 20", 24", 26", 27.5", and 700C/29".
+
+According to the product specifications, the system automatically detects compatible 18V or 36V battery configurations and supports speeds of approximately 25–35 km/h.
+
+The kit includes a 250W hub motor, integrated controller, throttle, pedal assist sensor, display, 1T2 splitter cable, and motor extension cable.
+
+It's a fun DIY project that gives an old bicycle a whole new purpose without buying a completely new electric bike!
+
+Thanks for watching! If you enjoy DIY projects, electric vehicles, electronics, and creative upgrades, don't forget to like, share, and subscribe to Creative Channel for more projects!
+
+#EBikeConversion #ElectricBike #Ponyzo #DIYEbike #250WHubMotor #CreativeChannel
