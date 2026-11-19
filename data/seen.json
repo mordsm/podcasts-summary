@@ -1,7 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "yt:video:uNdlqEqxUVw": "2026-08-07T07:23:57.914113+00:00",
     "yt:video:87DyyMV0kCY": "2026-08-07T07:24:05.745709+00:00",
     "yt:video:fPWyXesqdS0": "2026-08-07T07:24:16.229996+00:00",
     "yt:video:PDuWB8VxmH4": "2026-08-07T07:24:28.124878+00:00",
@@ -1000,7 +999,8 @@
     "799a3ded-68b8-4f99-b411-b50600aa0c83": "2026-11-18T21:10:34.424772+00:00",
     "9a6f7306-e268-4c57-b7ad-6c56a258ca5f": "2026-11-19T02:28:49.830841+00:00",
     "flightcast:01M719PD9WR55Y9X87NSQTFMXH": "2026-11-19T10:46:45.240632+00:00",
-    "https://api.spreaker.com/episode/76430285": "2026-11-19T11:37:58.754534+00:00"
+    "https://api.spreaker.com/episode/76430285": "2026-11-19T11:37:58.754534+00:00",
+    "https://www.reversim.com/2026/11/2026-11-523-opensearch-with-dotan-from-aws.html": "2026-11-19T12:04:59.462768+00:00"
   },
   "pending": {}
 }
