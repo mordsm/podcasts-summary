@@ -1,0 +1,19 @@
+Feed: Creative Channel
+Episode: Precision Metal Machining at Home With a Compact CNC | Makera Z1 Pro
+Method: description
+Language: en
+Words: 54
+URL: https://www.youtube.com/watch?v=Hz5lGhkSKg4
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+Precision metal machining at home with the compact Makera Z1 Pro CNC!
+
+In this video, I machine a solid block of 6061 aluminum through multiple operations, including two-sided milling, 3D milling, drilling, thread milling, chamfering, surface finishing, and engraving text and a barcode.
+
+Makera Z1 / Z1 Pro:
+https://makera.com/products/makera-z1-desktop-cnc
+
+
+#MakeraZ1Pro #Makera #CNCMachining #AluminumMachining #DesktopCNC
