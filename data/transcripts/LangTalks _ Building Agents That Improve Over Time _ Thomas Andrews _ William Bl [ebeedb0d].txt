@@ -1,0 +1,22 @@
+Feed: LangTalks
+Episode: Building Agents That Improve Over Time | Thomas Andrews & William Blomqvist (LangChain)
+Method: description
+Language: en
+Words: 79
+URL: https://www.youtube.com/watch?v=rCMlOB6HAAs
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+Talk: Building Agents That Improve Over Time
+
+The journey of building one of the core agents LangChain uses internally: the steps taken to improve it, what broke, what the team learned, and how they automated the self-improvement loop so the agent keeps getting better over time.
+
+Speakers: Thomas Andrews & William Blomqvist - Deployed Engineers, LangChain
+Thomas Andrews: https://www.linkedin.com/in/thomas-andrews-750b241b3/
+William Blomqvist: https://www.linkedin.com/in/william-blomqvist-b7134880/
+
+LangTalks Self-Improving Agents (Software Factory & Self-Improving Agents)
+AWS Experience at Floor28 - November 12, 2026
+
+https://langtalks.ai

@@ -1,0 +1,28 @@
+Feed: LangTalks
+Episode: Panel: How Do You Know Your Agent Is Actually Improving Over Time? | Gong, LangChain & LangTalks
+Method: description
+Language: en
+Words: 92
+URL: https://www.youtube.com/watch?v=EwBQ_7Zbqn4
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+Panel and Q&A: How Do You Know Your Agent Is Actually Improving Over Time?
+
+A panel on knowing whether your agent is actually improving over time: evaluating customer-facing agents, mining production traces for the real problems, collecting ground truth, and turning failures into evals - plus questions from the room.
+
+Panelists:
+Yael Navon - Prompt Engineer, Gong
+https://www.linkedin.com/in/yael-navon-b43353187/
+Thomas Andrews - Deployed Engineer, LangChain
+https://www.linkedin.com/in/thomas-andrews-750b241b3/
+Gal Peretz - LangTalks
+https://www.linkedin.com/in/gal-peretz/
+Lee Twito - LangTalks
+https://www.linkedin.com/in/lee-twito/
+
+LangTalks Self-Improving Agents (Software Factory & Self-Improving Agents)
+AWS Experience at Floor28 - November 12, 2026
+
+https://langtalks.ai

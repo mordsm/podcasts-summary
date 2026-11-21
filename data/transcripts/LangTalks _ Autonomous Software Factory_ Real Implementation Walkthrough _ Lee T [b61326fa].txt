@@ -1,0 +1,22 @@
+Feed: LangTalks
+Episode: Autonomous Software Factory: Real Implementation Walkthrough | Lee Twito & Gal Peretz (LangTalks)
+Method: description
+Language: en
+Words: 74
+URL: https://www.youtube.com/watch?v=B419mXu7sCo
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+Talk: Building Autonomous Software Factory: Real Implementation Walkthrough
+
+A real implementation walkthrough of an autonomous software factory: how the agents are structured, how work flows from planning through building and review, and what it took to get it running on real engineering work.
+
+Speakers: Lee Twito & Gal Peretz - LangTalks
+Lee Twito: https://www.linkedin.com/in/lee-twito/
+Gal Peretz: https://www.linkedin.com/in/gal-peretz/
+
+LangTalks Self-Improving Agents (Software Factory & Self-Improving Agents)
+AWS Experience at Floor28 - November 12, 2026
+
+https://langtalks.ai

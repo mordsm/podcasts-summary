@@ -1,0 +1,21 @@
+Feed: LangTalks
+Episode: AI Software Factories: Why, Anatomy, and How to Architect Your Own | Gili Nachum (AWS)
+Method: description
+Language: en
+Words: 74
+URL: https://www.youtube.com/watch?v=cGWF9wo44dg
+
+--- TRANSCRIPT ---
+
+[SHOW NOTES]
+Talk: AI Software Factories: Why, Anatomy, and How to Architect Your Own
+
+Why AI software factories, what they are made of, and how to architect your own: the anatomy of a system where agents own the development process from planning and code to testing and verification.
+
+Speaker: Gili Nachum - Principal AI Solutions Architect, AWS
+LinkedIn: https://www.linkedin.com/in/gilinachum/
+
+LangTalks Self-Improving Agents (Software Factory & Self-Improving Agents)
+AWS Experience at Floor28 - November 12, 2026
+
+https://langtalks.ai
